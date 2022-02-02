@@ -36,6 +36,16 @@ function normalizeData(reducedData: Map<String, number[]>) {
     return normalizedData
 }
 
+export function treatData<T>(originalField: T, dataToReduce: DataToReduce<any>[]) {
+    const reducedData = reduceData(
+        dataToReduce,
+        "Entity",
+        originalField
+    )
+
+    return normalizeData(reducedData)
+}
+
 export function treatEnvironmentData(pm25AirPollution: PM25AirPollution[], deathRatesFromAmbientPollution: DeathRatesFromAmbientPollution[]): Map<String, number[]> {
     const pm25Reduction: DataToReduce<PM25AirPollution> = {
         data: pm25AirPollution,
@@ -51,14 +61,7 @@ export function treatEnvironmentData(pm25AirPollution: PM25AirPollution[], death
         "Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate)": 0,
         "PM2": 0
     } as EnvironmentPCA
-
-    const reducedData = reduceData(
-        [pm25Reduction, deathRatesFromAmbientPollutionReduction],
-        "Entity",
-        environmentPCA
-    )
-
-    return normalizeData(reducedData)
+    return treatData(environmentPCA, [pm25Reduction, deathRatesFromAmbientPollutionReduction]);
 }
 
 function reduceData<T>(dataToReduce: DataToReduce<any>[], fieldToGroupBy: string, originalField: T): Map<String, number[]> {
