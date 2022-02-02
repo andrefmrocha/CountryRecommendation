@@ -16,8 +16,8 @@ async function test() {
     const deathRatesFromAmbientPollutionData = await openJson<DeathRatesFromAmbientPollution>("death-rates-from-ambient-particulate-air-pollution.json")
     if (pm25DataRaw && deathRatesFromAmbientPollutionData) {
         const pm25Data: PM25AirPollution[] = getPm25DataTreated(pm25DataRaw)
-        const dataNormalized = treatEnvironmentData(pm25Data, deathRatesFromAmbientPollutionData)
-        const pcaMatrix = executePCA(dataNormalized)
+        const reducedData = treatEnvironmentData(pm25Data, deathRatesFromAmbientPollutionData)
+        const pcaMatrix = executePCA(reducedData)
         console.log(pcaMatrix)
     }
 }

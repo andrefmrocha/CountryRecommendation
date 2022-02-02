@@ -11,24 +11,22 @@ interface DataToReduce<T> {
     fields: string[]
 }
 
-function normalizeData(reducedData: Map<String, number[]>) {
+function normalizePCAData(reducedData: Map<String, number>) {
     const values = Array.from(reducedData.values());
-    const length = values[0].length
-    const maxValue: number[] = Array(length)
+    let maxValue: number = Number.MIN_VALUE
 
-    values.forEach((rows) =>
-        rows.forEach((item, index) => {
-            if (!maxValue[index] || item > maxValue[index]) {
-                maxValue[index] = item
+    values.forEach((item) => {
+            if (item > maxValue) {
+                maxValue = item
             }
-        })
+        }
     )
 
-    const normalizedValue = values.map((rows) =>
-        rows.map((item, index) => item / maxValue[index])
+    const normalizedValue = values.map((item) =>
+        item / maxValue
     )
 
-    const normalizedData: Map<String, number[]> = new Map<String, number[]>()
+    const normalizedData: Map<String, number> = new Map<String, number>()
     Array.from(reducedData.keys()).forEach((key, index) => {
         normalizedData.set(key, normalizedValue[index])
     })
@@ -37,13 +35,11 @@ function normalizeData(reducedData: Map<String, number[]>) {
 }
 
 export function treatData<T>(originalField: T, dataToReduce: DataToReduce<any>[]) {
-    const reducedData = reduceData(
+    return reduceData(
         dataToReduce,
         "Entity",
         originalField
     )
-
-    return normalizeData(reducedData)
 }
 
 export function treatEnvironmentData(pm25AirPollution: PM25AirPollution[], deathRatesFromAmbientPollution: DeathRatesFromAmbientPollution[]): Map<String, number[]> {
@@ -92,16 +88,16 @@ function reduceData<T>(dataToReduce: DataToReduce<any>[], fieldToGroupBy: string
     return reducedData
 }
 
-export function executePCA(normalizedData: Map<String, number[]>): Map<String, number> {
-    const pca = new PCA(Array.from(normalizedData.values()))
+export function executePCA(reducedData: Map<String, number[]>): Map<String, number> {
+    const pca = new PCA(Array.from(reducedData.values()))
     const variance = pca.getExplainedVariance()
 
     const pcaMatrix = new Map<String, number>()
 
-    Array.from(normalizedData.entries()).forEach(([key, value]) => {
+    Array.from(reducedData.entries()).forEach(([key, value]) => {
         const pcaValue = value.map((item, index) => item * variance[index])
             .reduce((acc, item) => acc + item)
         pcaMatrix.set(key, pcaValue)
     })
-    return pcaMatrix
+    return normalizePCAData(pcaMatrix)
 }
