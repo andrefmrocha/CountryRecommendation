@@ -1,0 +1,974 @@
+[
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "23.6"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2005",
+		"Share of population covered by health insurance (ILO (2014))": "85.2"
+	},
+	{
+		"Entity": "American Samoa",
+		"Code": "ASM",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "3"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "0"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "51.1"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "96.8"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Aruba",
+		"Code": "ABW",
+		"Year": "2003",
+		"Share of population covered by health insurance (ILO (2014))": "99.2"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "99.3"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "2.9"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "1995",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2003",
+		"Share of population covered by health insurance (ILO (2014))": "1.4"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "1995",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "99"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "25"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "9"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "90"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "42.7"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2004",
+		"Share of population covered by health insurance (ILO (2014))": "59.2"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "87"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "1"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "28.4"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "26.1"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "2"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "6"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "93.1"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "96.9"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "87.7"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "1.2"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "97"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "65"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "10"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "30"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "13.4"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "26.5"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "22.8"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "51.1"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "21.6"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "92.9"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "6.2"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "99.9"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "57.6"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "99.9"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "25"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "73.9"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "7.4"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2005",
+		"Share of population covered by health insurance (ILO (2014))": "30"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "0.2"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "1.6"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "23.8"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2001",
+		"Share of population covered by health insurance (ILO (2014))": "3.1"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "12"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "12.5"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "59"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2005",
+		"Share of population covered by health insurance (ILO (2014))": "90"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "20.1"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "75"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2001",
+		"Share of population covered by health insurance (ILO (2014))": "70"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "39.4"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2001",
+		"Share of population covered by health insurance (ILO (2014))": "83"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "11.6"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2005",
+		"Share of population covered by health insurance (ILO (2014))": "70"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "48.3"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "17.6"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "95"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "95"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "97.6"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "3.7"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "30"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "1.9"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "6"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "85.6"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2004",
+		"Share of population covered by health insurance (ILO (2014))": "75.7"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "81.9"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2004",
+		"Share of population covered by health insurance (ILO (2014))": "95"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "42.3"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "28"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "0.1"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "98.9"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2005",
+		"Share of population covered by health insurance (ILO (2014))": "12.2"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2003",
+		"Share of population covered by health insurance (ILO (2014))": "3.1"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "2.2"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "94.9"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2005",
+		"Share of population covered by health insurance (ILO (2014))": "97"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "26.6"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2004",
+		"Share of population covered by health insurance (ILO (2014))": "16.2"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "51.8"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "23.6"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "64.4"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "82"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "97.5"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2006",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "94.3"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "88"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "91"
+	},
+	{
+		"Entity": "Saint Kitts and Nevis",
+		"Code": "KNA",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "28.8"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2003",
+		"Share of population covered by health insurance (ILO (2014))": "35.5"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "9.4"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "2.1"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "20.1"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "92.1"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "0"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "94.8"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "99.2"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "29.7"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "90"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "99.6"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "0.3"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "13"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2007",
+		"Share of population covered by health insurance (ILO (2014))": "98"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "4"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2005",
+		"Share of population covered by health insurance (ILO (2014))": "80"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "86"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "82.3"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "2"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2011",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "84"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "97.2"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "100"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2010",
+		"Share of population covered by health insurance (ILO (2014))": "61"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2003",
+		"Share of population covered by health insurance (ILO (2014))": "42"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2008",
+		"Share of population covered by health insurance (ILO (2014))": "8.4"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2009",
+		"Share of population covered by health insurance (ILO (2014))": "1"
+	}
+]

@@ -1,0 +1,1034 @@
+[
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "43"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "37"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "20"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "28"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "10"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "10"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "10"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "10"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "40"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "39"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "36"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "36"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "29"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "29"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "31"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "31"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "16"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "16"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "46"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "45"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "9"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "9"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "15"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "16"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "25"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "22"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "20"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "26"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "31"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "24"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "16"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "11"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "11"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "23"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "27"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "23"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "22"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "35"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "37"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "20"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "21"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "12"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "32"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "31"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "10"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "11"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "41"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "41"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "31"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "30"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "33"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "31"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "24"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "24"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "10"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "9"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "15"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "16"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "38"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "30"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "43"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "43"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "47"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "52"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "20"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "23"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "23"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "21"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "21"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "23"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "23"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "35"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "35"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "12"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "12"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "15"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "56"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "59"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "32"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "32"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "12"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "12"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "41"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "42"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "36"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "26"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "42"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "42"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "17"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "12"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "12"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "28"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "30"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "28"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "30"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "25"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "21"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "25"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "24"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "7"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "7"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "15"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "15"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "13"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "9"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "9"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "26"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "26"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "22"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "22"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "22"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "21"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "38"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "38"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "38"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "38"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "14"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "8"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "8"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "6"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "6"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "18"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "31"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "30"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "20"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "19"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2015",
+		"Share of consumer expenditure on food (USDA (2017))": "35"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2016",
+		"Share of consumer expenditure on food (USDA (2017))": "39"
+	}
+]

@@ -1,0 +1,1748 @@
+[
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2010",
+		"Antibiotic use in livestock": "16.3"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "38.2"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "65.1"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2010",
+		"Antibiotic use in livestock": "25.1"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2010",
+		"Antibiotic use in livestock": "29.6"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "26.8"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2010",
+		"Antibiotic use in livestock": "42.1"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2010",
+		"Antibiotic use in livestock": "62.9"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2011",
+		"Antibiotic use in livestock": "54.5"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2012",
+		"Antibiotic use in livestock": "54.9"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2013",
+		"Antibiotic use in livestock": "57.2"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2014",
+		"Antibiotic use in livestock": "56.3"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2015",
+		"Antibiotic use in livestock": "50.7"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "32"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2010",
+		"Antibiotic use in livestock": "149.4"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2010",
+		"Antibiotic use in livestock": "41.2"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "66.5"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "180.1"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2011",
+		"Antibiotic use in livestock": "175.3"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2012",
+		"Antibiotic use in livestock": "163.1"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2013",
+		"Antibiotic use in livestock": "156.6"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2014",
+		"Antibiotic use in livestock": "158.3"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2015",
+		"Antibiotic use in livestock": "150.1"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "12.8"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "13.6"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "53.6"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2010",
+		"Antibiotic use in livestock": "76.1"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "17.9"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "44.5"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "82.6"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2011",
+		"Antibiotic use in livestock": "92.6"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2012",
+		"Antibiotic use in livestock": "98.9"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2013",
+		"Antibiotic use in livestock": "116.1"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2014",
+		"Antibiotic use in livestock": "82.9"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2015",
+		"Antibiotic use in livestock": "121.9"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "14.2"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "25.4"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "51.2"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "111.5"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2010",
+		"Antibiotic use in livestock": "11.9"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2010",
+		"Antibiotic use in livestock": "30.8"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "97.3"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "62.5"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "35.8"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2010",
+		"Antibiotic use in livestock": "19.2"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2010",
+		"Antibiotic use in livestock": "58.5"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2010",
+		"Antibiotic use in livestock": "20.1"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2010",
+		"Antibiotic use in livestock": "99.3"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2014",
+		"Antibiotic use in livestock": "114.8"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2015",
+		"Antibiotic use in livestock": "101.6"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "17.9"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2010",
+		"Antibiotic use in livestock": "407.6"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2011",
+		"Antibiotic use in livestock": "407.6"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2012",
+		"Antibiotic use in livestock": "396.5"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2013",
+		"Antibiotic use in livestock": "425.8"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2014",
+		"Antibiotic use in livestock": "391.5"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2015",
+		"Antibiotic use in livestock": "434.2"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "94.3"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2011",
+		"Antibiotic use in livestock": "83"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2012",
+		"Antibiotic use in livestock": "79.8"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2013",
+		"Antibiotic use in livestock": "82.2"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2014",
+		"Antibiotic use in livestock": "79.5"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2015",
+		"Antibiotic use in livestock": "68.1"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2010",
+		"Antibiotic use in livestock": "41.4"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2010",
+		"Antibiotic use in livestock": "47.5"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2011",
+		"Antibiotic use in livestock": "42.6"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2012",
+		"Antibiotic use in livestock": "44.1"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2013",
+		"Antibiotic use in livestock": "44.9"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2014",
+		"Antibiotic use in livestock": "44.2"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2015",
+		"Antibiotic use in livestock": "42.2"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2010",
+		"Antibiotic use in livestock": "0"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "62.6"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2010",
+		"Antibiotic use in livestock": "74.3"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2010",
+		"Antibiotic use in livestock": "58.1"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2010",
+		"Antibiotic use in livestock": "64.9"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2010",
+		"Antibiotic use in livestock": "17.3"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2010",
+		"Antibiotic use in livestock": "70.9"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2011",
+		"Antibiotic use in livestock": "70.7"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2012",
+		"Antibiotic use in livestock": "62.9"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2013",
+		"Antibiotic use in livestock": "70.4"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2014",
+		"Antibiotic use in livestock": "77.1"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2015",
+		"Antibiotic use in livestock": "65.2"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2010",
+		"Antibiotic use in livestock": "19.4"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2010",
+		"Antibiotic use in livestock": "28.9"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "22.7"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2011",
+		"Antibiotic use in livestock": "21.9"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2012",
+		"Antibiotic use in livestock": "21.8"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2013",
+		"Antibiotic use in livestock": "22.4"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2014",
+		"Antibiotic use in livestock": "22.3"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2015",
+		"Antibiotic use in livestock": "20.4"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "136"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2011",
+		"Antibiotic use in livestock": "116.5"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2012",
+		"Antibiotic use in livestock": "102.7"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2013",
+		"Antibiotic use in livestock": "95"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2014",
+		"Antibiotic use in livestock": "107"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2015",
+		"Antibiotic use in livestock": "70.2"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "70.8"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2010",
+		"Antibiotic use in livestock": "19"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2010",
+		"Antibiotic use in livestock": "211.5"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2011",
+		"Antibiotic use in livestock": "211.5"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2012",
+		"Antibiotic use in livestock": "204.8"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2013",
+		"Antibiotic use in livestock": "179.7"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2014",
+		"Antibiotic use in livestock": "149.3"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2015",
+		"Antibiotic use in livestock": "97.9"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "35.8"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2010",
+		"Antibiotic use in livestock": "103.8"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2015",
+		"Antibiotic use in livestock": "57.2"
+	},
+	{
+		"Entity": "Greenland",
+		"Code": "GRL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "0"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "46.2"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "14.2"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "17.8"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2010",
+		"Antibiotic use in livestock": "90.8"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2010",
+		"Antibiotic use in livestock": "22.8"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2010",
+		"Antibiotic use in livestock": "47.7"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "269.9"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2011",
+		"Antibiotic use in livestock": "192.5"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2012",
+		"Antibiotic use in livestock": "245.8"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2013",
+		"Antibiotic use in livestock": "230.7"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2014",
+		"Antibiotic use in livestock": "193.1"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2015",
+		"Antibiotic use in livestock": "211.4"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "12.7"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2011",
+		"Antibiotic use in livestock": "6.6"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2012",
+		"Antibiotic use in livestock": "5.9"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2013",
+		"Antibiotic use in livestock": "5.3"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2014",
+		"Antibiotic use in livestock": "5.2"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2015",
+		"Antibiotic use in livestock": "5"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2010",
+		"Antibiotic use in livestock": "30"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "69.4"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "67.9"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2010",
+		"Antibiotic use in livestock": "21.1"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "51.5"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2011",
+		"Antibiotic use in livestock": "46.5"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2012",
+		"Antibiotic use in livestock": "55"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2013",
+		"Antibiotic use in livestock": "56.6"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2014",
+		"Antibiotic use in livestock": "48"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2015",
+		"Antibiotic use in livestock": "51"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "115.3"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "421.1"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2011",
+		"Antibiotic use in livestock": "371"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2012",
+		"Antibiotic use in livestock": "341"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2013",
+		"Antibiotic use in livestock": "301.6"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2014",
+		"Antibiotic use in livestock": "359.9"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2015",
+		"Antibiotic use in livestock": "322"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "95.2"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "100.9"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "116.2"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2010",
+		"Antibiotic use in livestock": "22.5"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "30.4"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2010",
+		"Antibiotic use in livestock": "122.9"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2010",
+		"Antibiotic use in livestock": "15.6"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2010",
+		"Antibiotic use in livestock": "21.6"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "39.5"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2011",
+		"Antibiotic use in livestock": "36.7"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2012",
+		"Antibiotic use in livestock": "41.5"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2013",
+		"Antibiotic use in livestock": "37.7"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2014",
+		"Antibiotic use in livestock": "36.7"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2015",
+		"Antibiotic use in livestock": "37.6"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "120.8"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2010",
+		"Antibiotic use in livestock": "40.9"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "33.9"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2010",
+		"Antibiotic use in livestock": "109"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2010",
+		"Antibiotic use in livestock": "48.2"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2011",
+		"Antibiotic use in livestock": "41.3"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2012",
+		"Antibiotic use in livestock": "39.2"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2013",
+		"Antibiotic use in livestock": "29.1"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2014",
+		"Antibiotic use in livestock": "35.5"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2015",
+		"Antibiotic use in livestock": "35.1"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2010",
+		"Antibiotic use in livestock": "60.3"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2012",
+		"Antibiotic use in livestock": "43.2"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2013",
+		"Antibiotic use in livestock": "52.1"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2014",
+		"Antibiotic use in livestock": "40.9"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2015",
+		"Antibiotic use in livestock": "34.6"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2010",
+		"Antibiotic use in livestock": "16.2"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2010",
+		"Antibiotic use in livestock": "115.3"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2010",
+		"Antibiotic use in livestock": "24.2"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2010",
+		"Antibiotic use in livestock": "36.1"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2010",
+		"Antibiotic use in livestock": "65.4"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2010",
+		"Antibiotic use in livestock": "10.5"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "26.8"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "83"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2010",
+		"Antibiotic use in livestock": "16"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "26.2"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "16.5"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "23.5"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2010",
+		"Antibiotic use in livestock": "164.8"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2011",
+		"Antibiotic use in livestock": "113.8"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2012",
+		"Antibiotic use in livestock": "74.9"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2013",
+		"Antibiotic use in livestock": "69.9"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2014",
+		"Antibiotic use in livestock": "68.4"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2015",
+		"Antibiotic use in livestock": "64.4"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "30"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2010",
+		"Antibiotic use in livestock": "25.2"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2010",
+		"Antibiotic use in livestock": "32.8"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "33.9"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "2010",
+		"Antibiotic use in livestock": "31.2"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "4.1"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2011",
+		"Antibiotic use in livestock": "3.7"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2012",
+		"Antibiotic use in livestock": "3.8"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2013",
+		"Antibiotic use in livestock": "3.7"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2014",
+		"Antibiotic use in livestock": "3.1"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2015",
+		"Antibiotic use in livestock": "2.9"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "143.4"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2010",
+		"Antibiotic use in livestock": "29.8"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "138.8"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2010",
+		"Antibiotic use in livestock": "44.1"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2010",
+		"Antibiotic use in livestock": "24.8"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2010",
+		"Antibiotic use in livestock": "76"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "66.4"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2010",
+		"Antibiotic use in livestock": "121.1"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2011",
+		"Antibiotic use in livestock": "127.3"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2012",
+		"Antibiotic use in livestock": "135.2"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2013",
+		"Antibiotic use in livestock": "151.5"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2014",
+		"Antibiotic use in livestock": "140.8"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2015",
+		"Antibiotic use in livestock": "138.9"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2010",
+		"Antibiotic use in livestock": "177.9"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2011",
+		"Antibiotic use in livestock": "161.8"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2012",
+		"Antibiotic use in livestock": "156.9"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2013",
+		"Antibiotic use in livestock": "187.2"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2014",
+		"Antibiotic use in livestock": "201.6"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2015",
+		"Antibiotic use in livestock": "134.4"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "2010",
+		"Antibiotic use in livestock": "64"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2010",
+		"Antibiotic use in livestock": "111.7"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2010",
+		"Antibiotic use in livestock": "70.4"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2014",
+		"Antibiotic use in livestock": "39.1"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2015",
+		"Antibiotic use in livestock": "100.5"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2010",
+		"Antibiotic use in livestock": "91.4"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2010",
+		"Antibiotic use in livestock": "124.9"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "18.3"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "23.5"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "17.8"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2010",
+		"Antibiotic use in livestock": "97.7"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2011",
+		"Antibiotic use in livestock": "43.7"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2012",
+		"Antibiotic use in livestock": "43.3"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2013",
+		"Antibiotic use in livestock": "63.1"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2014",
+		"Antibiotic use in livestock": "65.9"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2015",
+		"Antibiotic use in livestock": "53.8"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "46.9"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2011",
+		"Antibiotic use in livestock": "46.1"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2012",
+		"Antibiotic use in livestock": "37"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2013",
+		"Antibiotic use in livestock": "22.4"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2014",
+		"Antibiotic use in livestock": "33.4"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2015",
+		"Antibiotic use in livestock": "26.4"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "43.9"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "20.8"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2010",
+		"Antibiotic use in livestock": "42.3"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "118.7"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2010",
+		"Antibiotic use in livestock": "259.5"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2011",
+		"Antibiotic use in livestock": "335.8"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2013",
+		"Antibiotic use in livestock": "317.1"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2014",
+		"Antibiotic use in livestock": "418.8"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2015",
+		"Antibiotic use in livestock": "402"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "54"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "32.2"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "75.8"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "15.2"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2011",
+		"Antibiotic use in livestock": "13.6"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2012",
+		"Antibiotic use in livestock": "13.5"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2013",
+		"Antibiotic use in livestock": "12.7"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2014",
+		"Antibiotic use in livestock": "11.5"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2015",
+		"Antibiotic use in livestock": "11.8"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "89.1"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2015",
+		"Antibiotic use in livestock": "50.6"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "52.1"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "0"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2010",
+		"Antibiotic use in livestock": "15.7"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "30.8"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "82.4"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2010",
+		"Antibiotic use in livestock": "25.7"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2010",
+		"Antibiotic use in livestock": "24.7"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "65.7"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "65.1"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "21.6"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "33.3"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "68.9"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "98.8"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2010",
+		"Antibiotic use in livestock": "67.9"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2011",
+		"Antibiotic use in livestock": "51.1"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2012",
+		"Antibiotic use in livestock": "66"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2013",
+		"Antibiotic use in livestock": "62.1"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2014",
+		"Antibiotic use in livestock": "62.1"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2015",
+		"Antibiotic use in livestock": "56.7"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2016",
+		"Antibiotic use in livestock": "45"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2010",
+		"Antibiotic use in livestock": "84.5"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2010",
+		"Antibiotic use in livestock": "24.3"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "20.3"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2010",
+		"Antibiotic use in livestock": "45.2"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "51.4"
+	},
+	{
+		"Entity": "Western Sahara",
+		"Code": "ESH",
+		"Year": "2010",
+		"Antibiotic use in livestock": "0"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2010",
+		"Antibiotic use in livestock": "36.4"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2010",
+		"Antibiotic use in livestock": "25.6"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2010",
+		"Antibiotic use in livestock": "11.6"
+	}
+]

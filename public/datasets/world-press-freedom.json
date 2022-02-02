@@ -1,0 +1,3236 @@
+[
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2017",
+		"Press Freedom Score": "39.46"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2018",
+		"Press Freedom Score": "37.28"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2019",
+		"Press Freedom Score": "36.55"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2017",
+		"Press Freedom Score": "29.92"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2018",
+		"Press Freedom Score": "29.49"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2019",
+		"Press Freedom Score": "29.84"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2017",
+		"Press Freedom Score": "42.83"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2018",
+		"Press Freedom Score": "43.13"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2019",
+		"Press Freedom Score": "45.75"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "2017",
+		"Press Freedom Score": "21.03"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "2018",
+		"Press Freedom Score": "22.21"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "2019",
+		"Press Freedom Score": "24.63"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2017",
+		"Press Freedom Score": "40.42"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2018",
+		"Press Freedom Score": "38.35"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2019",
+		"Press Freedom Score": "34.96"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2017",
+		"Press Freedom Score": "25.07"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2018",
+		"Press Freedom Score": "26.05"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2019",
+		"Press Freedom Score": "28.3"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2017",
+		"Press Freedom Score": "30.38"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2018",
+		"Press Freedom Score": "29.99"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2019",
+		"Press Freedom Score": "28.98"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2017",
+		"Press Freedom Score": "16.02"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2018",
+		"Press Freedom Score": "15.46"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2019",
+		"Press Freedom Score": "16.55"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2017",
+		"Press Freedom Score": "13.47"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2018",
+		"Press Freedom Score": "14.04"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2019",
+		"Press Freedom Score": "15.33"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2017",
+		"Press Freedom Score": "56.4"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2018",
+		"Press Freedom Score": "59.73"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2019",
+		"Press Freedom Score": "59.13"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2017",
+		"Press Freedom Score": "58.88"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2018",
+		"Press Freedom Score": "60.85"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2019",
+		"Press Freedom Score": "61.31"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2017",
+		"Press Freedom Score": "48.36"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2018",
+		"Press Freedom Score": "48.62"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2019",
+		"Press Freedom Score": "50.74"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2017",
+		"Press Freedom Score": "52.43"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2018",
+		"Press Freedom Score": "52.59"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2019",
+		"Press Freedom Score": "51.66"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2017",
+		"Press Freedom Score": "12.75"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2018",
+		"Press Freedom Score": "13.16"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2019",
+		"Press Freedom Score": "12.07"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2017",
+		"Press Freedom Score": "23.43"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2018",
+		"Press Freedom Score": "24.55"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2019",
+		"Press Freedom Score": "27.5"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2017",
+		"Press Freedom Score": "30.32"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2018",
+		"Press Freedom Score": "30.16"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2019",
+		"Press Freedom Score": "31.74"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2017",
+		"Press Freedom Score": "30.73"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2018",
+		"Press Freedom Score": "30.73"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2019",
+		"Press Freedom Score": "29.81"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2017",
+		"Press Freedom Score": "33.88"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2018",
+		"Press Freedom Score": "32.45"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2019",
+		"Press Freedom Score": "35.38"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2017",
+		"Press Freedom Score": "27.83"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2018",
+		"Press Freedom Score": "27.37"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2019",
+		"Press Freedom Score": "29.02"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2017",
+		"Press Freedom Score": "24.93"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2018",
+		"Press Freedom Score": "25.29"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2019",
+		"Press Freedom Score": "25.09"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2017",
+		"Press Freedom Score": "33.58"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2018",
+		"Press Freedom Score": "31.2"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2019",
+		"Press Freedom Score": "32.79"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2017",
+		"Press Freedom Score": "53.72"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2018",
+		"Press Freedom Score": "51.48"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2019",
+		"Press Freedom Score": "51.48"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2017",
+		"Press Freedom Score": "35.01"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2018",
+		"Press Freedom Score": "35.22"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2019",
+		"Press Freedom Score": "35.11"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2017",
+		"Press Freedom Score": "23.85"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2018",
+		"Press Freedom Score": "23.33"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2019",
+		"Press Freedom Score": "24.53"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2017",
+		"Press Freedom Score": "55.78"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2018",
+		"Press Freedom Score": "55.26"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2019",
+		"Press Freedom Score": "52.89"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2017",
+		"Press Freedom Score": "42.07"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2018",
+		"Press Freedom Score": "45.9"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2019",
+		"Press Freedom Score": "45.9"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2017",
+		"Press Freedom Score": "41.59"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2018",
+		"Press Freedom Score": "40.92"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2019",
+		"Press Freedom Score": "43.32"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2017",
+		"Press Freedom Score": "16.53"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2018",
+		"Press Freedom Score": "15.28"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2019",
+		"Press Freedom Score": "15.69"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2017",
+		"Press Freedom Score": "18.02"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2018",
+		"Press Freedom Score": "20.39"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2019",
+		"Press Freedom Score": "19.81"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2017",
+		"Press Freedom Score": "36.12"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2018",
+		"Press Freedom Score": "35.25"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2019",
+		"Press Freedom Score": "47.27"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2017",
+		"Press Freedom Score": "39.66"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2018",
+		"Press Freedom Score": "38.45"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2019",
+		"Press Freedom Score": "36.71"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2017",
+		"Press Freedom Score": "20.53"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2018",
+		"Press Freedom Score": "22.69"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2019",
+		"Press Freedom Score": "25.65"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2017",
+		"Press Freedom Score": "77.66"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2018",
+		"Press Freedom Score": "78.29"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2019",
+		"Press Freedom Score": "78.92"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2017",
+		"Press Freedom Score": "41.47"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2018",
+		"Press Freedom Score": "41.03"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2019",
+		"Press Freedom Score": "42.82"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2017",
+		"Press Freedom Score": "24.33"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2018",
+		"Press Freedom Score": "25.3"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2019",
+		"Press Freedom Score": "27.91"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2017",
+		"Press Freedom Score": "36.73"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2018",
+		"Press Freedom Score": "35.42"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2019",
+		"Press Freedom Score": "36.04"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2017",
+		"Press Freedom Score": "11.93"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2018",
+		"Press Freedom Score": "14.01"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2019",
+		"Press Freedom Score": "12.24"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2017",
+		"Press Freedom Score": "30.42"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2018",
+		"Press Freedom Score": "30.08"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2019",
+		"Press Freedom Score": "29.52"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2017",
+		"Press Freedom Score": "29.59"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2018",
+		"Press Freedom Score": "28.94"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2019",
+		"Press Freedom Score": "29.03"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2017",
+		"Press Freedom Score": "71.75"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2018",
+		"Press Freedom Score": "68.9"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2019",
+		"Press Freedom Score": "63.81"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2017",
+		"Press Freedom Score": "19.79"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2018",
+		"Press Freedom Score": "19.85"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2019",
+		"Press Freedom Score": "21.74"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2017",
+		"Press Freedom Score": "16.91"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2018",
+		"Press Freedom Score": "21.89"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2019",
+		"Press Freedom Score": "24.89"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2017",
+		"Press Freedom Score": "52.67"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2018",
+		"Press Freedom Score": "51.6"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2019",
+		"Press Freedom Score": "51.71"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2017",
+		"Press Freedom Score": "10.36"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2018",
+		"Press Freedom Score": "13.99"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2019",
+		"Press Freedom Score": "9.87"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2017",
+		"Press Freedom Score": "70.54"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2018",
+		"Press Freedom Score": "70.77"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2019",
+		"Press Freedom Score": "71.36"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2017",
+		"Press Freedom Score": "26.76"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2018",
+		"Press Freedom Score": "26.79"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2019",
+		"Press Freedom Score": "27.9"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2017",
+		"Press Freedom Score": "33.64"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2018",
+		"Press Freedom Score": "30.56"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2019",
+		"Press Freedom Score": "31.88"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2017",
+		"Press Freedom Score": "55.78"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2018",
+		"Press Freedom Score": "56.72"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2019",
+		"Press Freedom Score": "56.47"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2017",
+		"Press Freedom Score": "27.24"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2018",
+		"Press Freedom Score": "27.78"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2019",
+		"Press Freedom Score": "29.81"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2017",
+		"Press Freedom Score": "66.47"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2018",
+		"Press Freedom Score": "66.47"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2019",
+		"Press Freedom Score": "58.35"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2017",
+		"Press Freedom Score": "84.24"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2018",
+		"Press Freedom Score": "84.24"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2019",
+		"Press Freedom Score": "80.26"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2017",
+		"Press Freedom Score": "13.55"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2018",
+		"Press Freedom Score": "14.08"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2019",
+		"Press Freedom Score": "12.27"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2017",
+		"Press Freedom Score": "51.27"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2018",
+		"Press Freedom Score": "51.46"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2019",
+		"Press Freedom Score": "49.09"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2017",
+		"Press Freedom Score": "50.34"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2018",
+		"Press Freedom Score": "50.17"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2019",
+		"Press Freedom Score": "35.11"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2017",
+		"Press Freedom Score": "28.64"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2018",
+		"Press Freedom Score": "26.55"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2019",
+		"Press Freedom Score": "27.18"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2017",
+		"Press Freedom Score": "8.92"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2018",
+		"Press Freedom Score": "10.26"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2019",
+		"Press Freedom Score": "7.9"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2017",
+		"Press Freedom Score": "22.24"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2018",
+		"Press Freedom Score": "21.87"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2019",
+		"Press Freedom Score": "22.21"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2017",
+		"Press Freedom Score": "34.83"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2018",
+		"Press Freedom Score": "32.37"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2019",
+		"Press Freedom Score": "35.6"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2017",
+		"Press Freedom Score": "46.7"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2018",
+		"Press Freedom Score": "38.36"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2019",
+		"Press Freedom Score": "31.35"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2017",
+		"Press Freedom Score": "27.76"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2018",
+		"Press Freedom Score": "27.34"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2019",
+		"Press Freedom Score": "28.98"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2017",
+		"Press Freedom Score": "14.97"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2018",
+		"Press Freedom Score": "14.39"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2019",
+		"Press Freedom Score": "14.6"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2017",
+		"Press Freedom Score": "17.95"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2018",
+		"Press Freedom Score": "18.41"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2019",
+		"Press Freedom Score": "20.81"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2017",
+		"Press Freedom Score": "30.89"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2018",
+		"Press Freedom Score": "29.19"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2019",
+		"Press Freedom Score": "29.08"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2017",
+		"Press Freedom Score": "39.33"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2018",
+		"Press Freedom Score": "36.17"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2019",
+		"Press Freedom Score": "35.94"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2017",
+		"Press Freedom Score": "33.15"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2018",
+		"Press Freedom Score": "31.9"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2019",
+		"Press Freedom Score": "33.49"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2017",
+		"Press Freedom Score": "30.09"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2018",
+		"Press Freedom Score": "30.09"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2019",
+		"Press Freedom Score": "30.95"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2017",
+		"Press Freedom Score": "26.8"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2018",
+		"Press Freedom Score": "26.25"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2019",
+		"Press Freedom Score": "26.63"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2017",
+		"Press Freedom Score": "26.36"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2018",
+		"Press Freedom Score": "26.82"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2019",
+		"Press Freedom Score": "29"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2017",
+		"Press Freedom Score": "43.75"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2018",
+		"Press Freedom Score": "45.23"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2019",
+		"Press Freedom Score": "48.53"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2017",
+		"Press Freedom Score": "29.46"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2018",
+		"Press Freedom Score": "29.04"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2019",
+		"Press Freedom Score": "29.65"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2017",
+		"Press Freedom Score": "29.01"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2018",
+		"Press Freedom Score": "29.11"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2019",
+		"Press Freedom Score": "30.44"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2017",
+		"Press Freedom Score": "13.03"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2018",
+		"Press Freedom Score": "14.1"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2019",
+		"Press Freedom Score": "14.71"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2017",
+		"Press Freedom Score": "42.94"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2018",
+		"Press Freedom Score": "43.24"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2019",
+		"Press Freedom Score": "45.67"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2017",
+		"Press Freedom Score": "39.93"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2018",
+		"Press Freedom Score": "39.68"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2019",
+		"Press Freedom Score": "36.77"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2017",
+		"Press Freedom Score": "65.12"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2018",
+		"Press Freedom Score": "60.71"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2019",
+		"Press Freedom Score": "64.41"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2017",
+		"Press Freedom Score": "54.03"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2018",
+		"Press Freedom Score": "56.56"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2019",
+		"Press Freedom Score": "52.6"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2017",
+		"Press Freedom Score": "14.08"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2018",
+		"Press Freedom Score": "14.59"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2019",
+		"Press Freedom Score": "15"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2017",
+		"Press Freedom Score": "31.01"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2018",
+		"Press Freedom Score": "30.26"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2019",
+		"Press Freedom Score": "30.8"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2017",
+		"Press Freedom Score": "26.26"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2018",
+		"Press Freedom Score": "24.12"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2019",
+		"Press Freedom Score": "24.98"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2017",
+		"Press Freedom Score": "12.73"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2018",
+		"Press Freedom Score": "11.33"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2019",
+		"Press Freedom Score": "11.13"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2017",
+		"Press Freedom Score": "29.44"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2018",
+		"Press Freedom Score": "28.64"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2019",
+		"Press Freedom Score": "29.36"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2017",
+		"Press Freedom Score": "43.24"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2018",
+		"Press Freedom Score": "41.71"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2019",
+		"Press Freedom Score": "43.11"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2017",
+		"Press Freedom Score": "54.01"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2018",
+		"Press Freedom Score": "54.41"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2019",
+		"Press Freedom Score": "52.82"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2017",
+		"Press Freedom Score": "31.2"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2018",
+		"Press Freedom Score": "30.82"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2019",
+		"Press Freedom Score": "32.44"
+	},
+	{
+		"Entity": "Kosovo",
+		"Code": "OWID_KOS",
+		"Year": "2017",
+		"Press Freedom Score": "30.45"
+	},
+	{
+		"Entity": "Kosovo",
+		"Code": "OWID_KOS",
+		"Year": "2018",
+		"Press Freedom Score": "29.61"
+	},
+	{
+		"Entity": "Kosovo",
+		"Code": "OWID_KOS",
+		"Year": "2019",
+		"Press Freedom Score": "29.68"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2017",
+		"Press Freedom Score": "33.61"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2018",
+		"Press Freedom Score": "31.91"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2019",
+		"Press Freedom Score": "33.86"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2017",
+		"Press Freedom Score": "30.92"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2018",
+		"Press Freedom Score": "31"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2019",
+		"Press Freedom Score": "29.92"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2017",
+		"Press Freedom Score": "66.41"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2018",
+		"Press Freedom Score": "66.41"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2019",
+		"Press Freedom Score": "64.49"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2017",
+		"Press Freedom Score": "18.62"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2018",
+		"Press Freedom Score": "19.63"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2019",
+		"Press Freedom Score": "19.53"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2017",
+		"Press Freedom Score": "33.01"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2018",
+		"Press Freedom Score": "31.15"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2019",
+		"Press Freedom Score": "32.44"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2017",
+		"Press Freedom Score": "28.78"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2018",
+		"Press Freedom Score": "28.78"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2019",
+		"Press Freedom Score": "29.74"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2017",
+		"Press Freedom Score": "31.12"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2018",
+		"Press Freedom Score": "30.33"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2019",
+		"Press Freedom Score": "31.49"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2017",
+		"Press Freedom Score": "56.81"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2018",
+		"Press Freedom Score": "56.79"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2019",
+		"Press Freedom Score": "55.77"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2017",
+		"Press Freedom Score": "20.31"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2018",
+		"Press Freedom Score": "20.49"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2019",
+		"Press Freedom Score": "20.49"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2017",
+		"Press Freedom Score": "21.37"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2018",
+		"Press Freedom Score": "22.2"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2019",
+		"Press Freedom Score": "22.06"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2017",
+		"Press Freedom Score": "14.72"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2018",
+		"Press Freedom Score": "14.72"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2019",
+		"Press Freedom Score": "15.66"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2017",
+		"Press Freedom Score": "26.71"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2018",
+		"Press Freedom Score": "26.2"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2019",
+		"Press Freedom Score": "27.76"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2017",
+		"Press Freedom Score": "28.97"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2018",
+		"Press Freedom Score": "27.43"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2019",
+		"Press Freedom Score": "29.36"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2017",
+		"Press Freedom Score": "46.89"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2018",
+		"Press Freedom Score": "47.41"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2019",
+		"Press Freedom Score": "36.74"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2017",
+		"Press Freedom Score": "39.3"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2018",
+		"Press Freedom Score": "37.95"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2019",
+		"Press Freedom Score": "32.16"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2017",
+		"Press Freedom Score": "38.27"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2018",
+		"Press Freedom Score": "36.15"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2019",
+		"Press Freedom Score": "35.23"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2017",
+		"Press Freedom Score": "24.76"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2018",
+		"Press Freedom Score": "27.44"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2019",
+		"Press Freedom Score": "29.74"
+	},
+	{
+		"Entity": "Martinique",
+		"Code": "MTQ",
+		"Year": "2017",
+		"Press Freedom Score": "22.1"
+	},
+	{
+		"Entity": "Martinique",
+		"Code": "MTQ",
+		"Year": "2018",
+		"Press Freedom Score": "22.11"
+	},
+	{
+		"Entity": "Martinique",
+		"Code": "MTQ",
+		"Year": "2019",
+		"Press Freedom Score": "26.04"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2017",
+		"Press Freedom Score": "26.49"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2018",
+		"Press Freedom Score": "29.09"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2019",
+		"Press Freedom Score": "31.65"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2017",
+		"Press Freedom Score": "26.67"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2018",
+		"Press Freedom Score": "26.45"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2019",
+		"Press Freedom Score": "28.46"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2017",
+		"Press Freedom Score": "48.97"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2018",
+		"Press Freedom Score": "48.91"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2019",
+		"Press Freedom Score": "46.78"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2017",
+		"Press Freedom Score": "30.41"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2018",
+		"Press Freedom Score": "30.01"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2019",
+		"Press Freedom Score": "31.21"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2017",
+		"Press Freedom Score": "28.95"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2018",
+		"Press Freedom Score": "29.05"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2019",
+		"Press Freedom Score": "29.51"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2017",
+		"Press Freedom Score": "33.65"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2018",
+		"Press Freedom Score": "31.21"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2019",
+		"Press Freedom Score": "32.74"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2017",
+		"Press Freedom Score": "42.42"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2018",
+		"Press Freedom Score": "43.13"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2019",
+		"Press Freedom Score": "43.98"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2017",
+		"Press Freedom Score": "31.05"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2018",
+		"Press Freedom Score": "31.12"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2019",
+		"Press Freedom Score": "32.66"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2017",
+		"Press Freedom Score": "41.82"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2018",
+		"Press Freedom Score": "43.15"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2019",
+		"Press Freedom Score": "44.92"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2017",
+		"Press Freedom Score": "17.08"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2018",
+		"Press Freedom Score": "20.24"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2019",
+		"Press Freedom Score": "18.95"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2017",
+		"Press Freedom Score": "33.02"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2018",
+		"Press Freedom Score": "32.05"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2019",
+		"Press Freedom Score": "33.4"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2017",
+		"Press Freedom Score": "11.28"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2018",
+		"Press Freedom Score": "10.01"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2019",
+		"Press Freedom Score": "8.63"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2017",
+		"Press Freedom Score": "13.98"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2018",
+		"Press Freedom Score": "13.62"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2019",
+		"Press Freedom Score": "10.75"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2017",
+		"Press Freedom Score": "31.01"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2018",
+		"Press Freedom Score": "30.41"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2019",
+		"Press Freedom Score": "35.53"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2017",
+		"Press Freedom Score": "27.21"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2018",
+		"Press Freedom Score": "27.4"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2019",
+		"Press Freedom Score": "29.26"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2017",
+		"Press Freedom Score": "39.69"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2018",
+		"Press Freedom Score": "37.41"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2019",
+		"Press Freedom Score": "36.5"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "2018",
+		"Press Freedom Score": "88.87"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "2019",
+		"Press Freedom Score": "83.4"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2017",
+		"Press Freedom Score": "35.74"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2018",
+		"Press Freedom Score": "32.43"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2019",
+		"Press Freedom Score": "31.66"
+	},
+	{
+		"Entity": "Northern Cyprus",
+		"Code": "OWID_CYN",
+		"Year": "2017",
+		"Press Freedom Score": "29.88"
+	},
+	{
+		"Entity": "Northern Cyprus",
+		"Code": "OWID_CYN",
+		"Year": "2018",
+		"Press Freedom Score": "29.59"
+	},
+	{
+		"Entity": "Northern Cyprus",
+		"Code": "OWID_CYN",
+		"Year": "2019",
+		"Press Freedom Score": "29.67"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2017",
+		"Press Freedom Score": "7.6"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2018",
+		"Press Freedom Score": "7.63"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2019",
+		"Press Freedom Score": "7.82"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2017",
+		"Press Freedom Score": "40.46"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2018",
+		"Press Freedom Score": "40.67"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2019",
+		"Press Freedom Score": "43.42"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2017",
+		"Press Freedom Score": "43.55"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2018",
+		"Press Freedom Score": "43.24"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2019",
+		"Press Freedom Score": "45.83"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2017",
+		"Press Freedom Score": "42.9"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2018",
+		"Press Freedom Score": "42.96"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2019",
+		"Press Freedom Score": "44.68"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2017",
+		"Press Freedom Score": "32.12"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2018",
+		"Press Freedom Score": "30.56"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2019",
+		"Press Freedom Score": "29.78"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2017",
+		"Press Freedom Score": "25.07"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2018",
+		"Press Freedom Score": "26.19"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2019",
+		"Press Freedom Score": "24.7"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2017",
+		"Press Freedom Score": "35.64"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2018",
+		"Press Freedom Score": "32.32"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2019",
+		"Press Freedom Score": "32.4"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2017",
+		"Press Freedom Score": "30.98"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2018",
+		"Press Freedom Score": "30.27"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2019",
+		"Press Freedom Score": "30.22"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2017",
+		"Press Freedom Score": "41.08"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2018",
+		"Press Freedom Score": "42.53"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2019",
+		"Press Freedom Score": "43.91"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2017",
+		"Press Freedom Score": "26.47"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2018",
+		"Press Freedom Score": "26.59"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2019",
+		"Press Freedom Score": "28.89"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2017",
+		"Press Freedom Score": "15.77"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2018",
+		"Press Freedom Score": "14.17"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2019",
+		"Press Freedom Score": "12.63"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2017",
+		"Press Freedom Score": "39.83"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2018",
+		"Press Freedom Score": "40.16"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2019",
+		"Press Freedom Score": "42.51"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2017",
+		"Press Freedom Score": "24.46"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2018",
+		"Press Freedom Score": "23.65"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2019",
+		"Press Freedom Score": "25.67"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2017",
+		"Press Freedom Score": "49.45"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2018",
+		"Press Freedom Score": "49.96"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2019",
+		"Press Freedom Score": "50.31"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2017",
+		"Press Freedom Score": "54.11"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2018",
+		"Press Freedom Score": "52.9"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2019",
+		"Press Freedom Score": "52.43"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2017",
+		"Press Freedom Score": "16.41"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2018",
+		"Press Freedom Score": "16.69"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2019",
+		"Press Freedom Score": "18.25"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2017",
+		"Press Freedom Score": "66.02"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2018",
+		"Press Freedom Score": "63.13"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2019",
+		"Press Freedom Score": "65.88"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2017",
+		"Press Freedom Score": "26.72"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2018",
+		"Press Freedom Score": "25.61"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2019",
+		"Press Freedom Score": "25.81"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2017",
+		"Press Freedom Score": "28.05"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2018",
+		"Press Freedom Score": "29.58"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2019",
+		"Press Freedom Score": "31.18"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2017",
+		"Press Freedom Score": "30.86"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2018",
+		"Press Freedom Score": "30.17"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2019",
+		"Press Freedom Score": "29.41"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2017",
+		"Press Freedom Score": "30.73"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2018",
+		"Press Freedom Score": "29.98"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2019",
+		"Press Freedom Score": "30.36"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2017",
+		"Press Freedom Score": "51.1"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2018",
+		"Press Freedom Score": "50.95"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2019",
+		"Press Freedom Score": "51.41"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2017",
+		"Press Freedom Score": "15.51"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2018",
+		"Press Freedom Score": "20.26"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2019",
+		"Press Freedom Score": "23.58"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2017",
+		"Press Freedom Score": "21.7"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2018",
+		"Press Freedom Score": "21.69"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2019",
+		"Press Freedom Score": "22.31"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2017",
+		"Press Freedom Score": "65.95"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2018",
+		"Press Freedom Score": "63.04"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2019",
+		"Press Freedom Score": "57.24"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2017",
+		"Press Freedom Score": "20.12"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2018",
+		"Press Freedom Score": "20.39"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2019",
+		"Press Freedom Score": "22.19"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2017",
+		"Press Freedom Score": "27.61"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2018",
+		"Press Freedom Score": "23.51"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2019",
+		"Press Freedom Score": "24.94"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2017",
+		"Press Freedom Score": "48.16"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2018",
+		"Press Freedom Score": "46.88"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2019",
+		"Press Freedom Score": "45.65"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2017",
+		"Press Freedom Score": "18.69"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2018",
+		"Press Freedom Score": "20.51"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2019",
+		"Press Freedom Score": "21.99"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2017",
+		"Press Freedom Score": "44.34"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2018",
+		"Press Freedom Score": "41.37"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2019",
+		"Press Freedom Score": "39.61"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2017",
+		"Press Freedom Score": "73.56"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2018",
+		"Press Freedom Score": "71.13"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2019",
+		"Press Freedom Score": "72.45"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2017",
+		"Press Freedom Score": "16.07"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2018",
+		"Press Freedom Score": "16.44"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2019",
+		"Press Freedom Score": "16.38"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2017",
+		"Press Freedom Score": "8.27"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2018",
+		"Press Freedom Score": "8.31"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2019",
+		"Press Freedom Score": "8.31"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2017",
+		"Press Freedom Score": "12.13"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2018",
+		"Press Freedom Score": "11.27"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2019",
+		"Press Freedom Score": "10.52"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2017",
+		"Press Freedom Score": "81.49"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2018",
+		"Press Freedom Score": "79.22"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2019",
+		"Press Freedom Score": "71.78"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2017",
+		"Press Freedom Score": "24.37"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2018",
+		"Press Freedom Score": "23.36"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2019",
+		"Press Freedom Score": "24.98"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2017",
+		"Press Freedom Score": "50.27"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2018",
+		"Press Freedom Score": "50.06"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2019",
+		"Press Freedom Score": "54.02"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2017",
+		"Press Freedom Score": "30.65"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2018",
+		"Press Freedom Score": "30.65"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2019",
+		"Press Freedom Score": "36.28"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2017",
+		"Press Freedom Score": "44.69"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2018",
+		"Press Freedom Score": "44.31"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2019",
+		"Press Freedom Score": "44.1"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2017",
+		"Press Freedom Score": "32.82"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2018",
+		"Press Freedom Score": "30.81"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2019",
+		"Press Freedom Score": "29.93"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2017",
+		"Press Freedom Score": "30.75"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2018",
+		"Press Freedom Score": "30.23"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2019",
+		"Press Freedom Score": "29.69"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2017",
+		"Press Freedom Score": "24.97"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2018",
+		"Press Freedom Score": "25.68"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2019",
+		"Press Freedom Score": "25.41"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2017",
+		"Press Freedom Score": "20.62"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2018",
+		"Press Freedom Score": "22.79"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2019",
+		"Press Freedom Score": "24.74"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2017",
+		"Press Freedom Score": "32.22"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2018",
+		"Press Freedom Score": "30.91"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2019",
+		"Press Freedom Score": "29.61"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2017",
+		"Press Freedom Score": "52.98"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2018",
+		"Press Freedom Score": "53.5"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2019",
+		"Press Freedom Score": "52.81"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2017",
+		"Press Freedom Score": "84.19"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2018",
+		"Press Freedom Score": "84.2"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2019",
+		"Press Freedom Score": "85.44"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2017",
+		"Press Freedom Score": "35.94"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2018",
+		"Press Freedom Score": "36.77"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2019",
+		"Press Freedom Score": "39.42"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2017",
+		"Press Freedom Score": "33.19"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2018",
+		"Press Freedom Score": "31.16"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2019",
+		"Press Freedom Score": "32.46"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2017",
+		"Press Freedom Score": "39.39"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2018",
+		"Press Freedom Score": "40.86"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2019",
+		"Press Freedom Score": "43.63"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2017",
+		"Press Freedom Score": "22.26"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2018",
+		"Press Freedom Score": "23.25"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2019",
+		"Press Freedom Score": "22.23"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2017",
+		"Press Freedom Score": "23.88"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2018",
+		"Press Freedom Score": "23.73"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2019",
+		"Press Freedom Score": "25.69"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2017",
+		"Press Freedom Score": "17.43"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2018",
+		"Press Freedom Score": "15.56"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2019",
+		"Press Freedom Score": "16.06"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2017",
+		"Press Freedom Score": "66.11"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2018",
+		"Press Freedom Score": "60.84"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2019",
+		"Press Freedom Score": "53.52"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2017",
+		"Press Freedom Score": "42.94"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2018",
+		"Press Freedom Score": "46.03"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2019",
+		"Press Freedom Score": "49.1"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2017",
+		"Press Freedom Score": "73.96"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2018",
+		"Press Freedom Score": "75.05"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2019",
+		"Press Freedom Score": "74.93"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2017",
+		"Press Freedom Score": "65.8"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2018",
+		"Press Freedom Score": "62.23"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2019",
+		"Press Freedom Score": "61.66"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2017",
+		"Press Freedom Score": "36.48"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2018",
+		"Press Freedom Score": "35.36"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2019",
+		"Press Freedom Score": "36.38"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2017",
+		"Press Freedom Score": "41.44"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2018",
+		"Press Freedom Score": "40.53"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2019",
+		"Press Freedom Score": "42.23"
+	}
+]

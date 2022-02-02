@@ -1,0 +1,6994 @@
+[
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Zimbabwe",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.42",
+		"DEMOC.": "3.16",
+		"HAPPINESS": "3.692",
+		"Per capita GDP": "$2,147.00",
+		"% with tertiary educ.": "0.38",
+		"GRI": "2.8",
+		"Religiosity": "88%",
+		"SHI": "2.1",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.5",
+		"funct": {
+			" Of gov": "2"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "2.5",
+		"civil liberties": "3.24",
+		"Satisfaction with GDP per capita": "1.151",
+		"Social support": "1.479",
+		"Healthy life expectancy": "0.599",
+		"Freedom to make life choices": "0.399",
+		"Generosity": "0.065",
+		"Perceptions of corruption": "0.025"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Zambia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "5.61",
+		"HAPPINESS": "4.377",
+		"Per capita GDP": "$1,539.90",
+		"% with tertiary educ.": "0.49",
+		"GRI": "3.2",
+		"Religiosity": "95%",
+		"SHI": "2",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.17",
+		"funct": {
+			" Of gov": "4.64"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "5.63",
+		"civil liberties": "4.41",
+		"Satisfaction with GDP per capita": "0.493",
+		"Social support": "1.048",
+		"Healthy life expectancy": "0.454",
+		"Freedom to make life choices": "0.504",
+		"Generosity": "0.352",
+		"Perceptions of corruption": "0.055"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Yemen",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "1.95",
+		"HAPPINESS": "3.355",
+		"Per capita GDP": "$944.41",
+		"% with tertiary educ.": "1.5",
+		"GRI": "4.7",
+		"Religiosity": "99%",
+		"SHI": "7.2",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "0"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "5.63",
+		"civil liberties": "3.24",
+		"Satisfaction with GDP per capita": "0.357",
+		"Social support": "1.094",
+		"Healthy life expectancy": "0.248",
+		"Freedom to make life choices": "0.406",
+		"Generosity": "0.132",
+		"Perceptions of corruption": "0.099"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Vietnam",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "3.89",
+		"DEMOC.": "3.08",
+		"HAPPINESS": "5.103",
+		"Per capita GDP": "$2,563.82",
+		"% with tertiary educ.": "3.27",
+		"GRI": "7.6",
+		"Religiosity": "30%",
+		"SHI": "1.5",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": "3.21"
+		},
+		"political culture": "3.75",
+		"civil liberties": "4.41",
+		"Satisfaction with GDP per capita": "0.689",
+		"Social support": "1.172",
+		"Healthy life expectancy": "0.048",
+		"Freedom to make life choices": "0.462",
+		"Generosity": "0.201",
+		"Perceptions of corruption": "0.032"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Venezuela",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.83",
+		"DEMOC.": "3.16",
+		"HAPPINESS": "4.806",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "2.96",
+		"GRI": "3.9",
+		"Religiosity": "79%",
+		"SHI": "1.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "1.67",
+		"funct": {
+			" Of gov": "1.79"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "5",
+		"civil liberties": "2.94",
+		"Satisfaction with GDP per capita": "0.985",
+		"Social support": "1.35",
+		"Healthy life expectancy": "0.553",
+		"Freedom to make life choices": "0.496",
+		"Generosity": "0.116",
+		"Perceptions of corruption": "0.148"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "melanesia",
+		"country": "Vanuatu",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.89",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$3,033.41",
+		"% with tertiary educ.": "",
+		"GRI": "1.5",
+		"Religiosity": "",
+		"SHI": "0.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "0",
+		"Social support": "0.712",
+		"Healthy life expectancy": "0.115",
+		"Freedom to make life choices": "0.674",
+		"Generosity": "0.238",
+		"Perceptions of corruption": "0.282"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "9. C. Asia",
+		"country": "Uzbekistan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "2.01",
+		"HAPPINESS": "6.096",
+		"Per capita GDP": "$1,532.37",
+		"% with tertiary educ.": "",
+		"GRI": "8",
+		"Religiosity": "59%",
+		"SHI": "1.7",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.08",
+		"funct": {
+			" Of gov": "1.86"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "5.63",
+		"civil liberties": "3.82",
+		"Satisfaction with GDP per capita": "1.649",
+		"Social support": "1.303",
+		"Healthy life expectancy": "0.748",
+		"Freedom to make life choices": "0.654",
+		"Generosity": "0.256",
+		"Perceptions of corruption": "0.171"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Uruguay",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.5",
+		"DEMOC.": "8.38",
+		"HAPPINESS": "6.379",
+		"Per capita GDP": "$17,277.97",
+		"% with tertiary educ.": "3.5",
+		"GRI": "1.1",
+		"Religiosity": "41%",
+		"SHI": "1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "8.57"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "2.5",
+		"civil liberties": "3.82",
+		"Satisfaction with GDP per capita": "0.332",
+		"Social support": "0.537",
+		"Healthy life expectancy": "0.255",
+		"Freedom to make life choices": "0.085",
+		"Generosity": "0.191",
+		"Perceptions of corruption": "0.036"
+	},
+	{
+		"continent": "america",
+		"sub contient": "16. N. America",
+		"country": "United States",
+		"Predom": {
+			" Religion": "c"
+		},
+		"SOGI-LI": "6.6",
+		"DEMOC.": "7.96",
+		"HAPPINESS": "6.886",
+		"Per capita GDP": "$62,641.01",
+		"% with tertiary educ.": "26.76",
+		"GRI": "3.3",
+		"Religiosity": "69%",
+		"SHI": "4.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "7.14"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "5",
+		"civil liberties": "2.65",
+		"Satisfaction with GDP per capita": "2.096",
+		"Social support": "0.776",
+		"Healthy life expectancy": "0.67",
+		"Freedom to make life choices": "0.284",
+		"Generosity": "0.186",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "21. W. Europe",
+		"country": "United Kingdom",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "10",
+		"DEMOC.": "8.53",
+		"HAPPINESS": "6.814",
+		"Per capita GDP": "$42,491.36",
+		"% with tertiary educ.": "15.31",
+		"GRI": "2.6",
+		"Religiosity": "27%",
+		"SHI": "6.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "7.5"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "5",
+		"civil liberties": "0.88",
+		"Satisfaction with GDP per capita": "0.442",
+		"Social support": "1.073",
+		"Healthy life expectancy": "0.343",
+		"Freedom to make life choices": "0.244",
+		"Generosity": "0.083",
+		"Perceptions of corruption": "0.064"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "United Arab Emirates",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "2.76",
+		"HAPPINESS": "6.774",
+		"Per capita GDP": "$43,004.95",
+		"% with tertiary educ.": "8.54",
+		"GRI": "5.8",
+		"Religiosity": "91%",
+		"SHI": "1",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "3.93"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "3.13",
+		"civil liberties": "1.47",
+		"Satisfaction with GDP per capita": "1.379",
+		"Social support": "1.331",
+		"Healthy life expectancy": "0.633",
+		"Freedom to make life choices": "0.509",
+		"Generosity": "0.098",
+		"Perceptions of corruption": "0.127"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Ukraine",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.67",
+		"DEMOC.": "5.69",
+		"HAPPINESS": "4.103",
+		"Per capita GDP": "$3,095.17",
+		"% with tertiary educ.": "24.55",
+		"GRI": "3.8",
+		"Religiosity": "46%",
+		"SHI": "7.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.17",
+		"funct": {
+			" Of gov": "3.21"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "polyneisa",
+		"country": "Tuvalu",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$3,700.71",
+		"% with tertiary educ.": "",
+		"GRI": "2",
+		"Religiosity": "",
+		"SHI": "2.8",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "3.13",
+		"civil liberties": "2.35",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "9. C. Asia",
+		"country": "Turkmenistan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "1.72",
+		"HAPPINESS": "5.636",
+		"Per capita GDP": "$6,966.64",
+		"% with tertiary educ.": "",
+		"GRI": "7.9",
+		"Religiosity": "80%",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "0.79"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "6.25",
+		"civil liberties": "8.53",
+		"Satisfaction with GDP per capita": "0.819",
+		"Social support": "1.493",
+		"Healthy life expectancy": "0.693",
+		"Freedom to make life choices": "0.575",
+		"Generosity": "0.096",
+		"Perceptions of corruption": "0.031"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "13. Eurasia",
+		"country": "Turkey",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "3.06",
+		"DEMOC.": "4.37",
+		"HAPPINESS": "5.483",
+		"Per capita GDP": "$9,311.37",
+		"% with tertiary educ.": "5.28",
+		"GRI": "7.1",
+		"Religiosity": "82%",
+		"SHI": "5.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "4.5",
+		"funct": {
+			" Of gov": "5"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "6.25",
+		"civil liberties": "5.88",
+		"Satisfaction with GDP per capita": "0.9",
+		"Social support": "0.906",
+		"Healthy life expectancy": "0.69",
+		"Freedom to make life choices": "0.271",
+		"Generosity": "0.04",
+		"Perceptions of corruption": "0.063"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "3. N.Africa",
+		"country": "Tunisia",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "6.41",
+		"HAPPINESS": "4.592",
+		"Per capita GDP": "$3,446.61",
+		"% with tertiary educ.": "7.38",
+		"GRI": "",
+		"Religiosity": "93%",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "6.42",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "6.25",
+		"civil liberties": "6.47",
+		"Satisfaction with GDP per capita": "0.429",
+		"Social support": "1.117",
+		"Healthy life expectancy": "0.433",
+		"Freedom to make life choices": "0.406",
+		"Generosity": "0.138",
+		"Perceptions of corruption": "0.082"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Trinidad and Tobago",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "7.16",
+		"HAPPINESS": "",
+		"Per capita GDP": "$16,843.70",
+		"% with tertiary educ.": "6.48",
+		"GRI": "0.8",
+		"Religiosity": "92%",
+		"SHI": "1.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "7.14"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "6.88",
+		"civil liberties": "6.47",
+		"Satisfaction with GDP per capita": "0.562",
+		"Social support": "1.047",
+		"Healthy life expectancy": "0.295",
+		"Freedom to make life choices": "0.503",
+		"Generosity": "0.221",
+		"Perceptions of corruption": "0.082"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "polyneisa",
+		"country": "Tonga",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "",
+		"HAPPINESS": "6.192",
+		"Per capita GDP": "$4,364.02",
+		"% with tertiary educ.": "2.91",
+		"GRI": "1.6",
+		"Religiosity": "",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "6.25",
+		"civil liberties": "5.88",
+		"Satisfaction with GDP per capita": "0.186",
+		"Social support": "0.541",
+		"Healthy life expectancy": "0.306",
+		"Freedom to make life choices": "0.531",
+		"Generosity": "0.21",
+		"Perceptions of corruption": "0.08"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Togo",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.1",
+		"HAPPINESS": "3.999",
+		"Per capita GDP": "$671.84",
+		"% with tertiary educ.": "1.51",
+		"GRI": "2.1",
+		"Religiosity": "80%",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.17",
+		"funct": {
+			" Of gov": "0.79"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "5.63",
+		"civil liberties": "4.41",
+		"Satisfaction with GDP per capita": "0.455",
+		"Social support": "0.991",
+		"Healthy life expectancy": "0.381",
+		"Freedom to make life choices": "0.481",
+		"Generosity": "0.27",
+		"Perceptions of corruption": "0.097"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "The Gambia",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$712.45",
+		"% with tertiary educ.": "",
+		"GRI": "0.7",
+		"Religiosity": "",
+		"SHI": "3",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5.63",
+		"civil liberties": "5.59",
+		"Satisfaction with GDP per capita": "0.076",
+		"Social support": "0.858",
+		"Healthy life expectancy": "0.267",
+		"Freedom to make life choices": "0.419",
+		"Generosity": "0.206",
+		"Perceptions of corruption": "0.03"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "The Bahamas",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.06",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "",
+		"GRI": "3",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5.63",
+		"civil liberties": "4.41",
+		"Satisfaction with GDP per capita": "0.779",
+		"Social support": "0.797",
+		"Healthy life expectancy": "0.669",
+		"Freedom to make life choices": "0.46",
+		"Generosity": "0.026",
+		"Perceptions of corruption": "0.074"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Thailand",
+		"Predom": {
+			" Religion": "B"
+		},
+		"SOGI-LI": "6.25",
+		"DEMOC.": "4.63",
+		"HAPPINESS": "6.072",
+		"Per capita GDP": "$7,273.56",
+		"% with tertiary educ.": "10.47",
+		"GRI": "3.4",
+		"Religiosity": "97%",
+		"SHI": "3.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.5",
+		"same-sex coupleadoptions": "0.25",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "3",
+		"funct": {
+			" Of gov": "4.29"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "3.75",
+		"civil liberties": "2.94",
+		"Satisfaction with GDP per capita": "0.885",
+		"Social support": "1.025",
+		"Healthy life expectancy": "0.553",
+		"Freedom to make life choices": "0.312",
+		"Generosity": "0.092",
+		"Perceptions of corruption": "0.107"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "1. SE.Africa",
+		"country": "Tanzania",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "5.41",
+		"HAPPINESS": "3.303",
+		"Per capita GDP": "$1,050.68",
+		"% with tertiary educ.": "0.36",
+		"GRI": "4.7",
+		"Religiosity": "89%",
+		"SHI": "2.9",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7",
+		"funct": {
+			" Of gov": "5"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "5",
+		"civil liberties": "2.65",
+		"Satisfaction with GDP per capita": "0.308",
+		"Social support": "0.95",
+		"Healthy life expectancy": "0.391",
+		"Freedom to make life choices": "0.452",
+		"Generosity": "0.22",
+		"Perceptions of corruption": "0.146"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "9. C. Asia",
+		"country": "Tajikistan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "3.05",
+		"DEMOC.": "1.93",
+		"HAPPINESS": "5.199",
+		"Per capita GDP": "$826.62",
+		"% with tertiary educ.": "3.74",
+		"GRI": "7.5",
+		"Religiosity": "85%",
+		"SHI": "2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.08",
+		"funct": {
+			" Of gov": "0.79"
+		},
+		"polit": {
+			" Particpation": "1.67"
+		},
+		"political culture": "4.38",
+		"civil liberties": "2.65",
+		"Satisfaction with GDP per capita": "0.535",
+		"Social support": "0.891",
+		"Healthy life expectancy": "0.182",
+		"Freedom to make life choices": "0.454",
+		"Generosity": "0.183",
+		"Perceptions of corruption": "0.043"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "12. E. Asia",
+		"country": "Taiwan",
+		"Predom": {
+			" Religion": "B"
+		},
+		"SOGI-LI": "6.17",
+		"DEMOC.": "7.73",
+		"HAPPINESS": "6.441",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "",
+		"GRI": "1.7",
+		"Religiosity": "45%",
+		"SHI": "0.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "8.21"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "4.38",
+		"civil liberties": "2.94",
+		"Satisfaction with GDP per capita": "0.344",
+		"Social support": "0.792",
+		"Healthy life expectancy": "0.211",
+		"Freedom to make life choices": "0.394",
+		"Generosity": "0.185",
+		"Perceptions of corruption": "0.094"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Syria",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "1.43",
+		"HAPPINESS": "3.462",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "2.55",
+		"GRI": "8.3",
+		"Religiosity": "89%",
+		"SHI": "9",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "0"
+		},
+		"polit": {
+			" Particpation": "2.78"
+		},
+		"political culture": "5",
+		"civil liberties": "3.24",
+		"Satisfaction with GDP per capita": "0.259",
+		"Social support": "0.474",
+		"Healthy life expectancy": "0.253",
+		"Freedom to make life choices": "0.434",
+		"Generosity": "0.158",
+		"Perceptions of corruption": "0.101"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Switzerland",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "6.22",
+		"DEMOC.": "9.03",
+		"HAPPINESS": "7.487",
+		"Per capita GDP": "$82,838.93",
+		"% with tertiary educ.": "17.88",
+		"GRI": "2.5",
+		"Religiosity": "41%",
+		"SHI": "4.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.83",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "9.29"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "5.63",
+		"civil liberties": "3.53",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Sweden",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "10",
+		"DEMOC.": "9.39",
+		"HAPPINESS": "7.314",
+		"Per capita GDP": "$54,111.97",
+		"% with tertiary educ.": "14.93",
+		"GRI": "2.3",
+		"Religiosity": "17%",
+		"SHI": "4.5",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "9.64"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "6.88",
+		"civil liberties": "1.18",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Suriname",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "3.22",
+		"DEMOC.": "6.98",
+		"HAPPINESS": "",
+		"Per capita GDP": "$5,950.21",
+		"% with tertiary educ.": "",
+		"GRI": "0.9",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "6.43"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5",
+		"civil liberties": "2.35",
+		"Satisfaction with GDP per capita": "0.091",
+		"Social support": "0.627",
+		"Healthy life expectancy": "0.145",
+		"Freedom to make life choices": "0.065",
+		"Generosity": "0.149",
+		"Perceptions of corruption": "0.076"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "11. S. Asia",
+		"country": "Sri Lanka",
+		"Predom": {
+			" Religion": "B"
+		},
+		"SOGI-LI": "2.64",
+		"DEMOC.": "6.19",
+		"HAPPINESS": "4.471",
+		"Per capita GDP": "$4,102.48",
+		"% with tertiary educ.": "8.51",
+		"GRI": "3.8",
+		"Religiosity": "99%",
+		"SHI": "5.6",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.25",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "7.83",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "3.75",
+		"civil liberties": "2.65",
+		"Satisfaction with GDP per capita": "0.358",
+		"Social support": "0.907",
+		"Healthy life expectancy": "0.053",
+		"Freedom to make life choices": "0.189",
+		"Generosity": "0.181",
+		"Perceptions of corruption": "0.06"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Spain",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "7.5",
+		"DEMOC.": "8.08",
+		"HAPPINESS": "6.31",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "14.96",
+		"GRI": "4.5",
+		"Religiosity": "49%",
+		"SHI": "4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "7.14"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "12. E. Asia",
+		"country": "South Korea",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "3.06",
+		"DEMOC.": "8",
+		"HAPPINESS": "5.875",
+		"Per capita GDP": "$31,362.75",
+		"% with tertiary educ.": "30.04",
+		"GRI": "2.4",
+		"Religiosity": "43%",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "7.86"
+		},
+		"polit": {
+			" Particpation": "7.22"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "0.256",
+		"Social support": "0.813",
+		"Healthy life expectancy": "0",
+		"Freedom to make life choices": "0.355",
+		"Generosity": "0.238",
+		"Perceptions of corruption": "0.053"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "South Africa",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "7.67",
+		"DEMOC.": "7.24",
+		"HAPPINESS": "4.724",
+		"Per capita GDP": "$6,339.57",
+		"% with tertiary educ.": "0.32",
+		"GRI": "0.9",
+		"Religiosity": "85%",
+		"SHI": "2.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "7.42",
+		"funct": {
+			" Of gov": "7.5"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "4.38",
+		"civil liberties": "3.53",
+		"Satisfaction with GDP per capita": "1.474",
+		"Social support": "1.301",
+		"Healthy life expectancy": "0.675",
+		"Freedom to make life choices": "0.554",
+		"Generosity": "0.167",
+		"Perceptions of corruption": "0.106"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "2. Horn Africa",
+		"country": "Somalia",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "",
+		"HAPPINESS": "4.982",
+		"Per capita GDP": "$498.66",
+		"% with tertiary educ.": "",
+		"GRI": "4.4",
+		"Religiosity": "100%",
+		"SHI": "7.1",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5.63",
+		"civil liberties": "2.06",
+		"Satisfaction with GDP per capita": "0.682",
+		"Social support": "1.174",
+		"Healthy life expectancy": "0.429",
+		"Freedom to make life choices": "0.58",
+		"Generosity": "0.598",
+		"Perceptions of corruption": "0.178"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "melanesia",
+		"country": "Solomon Islands",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$2,162.65",
+		"% with tertiary educ.": "",
+		"GRI": "1",
+		"Religiosity": "",
+		"SHI": "2.1",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "4.38",
+		"civil liberties": "4.12",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Slovenia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "7.22",
+		"DEMOC.": "7.5",
+		"HAPPINESS": "5.948",
+		"Per capita GDP": "$26,234.02",
+		"% with tertiary educ.": "13.25",
+		"GRI": "2.6",
+		"Religiosity": "47%",
+		"SHI": "0.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "6.79"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5",
+		"civil liberties": "0.88",
+		"Satisfaction with GDP per capita": "0.719",
+		"Social support": "1.584",
+		"Healthy life expectancy": "0.605",
+		"Freedom to make life choices": "0.724",
+		"Generosity": "0.328",
+		"Perceptions of corruption": "0.259"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Slovakia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "4.33",
+		"DEMOC.": "7.1",
+		"HAPPINESS": "6.173",
+		"Per capita GDP": "$19,546.90",
+		"% with tertiary educ.": "8.76",
+		"GRI": "3",
+		"Religiosity": "47%",
+		"SHI": "2.7",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "6.79"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "5",
+		"civil liberties": "0.59",
+		"Satisfaction with GDP per capita": "1.016",
+		"Social support": "1.533",
+		"Healthy life expectancy": "0.517",
+		"Freedom to make life choices": "0.417",
+		"Generosity": "0.199",
+		"Perceptions of corruption": "0.037"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Singapore",
+		"Predom": {
+			" Religion": "N"
+		},
+		"SOGI-LI": "2.64",
+		"DEMOC.": "6.38",
+		"HAPPINESS": "6.343",
+		"Per capita GDP": "$64,581.94",
+		"% with tertiary educ.": "29.71",
+		"GRI": "7.1",
+		"Religiosity": "70%",
+		"SHI": "1.9",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.25",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "4.33",
+		"funct": {
+			" Of gov": "7.86"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Sierra Leone",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "",
+		"HAPPINESS": "4.571",
+		"Per capita GDP": "$522.86",
+		"% with tertiary educ.": "1.22",
+		"GRI": "3.4",
+		"Religiosity": "",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5.63",
+		"civil liberties": "7.65",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "Ind. Ocea",
+		"country": "Seychelles",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.56",
+		"DEMOC.": "4.66",
+		"HAPPINESS": "",
+		"Per capita GDP": "$16,433.94",
+		"% with tertiary educ.": "",
+		"GRI": "2.6",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.58",
+		"funct": {
+			" Of gov": "1.86"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "5",
+		"civil liberties": "7.35",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Serbia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "6.33",
+		"DEMOC.": "6.41",
+		"HAPPINESS": "5.398",
+		"Per capita GDP": "$7,234.00",
+		"% with tertiary educ.": "8.97",
+		"GRI": "4.2",
+		"Religiosity": "",
+		"SHI": "1.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.8",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.25",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "6.25",
+		"civil liberties": "6.18",
+		"Satisfaction with GDP per capita": "0.592",
+		"Social support": "0.896",
+		"Healthy life expectancy": "0.337",
+		"Freedom to make life choices": "0.499",
+		"Generosity": "0.212",
+		"Perceptions of corruption": "0.029"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Senegal",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "6.15",
+		"HAPPINESS": "4.631",
+		"Per capita GDP": "$1,521.95",
+		"% with tertiary educ.": "1.25",
+		"GRI": "1.2",
+		"Religiosity": "98%",
+		"SHI": "1",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "7.5",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Saudi Arabia",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "1.93",
+		"HAPPINESS": "6.371",
+		"Per capita GDP": "$23,219.13",
+		"% with tertiary educ.": "6.67",
+		"GRI": "7.8",
+		"Religiosity": "",
+		"SHI": "4.7",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "2.86"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "8.75",
+		"civil liberties": "9.41",
+		"Satisfaction with GDP per capita": "0.557",
+		"Social support": "1.245",
+		"Healthy life expectancy": "0.292",
+		"Freedom to make life choices": "0.129",
+		"Generosity": "0.134",
+		"Perceptions of corruption": "0.093"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "5. C.Africa",
+		"country": "São Tomé and Príncipe",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$2,001.14",
+		"% with tertiary educ.": "",
+		"GRI": "0.5",
+		"Religiosity": "54%",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5",
+		"civil liberties": "3.82",
+		"Satisfaction with GDP per capita": "0.979",
+		"Social support": "1.154",
+		"Healthy life expectancy": "0.687",
+		"Freedom to make life choices": "0.077",
+		"Generosity": "0.055",
+		"Perceptions of corruption": "0.135"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "San Marino",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "4.72",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "",
+		"GRI": "0.6",
+		"Religiosity": "96%",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "polyneisa",
+		"country": "Samoa",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.56",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$4,392.47",
+		"% with tertiary educ.": "",
+		"GRI": "1.3",
+		"Religiosity": "93%",
+		"SHI": "2.8",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "africa",
+		"sub contient": "1. SE.Africa",
+		"country": "Rwanda",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.67",
+		"DEMOC.": "3.35",
+		"HAPPINESS": "3.408",
+		"Per capita GDP": "$772.97",
+		"% with tertiary educ.": "0.53",
+		"GRI": "3.7",
+		"Religiosity": "95%",
+		"SHI": "2.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "1.67",
+		"funct": {
+			" Of gov": "5"
+		},
+		"polit": {
+			" Particpation": "2.78"
+		},
+		"political culture": "4.38",
+		"civil liberties": "3.82",
+		"Satisfaction with GDP per capita": "0.796",
+		"Social support": "1.335",
+		"Healthy life expectancy": "0.527",
+		"Freedom to make life choices": "0.541",
+		"Generosity": "0.364",
+		"Perceptions of corruption": "0.171"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Russia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.14",
+		"DEMOC.": "2.94",
+		"HAPPINESS": "5.81",
+		"Per capita GDP": "$11,288.87",
+		"% with tertiary educ.": "24.74",
+		"GRI": "8.1",
+		"Religiosity": "34%",
+		"SHI": "6.3",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "2.17",
+		"funct": {
+			" Of gov": "1.79"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "3.13",
+		"civil liberties": "1.47",
+		"Satisfaction with GDP per capita": "1.059",
+		"Social support": "0.771",
+		"Healthy life expectancy": "0.691",
+		"Freedom to make life choices": "0.459",
+		"Generosity": "0.282",
+		"Perceptions of corruption": "0.129"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Romania",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "4.89",
+		"DEMOC.": "6.38",
+		"HAPPINESS": "5.945",
+		"Per capita GDP": "$12,301.19",
+		"% with tertiary educ.": "6.61",
+		"GRI": "4.8",
+		"Religiosity": "84%",
+		"SHI": "3.7",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "4.38",
+		"civil liberties": "0",
+		"Satisfaction with GDP per capita": "0.689",
+		"Social support": "0.382",
+		"Healthy life expectancy": "0.539",
+		"Freedom to make life choices": "0.088",
+		"Generosity": "0.376",
+		"Perceptions of corruption": "0.144"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Qatar",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "3.19",
+		"HAPPINESS": "6.374",
+		"Per capita GDP": "$69,026.47",
+		"% with tertiary educ.": "10.05",
+		"GRI": "5.6",
+		"Religiosity": "95%",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "4.29"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Portugal",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.17",
+		"DEMOC.": "7.84",
+		"HAPPINESS": "5.41",
+		"Per capita GDP": "$23,145.73",
+		"% with tertiary educ.": "3.26",
+		"GRI": "1",
+		"Religiosity": "72%",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "7.5"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Poland",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.67",
+		"DEMOC.": "6.67",
+		"HAPPINESS": "6.123",
+		"Per capita GDP": "$15,424.05",
+		"% with tertiary educ.": "11.37",
+		"GRI": "2.9",
+		"Religiosity": "75%",
+		"SHI": "2.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "1.223",
+		"Social support": "1.492",
+		"Healthy life expectancy": "0.564",
+		"Freedom to make life choices": "0.575",
+		"Generosity": "0.171",
+		"Perceptions of corruption": "0.019"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Philippines",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "5.67",
+		"DEMOC.": "6.71",
+		"HAPPINESS": "5.524",
+		"Per capita GDP": "$3,102.71",
+		"% with tertiary educ.": "5.48",
+		"GRI": "1",
+		"Religiosity": "96%",
+		"SHI": "4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.5",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "1",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "7.22"
+		},
+		"political culture": "5.63",
+		"civil liberties": "5",
+		"Satisfaction with GDP per capita": "0.314",
+		"Social support": "1.097",
+		"Healthy life expectancy": "0.254",
+		"Freedom to make life choices": "0.312",
+		"Generosity": "0.175",
+		"Perceptions of corruption": "0.128"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Peru",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "5.56",
+		"DEMOC.": "6.6",
+		"HAPPINESS": "5.663",
+		"Per capita GDP": "$6,947.26",
+		"% with tertiary educ.": "12.27",
+		"GRI": "2",
+		"Religiosity": "84%",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "4.38",
+		"civil liberties": "2.94",
+		"Satisfaction with GDP per capita": "0.332",
+		"Social support": "0.896",
+		"Healthy life expectancy": "0.4",
+		"Freedom to make life choices": "0.636",
+		"Generosity": "0.2",
+		"Perceptions of corruption": "0.444"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Paraguay",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.5",
+		"DEMOC.": "6.24",
+		"HAPPINESS": "5.681",
+		"Per capita GDP": "$5,871.47",
+		"% with tertiary educ.": "3.88",
+		"GRI": "1.9",
+		"Religiosity": "92%",
+		"SHI": "1.5",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.75",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "1.88",
+		"civil liberties": "2.35",
+		"Satisfaction with GDP per capita": "0.024",
+		"Social support": "0",
+		"Healthy life expectancy": "0.01",
+		"Freedom to make life choices": "0.305",
+		"Generosity": "0.218",
+		"Perceptions of corruption": "0.038"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "melanesia",
+		"country": "Papua New Guinea",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "6.03",
+		"HAPPINESS": "",
+		"Per capita GDP": "$2,722.60",
+		"% with tertiary educ.": "0.54",
+		"GRI": "1.4",
+		"Religiosity": "",
+		"SHI": "2.4",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "6.92",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "3.13",
+		"civil liberties": "0.88",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "14. C. America",
+		"country": "Panama",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.89",
+		"DEMOC.": "7.05",
+		"HAPPINESS": "6.43",
+		"Per capita GDP": "$15,575.07",
+		"% with tertiary educ.": "14.37",
+		"GRI": "2.6",
+		"Religiosity": "88%",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5.63",
+		"civil liberties": "3.24",
+		"Satisfaction with GDP per capita": "0.549",
+		"Social support": "1.088",
+		"Healthy life expectancy": "0.457",
+		"Freedom to make life choices": "0.696",
+		"Generosity": "0.256",
+		"Perceptions of corruption": "0.065"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "micronesia",
+		"country": "Palau",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.67",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$17,317.87",
+		"% with tertiary educ.": "",
+		"GRI": "0.4",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "2.5",
+		"civil liberties": "5.59",
+		"Satisfaction with GDP per capita": "0.816",
+		"Social support": "0.99",
+		"Healthy life expectancy": "0.666",
+		"Freedom to make life choices": "0.26",
+		"Generosity": "0.077",
+		"Perceptions of corruption": "0.028"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "11. S. Asia",
+		"country": "Pakistan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "3.06",
+		"DEMOC.": "4.17",
+		"HAPPINESS": "5.472",
+		"Per capita GDP": "$1,472.89",
+		"% with tertiary educ.": "4.43",
+		"GRI": "6.6",
+		"Religiosity": "92%",
+		"SHI": "7.7",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "1",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.08",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Oman",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.04",
+		"HAPPINESS": "",
+		"Per capita GDP": "$16,418.93",
+		"% with tertiary educ.": "",
+		"GRI": "5.4",
+		"Religiosity": "",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "3.93"
+		},
+		"polit": {
+			" Particpation": "2.78"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Norway",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "10",
+		"DEMOC.": "9.87",
+		"HAPPINESS": "7.594",
+		"Per capita GDP": "$81,807.20",
+		"% with tertiary educ.": "",
+		"GRI": "2.9",
+		"Religiosity": "21%",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "9.64"
+		},
+		"polit": {
+			" Particpation": "10"
+		},
+		"political culture": "4.38",
+		"civil liberties": "5",
+		"Satisfaction with GDP per capita": "0.532",
+		"Social support": "0.85",
+		"Healthy life expectancy": "0.579",
+		"Freedom to make life choices": "0.58",
+		"Generosity": "0.153",
+		"Perceptions of corruption": "0.144"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Nigeria",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "4.44",
+		"HAPPINESS": "5.155",
+		"Per capita GDP": "$2,028.18",
+		"% with tertiary educ.": "",
+		"GRI": "4.9",
+		"Religiosity": "96%",
+		"SHI": "8.1",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.08",
+		"funct": {
+			" Of gov": "4.64"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "5.63",
+		"civil liberties": "4.71",
+		"Satisfaction with GDP per capita": "0.965",
+		"Social support": "1.179",
+		"Healthy life expectancy": "0.785",
+		"Freedom to make life choices": "0.503",
+		"Generosity": "0.214",
+		"Perceptions of corruption": "0.136"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Niger",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "3.76",
+		"HAPPINESS": "4.166",
+		"Per capita GDP": "$411.69",
+		"% with tertiary educ.": "0.51",
+		"GRI": "3.7",
+		"Religiosity": "100%",
+		"SHI": "3.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "5.25",
+		"funct": {
+			" Of gov": "1.14"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "3.75",
+		"civil liberties": "3.82",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "14. C. America",
+		"country": "Nicaragua",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.22",
+		"DEMOC.": "3.63",
+		"HAPPINESS": "6.141",
+		"Per capita GDP": "$2,028.90",
+		"% with tertiary educ.": "10.33",
+		"GRI": "1.7",
+		"Religiosity": "84%",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "2.67",
+		"funct": {
+			" Of gov": "1.86"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.82",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "22. Oceana",
+		"country": "New Zealand",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.17",
+		"DEMOC.": "9.26",
+		"HAPPINESS": "7.324",
+		"Per capita GDP": "$41,966.01",
+		"% with tertiary educ.": "15.5",
+		"GRI": "0.3",
+		"Religiosity": "33%",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "9.29"
+		},
+		"polit": {
+			" Particpation": "8.89"
+		},
+		"political culture": "5.63",
+		"civil liberties": "5.88",
+		"Satisfaction with GDP per capita": "0.378",
+		"Social support": "0.372",
+		"Healthy life expectancy": "0.24",
+		"Freedom to make life choices": "0.44",
+		"Generosity": "0.163",
+		"Perceptions of corruption": "0.067"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "21. W. Europe",
+		"country": "Netherlands",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.17",
+		"DEMOC.": "8.89",
+		"HAPPINESS": "7.441",
+		"Per capita GDP": "$52,978.44",
+		"% with tertiary educ.": "15.63",
+		"GRI": "2.6",
+		"Religiosity": "33%",
+		"SHI": "2.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "9.29"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "5.63",
+		"civil liberties": "6.18",
+		"Satisfaction with GDP per capita": "0.37",
+		"Social support": "1.233",
+		"Healthy life expectancy": "0.152",
+		"Freedom to make life choices": "0.367",
+		"Generosity": "0.139",
+		"Perceptions of corruption": "0.056"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "11. S. Asia",
+		"country": "Nepal H",
+		"Predom": {
+			" Religion": "H"
+		},
+		"SOGI-LI": "4.22",
+		"DEMOC.": "5.18",
+		"HAPPINESS": "4.88",
+		"Per capita GDP": "$1,025.80",
+		"% with tertiary educ.": "1.75",
+		"GRI": "4.6",
+		"Religiosity": "93%",
+		"SHI": "4.7",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "1",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "4.33",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "4.38",
+		"civil liberties": "4.71",
+		"Satisfaction with GDP per capita": "0.131",
+		"Social support": "0.867",
+		"Healthy life expectancy": "0.221",
+		"Freedom to make life choices": "0.39",
+		"Generosity": "0.175",
+		"Perceptions of corruption": "0.099"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "micronesia",
+		"country": "Nauru",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$9,030.07",
+		"% with tertiary educ.": "",
+		"GRI": "1.5",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5",
+		"civil liberties": "3.82",
+		"Satisfaction with GDP per capita": "1.036",
+		"Social support": "1.164",
+		"Healthy life expectancy": "0.404",
+		"Freedom to make life choices": "0.356",
+		"Generosity": "0.032",
+		"Perceptions of corruption": "0.052"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Namibia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.64",
+		"DEMOC.": "6.25",
+		"HAPPINESS": "4.441",
+		"Per capita GDP": "$5,931.45",
+		"% with tertiary educ.": "0.76",
+		"GRI": "0.9",
+		"Religiosity": "92%",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "0.75",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "5.67",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5.63",
+		"civil liberties": "2.65",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Myanmar",
+		"Predom": {
+			" Religion": "B"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.83",
+		"HAPPINESS": "4.308",
+		"Per capita GDP": "$1,325.95",
+		"% with tertiary educ.": "5.15",
+		"GRI": "",
+		"Religiosity": "97%",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.67",
+		"funct": {
+			" Of gov": "3.93"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "4.38",
+		"civil liberties": "1.47",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Mozambique",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.56",
+		"DEMOC.": "3.85",
+		"HAPPINESS": "4.417",
+		"Per capita GDP": "$490.17",
+		"% with tertiary educ.": "0.26",
+		"GRI": "1.4",
+		"Religiosity": "86%",
+		"SHI": "2.5",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.58",
+		"funct": {
+			" Of gov": "2.14"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "africa",
+		"sub contient": "3. N.Africa",
+		"country": "Morocco",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "4.99",
+		"HAPPINESS": "5.254",
+		"Per capita GDP": "$3,237.88",
+		"% with tertiary educ.": "5.35",
+		"GRI": "7",
+		"Religiosity": "97%",
+		"SHI": "3",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "5.25",
+		"funct": {
+			" Of gov": "4.64"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "5.63",
+		"civil liberties": "7.35",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Montenegro",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "5",
+		"DEMOC.": "5.74",
+		"HAPPINESS": "5.347",
+		"Per capita GDP": "$8,760.69",
+		"% with tertiary educ.": "",
+		"GRI": "2.2",
+		"Religiosity": "71%",
+		"SHI": "1.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.08",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "5.63",
+		"civil liberties": "5.59",
+		"Satisfaction with GDP per capita": "0.899",
+		"Social support": "1.215",
+		"Healthy life expectancy": "0.522",
+		"Freedom to make life choices": "0.538",
+		"Generosity": "0.484",
+		"Perceptions of corruption": "0.018"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "12. E. Asia",
+		"country": "Mongolia",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "5.06",
+		"DEMOC.": "6.5",
+		"HAPPINESS": "5.125",
+		"Per capita GDP": "$4,103.70",
+		"% with tertiary educ.": "19.66",
+		"GRI": "3.1",
+		"Religiosity": "",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "5.63",
+		"civil liberties": "4.71",
+		"Satisfaction with GDP per capita": "0.262",
+		"Social support": "0.908",
+		"Healthy life expectancy": "0.402",
+		"Freedom to make life choices": "0.221",
+		"Generosity": "0.155",
+		"Perceptions of corruption": "0.049"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Moldova",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.67",
+		"DEMOC.": "5.85",
+		"HAPPINESS": "5.64",
+		"Per capita GDP": "$3,189.36",
+		"% with tertiary educ.": "8.76",
+		"GRI": "4.4",
+		"Religiosity": "72%",
+		"SHI": "4.5",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7.08",
+		"funct": {
+			" Of gov": "4.64"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "5",
+		"civil liberties": "3.82",
+		"Satisfaction with GDP per capita": "1.01",
+		"Social support": "0.971",
+		"Healthy life expectancy": "0.536",
+		"Freedom to make life choices": "0.304",
+		"Generosity": "0.148",
+		"Perceptions of corruption": "0.095"
+	},
+	{
+		"continent": "america",
+		"sub contient": "16. N. America",
+		"country": "Mexico",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.42",
+		"DEMOC.": "6.19",
+		"HAPPINESS": "6.488",
+		"Per capita GDP": "$9,698.08",
+		"% with tertiary educ.": "9.81",
+		"GRI": "4.1",
+		"Religiosity": "73%",
+		"SHI": "5.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "0.8",
+		"gender ID markers": "0.25",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.33",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "7.22"
+		},
+		"political culture": "4.38",
+		"civil liberties": "2.35",
+		"Satisfaction with GDP per capita": "1.338",
+		"Social support": "1.366",
+		"Healthy life expectancy": "0.698",
+		"Freedom to make life choices": "0.594",
+		"Generosity": "0.243",
+		"Perceptions of corruption": "0.123"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Mauritania",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "8.22",
+		"HAPPINESS": "4.356",
+		"Per capita GDP": "$1,218.60",
+		"% with tertiary educ.": "",
+		"GRI": "6.7",
+		"Religiosity": "98%",
+		"SHI": "2.1",
+		"legality of sam-sex sexual-activity": "0.1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "0",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "8.21"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "5",
+		"civil liberties": "1.47",
+		"Satisfaction with GDP per capita": "0.72",
+		"Social support": "1.034",
+		"Healthy life expectancy": "0.441",
+		"Freedom to make life choices": "0.626",
+		"Generosity": "0.23",
+		"Perceptions of corruption": "0.174"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Martinique",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "6.17",
+		"DEMOC.": "3.82",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "1.88",
+		"GRI": "",
+		"Religiosity": "",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3",
+		"funct": {
+			" Of gov": "3.57"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "micronesia",
+		"country": "Marshall Islands",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$3,621.17",
+		"% with tertiary educ.": "0.97",
+		"GRI": "0.6",
+		"Religiosity": "",
+		"SHI": "0.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "3.75",
+		"civil liberties": "3.53",
+		"Satisfaction with GDP per capita": "1.024",
+		"Social support": "1.161",
+		"Healthy life expectancy": "0.603",
+		"Freedom to make life choices": "0.43",
+		"Generosity": "0.031",
+		"Perceptions of corruption": "0.176"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Malta",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.33",
+		"DEMOC.": "8.21",
+		"HAPPINESS": "6.627",
+		"Per capita GDP": "$30,074.74",
+		"% with tertiary educ.": "10.52",
+		"GRI": "2.1",
+		"Religiosity": "86%",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "8.21"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Mali",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "5.41",
+		"HAPPINESS": "4.447",
+		"Per capita GDP": "$901.40",
+		"% with tertiary educ.": "0.78",
+		"GRI": "1.2",
+		"Religiosity": "95%",
+		"SHI": "5.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7.42",
+		"funct": {
+			" Of gov": "3.93"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "11. S. Asia",
+		"country": "Maldives",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$10,223.64",
+		"% with tertiary educ.": "0.25",
+		"GRI": "8.2",
+		"Religiosity": "",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "4.38",
+		"civil liberties": "7.35",
+		"Satisfaction with GDP per capita": "0.835",
+		"Social support": "1.522",
+		"Healthy life expectancy": "0.615",
+		"Freedom to make life choices": "0.541",
+		"Generosity": "0.162",
+		"Perceptions of corruption": "0.074"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Malaysia",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.64",
+		"DEMOC.": "6.88",
+		"HAPPINESS": "6.322",
+		"Per capita GDP": "$11,238.96",
+		"% with tertiary educ.": "5.81",
+		"GRI": "8.3",
+		"Religiosity": "96%",
+		"SHI": "4.5",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "7.75",
+		"funct": {
+			" Of gov": "7.86"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "4.38",
+		"civil liberties": "5",
+		"Satisfaction with GDP per capita": "0.53",
+		"Social support": "1.416",
+		"Healthy life expectancy": "0.594",
+		"Freedom to make life choices": "0.54",
+		"Generosity": "0.281",
+		"Perceptions of corruption": "0.035"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Malawi",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "5.49",
+		"HAPPINESS": "3.587",
+		"Per capita GDP": "$389.40",
+		"% with tertiary educ.": "0.15",
+		"GRI": "2.1",
+		"Religiosity": "99%",
+		"SHI": "1.5",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.58",
+		"funct": {
+			" Of gov": "4.29"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "5",
+		"civil liberties": "3.53",
+		"Satisfaction with GDP per capita": "0.198",
+		"Social support": "0.902",
+		"Healthy life expectancy": "0.173",
+		"Freedom to make life choices": "0.531",
+		"Generosity": "0.206",
+		"Perceptions of corruption": "0.158"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "Ind. Ocea",
+		"country": "Madagascar",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "5.22",
+		"HAPPINESS": "3.774",
+		"Per capita GDP": "$460.75",
+		"% with tertiary educ.": "",
+		"GRI": "",
+		"Religiosity": "93%",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.08",
+		"funct": {
+			" Of gov": "3.57"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "4.38",
+		"civil liberties": "6.47",
+		"Satisfaction with GDP per capita": "0.781",
+		"Social support": "1.268",
+		"Healthy life expectancy": "0.608",
+		"Freedom to make life choices": "0.604",
+		"Generosity": "0.179",
+		"Perceptions of corruption": "0.071"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "12. E. Asia",
+		"country": "Macau",
+		"Predom": {
+			" Religion": "I"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$86,355.41",
+		"% with tertiary educ.": "10.43",
+		"GRI": "1",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "6.25",
+		"civil liberties": "5.29",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "21. W. Europe",
+		"country": "Luxembourg",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.33",
+		"DEMOC.": "8.81",
+		"HAPPINESS": "6.91",
+		"Per capita GDP": "$114,340.50",
+		"% with tertiary educ.": "18.54",
+		"GRI": "2.5",
+		"Religiosity": "39%",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "8.93"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Lithuania",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "5",
+		"DEMOC.": "7.5",
+		"HAPPINESS": "5.952",
+		"Per capita GDP": "$19,089.71",
+		"% with tertiary educ.": "15.6",
+		"GRI": "2.5",
+		"Religiosity": "42%",
+		"SHI": "0.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "6.43"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "africa",
+		"sub contient": "3. N.Africa",
+		"country": "Libya",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "2.19",
+		"HAPPINESS": "5.566",
+		"Per capita GDP": "$7,235.03",
+		"% with tertiary educ.": "11.89",
+		"GRI": "4.1",
+		"Religiosity": "",
+		"SHI": "7.1",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "1",
+		"funct": {
+			" Of gov": "0.36"
+		},
+		"polit": {
+			" Particpation": "1.67"
+		},
+		"political culture": "5.63",
+		"civil liberties": "6.76",
+		"Satisfaction with GDP per capita": "0.472",
+		"Social support": "1.215",
+		"Healthy life expectancy": "0.079",
+		"Freedom to make life choices": "0.423",
+		"Generosity": "0.116",
+		"Perceptions of corruption": "0.112"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Liberia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "5.35",
+		"HAPPINESS": "3.495",
+		"Per capita GDP": "$674.21",
+		"% with tertiary educ.": "1.9",
+		"GRI": "2.6",
+		"Religiosity": "94%",
+		"SHI": "3.1",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7.42",
+		"funct": {
+			" Of gov": "2.57"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "5.63",
+		"civil liberties": "7.94",
+		"Satisfaction with GDP per capita": "0.874",
+		"Social support": "1.281",
+		"Healthy life expectancy": "0.365",
+		"Freedom to make life choices": "0.519",
+		"Generosity": "0.051",
+		"Perceptions of corruption": "0.064"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Lesotho",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.64",
+		"DEMOC.": "6.64",
+		"HAPPINESS": "3.808",
+		"Per capita GDP": "$1,324.28",
+		"% with tertiary educ.": "0.76",
+		"GRI": "0.7",
+		"Religiosity": "",
+		"SHI": "1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.25",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "6.25",
+		"civil liberties": "5.88",
+		"Satisfaction with GDP per capita": "1.161",
+		"Social support": "1.258",
+		"Healthy life expectancy": "0.669",
+		"Freedom to make life choices": "0.356",
+		"Generosity": "0.311",
+		"Perceptions of corruption": "0.059"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Lebanon",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "1.81",
+		"DEMOC.": "4.63",
+		"HAPPINESS": "5.358",
+		"Per capita GDP": "$8,269.79",
+		"% with tertiary educ.": "",
+		"GRI": "3.5",
+		"Religiosity": "87%",
+		"SHI": "5.2",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "3.92",
+		"funct": {
+			" Of gov": "2.21"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "6.25",
+		"civil liberties": "7.35",
+		"Satisfaction with GDP per capita": "1.529",
+		"Social support": "1.451",
+		"Healthy life expectancy": "1.008",
+		"Freedom to make life choices": "0.631",
+		"Generosity": "0.261",
+		"Perceptions of corruption": "0.457"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Latvia",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "5.33",
+		"DEMOC.": "7.38",
+		"HAPPINESS": "5.933",
+		"Per capita GDP": "$18,088.93",
+		"% with tertiary educ.": "12.42",
+		"GRI": "2.6",
+		"Religiosity": "39%",
+		"SHI": "1.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "6.25",
+		"civil liberties": "6.18",
+		"Satisfaction with GDP per capita": "0.918",
+		"Social support": "1.314",
+		"Healthy life expectancy": "0.672",
+		"Freedom to make life choices": "0.585",
+		"Generosity": "0.307",
+		"Perceptions of corruption": "0.05"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Laos",
+		"Predom": {
+			" Religion": "B"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "2.37",
+		"HAPPINESS": "4.623",
+		"Per capita GDP": "$2,567.54",
+		"% with tertiary educ.": "3.3",
+		"GRI": "6.9",
+		"Religiosity": "97%",
+		"SHI": "2.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.83",
+		"funct": {
+			" Of gov": "2.86"
+		},
+		"polit": {
+			" Particpation": "1.67"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "9. C. Asia",
+		"country": "Kyrgyzstan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.5",
+		"DEMOC.": "5.11",
+		"HAPPINESS": "5.131",
+		"Per capita GDP": "$1,281.36",
+		"% with tertiary educ.": "9",
+		"GRI": "5.7",
+		"Religiosity": "72%",
+		"SHI": "4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.58",
+		"funct": {
+			" Of gov": "2.93"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "4.38",
+		"civil liberties": "3.53",
+		"Satisfaction with GDP per capita": "0.996",
+		"Social support": "1.469",
+		"Healthy life expectancy": "0.657",
+		"Freedom to make life choices": "0.133",
+		"Generosity": "0.056",
+		"Perceptions of corruption": "0.052"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Kuwait",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.85",
+		"HAPPINESS": "6.083",
+		"Per capita GDP": "$34,243.95",
+		"% with tertiary educ.": "4.28",
+		"GRI": "6.1",
+		"Religiosity": "91%",
+		"SHI": "1.9",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.17",
+		"funct": {
+			" Of gov": "4.29"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "5.63",
+		"civil liberties": "2.35",
+		"Satisfaction with GDP per capita": "1.039",
+		"Social support": "1.498",
+		"Healthy life expectancy": "0.7",
+		"Freedom to make life choices": "0.307",
+		"Generosity": "0.101",
+		"Perceptions of corruption": "0.154"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "micronesia",
+		"country": "Kiribati",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.64",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$1,625.29",
+		"% with tertiary educ.": "",
+		"GRI": "0.9",
+		"Religiosity": "",
+		"SHI": "1.2",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "6.25",
+		"civil liberties": "0.88",
+		"Satisfaction with GDP per capita": "0.474",
+		"Social support": "1.166",
+		"Healthy life expectancy": "0.598",
+		"Freedom to make life choices": "0.292",
+		"Generosity": "0.187",
+		"Perceptions of corruption": "0.034"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "1. SE.Africa",
+		"country": "Kenya",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.42",
+		"DEMOC.": "5.11",
+		"HAPPINESS": "4.41",
+		"Per capita GDP": "$1,710.51",
+		"% with tertiary educ.": "3.4",
+		"GRI": "3.3",
+		"Religiosity": "94%",
+		"SHI": "6.5",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "3.5",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "6.25",
+		"civil liberties": "5.88",
+		"Satisfaction with GDP per capita": "0.315",
+		"Social support": "0.714",
+		"Healthy life expectancy": "0.289",
+		"Freedom to make life choices": "0.025",
+		"Generosity": "0.392",
+		"Perceptions of corruption": "0.104"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "13. Eurasia",
+		"country": "Kazakhstan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "3.06",
+		"DEMOC.": "2.94",
+		"HAPPINESS": "5.79",
+		"Per capita GDP": "$9,331.05",
+		"% with tertiary educ.": "14.03",
+		"GRI": "7.1",
+		"Religiosity": "43%",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.5",
+		"funct": {
+			" Of gov": "2.14"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Jordan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "4.17",
+		"DEMOC.": "3.93",
+		"HAPPINESS": "5.161",
+		"Per capita GDP": "$4,247.77",
+		"% with tertiary educ.": "3.8",
+		"GRI": "5.3",
+		"Religiosity": "96%",
+		"SHI": "3.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.5",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "1",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.58",
+		"funct": {
+			" Of gov": "4.29"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "7.5",
+		"civil liberties": "8.24",
+		"Satisfaction with GDP per capita": "1.266",
+		"Social support": "1.204",
+		"Healthy life expectancy": "0.955",
+		"Freedom to make life choices": "0.244",
+		"Generosity": "0.175",
+		"Perceptions of corruption": "0.051"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "12. E. Asia",
+		"country": "Japan",
+		"Predom": {
+			" Religion": "N"
+		},
+		"SOGI-LI": "5.83",
+		"DEMOC.": "7.99",
+		"HAPPINESS": "5.915",
+		"Per capita GDP": "$39,286.74",
+		"% with tertiary educ.": "18.91",
+		"GRI": "0.2",
+		"Religiosity": "24%",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.5",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.75",
+		"funct": {
+			" Of gov": "8.21"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5",
+		"civil liberties": "2.35",
+		"Satisfaction with GDP per capita": "1.148",
+		"Social support": "1.38",
+		"Healthy life expectancy": "0.686",
+		"Freedom to make life choices": "0.324",
+		"Generosity": "0.106",
+		"Perceptions of corruption": "0.109"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Jamaica",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.83",
+		"DEMOC.": "7.02",
+		"HAPPINESS": "5.89",
+		"Per capita GDP": "$5,355.58",
+		"% with tertiary educ.": "8.37",
+		"GRI": "1.4",
+		"Religiosity": "70%",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.75",
+		"funct": {
+			" Of gov": "7.14"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "2.5",
+		"civil liberties": "4.71",
+		"Satisfaction with GDP per capita": "0.652",
+		"Social support": "0.81",
+		"Healthy life expectancy": "0.424",
+		"Freedom to make life choices": "0.334",
+		"Generosity": "0.216",
+		"Perceptions of corruption": "0.113"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Italy",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "7.78",
+		"DEMOC.": "7.71",
+		"HAPPINESS": "6",
+		"Per capita GDP": "$34,318.35",
+		"% with tertiary educ.": "6.84",
+		"GRI": "2.9",
+		"Religiosity": "72%",
+		"SHI": "5",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "6.25",
+		"civil liberties": "1.47",
+		"Satisfaction with GDP per capita": "0.989",
+		"Social support": "1.142",
+		"Healthy life expectancy": "0.799",
+		"Freedom to make life choices": "0.597",
+		"Generosity": "0.029",
+		"Perceptions of corruption": "0.103"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Israel J",
+		"Predom": {
+			" Religion": "J"
+		},
+		"SOGI-LI": "9.17",
+		"DEMOC.": "7.79",
+		"HAPPINESS": "7.19",
+		"Per capita GDP": "$41,614.00",
+		"% with tertiary educ.": "20.26",
+		"GRI": "3.9",
+		"Religiosity": "51%",
+		"SHI": "7.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.5",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "7.5"
+		},
+		"polit": {
+			" Particpation": "8.89"
+		},
+		"political culture": "4.38",
+		"civil liberties": "3.24",
+		"Satisfaction with GDP per capita": "1.143",
+		"Social support": "1.516",
+		"Healthy life expectancy": "0.631",
+		"Freedom to make life choices": "0.454",
+		"Generosity": "0.148",
+		"Perceptions of corruption": "0.121"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "21. W. Europe",
+		"country": "Ireland",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.33",
+		"DEMOC.": "9.15",
+		"HAPPINESS": "6.977",
+		"Per capita GDP": "$77,449.72",
+		"% with tertiary educ.": "26.8",
+		"GRI": "1",
+		"Religiosity": "54%",
+		"SHI": "1.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "7.86"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "5",
+		"civil liberties": "7.65",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Iraq",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "4.06",
+		"HAPPINESS": "4.456",
+		"Per capita GDP": "$5,878.04",
+		"% with tertiary educ.": "8.77",
+		"GRI": "6.4",
+		"Religiosity": "84%",
+		"SHI": "8.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "4.75",
+		"funct": {
+			" Of gov": "0.07"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5.63",
+		"civil liberties": "4.12",
+		"Satisfaction with GDP per capita": "0.668",
+		"Social support": "1.319",
+		"Healthy life expectancy": "0.7",
+		"Freedom to make life choices": "0.527",
+		"Generosity": "0.208",
+		"Perceptions of corruption": "0.128"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Iran",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "2.45",
+		"HAPPINESS": "4.707",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "14.66",
+		"GRI": "8.4",
+		"Religiosity": "73%",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "3.21"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "7.5",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.017",
+		"Social support": "1.174",
+		"Healthy life expectancy": "0.417",
+		"Freedom to make life choices": "0.557",
+		"Generosity": "0.042",
+		"Perceptions of corruption": "0.092"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Indonesia",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "6.39",
+		"HAPPINESS": "5.093",
+		"Per capita GDP": "$3,893.60",
+		"% with tertiary educ.": "3.73",
+		"GRI": "7.9",
+		"Religiosity": "99%",
+		"SHI": "5.9",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "6.92",
+		"funct": {
+			" Of gov": "7.14"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5",
+		"civil liberties": "2.94",
+		"Satisfaction with GDP per capita": "0.73",
+		"Social support": "1.125",
+		"Healthy life expectancy": "0.269",
+		"Freedom to make life choices": "0",
+		"Generosity": "0.079",
+		"Perceptions of corruption": "0.061"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "11. S. Asia",
+		"country": "India h",
+		"Predom": {
+			" Religion": "H"
+		},
+		"SOGI-LI": "4.72",
+		"DEMOC.": "7.23",
+		"HAPPINESS": "4.19",
+		"Per capita GDP": "$2,015.59",
+		"% with tertiary educ.": "4.85",
+		"GRI": "5.4",
+		"Religiosity": "90%",
+		"SHI": "9.5",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "6.79"
+		},
+		"polit": {
+			" Particpation": "7.22"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "0.807",
+		"Social support": "1.101",
+		"Healthy life expectancy": "0.474",
+		"Freedom to make life choices": "0.593",
+		"Generosity": "0.183",
+		"Perceptions of corruption": "0.089"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Iceland",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.33",
+		"DEMOC.": "9.58",
+		"HAPPINESS": "7.495",
+		"Per capita GDP": "$73,191.12",
+		"% with tertiary educ.": "17.89",
+		"GRI": "3.7",
+		"Religiosity": "",
+		"SHI": "0.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "9.29"
+		},
+		"polit": {
+			" Particpation": "8.89"
+		},
+		"political culture": "4.38",
+		"civil liberties": "5.59",
+		"Satisfaction with GDP per capita": "0.853",
+		"Social support": "0.592",
+		"Healthy life expectancy": "0.643",
+		"Freedom to make life choices": "0.375",
+		"Generosity": "0.038",
+		"Perceptions of corruption": "0.215"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Hungary",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "5.78",
+		"DEMOC.": "6.63",
+		"HAPPINESS": "5.62",
+		"Per capita GDP": "$15,938.84",
+		"% with tertiary educ.": "15.38",
+		"GRI": "3.3",
+		"Religiosity": "39%",
+		"SHI": "3.7",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.8",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.75",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "4.38",
+		"civil liberties": "7.65",
+		"Satisfaction with GDP per capita": "1.176",
+		"Social support": "1.448",
+		"Healthy life expectancy": "0.781",
+		"Freedom to make life choices": "0.546",
+		"Generosity": "0.108",
+		"Perceptions of corruption": "0.064"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "12. E. Asia",
+		"country": "Hong Kong",
+		"Predom": {
+			" Religion": "N"
+		},
+		"SOGI-LI": "4.5",
+		"DEMOC.": "6.15",
+		"HAPPINESS": "5.43",
+		"Per capita GDP": "$48,717.29",
+		"% with tertiary educ.": "15.22",
+		"GRI": "1.8",
+		"Religiosity": "24%",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.5",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "3.08",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "4.38",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "0.657",
+		"Social support": "1.301",
+		"Healthy life expectancy": "0.62",
+		"Freedom to make life choices": "0.232",
+		"Generosity": "0.171",
+		"Perceptions of corruption": "0"
+	},
+	{
+		"continent": "america",
+		"sub contient": "14. C. America",
+		"country": "Honduras",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "4",
+		"DEMOC.": "5.63",
+		"HAPPINESS": "5.504",
+		"Per capita GDP": "$2,482.73",
+		"% with tertiary educ.": "1.93",
+		"GRI": "3.3",
+		"Religiosity": "84%",
+		"SHI": "1.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "1",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "8.5",
+		"funct": {
+			" Of gov": "4.64"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "6.25",
+		"civil liberties": "6.18",
+		"Satisfaction with GDP per capita": "0.793",
+		"Social support": "1.413",
+		"Healthy life expectancy": "0.609",
+		"Freedom to make life choices": "0.163",
+		"Generosity": "0.187",
+		"Perceptions of corruption": "0.011"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Haiti",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.06",
+		"DEMOC.": "4.91",
+		"HAPPINESS": "3.582",
+		"Per capita GDP": "$868.28",
+		"% with tertiary educ.": "0.67",
+		"GRI": "2.7",
+		"Religiosity": "75%",
+		"SHI": "1.9",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "5.58",
+		"funct": {
+			" Of gov": "2.93"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "5",
+		"civil liberties": "7.94",
+		"Satisfaction with GDP per capita": "1.112",
+		"Social support": "1.438",
+		"Healthy life expectancy": "0.759",
+		"Freedom to make life choices": "0.597",
+		"Generosity": "0.125",
+		"Perceptions of corruption": "0.063"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Guyana",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1",
+		"DEMOC.": "6.67",
+		"HAPPINESS": "",
+		"Per capita GDP": "$4,634.68",
+		"% with tertiary educ.": "0.24",
+		"GRI": "2.5",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Guinea-Bissau",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "0.67",
+		"DEMOC.": "1.98",
+		"HAPPINESS": "",
+		"Per capita GDP": "$777.97",
+		"% with tertiary educ.": "",
+		"GRI": "0.4",
+		"Religiosity": "",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "1.67",
+		"funct": {
+			" Of gov": "0"
+		},
+		"polit": {
+			" Particpation": "2.78"
+		},
+		"political culture": "3.89",
+		"civil liberties": "5.63",
+		"Satisfaction with GDP per capita": "0.715",
+		"Social support": "1.365",
+		"Healthy life expectancy": "0.702",
+		"Freedom to make life choices": "0.618",
+		"Generosity": "0.177",
+		"Perceptions of corruption": "0.079"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Guinea",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.14",
+		"HAPPINESS": "3.964",
+		"Per capita GDP": "$885.25",
+		"% with tertiary educ.": "",
+		"GRI": "2.5",
+		"Religiosity": "97%",
+		"SHI": "3.9",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.5",
+		"funct": {
+			" Of gov": "0.43"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "5.63",
+		"civil liberties": "5.59",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "14. C. America",
+		"country": "Guatemala",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.56",
+		"DEMOC.": "5.6",
+		"HAPPINESS": "6.382",
+		"Per capita GDP": "$4,549.01",
+		"% with tertiary educ.": "0",
+		"GRI": "2.2",
+		"Religiosity": "88%",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7.92",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Grenada",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.81",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$10,833.66",
+		"% with tertiary educ.": "",
+		"GRI": "2.2",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "0.75",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "4.38",
+		"civil liberties": "6.18",
+		"Satisfaction with GDP per capita": "0.62",
+		"Social support": "1.205",
+		"Healthy life expectancy": "0.622",
+		"Freedom to make life choices": "0.459",
+		"Generosity": "0.197",
+		"Perceptions of corruption": "0.074"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Greece",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "7.78",
+		"DEMOC.": "7.29",
+		"HAPPINESS": "5.358",
+		"Per capita GDP": "$20,324.25",
+		"% with tertiary educ.": "22.5",
+		"GRI": "4.3",
+		"Religiosity": "71%",
+		"SHI": "5.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "4.38",
+		"civil liberties": "3.53",
+		"Satisfaction with GDP per capita": "0.822",
+		"Social support": "1.265",
+		"Healthy life expectancy": "0.645",
+		"Freedom to make life choices": "0.468",
+		"Generosity": "0.13",
+		"Perceptions of corruption": "0.134"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Ghana",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.11",
+		"DEMOC.": "6.63",
+		"HAPPINESS": "4.657",
+		"Per capita GDP": "$2,202.31",
+		"% with tertiary educ.": "1.44",
+		"GRI": "1.6",
+		"Religiosity": "95%",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "0.33",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.33",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "3.75",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "0.806",
+		"Social support": "1.231",
+		"Healthy life expectancy": "0.639",
+		"Freedom to make life choices": "0.461",
+		"Generosity": "0.065",
+		"Perceptions of corruption": "0.082"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Germany",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.17",
+		"DEMOC.": "8.68",
+		"HAPPINESS": "6.965",
+		"Per capita GDP": "$48,195.58",
+		"% with tertiary educ.": "13.14",
+		"GRI": "3.2",
+		"Religiosity": "40%",
+		"SHI": "7.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "8.57"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "5.63",
+		"civil liberties": "5.59",
+		"Satisfaction with GDP per capita": "0.425",
+		"Social support": "1.228",
+		"Healthy life expectancy": "0.539",
+		"Freedom to make life choices": "0.526",
+		"Generosity": "0.302",
+		"Perceptions of corruption": "0.078"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Georgia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.5",
+		"DEMOC.": "5.5",
+		"HAPPINESS": "4.34",
+		"Per capita GDP": "$4,344.63",
+		"% with tertiary educ.": "",
+		"GRI": "3.5",
+		"Religiosity": "81%",
+		"SHI": "3.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7.83",
+		"funct": {
+			" Of gov": "3.57"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "5.63",
+		"civil liberties": "7.94",
+		"Satisfaction with GDP per capita": "1.21",
+		"Social support": "1.537",
+		"Healthy life expectancy": "0.776",
+		"Freedom to make life choices": "0.354",
+		"Generosity": "0.118",
+		"Perceptions of corruption": "0.014"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "5. C.Africa",
+		"country": "Gabon",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "3.61",
+		"HAPPINESS": "4.758",
+		"Per capita GDP": "$8,029.82",
+		"% with tertiary educ.": "6.3",
+		"GRI": "0.9",
+		"Religiosity": "",
+		"SHI": "1.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "2.58",
+		"funct": {
+			" Of gov": "2.21"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.82",
+		"Satisfaction with GDP per capita": "1.229",
+		"Social support": "1.191",
+		"Healthy life expectancy": "0.909",
+		"Freedom to make life choices": "0.423",
+		"Generosity": "0.202",
+		"Perceptions of corruption": "0.035"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "21. W. Europe",
+		"country": "France",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "10",
+		"DEMOC.": "7.8",
+		"HAPPINESS": "6.489",
+		"Per capita GDP": "$41,463.64",
+		"% with tertiary educ.": "10.6",
+		"GRI": "4.9",
+		"Religiosity": "30%",
+		"SHI": "6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "7.5"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "4.38",
+		"civil liberties": "2.65",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Finland",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.17",
+		"DEMOC.": "9.14",
+		"HAPPINESS": "7.632",
+		"Per capita GDP": "$49,960.25",
+		"% with tertiary educ.": "12.35",
+		"GRI": "2.6",
+		"Religiosity": "28%",
+		"SHI": "1.7",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "8.93"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "7.5",
+		"civil liberties": "8.53",
+		"Satisfaction with GDP per capita": "1.405",
+		"Social support": "1.29",
+		"Healthy life expectancy": "1.03",
+		"Freedom to make life choices": "0.524",
+		"Generosity": "0.246",
+		"Perceptions of corruption": "0.291"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "melanesia",
+		"country": "FijiFiji",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.89",
+		"DEMOC.": "5.85",
+		"HAPPINESS": "",
+		"Per capita GDP": "$6,202.16",
+		"% with tertiary educ.": "7.03",
+		"GRI": "1.5",
+		"Religiosity": "",
+		"SHI": "0.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.58",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "5.63",
+		"civil liberties": "7.35",
+		"Satisfaction with GDP per capita": "0.721",
+		"Social support": "0.747",
+		"Healthy life expectancy": "0.485",
+		"Freedom to make life choices": "0.539",
+		"Generosity": "0.172",
+		"Perceptions of corruption": "0.093"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "2. Horn Africa",
+		"country": "Ethiopia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.35",
+		"HAPPINESS": "4.35",
+		"Per capita GDP": "$772.31",
+		"% with tertiary educ.": "",
+		"GRI": "4.1",
+		"Religiosity": "100%",
+		"SHI": "3.9",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "3.57"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "5",
+		"civil liberties": "7.65",
+		"Satisfaction with GDP per capita": "0.916",
+		"Social support": "0.817",
+		"Healthy life expectancy": "0.79",
+		"Freedom to make life choices": "0.419",
+		"Generosity": "0.149",
+		"Perceptions of corruption": "0.032"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Eswatini (Swaziland)",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.03",
+		"HAPPINESS": "",
+		"Per capita GDP": "$4,139.96",
+		"% with tertiary educ.": "",
+		"GRI": "2.4",
+		"Religiosity": "",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.92",
+		"funct": {
+			" Of gov": "2.86"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Estonia",
+		"Predom": {
+			" Religion": "N"
+		},
+		"SOGI-LI": "9.44",
+		"DEMOC.": "7.97",
+		"HAPPINESS": "5.739",
+		"Per capita GDP": "$22,927.74",
+		"% with tertiary educ.": "18.87",
+		"GRI": "1.2",
+		"Religiosity": "16%",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "8.21"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "4.38",
+		"civil liberties": "7.65",
+		"Satisfaction with GDP per capita": "1.116",
+		"Social support": "1.219",
+		"Healthy life expectancy": "0.726",
+		"Freedom to make life choices": "0.528",
+		"Generosity": "0.088",
+		"Perceptions of corruption": "0.001"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "2. Horn Africa",
+		"country": "Eritrea",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "2.37",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "",
+		"GRI": "7.6",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "2.14"
+		},
+		"polit": {
+			" Particpation": "1.67"
+		},
+		"political culture": "6.25",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.197",
+		"Social support": "1.527",
+		"Healthy life expectancy": "0.716",
+		"Freedom to make life choices": "0.35",
+		"Generosity": "0.026",
+		"Perceptions of corruption": "0.006"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "5. C.Africa",
+		"country": "Equatorial Guinea",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "1.92",
+		"HAPPINESS": "",
+		"Per capita GDP": "$10,173.96",
+		"% with tertiary educ.": "",
+		"GRI": "3.3",
+		"Religiosity": "",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "0.43"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "4.38",
+		"civil liberties": "6.76",
+		"Satisfaction with GDP per capita": "1.017",
+		"Social support": "1.279",
+		"Healthy life expectancy": "0.729",
+		"Freedom to make life choices": "0.259",
+		"Generosity": "0.111",
+		"Perceptions of corruption": "0.081"
+	},
+	{
+		"continent": "america",
+		"sub contient": "14. C. America",
+		"country": "El Salvador",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "4.22",
+		"DEMOC.": "5.96",
+		"HAPPINESS": "6.167",
+		"Per capita GDP": "$4,058.24",
+		"% with tertiary educ.": "3.92",
+		"GRI": "2",
+		"Religiosity": "83%",
+		"SHI": "1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "4.29"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "5",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "0.914",
+		"Social support": "1.517",
+		"Healthy life expectancy": "0.575",
+		"Freedom to make life choices": "0.395",
+		"Generosity": "0.253",
+		"Perceptions of corruption": "0.032"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "3. N.Africa",
+		"country": "Egypt",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.36",
+		"HAPPINESS": "4.419",
+		"Per capita GDP": "$2,549.14",
+		"% with tertiary educ.": "6.65",
+		"GRI": "8",
+		"Religiosity": "97%",
+		"SHI": "8.5",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.58",
+		"funct": {
+			" Of gov": "3.21"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "7.5",
+		"civil liberties": "8.24",
+		"Satisfaction with GDP per capita": "1.398",
+		"Social support": "1.471",
+		"Healthy life expectancy": "0.819",
+		"Freedom to make life choices": "0.547",
+		"Generosity": "0.291",
+		"Perceptions of corruption": "0.133"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Ecuador",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "5.17",
+		"DEMOC.": "6.27",
+		"HAPPINESS": "5.973",
+		"Per capita GDP": "$6,344.87",
+		"% with tertiary educ.": "5.19",
+		"GRI": "2.5",
+		"Religiosity": "82%",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.6",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "8.75",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "4.38",
+		"civil liberties": "6.76",
+		"Satisfaction with GDP per capita": "0.889",
+		"Social support": "1.33",
+		"Healthy life expectancy": "0.736",
+		"Freedom to make life choices": "0.556",
+		"Generosity": "0.114",
+		"Perceptions of corruption": "0.12"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "East Timor",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.56",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "",
+		"GRI": "",
+		"Religiosity": "",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Dominica",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "6.54",
+		"HAPPINESS": "",
+		"Per capita GDP": "$7,031.71",
+		"% with tertiary educ.": "",
+		"GRI": "1.6",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.82",
+		"Satisfaction with GDP per capita": "1.148",
+		"Social support": "1.454",
+		"Healthy life expectancy": "0.671",
+		"Freedom to make life choices": "0.363",
+		"Generosity": "0.092",
+		"Perceptions of corruption": "0.066"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "2. Horn Africa",
+		"country": "Djibouti",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "2.87",
+		"HAPPINESS": "",
+		"Per capita GDP": "$2,050.20",
+		"% with tertiary educ.": "",
+		"GRI": "4",
+		"Religiosity": "98%",
+		"SHI": "1.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.42",
+		"funct": {
+			" Of gov": "1.79"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "5.63",
+		"civil liberties": "7.65",
+		"Satisfaction with GDP per capita": "0.934",
+		"Social support": "1.249",
+		"Healthy life expectancy": "0.674",
+		"Freedom to make life choices": "0.53",
+		"Generosity": "0.092",
+		"Perceptions of corruption": "0.034"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "20. N. Europe",
+		"country": "Denmark",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "10",
+		"DEMOC.": "9.22",
+		"HAPPINESS": "7.555",
+		"Per capita GDP": "$60,595.58",
+		"% with tertiary educ.": "14.98",
+		"GRI": "4",
+		"Religiosity": "19%",
+		"SHI": "4.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "9.29"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "4.38",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "0.775",
+		"Social support": "1.312",
+		"Healthy life expectancy": "0.513",
+		"Freedom to make life choices": "0.643",
+		"Generosity": "0.12",
+		"Perceptions of corruption": "0.105"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "5. C.Africa",
+		"country": "Democratic Republic of the Congo",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.67",
+		"DEMOC.": "1.49",
+		"HAPPINESS": "",
+		"Per capita GDP": "$561.78",
+		"% with tertiary educ.": "0.46",
+		"GRI": "3",
+		"Religiosity": "94%",
+		"SHI": "4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.5",
+		"funct": {
+			" Of gov": "0.71"
+		},
+		"polit": {
+			" Particpation": "2.22"
+		},
+		"political culture": "6.25",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "1.171",
+		"Social support": "1.401",
+		"Healthy life expectancy": "0.732",
+		"Freedom to make life choices": "0.259",
+		"Generosity": "0.061",
+		"Perceptions of corruption": "0.022"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Czech Republic",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "6.67",
+		"DEMOC.": "7.69",
+		"HAPPINESS": "6.711",
+		"Per capita GDP": "$22,973.11",
+		"% with tertiary educ.": "7.59",
+		"GRI": "3.3",
+		"Religiosity": "21%",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.5",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "6.79"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "7.5",
+		"civil liberties": "8.82",
+		"Satisfaction with GDP per capita": "1.294",
+		"Social support": "1.462",
+		"Healthy life expectancy": "0.988",
+		"Freedom to make life choices": "0.553",
+		"Generosity": "0.079",
+		"Perceptions of corruption": "0.15"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Cyprus",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "4.44",
+		"DEMOC.": "7.59",
+		"HAPPINESS": "5.762",
+		"Per capita GDP": "$28,159.30",
+		"% with tertiary educ.": "20.75",
+		"GRI": "",
+		"Religiosity": "75%",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "6.43"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "4.38",
+		"civil liberties": "7.94",
+		"Satisfaction with GDP per capita": "1.054",
+		"Social support": "1.515",
+		"Healthy life expectancy": "0.712",
+		"Freedom to make life choices": "0.359",
+		"Generosity": "0.064",
+		"Perceptions of corruption": "0.009"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Cuba",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "4.5",
+		"DEMOC.": "3",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "13.32",
+		"GRI": "4.3",
+		"Religiosity": "34%",
+		"SHI": "0.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "1",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "1.08",
+		"funct": {
+			" Of gov": "3.57"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "7.5",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.01",
+		"Social support": "1.459",
+		"Healthy life expectancy": "0.817",
+		"Freedom to make life choices": "0.632",
+		"Generosity": "0.143",
+		"Perceptions of corruption": "0.101"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Croatia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "6.67",
+		"DEMOC.": "6.57",
+		"HAPPINESS": "5.321",
+		"Per capita GDP": "$14,869.09",
+		"% with tertiary educ.": "11.04",
+		"GRI": "2.4",
+		"Religiosity": "70%",
+		"SHI": "0.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "6.07"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "",
+		"civil liberties": "",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "14. C. America",
+		"country": "Costa Rica",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "6.08",
+		"DEMOC.": "8.07",
+		"HAPPINESS": "7.072",
+		"Per capita GDP": "$12,026.55",
+		"% with tertiary educ.": "14.69",
+		"GRI": "3.2",
+		"Religiosity": "79%",
+		"SHI": "0.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.75",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "7.5"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "3.75",
+		"civil liberties": "6.18",
+		"Satisfaction with GDP per capita": "0.915",
+		"Social support": "1.078",
+		"Healthy life expectancy": "0.758",
+		"Freedom to make life choices": "0.28",
+		"Generosity": "0.216",
+		"Perceptions of corruption": "0"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "Ind. Ocea",
+		"country": "Comoros",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.08",
+		"DEMOC.": "3.71",
+		"HAPPINESS": "",
+		"Per capita GDP": "$1,445.45",
+		"% with tertiary educ.": "",
+		"GRI": "1.7",
+		"Religiosity": "97%",
+		"SHI": "1.2",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "4.33",
+		"funct": {
+			" Of gov": "2.21"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "3.13",
+		"civil liberties": "4.41",
+		"Satisfaction with GDP per capita": "",
+		"Social support": "",
+		"Healthy life expectancy": "",
+		"Freedom to make life choices": "",
+		"Generosity": "",
+		"Perceptions of corruption": ""
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Colombia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.17",
+		"DEMOC.": "6.96",
+		"HAPPINESS": "6.26",
+		"Per capita GDP": "$6,651.29",
+		"% with tertiary educ.": "18.55",
+		"GRI": "2",
+		"Religiosity": "83%",
+		"SHI": "2.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "6.79"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "5.63",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.365",
+		"Social support": "1.436",
+		"Healthy life expectancy": "0.857",
+		"Freedom to make life choices": "0.418",
+		"Generosity": "0.151",
+		"Perceptions of corruption": "0.078"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "12. E. Asia",
+		"country": "China",
+		"Predom": {
+			" Religion": "N"
+		},
+		"SOGI-LI": "3.06",
+		"DEMOC.": "3.32",
+		"HAPPINESS": "5.246",
+		"Per capita GDP": "$9,770.85",
+		"% with tertiary educ.": "2.71",
+		"GRI": "1.3",
+		"Religiosity": "",
+		"SHI": "0.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "5"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "9.38",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.42",
+		"Social support": "1.549",
+		"Healthy life expectancy": "0.927",
+		"Freedom to make life choices": "0.66",
+		"Generosity": "0.256",
+		"Perceptions of corruption": "0.357"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Chile",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "6.44",
+		"DEMOC.": "7.97",
+		"HAPPINESS": "6.476",
+		"Per capita GDP": "$15,923.36",
+		"% with tertiary educ.": "5.92",
+		"GRI": "1.3",
+		"Religiosity": "70%",
+		"SHI": "1.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "8.57"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "5",
+		"civil liberties": "5.88",
+		"Satisfaction with GDP per capita": "1.016",
+		"Social support": "1.417",
+		"Healthy life expectancy": "0.707",
+		"Freedom to make life choices": "0.637",
+		"Generosity": "0.364",
+		"Perceptions of corruption": "0.029"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "5. C.Africa",
+		"country": "Chad",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "1.61",
+		"HAPPINESS": "4.301",
+		"Per capita GDP": "$730.24",
+		"% with tertiary educ.": "",
+		"GRI": "2.6",
+		"Religiosity": "95%",
+		"SHI": "7.7",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "0"
+		},
+		"polit": {
+			" Particpation": "1.67"
+		},
+		"political culture": "5",
+		"civil liberties": "7.35",
+		"Satisfaction with GDP per capita": "0.975",
+		"Social support": "1.369",
+		"Healthy life expectancy": "0.685",
+		"Freedom to make life choices": "0.288",
+		"Generosity": "0.134",
+		"Perceptions of corruption": "0.043"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "5. C.Africa",
+		"country": "Central African Republic",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.67",
+		"DEMOC.": "1.52",
+		"HAPPINESS": "3.083",
+		"Per capita GDP": "$509.97",
+		"% with tertiary educ.": "0.83",
+		"GRI": "0.5",
+		"Religiosity": "94%",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "2.25",
+		"funct": {
+			" Of gov": "0"
+		},
+		"polit": {
+			" Particpation": "1.11"
+		},
+		"political culture": "8.13",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.131",
+		"Social support": "1.331",
+		"Healthy life expectancy": "0.808",
+		"Freedom to make life choices": "0.431",
+		"Generosity": "0.197",
+		"Perceptions of corruption": "0.061"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Cape Verde",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "7.88",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "22.67",
+		"GRI": "3.2",
+		"Religiosity": "",
+		"SHI": "5.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "7.86"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.53",
+		"Satisfaction with GDP per capita": "1.233",
+		"Social support": "1.489",
+		"Healthy life expectancy": "0.854",
+		"Freedom to make life choices": "0.543",
+		"Generosity": "0.064",
+		"Perceptions of corruption": "0.034"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "3. N.Africa",
+		"country": "Canary Islands",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "6.11",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "1.64",
+		"GRI": "",
+		"Religiosity": "",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "1",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "5",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "1.115",
+		"Social support": "1.161",
+		"Healthy life expectancy": "0.737",
+		"Freedom to make life choices": "0.38",
+		"Generosity": "0.12",
+		"Perceptions of corruption": "0.039"
+	},
+	{
+		"continent": "america",
+		"sub contient": "16. N. America",
+		"country": "Canada",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "10",
+		"DEMOC.": "9.15",
+		"HAPPINESS": "7.328",
+		"Per capita GDP": "$46,124.67",
+		"% with tertiary educ.": "1.32",
+		"GRI": "1.2",
+		"Religiosity": "42%",
+		"SHI": "2.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "9.64"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "6.25",
+		"civil liberties": "8.24",
+		"Satisfaction with GDP per capita": "1.219",
+		"Social support": "1.506",
+		"Healthy life expectancy": "0.856",
+		"Freedom to make life choices": "0.633",
+		"Generosity": "0.16",
+		"Perceptions of corruption": "0.051"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "5. C.Africa",
+		"country": "Cameroon",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "3.28",
+		"HAPPINESS": "4.975",
+		"Per capita GDP": "$1,526.88",
+		"% with tertiary educ.": "0.54",
+		"GRI": "2.4",
+		"Religiosity": "96%",
+		"SHI": "1.5",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "3.17",
+		"funct": {
+			" Of gov": "2.86"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "3.75",
+		"civil liberties": "7.06",
+		"Satisfaction with GDP per capita": "0.751",
+		"Social support": "1.223",
+		"Healthy life expectancy": "0.508",
+		"Freedom to make life choices": "0.606",
+		"Generosity": "0.141",
+		"Perceptions of corruption": "0.054"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Cambodia",
+		"Predom": {
+			" Religion": "B"
+		},
+		"SOGI-LI": "1.67",
+		"DEMOC.": "3.59",
+		"HAPPINESS": "4.433",
+		"Per capita GDP": "$1,512.13",
+		"% with tertiary educ.": "",
+		"GRI": "3.4",
+		"Religiosity": "96%",
+		"SHI": "0.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "1.33",
+		"funct": {
+			" Of gov": "5"
+		},
+		"polit": {
+			" Particpation": "2.78"
+		},
+		"political culture": "7.5",
+		"civil liberties": "8.82",
+		"Satisfaction with GDP per capita": "1.251",
+		"Social support": "1.538",
+		"Healthy life expectancy": "0.965",
+		"Freedom to make life choices": "0.449",
+		"Generosity": "0.142",
+		"Perceptions of corruption": "0.074"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "1. SE.Africa",
+		"country": "Burundi",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "0.97",
+		"DEMOC.": "2.33",
+		"HAPPINESS": "2.905",
+		"Per capita GDP": "$3,654.01",
+		"% with tertiary educ.": "13.07",
+		"GRI": "2.4",
+		"Religiosity": "98%",
+		"SHI": "1.5",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0",
+		"funct": {
+			" Of gov": "0.43"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "5",
+		"civil liberties": "7.94",
+		"Satisfaction with GDP per capita": "0.94",
+		"Social support": "1.41",
+		"Healthy life expectancy": "0.33",
+		"Freedom to make life choices": "0.516",
+		"Generosity": "0.103",
+		"Perceptions of corruption": "0.056"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Burkina Faso",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "1.67",
+		"DEMOC.": "4.75",
+		"HAPPINESS": "4.424",
+		"Per capita GDP": "$275.43",
+		"% with tertiary educ.": "6.51",
+		"GRI": "1.8",
+		"Religiosity": "88%",
+		"SHI": "4.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "4.42",
+		"funct": {
+			" Of gov": "4.29"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.24",
+		"Satisfaction with GDP per capita": "1.264",
+		"Social support": "1.501",
+		"Healthy life expectancy": "0.946",
+		"Freedom to make life choices": "0.281",
+		"Generosity": "0.137",
+		"Perceptions of corruption": "0.028"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Bulgaria",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "5.83",
+		"DEMOC.": "7.03",
+		"HAPPINESS": "4.933",
+		"Per capita GDP": "$731.17",
+		"% with tertiary educ.": "",
+		"GRI": "5.3",
+		"Religiosity": "34%",
+		"SHI": "4.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "6.43"
+		},
+		"polit": {
+			" Particpation": "7.22"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.53",
+		"Satisfaction with GDP per capita": "1.154",
+		"Social support": "1.202",
+		"Healthy life expectancy": "0.879",
+		"Freedom to make life choices": "0.131",
+		"Generosity": "0",
+		"Perceptions of corruption": "0.044"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "10. SE. Asia",
+		"country": "Brunei",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$9,272.63",
+		"% with tertiary educ.": "",
+		"GRI": "6.9",
+		"Religiosity": "",
+		"SHI": "2.1",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "6.25",
+		"civil liberties": "8.24",
+		"Satisfaction with GDP per capita": "1.073",
+		"Social support": "1.468",
+		"Healthy life expectancy": "0.744",
+		"Freedom to make life choices": "0.57",
+		"Generosity": "0.062",
+		"Perceptions of corruption": "0.054"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Brazil",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.17",
+		"DEMOC.": "6.97",
+		"HAPPINESS": "6.419",
+		"Per capita GDP": "$31,627.74",
+		"% with tertiary educ.": "5.63",
+		"GRI": "1.3",
+		"Religiosity": "87%",
+		"SHI": "4.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.67"
+		},
+		"political culture": "5",
+		"civil liberties": "8.24",
+		"Satisfaction with GDP per capita": "0.986",
+		"Social support": "1.474",
+		"Healthy life expectancy": "0.675",
+		"Freedom to make life choices": "0.493",
+		"Generosity": "0.11",
+		"Perceptions of corruption": "0.088"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Botswana",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.39",
+		"DEMOC.": "7.81",
+		"HAPPINESS": "3.59",
+		"Per capita GDP": "$8,920.76",
+		"% with tertiary educ.": "2.02",
+		"GRI": "1.3",
+		"Religiosity": "77%",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "7.14"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "5.63",
+		"civil liberties": "8.24",
+		"Satisfaction with GDP per capita": "0.96",
+		"Social support": "1.439",
+		"Healthy life expectancy": "0.635",
+		"Freedom to make life choices": "0.531",
+		"Generosity": "0.099",
+		"Perceptions of corruption": "0.039"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Bosnia and Herzegovina",
+		"Predom": {
+			" Religion": "x"
+		},
+		"SOGI-LI": "6.11",
+		"DEMOC.": "4.98",
+		"HAPPINESS": "5.129",
+		"Per capita GDP": "$8,258.64",
+		"% with tertiary educ.": "",
+		"GRI": "2.9",
+		"Religiosity": "77%",
+		"SHI": "3.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.5",
+		"funct": {
+			" Of gov": "2.93"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "7.5",
+		"civil liberties": "9.41",
+		"Satisfaction with GDP per capita": "1.34",
+		"Social support": "1.474",
+		"Healthy life expectancy": "0.861",
+		"Freedom to make life choices": "0.586",
+		"Generosity": "0.273",
+		"Perceptions of corruption": "0.28"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Bolivia`",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "7.5",
+		"DEMOC.": "5.7",
+		"HAPPINESS": "5.752",
+		"Per capita GDP": "$5,951.32",
+		"% with tertiary educ.": "8.43",
+		"GRI": "1",
+		"Religiosity": "89%",
+		"SHI": "3.9",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7.5",
+		"funct": {
+			" Of gov": "4.64"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "10",
+		"civil liberties": "9.71",
+		"Satisfaction with GDP per capita": "1.343",
+		"Social support": "1.644",
+		"Healthy life expectancy": "0.914",
+		"Freedom to make life choices": "0.677",
+		"Generosity": "0.353",
+		"Perceptions of corruption": "0.138"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "11. S. Asia",
+		"country": "Bhutan",
+		"Predom": {
+			" Religion": "B"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "5.3",
+		"HAPPINESS": "5.082",
+		"Per capita GDP": "$3,548.59",
+		"% with tertiary educ.": "",
+		"GRI": "5.2",
+		"Religiosity": "",
+		"SHI": "1.3",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "8.75",
+		"funct": {
+			" Of gov": "6.79"
+		},
+		"polit": {
+			" Particpation": "2.78"
+		},
+		"political culture": "8.75",
+		"civil liberties": "9.71",
+		"Satisfaction with GDP per capita": "1.576",
+		"Social support": "1.52",
+		"Healthy life expectancy": "0.896",
+		"Freedom to make life choices": "0.632",
+		"Generosity": "0.196",
+		"Perceptions of corruption": "0.321"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "4. W.Africa",
+		"country": "Benin",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "5.74",
+		"HAPPINESS": "4.141",
+		"Per capita GDP": "$3,360.27",
+		"% with tertiary educ.": "2.01",
+		"GRI": "1.2",
+		"Religiosity": "93%",
+		"SHI": "3.9",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "6.5",
+		"funct": {
+			" Of gov": "5.71"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "8.75",
+		"civil liberties": "8.82",
+		"Satisfaction with GDP per capita": "1.27",
+		"Social support": "1.525",
+		"Healthy life expectancy": "0.884",
+		"Freedom to make life choices": "0.645",
+		"Generosity": "0.376",
+		"Perceptions of corruption": "0.142"
+	},
+	{
+		"continent": "america",
+		"sub contient": "14. C. America",
+		"country": "Belize",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.39",
+		"DEMOC.": "",
+		"HAPPINESS": "5.956",
+		"Per capita GDP": "$901.95",
+		"% with tertiary educ.": "3.18",
+		"GRI": "2.3",
+		"Religiosity": "62%",
+		"SHI": "0.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "3.13",
+		"civil liberties": "6.18",
+		"Satisfaction with GDP per capita": "1.038",
+		"Social support": "1.252",
+		"Healthy life expectancy": "0.761",
+		"Freedom to make life choices": "0.479",
+		"Generosity": "0.069",
+		"Perceptions of corruption": "0.095"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "21. W. Europe",
+		"country": "Belgium",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.25",
+		"DEMOC.": "7.78",
+		"HAPPINESS": "6.927",
+		"Per capita GDP": "$5,025.18",
+		"% with tertiary educ.": "17.69",
+		"GRI": "3.8",
+		"Religiosity": "33%",
+		"SHI": "2.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "1",
+		"antidiscrimination laws": "0.8",
+		"gender ID markers": "0.75",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "8.93"
+		},
+		"polit": {
+			" Particpation": "5"
+		},
+		"political culture": "7.5",
+		"civil liberties": "9.71",
+		"Satisfaction with GDP per capita": "1.093",
+		"Social support": "1.459",
+		"Healthy life expectancy": "0.771",
+		"Freedom to make life choices": "0.625",
+		"Generosity": "0.13",
+		"Perceptions of corruption": "0.155"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Belarus",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "2.92",
+		"DEMOC.": "3.13",
+		"HAPPINESS": "5.483",
+		"Per capita GDP": "$46,556.10",
+		"% with tertiary educ.": "",
+		"GRI": "6.4",
+		"Religiosity": "34%",
+		"SHI": "1.4",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.25",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.92",
+		"funct": {
+			" Of gov": "2.86"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "7.5",
+		"civil liberties": "5.88",
+		"Satisfaction with GDP per capita": "1.244",
+		"Social support": "1.433",
+		"Healthy life expectancy": "0.888",
+		"Freedom to make life choices": "0.464",
+		"Generosity": "0.262",
+		"Perceptions of corruption": "0.082"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Barbados",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$6,289.94",
+		"% with tertiary educ.": "2.07",
+		"GRI": "3",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "8.75",
+		"civil liberties": "9.71",
+		"Satisfaction with GDP per capita": "1.305",
+		"Social support": "1.592",
+		"Healthy life expectancy": "0.874",
+		"Freedom to make life choices": "0.681",
+		"Generosity": "0.202",
+		"Perceptions of corruption": "0.393"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "11. S. Asia",
+		"country": "Bangladesh",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "1.81",
+		"DEMOC.": "5.57",
+		"HAPPINESS": "4.5",
+		"Per capita GDP": "$1,698.26",
+		"% with tertiary educ.": "2.28",
+		"GRI": "5",
+		"Religiosity": "100%",
+		"SHI": "5.6",
+		"legality of sam-sex sexual-activity": "0.25",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0.5",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7.83",
+		"funct": {
+			" Of gov": "5.07"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "8.13",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.361",
+		"Social support": "1.488",
+		"Healthy life expectancy": "0.878",
+		"Freedom to make life choices": "0.638",
+		"Generosity": "0.333",
+		"Perceptions of corruption": "0.295"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "8. W. Asia",
+		"country": "Bahrain",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "2.71",
+		"HAPPINESS": "6.105",
+		"Per capita GDP": "$24,050.76",
+		"% with tertiary educ.": "7.76",
+		"GRI": "5.9",
+		"Religiosity": "94%",
+		"SHI": "1.3",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.83",
+		"funct": {
+			" Of gov": "3.21"
+		},
+		"polit": {
+			" Particpation": "2.78"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.82",
+		"Satisfaction with GDP per capita": "1.341",
+		"Social support": "1.504",
+		"Healthy life expectancy": "0.891",
+		"Freedom to make life choices": "0.617",
+		"Generosity": "0.242",
+		"Perceptions of corruption": "0.224"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Azerbaijan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "2.22",
+		"DEMOC.": "2.65",
+		"HAPPINESS": "5.201",
+		"Per capita GDP": "$4,721.18",
+		"% with tertiary educ.": "",
+		"GRI": "",
+		"Religiosity": "50%",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "0.5",
+		"funct": {
+			" Of gov": "2.14"
+		},
+		"polit": {
+			" Particpation": "3.33"
+		},
+		"political culture": "6.88",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.188",
+		"Social support": "1.429",
+		"Healthy life expectancy": "0.884",
+		"Freedom to make life choices": "0.562",
+		"Generosity": "0.055",
+		"Perceptions of corruption": "0.017"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "19. C. Europe",
+		"country": "Austria",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.17",
+		"DEMOC.": "8.29",
+		"HAPPINESS": "7.139",
+		"Per capita GDP": "$51,512.91",
+		"% with tertiary educ.": "9.37",
+		"GRI": "4.2",
+		"Religiosity": "55%",
+		"SHI": "3.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "9.58",
+		"funct": {
+			" Of gov": "7.86"
+		},
+		"polit": {
+			" Particpation": "8.33"
+		},
+		"political culture": "8.13",
+		"civil liberties": "10",
+		"Satisfaction with GDP per capita": "1.268",
+		"Social support": "1.601",
+		"Healthy life expectancy": "0.876",
+		"Freedom to make life choices": "0.669",
+		"Generosity": "0.365",
+		"Perceptions of corruption": "0.389"
+	},
+	{
+		"continent": "oceana",
+		"sub contient": "22.Oceana",
+		"country": "Australia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "9.17",
+		"DEMOC.": "9.09",
+		"HAPPINESS": "7.272",
+		"Per capita GDP": "$57,305.30",
+		"% with tertiary educ.": "18.52",
+		"GRI": "1.1",
+		"Religiosity": "32%",
+		"SHI": "2.6",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "1",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "1",
+		"Democracy Status": "D",
+		"electoral process and pluralism": "10",
+		"funct": {
+			" Of gov": "8.93"
+		},
+		"polit": {
+			" Particpation": "7.78"
+		},
+		"political culture": "8.75",
+		"civil liberties": "10",
+		"Satisfaction with GDP per capita": "1.34",
+		"Social support": "1.573",
+		"Healthy life expectancy": "0.91",
+		"Freedom to make life choices": "0.647",
+		"Generosity": "0.361",
+		"Perceptions of corruption": "0.302"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Aruba",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.89",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "",
+		"% with tertiary educ.": "",
+		"GRI": "",
+		"Religiosity": "",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.83",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.53",
+		"Satisfaction with GDP per capita": "1.324",
+		"Social support": "1.483",
+		"Healthy life expectancy": "0.894",
+		"Freedom to make life choices": "0.583",
+		"Generosity": "0.188",
+		"Perceptions of corruption": "0.24"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "17. E. Europe",
+		"country": "Armenia",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.67",
+		"DEMOC.": "4.79",
+		"HAPPINESS": "4.321",
+		"Per capita GDP": "$4,212.07",
+		"% with tertiary educ.": "15.03",
+		"GRI": "",
+		"Religiosity": "73%",
+		"SHI": "",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "5.67",
+		"funct": {
+			" Of gov": "4.64"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "10",
+		"civil liberties": "10",
+		"Satisfaction with GDP per capita": "1.448",
+		"Social support": "1.583",
+		"Healthy life expectancy": "0.876",
+		"Freedom to make life choices": "0.614",
+		"Generosity": "0.307",
+		"Perceptions of corruption": "0.306"
+	},
+	{
+		"continent": "america",
+		"sub contient": "15. S. America",
+		"country": "Argentina",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "8.17",
+		"DEMOC.": "7.02",
+		"HAPPINESS": "6.388",
+		"Per capita GDP": "$11,652.57",
+		"% with tertiary educ.": "2.87",
+		"GRI": "2.7",
+		"Religiosity": "65%",
+		"SHI": "1.8",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "1",
+		"same-sex coupleadoptions": "1",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "0.4",
+		"gender ID markers": "1",
+		"Democracy Status": "F",
+		"electoral process and pluralism": "9.17",
+		"funct": {
+			" Of gov": "5.36"
+		},
+		"polit": {
+			" Particpation": "6.11"
+		},
+		"political culture": "6.88",
+		"civil liberties": "8.53",
+		"Satisfaction with GDP per capita": "1.2",
+		"Social support": "1.532",
+		"Healthy life expectancy": "0.737",
+		"Freedom to make life choices": "0.553",
+		"Generosity": "0.086",
+		"Perceptions of corruption": "0.174"
+	},
+	{
+		"continent": "america",
+		"sub contient": "7. Caribbean",
+		"country": "Antigua and Barbuda",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "1.14",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$16,864.38",
+		"% with tertiary educ.": "",
+		"GRI": "2.2",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "0.35",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "10",
+		"civil liberties": "9.71",
+		"Satisfaction with GDP per capita": "1.456",
+		"Social support": "1.582",
+		"Healthy life expectancy": "0.861",
+		"Freedom to make life choices": "0.686",
+		"Generosity": "0.286",
+		"Perceptions of corruption": "0.34"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "6. S.Africa",
+		"country": "Angola",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "3.39",
+		"DEMOC.": "3.62",
+		"HAPPINESS": "3.795",
+		"Per capita GDP": "$3,432.39",
+		"% with tertiary educ.": "",
+		"GRI": "4.1",
+		"Religiosity": "88%",
+		"SHI": "3.2",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0.2",
+		"gender ID markers": "0.5",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "1.75",
+		"funct": {
+			" Of gov": "2.86"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "8.75",
+		"civil liberties": "10",
+		"Satisfaction with GDP per capita": "1.33",
+		"Social support": "1.532",
+		"Healthy life expectancy": "0.896",
+		"Freedom to make life choices": "0.653",
+		"Generosity": "0.321",
+		"Perceptions of corruption": "0.291"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Andorra",
+		"Predom": {
+			" Religion": "C"
+		},
+		"SOGI-LI": "5.28",
+		"DEMOC.": "",
+		"HAPPINESS": "",
+		"Per capita GDP": "$42,029.76",
+		"% with tertiary educ.": "",
+		"GRI": "2.4",
+		"Religiosity": "",
+		"SHI": "0",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.67",
+		"same-sex coupleadoptions": "0.5",
+		"serving in the military": "0",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0",
+		"Democracy Status": "",
+		"electoral process and pluralism": "",
+		"funct": {
+			" Of gov": ""
+		},
+		"polit": {
+			" Particpation": ""
+		},
+		"political culture": "10",
+		"civil liberties": "9.41",
+		"Satisfaction with GDP per capita": "1.355",
+		"Social support": "1.501",
+		"Healthy life expectancy": "0.913",
+		"Freedom to make life choices": "0.659",
+		"Generosity": "0.285",
+		"Perceptions of corruption": "0.383"
+	},
+	{
+		"continent": "africa",
+		"sub contient": "3. N.Africa",
+		"country": "Algeria",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "1.39",
+		"DEMOC.": "3.5",
+		"HAPPINESS": "5.295",
+		"Per capita GDP": "$4,278.85",
+		"% with tertiary educ.": "6.66",
+		"GRI": "8",
+		"Religiosity": "95%",
+		"SHI": "6.3",
+		"legality of sam-sex sexual-activity": "0.5",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "2.58",
+		"funct": {
+			" Of gov": "2.21"
+		},
+		"polit": {
+			" Particpation": "3.89"
+		},
+		"political culture": "9.38",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.351",
+		"Social support": "1.59",
+		"Healthy life expectancy": "0.868",
+		"Freedom to make life choices": "0.683",
+		"Generosity": "0.284",
+		"Perceptions of corruption": "0.408"
+	},
+	{
+		"continent": "europe",
+		"sub contient": "18. S. Europe",
+		"country": "Albania",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "4.72",
+		"DEMOC.": "5.98",
+		"HAPPINESS": "4.586",
+		"Per capita GDP": "$5,253.63",
+		"% with tertiary educ.": "0.93",
+		"GRI": "1.6",
+		"Religiosity": "39%",
+		"SHI": "0.1",
+		"legality of sam-sex sexual-activity": "1",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0.5",
+		"antidiscrimination laws": "1",
+		"gender ID markers": "0",
+		"Democracy Status": "H",
+		"electoral process and pluralism": "7",
+		"funct": {
+			" Of gov": "4.71"
+		},
+		"polit": {
+			" Particpation": "5.56"
+		},
+		"political culture": "8.13",
+		"civil liberties": "9.12",
+		"Satisfaction with GDP per capita": "1.301",
+		"Social support": "1.559",
+		"Healthy life expectancy": "0.883",
+		"Freedom to make life choices": "0.533",
+		"Generosity": "0.354",
+		"Perceptions of corruption": "0.272"
+	},
+	{
+		"continent": "asia",
+		"sub contient": "9. C. Asia",
+		"country": "Afghanistan",
+		"Predom": {
+			" Religion": "M"
+		},
+		"SOGI-LI": "0.56",
+		"DEMOC.": "2.97",
+		"HAPPINESS": "3.632",
+		"Per capita GDP": "$520.90",
+		"% with tertiary educ.": "",
+		"GRI": "6.5",
+		"Religiosity": "97%",
+		"SHI": "6.9",
+		"legality of sam-sex sexual-activity": "0",
+		"marriage/ civil unions": "0.33",
+		"same-sex coupleadoptions": "0",
+		"serving in the military": "0",
+		"antidiscrimination laws": "0",
+		"gender ID markers": "0",
+		"Democracy Status": "A",
+		"electoral process and pluralism": "2.92",
+		"funct": {
+			" Of gov": "1.14"
+		},
+		"polit": {
+			" Particpation": "4.44"
+		},
+		"political culture": "5.63",
+		"civil liberties": "8.53",
+		"Satisfaction with GDP per capita": "1.293",
+		"Social support": "1.466",
+		"Healthy life expectancy": "0.908",
+		"Freedom to make life choices": "0.52",
+		"Generosity": "0.098",
+		"Perceptions of corruption": "0.176"
+	}
+]

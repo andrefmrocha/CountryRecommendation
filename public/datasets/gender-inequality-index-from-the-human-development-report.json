@@ -1,0 +1,7754 @@
+[
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.73900002"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.72399998"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.713"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.70099998"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68900001"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.676"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.667"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38100001"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33199999"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.273"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27900001"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28099999"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27200001"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26699999"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26699999"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68000001"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62699997"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56099999"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.523"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.514"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43200001"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42899999"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42899999"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42899999"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43099999"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42199999"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37400001"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36700001"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.366"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36399999"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36399999"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47099999"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46700001"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40599999"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34400001"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.338"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.317"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.308"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29899999"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29300001"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18000001"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.16"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.139"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.138"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.133"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.131"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.124"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.123"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18700001"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15099999"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.118"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.111"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.105"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.1"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.086999997"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.082999997"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.078000002"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.324"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.317"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31900001"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31900001"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.324"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33000001"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32600001"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38499999"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35800001"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38299999"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38100001"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.377"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37200001"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36199999"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.331"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.241"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.22499999"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.22499999"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.22"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.22400001"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.233"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65600002"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59100002"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55900002"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54900002"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.542"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53500003"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52700001"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51999998"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37200001"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35600001"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.345"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32100001"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31299999"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30700001"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.294"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29100001"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29100001"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15099999"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.148"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15099999"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.148"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.146"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.14399999"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.163"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.122"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.104"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.093000002"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.090000004"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.086999997"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.083999999"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.075999998"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.072999999"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51499999"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48100001"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46399999"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42300001"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41100001"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39399999"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.384"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37799999"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.375"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68199998"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67799997"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65600002"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62099999"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62699997"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62099999"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61500001"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60900003"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61299998"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48699999"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52399999"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49599999"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.477"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59100002"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55900002"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50300002"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.498"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49200001"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.486"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.45100001"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44600001"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.23899999"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.20999999"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.199"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.186"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15800001"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.551"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52100003"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.523"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49599999"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.486"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47799999"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.465"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44499999"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.435"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.509"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50300002"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46900001"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.454"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44800001"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44800001"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43099999"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41999999"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.414"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.373"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.336"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25099999"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.23199999"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.229"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.214"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.215"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.226"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.223"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63599998"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.611"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60699999"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.602"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59799999"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61500001"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59399998"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52700001"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50199997"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49900001"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49399999"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48899999"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48300001"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47400001"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66000003"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59899998"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56099999"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49200001"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48800001"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.486"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48500001"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48199999"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.479"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.70300001"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69300002"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66100001"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62300003"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61799997"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61299998"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57700002"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57200003"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56800002"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.184"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.132"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.127"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.118"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.113"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.108"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.102"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.097999997"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.74000001"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.70599997"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68400002"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67400002"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65899998"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65600002"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69499999"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47600001"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43399999"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38600001"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.359"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.352"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.347"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.329"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32499999"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.322"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25400001"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.228"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.197"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.191"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.184"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.17200001"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.168"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.164"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53799999"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49700001"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.484"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43700001"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43099999"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42399999"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42300001"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39899999"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39300001"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62300003"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.625"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61699998"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61199999"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60900003"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60600001"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59399998"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59200001"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.463"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.428"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.347"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32699999"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31999999"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31400001"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.308"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31299999"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.308"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.70899999"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69099998"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68300003"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67299998"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67400002"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.671"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67199999"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67199999"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.206"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.164"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.146"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.142"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13500001"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12800001"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.141"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.428"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39300001"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34299999"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32800001"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.322"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.317"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31099999"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30700001"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30399999"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.347"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25799999"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.14"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.134"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.14"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.138"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13500001"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.116"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.252"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.153"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13500001"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.132"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.131"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13500001"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.134"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12899999"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.667"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67699999"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67000002"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.667"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65700001"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66299999"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.102"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.075999998"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.056000002"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.050999999"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.048"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.044"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.043000001"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.041000001"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57099998"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48500001"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46900001"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46700001"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.493"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.447"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48300001"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47600001"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58899999"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.491"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.454"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.421"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42399999"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41800001"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.405"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39399999"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.391"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66500002"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.634"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58099997"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57499999"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52600002"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51800001"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.486"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43799999"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43700001"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41299999"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40599999"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39700001"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.384"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38600001"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28400001"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.214"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.168"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.171"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.162"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.155"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.154"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.131"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65200001"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66100001"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61900002"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57200003"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.565"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55900002"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57599998"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56999999"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56599998"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.611"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57599998"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56800002"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.546"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53100002"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49900001"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49900001"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40900001"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35800001"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.103"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.085000001"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.088"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.077"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.071999997"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.068000004"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.064000003"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.059999999"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.056000002"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.22"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.192"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.156"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.125"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.123"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.108"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.107"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.103"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.102"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60600001"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59500003"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.574"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55800003"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55599999"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55199999"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54900002"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54699999"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.542"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.74699998"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.73900002"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64700001"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.662"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65899998"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65700001"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65399998"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64200002"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64099997"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.426"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42199999"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38800001"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41999999"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41600001"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.375"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36300001"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.361"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.156"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.117"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.097000003"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.092"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.086999997"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.077"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.072999999"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.066"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62599999"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57300001"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56999999"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56699997"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54900002"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54799998"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54699999"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28299999"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.221"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.17900001"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15899999"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.148"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.134"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12800001"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.121"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.119"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59600002"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59899998"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56999999"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54000002"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53100002"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.523"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52200001"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50300002"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49399999"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54000002"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52700001"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52200001"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51800001"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51499999"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51200002"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.509"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50800002"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.579"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.597"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60299999"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60000002"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.597"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59299999"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54699999"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51499999"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51300001"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50400001"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.495"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46599999"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.461"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.322"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28799999"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25999999"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.255"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26100001"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.259"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.259"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.249"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.252"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.184"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.149"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.125"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.098999999"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.094999999"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.085000001"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.075999998"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.064999998"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.050999999"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68699998"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61900002"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59100002"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58200002"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57300001"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56099999"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54400003"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52999997"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57800001"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56400001"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53299999"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.486"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48100001"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47600001"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.472"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.472"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46700001"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66500002"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60100001"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51200002"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52899998"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52700001"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51700002"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51599997"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.514"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.509"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65799999"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53600001"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53399998"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53200001"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52899998"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.528"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52499998"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.20200001"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.20100001"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.192"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.171"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.155"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.149"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.14"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13500001"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.127"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.244"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.197"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.17299999"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.149"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.141"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13600001"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.124"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.118"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.103"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.198"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.178"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.175"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.124"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.116"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.090000004"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.085000001"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.085000001"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47999999"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46900001"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46599999"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.45500001"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44299999"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43900001"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.435"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.426"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42199999"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15899999"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13500001"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.148"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.119"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.127"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.127"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.124"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.116"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67400002"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63200003"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55699998"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48800001"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48899999"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48699999"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.484"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47999999"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47799999"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.449"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.405"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36000001"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26699999"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25400001"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.226"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.215"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.20299999"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.20200001"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.708"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69599998"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65399998"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.616"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61299998"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61000001"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57300001"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56900001"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.565"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58499998"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58499998"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37400001"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.236"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.234"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.24699999"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.243"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33500001"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50999999"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47600001"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67699999"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36500001"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37200001"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.373"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37799999"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39399999"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57700002"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.542"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50999999"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50099999"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.493"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.484"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47499999"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46799999"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27599999"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.21699999"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.208"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.204"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18799999"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.184"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.19499999"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.191"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40400001"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.398"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39300001"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38699999"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38600001"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38100001"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57700002"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59500003"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58499998"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56900001"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56300002"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55599999"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55299997"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54900002"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54900002"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68900001"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.676"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66100001"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66799998"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66000003"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65399998"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64899999"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64899999"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26800001"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.215"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.16599999"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.16599999"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.169"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.167"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32499999"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28099999"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.185"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.168"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.169"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.141"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13500001"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12800001"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.121"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.2"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.175"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.156"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.132"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.112"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.114"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.088"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.081"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.075000003"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.71899998"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69199997"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65499997"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.616"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60900003"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60699999"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60500002"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.616"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61400002"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.398"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.324"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.308"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.303"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29300001"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.287"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29100001"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64899999"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54100001"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41999999"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38299999"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35299999"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33500001"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32800001"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31200001"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.72600001"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.72500002"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.72299999"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67699999"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68099999"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68199998"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68599999"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68900001"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.331"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32100001"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30899999"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27700001"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27399999"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26300001"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.21600001"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.213"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.21699999"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.80900002"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.75599998"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65600002"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65200001"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64700001"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62699997"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.479"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.45199999"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.382"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.361"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35499999"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50800002"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.493"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43099999"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40099999"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39300001"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36399999"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35499999"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.345"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.486"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42500001"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.292"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28600001"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.257"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.255"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.24699999"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.23199999"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.5"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44999999"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40599999"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39700001"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30000001"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.292"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28299999"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.278"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.21799999"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.20299999"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.175"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.17399999"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.163"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.156"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.713"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69599998"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57999998"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56300002"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52999997"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52700001"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52200001"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51700002"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49399999"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66399997"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64499998"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63800001"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61699998"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60699999"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59600002"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58700001"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.574"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.45899999"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47600001"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44600001"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44299999"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44299999"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37400001"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55500001"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.546"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52499998"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51200002"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50999999"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50599998"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50099999"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47400001"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.70999998"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67000002"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.653"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.537"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.528"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51800001"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50599998"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49700001"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.113"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.096000001"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.082000002"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.054000001"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.050000001"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.048999999"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.046999998"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.044"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.044"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.222"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.19"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18799999"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.186"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.17900001"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.175"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.171"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.16500001"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15800001"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62900001"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.602"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54100001"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51999998"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.477"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.479"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47400001"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46599999"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46200001"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.83099997"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.81800002"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.73000002"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.71200001"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.70700002"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.70200002"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69800001"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69499999"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.16"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.122"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.109"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.085000001"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.075000003"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.071000002"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.067000002"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.061999999"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.057"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.052999999"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38699999"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32300001"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31099999"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30199999"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.294"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28400001"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28099999"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.76599997"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59500003"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56999999"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56900001"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55599999"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55500001"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55000001"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.546"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51700002"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50700003"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.472"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51499999"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51700002"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.51200002"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50700003"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.458"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.45699999"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66799998"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66299999"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68199998"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.667"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.662"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60500002"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.602"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.597"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59500003"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57499999"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55699998"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.537"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.50099999"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49900001"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.491"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46900001"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46799999"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46399999"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54699999"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.456"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40599999"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.412"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40000001"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39399999"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.389"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38499999"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48300001"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.479"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46700001"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.449"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43700001"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43599999"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43599999"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25799999"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.205"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.164"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.17"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.155"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.152"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15000001"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.146"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.13699999"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.243"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.208"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.182"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.141"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.12800001"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.127"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.11"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.103"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.090999998"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.579"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55400002"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55599999"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55199999"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.546"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.542"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47400001"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35499999"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35800001"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35499999"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34299999"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34400001"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34200001"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33899999"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46700001"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42300001"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.359"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.315"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.308"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.296"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28999999"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28600001"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.271"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.583"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55199999"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.484"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44400001"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.433"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42199999"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.405"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39399999"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38299999"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36700001"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.354"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49599999"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.493"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.456"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.491"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48500001"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47799999"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44499999"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.43900001"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53299999"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53100002"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52999997"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52899998"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52700001"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52399999"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67199999"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63300002"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62300003"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.61900002"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26699999"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.26199999"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.257"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62800002"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63200003"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62900001"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57499999"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56699997"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53899997"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53200001"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52499998"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52100003"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.22"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.21699999"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.189"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.19"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18700001"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.185"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.69499999"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66900003"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66500002"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.662"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66000003"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65600002"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.653"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64999998"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.252"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27200001"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.167"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.098999999"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.102"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.090999998"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.082000002"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.068999998"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.068000004"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.248"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.219"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.189"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.19400001"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.192"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.182"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18000001"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18000001"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.18000001"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.24699999"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.139"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.124"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.072999999"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.067000002"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.064000003"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.057"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.052999999"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42399999"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.419"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.426"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42300001"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.419"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41499999"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40599999"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40000001"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39399999"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27700001"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.191"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.107"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.098999999"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.093000002"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.082999997"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.075999998"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.071000002"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.067000002"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15700001"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.119"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.118"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.113"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.106"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.1"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.094999999"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.086999997"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.081"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47099999"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44499999"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40900001"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39399999"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.391"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.382"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38499999"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38600001"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.72000003"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66500002"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62199998"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.616"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60900003"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.602"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59500003"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57499999"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49200001"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.514"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.498"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.495"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.49599999"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.493"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44800001"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.090000004"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.061999999"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.052999999"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.050999999"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.048999999"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.048999999"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.048"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.046999998"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.048"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.117"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.093999997"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.072999999"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.061999999"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.059999999"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.056000002"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.048999999"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.045000002"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.039999999"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56900001"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55000001"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54000002"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53899997"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.542"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54699999"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.551"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55299997"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55400002"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55800003"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.41"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.345"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33000001"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32800001"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32300001"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32100001"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.324"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.322"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65200001"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59200001"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55800003"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55599999"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55299997"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54799998"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54400003"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.40000001"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.39700001"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34799999"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31900001"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30700001"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30899999"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30700001"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.366"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.741"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.66500002"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63300002"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59799999"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58899999"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58600003"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56699997"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55699998"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55599999"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.68400002"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.671"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47600001"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.67299998"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.472"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.465"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.662"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.65899998"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.426"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35299999"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35299999"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34900001"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34599999"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34299999"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34099999"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.324"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53200001"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.42699999"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.336"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30899999"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.301"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29699999"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.29899999"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28799999"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.289"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63099998"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58899999"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56400001"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.426"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38100001"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36500001"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.35100001"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.34"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32800001"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.36899999"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64999998"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64300001"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59200001"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56400001"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55199999"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54500002"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.537"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52899998"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52200001"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.48199999"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.384"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.37"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33399999"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.329"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31600001"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.308"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28999999"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28400001"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.64300001"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.60900003"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59100002"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.23100001"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.24600001"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.24699999"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.24699999"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.24699999"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.23199999"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.237"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.215"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.206"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.184"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.17399999"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.168"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.15899999"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.149"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.131"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.30500001"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.264"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.25400001"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.248"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.235"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.227"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.214"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.20299999"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.44"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.389"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.373"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32699999"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32600001"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31999999"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.31999999"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.317"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.28400001"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27900001"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.27900001"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.287"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54699999"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.47"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46900001"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46799999"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46599999"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.46599999"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.463"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.461"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.38299999"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.347"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.317"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.324"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.32800001"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.331"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.333"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33399999"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.33700001"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.81400001"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.79100001"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.77899998"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.77200001"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.76700002"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.76200002"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.75700003"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.76700002"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.625"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.62599999"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59299999"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55299997"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55599999"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.55000001"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54400003"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54100001"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.52600002"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "1995",
+		"Gender Inequality Index (Human Development Report (2015))": "0.59799999"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2000",
+		"Gender Inequality Index (Human Development Report (2015))": "0.63099998"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2005",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58899999"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2010",
+		"Gender Inequality Index (Human Development Report (2015))": "0.58099997"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2011",
+		"Gender Inequality Index (Human Development Report (2015))": "0.57499999"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2012",
+		"Gender Inequality Index (Human Development Report (2015))": "0.56900001"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2013",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53200001"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2014",
+		"Gender Inequality Index (Human Development Report (2015))": "0.53500003"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2015",
+		"Gender Inequality Index (Human Development Report (2015))": "0.54000002"
+	}
+]

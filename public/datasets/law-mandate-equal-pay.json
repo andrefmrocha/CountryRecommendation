@@ -1,0 +1,1982 @@
+[
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Bahamas",
+		"Code": "BHS",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Kiribati",
+		"Code": "KIR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Kosovo",
+		"Code": "OWID_KOS",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Kosovo",
+		"Code": "OWID_KOS",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Marshall Islands",
+		"Code": "MHL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Micronesia (country)",
+		"Code": "FSM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Palau",
+		"Code": "PLW",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Saint Kitts and Nevis",
+		"Code": "KNA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "San Marino",
+		"Code": "SMR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "0"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2013",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2015",
+		"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)": "1"
+	}
+]

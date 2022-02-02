@@ -1,0 +1,7994 @@
+[
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "24.7"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "24.5"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "24.8"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "27.1"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "29.4"
+	},
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "32.5"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "62.4"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "65.1"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "68.5"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "71.6"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "75.3"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "78.2"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "48.2"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "52.6"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "56.2"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59.6"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "62.2"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "63.7"
+	},
+	{
+		"Entity": "American Samoa",
+		"Code": "ASM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "54.6"
+	},
+	{
+		"Entity": "American Samoa",
+		"Code": "ASM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.6"
+	},
+	{
+		"Entity": "American Samoa",
+		"Code": "ASM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "60.2"
+	},
+	{
+		"Entity": "American Samoa",
+		"Code": "ASM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "61.7"
+	},
+	{
+		"Entity": "American Samoa",
+		"Code": "ASM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "63.1"
+	},
+	{
+		"Entity": "American Samoa",
+		"Code": "ASM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "63.3"
+	},
+	{
+		"Entity": "Andean Latin America",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "43.2"
+	},
+	{
+		"Entity": "Andean Latin America",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "47"
+	},
+	{
+		"Entity": "Andean Latin America",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "53.5"
+	},
+	{
+		"Entity": "Andean Latin America",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.1"
+	},
+	{
+		"Entity": "Andean Latin America",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.9"
+	},
+	{
+		"Entity": "Andean Latin America",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.1"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "84.7"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "88"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "91.1"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "92.6"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "94"
+	},
+	{
+		"Entity": "Andorra",
+		"Code": "AND",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "94.6"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "25.8"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "28.1"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "31.2"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "35.6"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "37.7"
+	},
+	{
+		"Entity": "Angola",
+		"Code": "AGO",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "40.7"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "56.6"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "57.8"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "60.3"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "62.5"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "64.9"
+	},
+	{
+		"Entity": "Antigua and Barbuda",
+		"Code": "ATG",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "66.7"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "57.4"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "60.3"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "63.5"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "65.3"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "66.6"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "68.4"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "56.8"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.6"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "60"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "63.7"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "67.5"
+	},
+	{
+		"Entity": "Australasia",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "77.2"
+	},
+	{
+		"Entity": "Australasia",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "80.1"
+	},
+	{
+		"Entity": "Australasia",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82.9"
+	},
+	{
+		"Entity": "Australasia",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "85.3"
+	},
+	{
+		"Entity": "Australasia",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "87.4"
+	},
+	{
+		"Entity": "Australasia",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "89.1"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "78"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "80.8"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "83.7"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "86.2"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "88.2"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "89.8"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "74.4"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "78.2"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "81.6"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.2"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "86.1"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "88.2"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "52.9"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "51.8"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "53.6"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "55.4"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "59.9"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.5"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "59.7"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.2"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "67.3"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "71.3"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "77.2"
+	},
+	{
+		"Entity": "Bahrain",
+		"Code": "BHR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "79"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.6"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.8"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "39.6"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.3"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "48.7"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "51.7"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "55.9"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "59.5"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "62.6"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "64.3"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "65.5"
+	},
+	{
+		"Entity": "Barbados",
+		"Code": "BRB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "66.8"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "63.9"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.2"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "65.6"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "71.7"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "74.4"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "75.4"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "78.8"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "81.6"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.6"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "86.3"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "87.9"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.7"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "50.5"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "50.6"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "53.7"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "56.3"
+	},
+	{
+		"Entity": "Belize",
+		"Code": "BLZ",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "58.3"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "36.9"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "37"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "37.3"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "40.4"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.5"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "43"
+	},
+	{
+		"Entity": "Bermuda",
+		"Code": "BMU",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "60.8"
+	},
+	{
+		"Entity": "Bermuda",
+		"Code": "BMU",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "64.8"
+	},
+	{
+		"Entity": "Bermuda",
+		"Code": "BMU",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "71.6"
+	},
+	{
+		"Entity": "Bermuda",
+		"Code": "BMU",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "74.1"
+	},
+	{
+		"Entity": "Bermuda",
+		"Code": "BMU",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "77"
+	},
+	{
+		"Entity": "Bermuda",
+		"Code": "BMU",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "79"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "34.6"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "37.6"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "42.3"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "46.2"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "50.1"
+	},
+	{
+		"Entity": "Bhutan",
+		"Code": "BTN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "52.7"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "40.5"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "43.8"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "48.5"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "53.3"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "56.4"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "59.2"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "60.9"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "68.8"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "72.1"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "75.3"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "78.2"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "44.9"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "45.4"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "43.7"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "43.9"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "48.6"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "51.1"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.1"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "53.8"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59.9"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "62.6"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.9"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "62"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "64.3"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "66.7"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68.6"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "69.5"
+	},
+	{
+		"Entity": "Brunei",
+		"Code": "BRN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "70"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "63"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.2"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "64.8"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "66.7"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "67.9"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "71.4"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.9"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "34.1"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "36"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "40.3"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "42.7"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "42.9"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "23.5"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "23.4"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "27"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "35.5"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.5"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "40.4"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "30"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "31.3"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "34.1"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "40.7"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "45.5"
+	},
+	{
+		"Entity": "Cambodia",
+		"Code": "KHM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "50.7"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "38.3"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "37.7"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "37.2"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "41"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "42.5"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.4"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "78.9"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "80.7"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "83.2"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.7"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "86.3"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "87.6"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.1"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "49.3"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "50.8"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "53.7"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "57.9"
+	},
+	{
+		"Entity": "Cape Verde",
+		"Code": "CPV",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "61.7"
+	},
+	{
+		"Entity": "Caribbean",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "42.4"
+	},
+	{
+		"Entity": "Caribbean",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "45.9"
+	},
+	{
+		"Entity": "Caribbean",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "48.8"
+	},
+	{
+		"Entity": "Caribbean",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "50.8"
+	},
+	{
+		"Entity": "Caribbean",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "52.3"
+	},
+	{
+		"Entity": "Caribbean",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "54.5"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "25.5"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "25.8"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "26.7"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "28"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "28.8"
+	},
+	{
+		"Entity": "Central African Republic",
+		"Code": "CAF",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "28.6"
+	},
+	{
+		"Entity": "Central Asia",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.7"
+	},
+	{
+		"Entity": "Central Asia",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "49.2"
+	},
+	{
+		"Entity": "Central Asia",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "50.7"
+	},
+	{
+		"Entity": "Central Asia",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "52.4"
+	},
+	{
+		"Entity": "Central Asia",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "56.6"
+	},
+	{
+		"Entity": "Central Asia",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "59.9"
+	},
+	{
+		"Entity": "Central Europe",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "60.6"
+	},
+	{
+		"Entity": "Central Europe",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.4"
+	},
+	{
+		"Entity": "Central Europe",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "67.5"
+	},
+	{
+		"Entity": "Central Europe",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "70.5"
+	},
+	{
+		"Entity": "Central Europe",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "73.8"
+	},
+	{
+		"Entity": "Central Europe",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "77.1"
+	},
+	{
+		"Entity": "Central Europe, Eastern Europe, and Central Asia",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "57.5"
+	},
+	{
+		"Entity": "Central Europe, Eastern Europe, and Central Asia",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.9"
+	},
+	{
+		"Entity": "Central Europe, Eastern Europe, and Central Asia",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "58.4"
+	},
+	{
+		"Entity": "Central Europe, Eastern Europe, and Central Asia",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "60.8"
+	},
+	{
+		"Entity": "Central Europe, Eastern Europe, and Central Asia",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "65.4"
+	},
+	{
+		"Entity": "Central Europe, Eastern Europe, and Central Asia",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "68.5"
+	},
+	{
+		"Entity": "Central Latin America",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "47.6"
+	},
+	{
+		"Entity": "Central Latin America",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "52.2"
+	},
+	{
+		"Entity": "Central Latin America",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "55.8"
+	},
+	{
+		"Entity": "Central Latin America",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.3"
+	},
+	{
+		"Entity": "Central Latin America",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.2"
+	},
+	{
+		"Entity": "Central Latin America",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.4"
+	},
+	{
+		"Entity": "Central Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "31.1"
+	},
+	{
+		"Entity": "Central Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "32.1"
+	},
+	{
+		"Entity": "Central Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "33"
+	},
+	{
+		"Entity": "Central Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "35.7"
+	},
+	{
+		"Entity": "Central Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "37.2"
+	},
+	{
+		"Entity": "Central Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "38.6"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "35.6"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.2"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "32.1"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "34.1"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "36.3"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "37.7"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "58.8"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "64.2"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "69.2"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "72"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "73.9"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "76"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.5"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "53.7"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57.8"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "63.7"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "69.9"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "74.2"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "51.1"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "54.9"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "58.4"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "61.6"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "64.4"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "67.8"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.7"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "34.3"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "38.4"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.1"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47.2"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "47.7"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.2"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "31.4"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "33.3"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "39.3"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.2"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "43.5"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "62.8"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "65.4"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68.6"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "70.8"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "72.9"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "35.5"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.2"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "34.4"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "37.6"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.7"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "42.4"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "68.8"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "70.4"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "73.4"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "76.8"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "78.9"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "81.6"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "64.1"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "65.2"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "67.7"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "70.5"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "72.1"
+	},
+	{
+		"Entity": "Cuba",
+		"Code": "CUB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "73.5"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "72"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "73.4"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "76.4"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "79.2"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "82.6"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "85.3"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "68.3"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "73.2"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "77.1"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "79.2"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "81.8"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "84.8"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "35.6"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "36.1"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "36.2"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38.1"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "39.3"
+	},
+	{
+		"Entity": "Democratic Republic of Congo",
+		"Code": "COD",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "40.4"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "76.6"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "77.2"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "79.5"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "81.9"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "83.6"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "85.7"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "38.9"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "38.8"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "39.4"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "40.9"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "43.2"
+	},
+	{
+		"Entity": "Djibouti",
+		"Code": "DJI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.7"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "53"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "54.6"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57.7"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "58.5"
+	},
+	{
+		"Entity": "Dominica",
+		"Code": "DMA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "58.1"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "47.9"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "52.2"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "56.6"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.6"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.8"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.5"
+	},
+	{
+		"Entity": "East Asia",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.5"
+	},
+	{
+		"Entity": "East Asia",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "53.8"
+	},
+	{
+		"Entity": "East Asia",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57.8"
+	},
+	{
+		"Entity": "East Asia",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "63.6"
+	},
+	{
+		"Entity": "East Asia",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "69.7"
+	},
+	{
+		"Entity": "East Asia",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "73.8"
+	},
+	{
+		"Entity": "Eastern Europe",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "61.7"
+	},
+	{
+		"Entity": "Eastern Europe",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "58.2"
+	},
+	{
+		"Entity": "Eastern Europe",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "60.4"
+	},
+	{
+		"Entity": "Eastern Europe",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "63.4"
+	},
+	{
+		"Entity": "Eastern Europe",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "68.9"
+	},
+	{
+		"Entity": "Eastern Europe",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "71.9"
+	},
+	{
+		"Entity": "Eastern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "29.6"
+	},
+	{
+		"Entity": "Eastern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "31.2"
+	},
+	{
+		"Entity": "Eastern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "33.8"
+	},
+	{
+		"Entity": "Eastern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "37.5"
+	},
+	{
+		"Entity": "Eastern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.5"
+	},
+	{
+		"Entity": "Eastern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "42.4"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "45.4"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "48.7"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "53.5"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "56.1"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "58.6"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "61.2"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "45"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "49.3"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "54.4"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "56.9"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "58.2"
+	},
+	{
+		"Entity": "Egypt",
+		"Code": "EGY",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "61"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "44.3"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "49"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "55.3"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59.6"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "62.2"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.4"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "26.1"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "27.5"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "35.4"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "42.9"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "45.6"
+	},
+	{
+		"Entity": "Equatorial Guinea",
+		"Code": "GNQ",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "48.4"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "28.9"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.3"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "38"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38.8"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "37.8"
+	},
+	{
+		"Entity": "Eritrea",
+		"Code": "ERI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "38.1"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "65.8"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "62.5"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "67.4"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "71.4"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "77.5"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "81.4"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "41.5"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "45.7"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "40.7"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "35.1"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "37.8"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "41.9"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "23.1"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "26.8"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "30.6"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "34.9"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.4"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.2"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "43.9"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "44.1"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "44.7"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "45"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "45.4"
+	},
+	{
+		"Entity": "Fiji",
+		"Code": "FJI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "46.6"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "75.4"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "78.8"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.5"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "87.2"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "89.6"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "74.3"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "77.5"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "80.3"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.2"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "85.7"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "87.9"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "39.1"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "40.1"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "41.8"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.1"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "48.4"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "51.4"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "41.3"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "42.4"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "43.3"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "45.6"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47.7"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.7"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "58.4"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "60.2"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "60.9"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "60.7"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.8"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "73.1"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "77.1"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "80.6"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "83.2"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "84.9"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "86.4"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "34.8"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "38.5"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "40.3"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.2"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47.3"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.7"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "76.5"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "79.5"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82.2"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.4"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "85.2"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "87"
+	},
+	{
+		"Entity": "Greenland",
+		"Code": "GRL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "59"
+	},
+	{
+		"Entity": "Greenland",
+		"Code": "GRL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "62.3"
+	},
+	{
+		"Entity": "Greenland",
+		"Code": "GRL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "64.3"
+	},
+	{
+		"Entity": "Greenland",
+		"Code": "GRL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "65.8"
+	},
+	{
+		"Entity": "Greenland",
+		"Code": "GRL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "68.1"
+	},
+	{
+		"Entity": "Greenland",
+		"Code": "GRL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "71"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.4"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "52.8"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "54"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "55.1"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "57"
+	},
+	{
+		"Entity": "Grenada",
+		"Code": "GRD",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "58.3"
+	},
+	{
+		"Entity": "Guam",
+		"Code": "GUM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "61.5"
+	},
+	{
+		"Entity": "Guam",
+		"Code": "GUM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.6"
+	},
+	{
+		"Entity": "Guam",
+		"Code": "GUM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "67"
+	},
+	{
+		"Entity": "Guam",
+		"Code": "GUM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "66.4"
+	},
+	{
+		"Entity": "Guam",
+		"Code": "GUM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "63.7"
+	},
+	{
+		"Entity": "Guam",
+		"Code": "GUM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "63.4"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "40.1"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "44.4"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "48.7"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "51.3"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "53.2"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "55.7"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.6"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.6"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "34"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "37"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "37.6"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "38.6"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.7"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.1"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "33.6"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "33.3"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "35.1"
+	},
+	{
+		"Entity": "Guinea-Bissau",
+		"Code": "GNB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "36.3"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "39.3"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "41.3"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "42.5"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.7"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47"
+	},
+	{
+		"Entity": "Guyana",
+		"Code": "GUY",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.8"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "24.9"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "29.2"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "32.7"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "34.8"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "35.9"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "38.5"
+	},
+	{
+		"Entity": "High-income",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "71.1"
+	},
+	{
+		"Entity": "High-income",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "74.6"
+	},
+	{
+		"Entity": "High-income",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "77.2"
+	},
+	{
+		"Entity": "High-income",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "79.6"
+	},
+	{
+		"Entity": "High-income",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "81.6"
+	},
+	{
+		"Entity": "High-income",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "83.1"
+	},
+	{
+		"Entity": "High-income Asia Pacific",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "72.6"
+	},
+	{
+		"Entity": "High-income Asia Pacific",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "77.2"
+	},
+	{
+		"Entity": "High-income Asia Pacific",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "79.8"
+	},
+	{
+		"Entity": "High-income Asia Pacific",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "83.3"
+	},
+	{
+		"Entity": "High-income Asia Pacific",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "86"
+	},
+	{
+		"Entity": "High-income Asia Pacific",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "87.4"
+	},
+	{
+		"Entity": "High-income North America",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "74"
+	},
+	{
+		"Entity": "High-income North America",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "76.3"
+	},
+	{
+		"Entity": "High-income North America",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "78.1"
+	},
+	{
+		"Entity": "High-income North America",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "79.2"
+	},
+	{
+		"Entity": "High-income North America",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "80.9"
+	},
+	{
+		"Entity": "High-income North America",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "81.8"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "42.3"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "45.7"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "47.6"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "49.5"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "51.8"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "53.9"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "64.6"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "67.2"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "71"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "73.7"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "76.1"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "79.6"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "81.9"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "84.2"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "87.1"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "89.8"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "92.1"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "93.6"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "30.7"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.1"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "35.3"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38.2"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.2"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.8"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "37.2"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "39.7"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "41.3"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "43.8"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "46.8"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.2"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "54.6"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "59.6"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "63.5"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "65.7"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "68.9"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "71.1"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "51.1"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "50.7"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "51.8"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "54.4"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "57.2"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "60.1"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "75.6"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "78.4"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "79.6"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "83.5"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "86"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "88.4"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "71.3"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "74.3"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "77.5"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "80.3"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "83.7"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "85.5"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "76.2"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "79.1"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82.5"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "85.5"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "87.5"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "88.7"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "55"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "58"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59.5"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "62.2"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "62.9"
+	},
+	{
+		"Entity": "Jamaica",
+		"Code": "JAM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "63.7"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "78.3"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "80.7"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82.9"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "85.6"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "87.8"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "89"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "59.1"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "62"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "65"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68.4"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "74.3"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "76.5"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "55.1"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "49.9"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "51.3"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "51.9"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "57.9"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "61.1"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "42.6"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "42.3"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "44"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "46.4"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47.5"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "48.7"
+	},
+	{
+		"Entity": "Kiribati",
+		"Code": "KIR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "35.4"
+	},
+	{
+		"Entity": "Kiribati",
+		"Code": "KIR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "36.5"
+	},
+	{
+		"Entity": "Kiribati",
+		"Code": "KIR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "39.7"
+	},
+	{
+		"Entity": "Kiribati",
+		"Code": "KIR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "41.1"
+	},
+	{
+		"Entity": "Kiribati",
+		"Code": "KIR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "43.6"
+	},
+	{
+		"Entity": "Kiribati",
+		"Code": "KIR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.9"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "71.7"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "71.4"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "74.9"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "75.7"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "77.7"
+	},
+	{
+		"Entity": "Kuwait",
+		"Code": "KWT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "82"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "52.5"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "51.7"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "52.4"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "54.6"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "57.7"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "60.4"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "23.8"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "25.7"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "28.7"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "33.6"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "39.6"
+	},
+	{
+		"Entity": "Laos",
+		"Code": "LAO",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.9"
+	},
+	{
+		"Entity": "Latin America and Caribbean",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "46.5"
+	},
+	{
+		"Entity": "Latin America and Caribbean",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "50.8"
+	},
+	{
+		"Entity": "Latin America and Caribbean",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "54.6"
+	},
+	{
+		"Entity": "Latin America and Caribbean",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "57.4"
+	},
+	{
+		"Entity": "Latin America and Caribbean",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "59.6"
+	},
+	{
+		"Entity": "Latin America and Caribbean",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "61.9"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "65.7"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "62.4"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "68.7"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "70.7"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "74.4"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "77.7"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "58.7"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.4"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "68.5"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "73.1"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "77"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "80"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "40.8"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "41.8"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "39.4"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "33.2"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "34.4"
+	},
+	{
+		"Entity": "Lesotho",
+		"Code": "LSO",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "35.7"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "34.7"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "37.1"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "39.5"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "41.7"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "43.2"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "45.4"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "60"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.7"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "65.4"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "67.1"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "69.7"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "69.9"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "67"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "64.2"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "69.6"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "70.2"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "73.6"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "76.6"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "74.5"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "78.8"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82.2"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.9"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "87.5"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "89.3"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "34.8"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "36.5"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "38.7"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "41.6"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "42.5"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "43.7"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "34.7"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.4"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "36.5"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "40.6"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "44.3"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "47"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "54.2"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "57.2"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "60.3"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "63.2"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "63.9"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "66.6"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "45.9"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "51.6"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59.3"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "67.1"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "72.9"
+	},
+	{
+		"Entity": "Maldives",
+		"Code": "MDV",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "75.5"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.7"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.8"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "37.7"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "43.5"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "44.4"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "45.6"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "74.7"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "76.8"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "78.9"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "81.4"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "82.9"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "85.1"
+	},
+	{
+		"Entity": "Marshall Islands",
+		"Code": "MHL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "41.2"
+	},
+	{
+		"Entity": "Marshall Islands",
+		"Code": "MHL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "43.2"
+	},
+	{
+		"Entity": "Marshall Islands",
+		"Code": "MHL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "43.2"
+	},
+	{
+		"Entity": "Marshall Islands",
+		"Code": "MHL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.3"
+	},
+	{
+		"Entity": "Marshall Islands",
+		"Code": "MHL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "46.8"
+	},
+	{
+		"Entity": "Marshall Islands",
+		"Code": "MHL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.8"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "37.3"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "38.9"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "42.9"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "46.9"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "49.6"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "52"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "53.6"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "57.3"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59.8"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "61.8"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "63.3"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "65.7"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.2"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "54.1"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57.4"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59.1"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.5"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.6"
+	},
+	{
+		"Entity": "Micronesia (country)",
+		"Code": "FSM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "41.1"
+	},
+	{
+		"Entity": "Micronesia (country)",
+		"Code": "FSM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "43.6"
+	},
+	{
+		"Entity": "Micronesia (country)",
+		"Code": "FSM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "46.8"
+	},
+	{
+		"Entity": "Micronesia (country)",
+		"Code": "FSM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "49.8"
+	},
+	{
+		"Entity": "Micronesia (country)",
+		"Code": "FSM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "51.5"
+	},
+	{
+		"Entity": "Micronesia (country)",
+		"Code": "FSM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "53.8"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "59.6"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "56"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "60.8"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "64.8"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "66.8"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "73.1"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "42.3"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "42.1"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "44.7"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "50.9"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "54.9"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "58.5"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "70.2"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "70.2"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "69.9"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "74.4"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "78.2"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "80.7"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "44"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "47.8"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "52.6"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "55.6"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "58.7"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "61.3"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "33.2"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.1"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "36.4"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "39.6"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.9"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "43"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "29.7"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "31.6"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "34.7"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "39.5"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "44.4"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "48.4"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "41.8"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "41.9"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "39.9"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "43.5"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "50.4"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "53.7"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "34"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "37.1"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "41.6"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "45.7"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "48.2"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "50.8"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "79.2"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "80.8"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82.1"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "85.1"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "88.2"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "89.5"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "74.2"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "77.6"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "80"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "82.5"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "84.2"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "86.2"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.7"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "51.7"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "55.5"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.8"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "61.8"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.3"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "31.8"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.1"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "34.6"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "37.7"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.3"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "41"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "38.3"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "39.7"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "40.6"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "43.1"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "48.8"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "51.3"
+	},
+	{
+		"Entity": "North Africa and Middle East",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "43.8"
+	},
+	{
+		"Entity": "North Africa and Middle East",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "46.5"
+	},
+	{
+		"Entity": "North Africa and Middle East",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "49.9"
+	},
+	{
+		"Entity": "North Africa and Middle East",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "52.8"
+	},
+	{
+		"Entity": "North Africa and Middle East",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "55.7"
+	},
+	{
+		"Entity": "North Africa and Middle East",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "58.4"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "53.1"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.8"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "56"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "57.5"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.4"
+	},
+	{
+		"Entity": "North Korea",
+		"Code": "PRK",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.3"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "61.9"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.4"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "67"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "69.9"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "74.2"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "76"
+	},
+	{
+		"Entity": "Northern Mariana Islands",
+		"Code": "MNP",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "60.5"
+	},
+	{
+		"Entity": "Northern Mariana Islands",
+		"Code": "MNP",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "65.5"
+	},
+	{
+		"Entity": "Northern Mariana Islands",
+		"Code": "MNP",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "68.9"
+	},
+	{
+		"Entity": "Northern Mariana Islands",
+		"Code": "MNP",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "71.4"
+	},
+	{
+		"Entity": "Northern Mariana Islands",
+		"Code": "MNP",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "72.7"
+	},
+	{
+		"Entity": "Northern Mariana Islands",
+		"Code": "MNP",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "71.8"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "77.5"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "81"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "82.8"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "85.9"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "88"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "90.5"
+	},
+	{
+		"Entity": "Oceania",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "33.8"
+	},
+	{
+		"Entity": "Oceania",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "34.8"
+	},
+	{
+		"Entity": "Oceania",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "35.4"
+	},
+	{
+		"Entity": "Oceania",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "36.1"
+	},
+	{
+		"Entity": "Oceania",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "37.7"
+	},
+	{
+		"Entity": "Oceania",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "40.3"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "66.1"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "71.4"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "74.4"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "76.2"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "72.9"
+	},
+	{
+		"Entity": "Oman",
+		"Code": "OMN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "77.1"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "36.5"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.6"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "36.3"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38.1"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.2"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "43.1"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "61.8"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "65.6"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "68.3"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68.7"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "69"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "70.5"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "52.9"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "56.7"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59.8"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "61.3"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "62.2"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.4"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "33.4"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "34"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "35.8"
+	},
+	{
+		"Entity": "Papua New Guinea",
+		"Code": "PNG",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "38.6"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "53"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.1"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "56.6"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "57.4"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "58.6"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "60.4"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "45.9"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "49.8"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57.1"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "62.7"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "65.9"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "69.6"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "45"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "46.1"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "47.5"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "47.6"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "49.6"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "52"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "65.4"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "70.8"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "73.8"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "76.3"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "79.6"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "67.2"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "71.5"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "74.7"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "79.7"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "81.9"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "84.5"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "64.5"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "66.1"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "69.8"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "72.6"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "74"
+	},
+	{
+		"Entity": "Puerto Rico",
+		"Code": "PRI",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "76.6"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "70.8"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "71.3"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "73.1"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "77.5"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "83.1"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "85.2"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "58.3"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "60"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "64.2"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "67.2"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "71.1"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "74.4"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "61.4"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "57.6"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59.7"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "62.9"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "68.5"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "71.7"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "29.9"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "23.3"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "30.4"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "42.6"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "47.8"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.7"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "53"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "56"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.5"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "61.1"
+	},
+	{
+		"Entity": "Saint Lucia",
+		"Code": "LCA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.5"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.4"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "51.4"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "53"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "55.2"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "56.7"
+	},
+	{
+		"Entity": "Saint Vincent and the Grenadines",
+		"Code": "VCT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "57.5"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.9"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "53.6"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "56.5"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.6"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.7"
+	},
+	{
+		"Entity": "Samoa",
+		"Code": "WSM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "41.3"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "41.9"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "42.8"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47.3"
+	},
+	{
+		"Entity": "Sao Tome and Principe",
+		"Code": "STP",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.6"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "63.4"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "66.8"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "71.2"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "74.2"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "77"
+	},
+	{
+		"Entity": "Saudi Arabia",
+		"Code": "SAU",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "79.4"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "37.6"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "38.1"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "38.9"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "41.5"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "42.9"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.4"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "64.2"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "64.4"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "66.6"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "69.4"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "73.1"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "75.4"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.7"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.1"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "58.5"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "61.1"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "63.9"
+	},
+	{
+		"Entity": "Seychelles",
+		"Code": "SYC",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "66.1"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "37.6"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "37.2"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "35.4"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "36.1"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "38.2"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "41.3"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "67.4"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "72.8"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "77.3"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "80.8"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "84.2"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "86.3"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "66.6"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "69.4"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "70.8"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "72.2"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "74.9"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "78.6"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "71.2"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "72.8"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "76.4"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "79.8"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "84.3"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "87.4"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "33.4"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.7"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "38.3"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.1"
+	},
+	{
+		"Entity": "Solomon Islands",
+		"Code": "SLB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "43.1"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "29.1"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "29.3"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "30.1"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "31.8"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "33.3"
+	},
+	{
+		"Entity": "Somalia",
+		"Code": "SOM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "34.2"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "45.6"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "47.9"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "44.8"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "45.2"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "49.4"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "52"
+	},
+	{
+		"Entity": "South Asia",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "30.7"
+	},
+	{
+		"Entity": "South Asia",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "32.9"
+	},
+	{
+		"Entity": "South Asia",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "35.1"
+	},
+	{
+		"Entity": "South Asia",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38.1"
+	},
+	{
+		"Entity": "South Asia",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.1"
+	},
+	{
+		"Entity": "South Asia",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.4"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "61.7"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "70.5"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "74.6"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "80.4"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "83.9"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "85.8"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "33.4"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "34.7"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "37.5"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "39"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "38.8"
+	},
+	{
+		"Entity": "South Sudan",
+		"Code": "SSD",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "38.8"
+	},
+	{
+		"Entity": "Southeast Asia",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "38.6"
+	},
+	{
+		"Entity": "Southeast Asia",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "40.9"
+	},
+	{
+		"Entity": "Southeast Asia",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "43"
+	},
+	{
+		"Entity": "Southeast Asia",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "46"
+	},
+	{
+		"Entity": "Southeast Asia",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "49.4"
+	},
+	{
+		"Entity": "Southeast Asia",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "52.1"
+	},
+	{
+		"Entity": "Southeast Asia, East Asia, and Oceania",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "44.8"
+	},
+	{
+		"Entity": "Southeast Asia, East Asia, and Oceania",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "48.1"
+	},
+	{
+		"Entity": "Southeast Asia, East Asia, and Oceania",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "51.1"
+	},
+	{
+		"Entity": "Southeast Asia, East Asia, and Oceania",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "55.4"
+	},
+	{
+		"Entity": "Southeast Asia, East Asia, and Oceania",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60"
+	},
+	{
+		"Entity": "Southeast Asia, East Asia, and Oceania",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "63.5"
+	},
+	{
+		"Entity": "Southern Latin America",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "57.6"
+	},
+	{
+		"Entity": "Southern Latin America",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "61.1"
+	},
+	{
+		"Entity": "Southern Latin America",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "64.7"
+	},
+	{
+		"Entity": "Southern Latin America",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "66.7"
+	},
+	{
+		"Entity": "Southern Latin America",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "68.1"
+	},
+	{
+		"Entity": "Southern Latin America",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "70"
+	},
+	{
+		"Entity": "Southern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "44.8"
+	},
+	{
+		"Entity": "Southern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "46.7"
+	},
+	{
+		"Entity": "Southern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "43.4"
+	},
+	{
+		"Entity": "Southern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "43.1"
+	},
+	{
+		"Entity": "Southern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "46.3"
+	},
+	{
+		"Entity": "Southern Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.2"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "73.9"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "78.1"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "81.4"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "84.1"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "87.2"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "89.6"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "56.9"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "59.5"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "60.4"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "63.8"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "68.9"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "72.8"
+	},
+	{
+		"Entity": "Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.3"
+	},
+	{
+		"Entity": "Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.5"
+	},
+	{
+		"Entity": "Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "34.6"
+	},
+	{
+		"Entity": "Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "37.4"
+	},
+	{
+		"Entity": "Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "40.5"
+	},
+	{
+		"Entity": "Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "42.2"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "36.6"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "38.8"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "42"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.9"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47.4"
+	},
+	{
+		"Entity": "Sudan",
+		"Code": "SDN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "50.1"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "46.7"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "48.6"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "49.5"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "51"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "53.5"
+	},
+	{
+		"Entity": "Suriname",
+		"Code": "SUR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "56.7"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "80.4"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "83.9"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "85.7"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "87"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "88.7"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "90.5"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "81.4"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "83.4"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "85.4"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "88.2"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "90.1"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "91.8"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "58.2"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.1"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "68.2"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "71.4"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "73.8"
+	},
+	{
+		"Entity": "Syria",
+		"Code": "SYR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "74.6"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "64.2"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "66.8"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "70.1"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "73.6"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "77.1"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "77.6"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "48.7"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "48.1"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "48.6"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "51.7"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "55.4"
+	},
+	{
+		"Entity": "Tajikistan",
+		"Code": "TJK",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "58.6"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "39.9"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "41"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "43.1"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "46.7"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "48.8"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.9"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "52.4"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.9"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59.3"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "64.8"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "68.4"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "70.8"
+	},
+	{
+		"Entity": "The Bahamas",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.9"
+	},
+	{
+		"Entity": "The Bahamas",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "54.1"
+	},
+	{
+		"Entity": "The Bahamas",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57"
+	},
+	{
+		"Entity": "The Bahamas",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59.9"
+	},
+	{
+		"Entity": "The Bahamas",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "The Bahamas",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "63.9"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "32.2"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "35.4"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "38.2"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "42.6"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "48.4"
+	},
+	{
+		"Entity": "Timor",
+		"Code": "TLS",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "51.6"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "37.4"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "36.9"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "36.9"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "40.1"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.8"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.3"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "55"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "56.3"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "57.3"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.4"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.1"
+	},
+	{
+		"Entity": "Tonga",
+		"Code": "TON",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "51.6"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "53.5"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "55.8"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "58.6"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "60.5"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.1"
+	},
+	{
+		"Entity": "Tropical Latin America",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "50.1"
+	},
+	{
+		"Entity": "Tropical Latin America",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "53.7"
+	},
+	{
+		"Entity": "Tropical Latin America",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "56.9"
+	},
+	{
+		"Entity": "Tropical Latin America",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59.8"
+	},
+	{
+		"Entity": "Tropical Latin America",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "62.5"
+	},
+	{
+		"Entity": "Tropical Latin America",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.7"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "53"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "56.9"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "61.4"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "64.5"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "67.4"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "70.1"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "51.3"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.4"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "62.4"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68.6"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "74.3"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "76.2"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "47.1"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "47.7"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "48.8"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "51.1"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "54.5"
+	},
+	{
+		"Entity": "Turkmenistan",
+		"Code": "TKM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "58.1"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "34"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "33.9"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "35.2"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38.2"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.4"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "42.9"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "62.8"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "59.4"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "62"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "64.4"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "70.5"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "72.7"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "56.9"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "60.8"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "64.7"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "69"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "71.4"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "72.2"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "74.3"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "76.6"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "78.4"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "80.6"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "82.7"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "84.6"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "73.7"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "76"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "77.8"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "78.8"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "80.5"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "81.3"
+	},
+	{
+		"Entity": "United States Virgin Islands",
+		"Code": "VIR",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "60.4"
+	},
+	{
+		"Entity": "United States Virgin Islands",
+		"Code": "VIR",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.1"
+	},
+	{
+		"Entity": "United States Virgin Islands",
+		"Code": "VIR",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "65.8"
+	},
+	{
+		"Entity": "United States Virgin Islands",
+		"Code": "VIR",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68.8"
+	},
+	{
+		"Entity": "United States Virgin Islands",
+		"Code": "VIR",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "69.8"
+	},
+	{
+		"Entity": "United States Virgin Islands",
+		"Code": "VIR",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "70.2"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "60.8"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "63.1"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "67.1"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "68.7"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "70.6"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "72"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "51.9"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "51.7"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "54"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "56.1"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "59.2"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "62.3"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "36.4"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "37.4"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "38.3"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "38.4"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "41.1"
+	},
+	{
+		"Entity": "Vanuatu",
+		"Code": "VUT",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "43.1"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "53.1"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "55.6"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "59.3"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "62.3"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "64.2"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "64.7"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "49.5"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "52.4"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "55.8"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "59.6"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "63"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "66.3"
+	},
+	{
+		"Entity": "Western Europe",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "73.2"
+	},
+	{
+		"Entity": "Western Europe",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "76.8"
+	},
+	{
+		"Entity": "Western Europe",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "79.9"
+	},
+	{
+		"Entity": "Western Europe",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "82.9"
+	},
+	{
+		"Entity": "Western Europe",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "84.9"
+	},
+	{
+		"Entity": "Western Europe",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "86.8"
+	},
+	{
+		"Entity": "Western Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "35.3"
+	},
+	{
+		"Entity": "Western Sub-Saharan Africa",
+		"Code": "",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "36.2"
+	},
+	{
+		"Entity": "Western Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "37"
+	},
+	{
+		"Entity": "Western Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "39.7"
+	},
+	{
+		"Entity": "Western Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "43.3"
+	},
+	{
+		"Entity": "Western Sub-Saharan Africa",
+		"Code": "",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "44.8"
+	},
+	{
+		"Entity": "World",
+		"Code": "OWID_WRL",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "40.7"
+	},
+	{
+		"Entity": "World",
+		"Code": "OWID_WRL",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "42.7"
+	},
+	{
+		"Entity": "World",
+		"Code": "OWID_WRL",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "44.8"
+	},
+	{
+		"Entity": "World",
+		"Code": "OWID_WRL",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "47.8"
+	},
+	{
+		"Entity": "World",
+		"Code": "OWID_WRL",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "51"
+	},
+	{
+		"Entity": "World",
+		"Code": "OWID_WRL",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "53.7"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "35.2"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "38"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "41.3"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "44.5"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "47.8"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "49.6"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "37.4"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "34.6"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "34.3"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "35.5"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "37.4"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "41.6"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "1990",
+		"HAQ Index (IHME (2017))": "48.1"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "1995",
+		"HAQ Index (IHME (2017))": "49.5"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2000",
+		"HAQ Index (IHME (2017))": "45.4"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2005",
+		"HAQ Index (IHME (2017))": "41.8"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2010",
+		"HAQ Index (IHME (2017))": "42.1"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2015",
+		"HAQ Index (IHME (2017))": "48.7"
+	}
+]

@@ -1,0 +1,1580 @@
+[
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "369"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "384"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "395"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "401"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "382"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "396"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "397"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "514"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "506"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "502"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "487"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "501"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "404"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "389"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "508"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "525"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "510"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "509"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "510"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "368"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "371"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "384"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "401"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "402"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "436"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "416"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "432"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "440"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "532"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "529"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "529"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "527"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "522"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "403"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "430"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "439"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "436"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "577"
+	},
+	{
+		"Entity": "China",
+		"Code": "CHN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "588"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "381"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "399"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "393"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "426"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "479"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "474"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "482"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "442"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "500"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "516"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "502"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "490"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "500"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "497"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "517"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "501"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "499"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "498"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "516"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "514"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "526"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "540"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "548"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "553"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "543"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "529"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "507"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "519"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "493"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "497"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "500"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "487"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "513"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "505"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "510"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "515"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "461"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "448"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "464"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "473"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "466"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "542"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "548"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "542"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "546"
+	},
+	{
+		"Entity": "Hong Kong",
+		"Code": "HKG",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "554"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "488"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "501"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "492"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "496"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "486"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "506"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "505"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "494"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "501"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "485"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "377"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "361"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "392"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "385"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "384"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "514"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "498"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "509"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "497"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "515"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "440"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "445"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "459"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "474"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "474"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "469"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "469"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "486"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "490"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "543"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "547"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "517"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "529"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "540"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "402"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "402"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "398"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "399"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "417"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "306"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "325"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "460"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "483"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "485"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "487"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "494"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "491"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "529"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "519"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "518"
+	},
+	{
+		"Entity": "Liechtenstein",
+		"Code": "LIE",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "525"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "481"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "479"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "484"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "443"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "494"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "485"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "482"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "490"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "413"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "410"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "384"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "409"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "420"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "417"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "401"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "404"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "414"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "520"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "521"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "519"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "519"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "531"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "533"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "524"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "524"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "509"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "385"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "532"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "509"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "508"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "523"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "501"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "490"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "487"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "500"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "496"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "369"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "317"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "368"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "375"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "477"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "487"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "500"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "501"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "521"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "461"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "470"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "471"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "490"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "488"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "326"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "373"
+	},
+	{
+		"Entity": "Qatar",
+		"Code": "QAT",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "383"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "410"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "427"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "441"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "467"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "479"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "465"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "469"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "481"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "420"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "424"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "442"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "447"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "543"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "555"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "492"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "482"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "488"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "472"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "506"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "499"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "499"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "541"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "550"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "542"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "541"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "543"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "487"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "482"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "476"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "484"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "489"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "513"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "509"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "504"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "496"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "482"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "506"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "521"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "514"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "517"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "518"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "526"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "520"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "535"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "433"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "425"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "418"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "422"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "437"
+	},
+	{
+		"Entity": "Trinidad and Tobago",
+		"Code": "TTO",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "414"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "345"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "377"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "392"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "397"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "408"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "432"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "455"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "462"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "459"
+	},
+	{
+		"Entity": "United Arab Emirates",
+		"Code": "ARE",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "441"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "528"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "502"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "500"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "502"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2000",
+		"OECD PISA education score (PISA (2015))": "499"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "477"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "482"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "496"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "492"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2003",
+		"OECD PISA education score (PISA (2015))": "411"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2006",
+		"OECD PISA education score (PISA (2015))": "423"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2009",
+		"OECD PISA education score (PISA (2015))": "427"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "412"
+	},
+	{
+		"Entity": "Vietnam",
+		"Code": "VNM",
+		"Year": "2012",
+		"OECD PISA education score (PISA (2015))": "516"
+	}
+]

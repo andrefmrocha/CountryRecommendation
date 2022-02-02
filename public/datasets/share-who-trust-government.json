@@ -1,0 +1,806 @@
+[
+	{
+		"Entity": "Afghanistan",
+		"Code": "AFG",
+		"Year": "2018",
+		"Share of people who trust their national government": "45.19529051"
+	},
+	{
+		"Entity": "Albania",
+		"Code": "ALB",
+		"Year": "2018",
+		"Share of people who trust their national government": "46.44411407"
+	},
+	{
+		"Entity": "Algeria",
+		"Code": "DZA",
+		"Year": "2018",
+		"Share of people who trust their national government": "38.0593098"
+	},
+	{
+		"Entity": "Argentina",
+		"Code": "ARG",
+		"Year": "2018",
+		"Share of people who trust their national government": "31.92407072"
+	},
+	{
+		"Entity": "Armenia",
+		"Code": "ARM",
+		"Year": "2018",
+		"Share of people who trust their national government": "79.74244434"
+	},
+	{
+		"Entity": "Australia",
+		"Code": "AUS",
+		"Year": "2018",
+		"Share of people who trust their national government": "46.97923889"
+	},
+	{
+		"Entity": "Austria",
+		"Code": "AUT",
+		"Year": "2018",
+		"Share of people who trust their national government": "59.51411089"
+	},
+	{
+		"Entity": "Azerbaijan",
+		"Code": "AZE",
+		"Year": "2018",
+		"Share of people who trust their national government": "88.28027359"
+	},
+	{
+		"Entity": "Bangladesh",
+		"Code": "BGD",
+		"Year": "2018",
+		"Share of people who trust their national government": "85.59957425"
+	},
+	{
+		"Entity": "Belarus",
+		"Code": "BLR",
+		"Year": "2018",
+		"Share of people who trust their national government": "47.39126444"
+	},
+	{
+		"Entity": "Belgium",
+		"Code": "BEL",
+		"Year": "2018",
+		"Share of people who trust their national government": "53.4546556"
+	},
+	{
+		"Entity": "Benin",
+		"Code": "BEN",
+		"Year": "2018",
+		"Share of people who trust their national government": "42.41171592"
+	},
+	{
+		"Entity": "Bolivia",
+		"Code": "BOL",
+		"Year": "2018",
+		"Share of people who trust their national government": "49.87210383"
+	},
+	{
+		"Entity": "Bosnia and Herzegovina",
+		"Code": "BIH",
+		"Year": "2018",
+		"Share of people who trust their national government": "21.09446821"
+	},
+	{
+		"Entity": "Botswana",
+		"Code": "BWA",
+		"Year": "2018",
+		"Share of people who trust their national government": "55.09423348"
+	},
+	{
+		"Entity": "Brazil",
+		"Code": "BRA",
+		"Year": "2018",
+		"Share of people who trust their national government": "14.50147619"
+	},
+	{
+		"Entity": "Bulgaria",
+		"Code": "BGR",
+		"Year": "2018",
+		"Share of people who trust their national government": "31.87849326"
+	},
+	{
+		"Entity": "Burkina Faso",
+		"Code": "BFA",
+		"Year": "2018",
+		"Share of people who trust their national government": "54.6611032"
+	},
+	{
+		"Entity": "Burundi",
+		"Code": "BDI",
+		"Year": "2018",
+		"Share of people who trust their national government": "60.46061558"
+	},
+	{
+		"Entity": "Cameroon",
+		"Code": "CMR",
+		"Year": "2018",
+		"Share of people who trust their national government": "51.24509231"
+	},
+	{
+		"Entity": "Canada",
+		"Code": "CAN",
+		"Year": "2018",
+		"Share of people who trust their national government": "65.08738358"
+	},
+	{
+		"Entity": "Chad",
+		"Code": "TCD",
+		"Year": "2018",
+		"Share of people who trust their national government": "45.42210117"
+	},
+	{
+		"Entity": "Chile",
+		"Code": "CHL",
+		"Year": "2018",
+		"Share of people who trust their national government": "43.26279147"
+	},
+	{
+		"Entity": "Colombia",
+		"Code": "COL",
+		"Year": "2018",
+		"Share of people who trust their national government": "30.40162995"
+	},
+	{
+		"Entity": "Comoros",
+		"Code": "COM",
+		"Year": "2018",
+		"Share of people who trust their national government": "25.42073101"
+	},
+	{
+		"Entity": "Congo",
+		"Code": "COG",
+		"Year": "2018",
+		"Share of people who trust their national government": "34.56901758"
+	},
+	{
+		"Entity": "Costa Rica",
+		"Code": "CRI",
+		"Year": "2018",
+		"Share of people who trust their national government": "59.62428331"
+	},
+	{
+		"Entity": "Cote d'Ivoire",
+		"Code": "CIV",
+		"Year": "2018",
+		"Share of people who trust their national government": "35.647216"
+	},
+	{
+		"Entity": "Croatia",
+		"Code": "HRV",
+		"Year": "2018",
+		"Share of people who trust their national government": "34.69689441"
+	},
+	{
+		"Entity": "Cyprus",
+		"Code": "CYP",
+		"Year": "2018",
+		"Share of people who trust their national government": "47.36977797"
+	},
+	{
+		"Entity": "Czechia",
+		"Code": "CZE",
+		"Year": "2018",
+		"Share of people who trust their national government": "46.50968547"
+	},
+	{
+		"Entity": "Denmark",
+		"Code": "DNK",
+		"Year": "2018",
+		"Share of people who trust their national government": "70.04632757"
+	},
+	{
+		"Entity": "Dominican Republic",
+		"Code": "DOM",
+		"Year": "2018",
+		"Share of people who trust their national government": "54.97629988"
+	},
+	{
+		"Entity": "Ecuador",
+		"Code": "ECU",
+		"Year": "2018",
+		"Share of people who trust their national government": "49.38321131"
+	},
+	{
+		"Entity": "El Salvador",
+		"Code": "SLV",
+		"Year": "2018",
+		"Share of people who trust their national government": "35.31609361"
+	},
+	{
+		"Entity": "Estonia",
+		"Code": "EST",
+		"Year": "2018",
+		"Share of people who trust their national government": "52.50994431"
+	},
+	{
+		"Entity": "Eswatini",
+		"Code": "SWZ",
+		"Year": "2018",
+		"Share of people who trust their national government": "65.06173663"
+	},
+	{
+		"Entity": "Ethiopia",
+		"Code": "ETH",
+		"Year": "2018",
+		"Share of people who trust their national government": "92.34129794"
+	},
+	{
+		"Entity": "Finland",
+		"Code": "FIN",
+		"Year": "2018",
+		"Share of people who trust their national government": "61.45293997"
+	},
+	{
+		"Entity": "France",
+		"Code": "FRA",
+		"Year": "2018",
+		"Share of people who trust their national government": "45.88092327"
+	},
+	{
+		"Entity": "Gabon",
+		"Code": "GAB",
+		"Year": "2018",
+		"Share of people who trust their national government": "21.23467484"
+	},
+	{
+		"Entity": "Gambia",
+		"Code": "GMB",
+		"Year": "2018",
+		"Share of people who trust their national government": "71.55132418"
+	},
+	{
+		"Entity": "Georgia",
+		"Code": "GEO",
+		"Year": "2018",
+		"Share of people who trust their national government": "41.2450577"
+	},
+	{
+		"Entity": "Germany",
+		"Code": "DEU",
+		"Year": "2018",
+		"Share of people who trust their national government": "53.56518787"
+	},
+	{
+		"Entity": "Ghana",
+		"Code": "GHA",
+		"Year": "2018",
+		"Share of people who trust their national government": "65.84309869"
+	},
+	{
+		"Entity": "Greece",
+		"Code": "GRC",
+		"Year": "2018",
+		"Share of people who trust their national government": "17.22110334"
+	},
+	{
+		"Entity": "Guatemala",
+		"Code": "GTM",
+		"Year": "2018",
+		"Share of people who trust their national government": "38.16972694"
+	},
+	{
+		"Entity": "Guinea",
+		"Code": "GIN",
+		"Year": "2018",
+		"Share of people who trust their national government": "49.88572346"
+	},
+	{
+		"Entity": "Haiti",
+		"Code": "HTI",
+		"Year": "2018",
+		"Share of people who trust their national government": "46.01675053"
+	},
+	{
+		"Entity": "Honduras",
+		"Code": "HND",
+		"Year": "2018",
+		"Share of people who trust their national government": "45.05411814"
+	},
+	{
+		"Entity": "Hungary",
+		"Code": "HUN",
+		"Year": "2018",
+		"Share of people who trust their national government": "46.69851879"
+	},
+	{
+		"Entity": "Iceland",
+		"Code": "ISL",
+		"Year": "2018",
+		"Share of people who trust their national government": "58.42020747"
+	},
+	{
+		"Entity": "India",
+		"Code": "IND",
+		"Year": "2018",
+		"Share of people who trust their national government": "77.15111196"
+	},
+	{
+		"Entity": "Indonesia",
+		"Code": "IDN",
+		"Year": "2018",
+		"Share of people who trust their national government": "72.54421597"
+	},
+	{
+		"Entity": "Iran",
+		"Code": "IRN",
+		"Year": "2018",
+		"Share of people who trust their national government": "66.51466643"
+	},
+	{
+		"Entity": "Iraq",
+		"Code": "IRQ",
+		"Year": "2018",
+		"Share of people who trust their national government": "29.39124246"
+	},
+	{
+		"Entity": "Ireland",
+		"Code": "IRL",
+		"Year": "2018",
+		"Share of people who trust their national government": "67.14663918"
+	},
+	{
+		"Entity": "Israel",
+		"Code": "ISR",
+		"Year": "2018",
+		"Share of people who trust their national government": "60.63011702"
+	},
+	{
+		"Entity": "Italy",
+		"Code": "ITA",
+		"Year": "2018",
+		"Share of people who trust their national government": "33.775582"
+	},
+	{
+		"Entity": "Japan",
+		"Code": "JPN",
+		"Year": "2018",
+		"Share of people who trust their national government": "50.94904625"
+	},
+	{
+		"Entity": "Jordan",
+		"Code": "JOR",
+		"Year": "2018",
+		"Share of people who trust their national government": "58.89529884"
+	},
+	{
+		"Entity": "Kazakhstan",
+		"Code": "KAZ",
+		"Year": "2018",
+		"Share of people who trust their national government": "71.38929898"
+	},
+	{
+		"Entity": "Kenya",
+		"Code": "KEN",
+		"Year": "2018",
+		"Share of people who trust their national government": "64.53676556"
+	},
+	{
+		"Entity": "Kosovo",
+		"Code": "OWID_KOS",
+		"Year": "2018",
+		"Share of people who trust their national government": "37.0466569"
+	},
+	{
+		"Entity": "Kyrgyzstan",
+		"Code": "KGZ",
+		"Year": "2018",
+		"Share of people who trust their national government": "63.34180174"
+	},
+	{
+		"Entity": "Latvia",
+		"Code": "LVA",
+		"Year": "2018",
+		"Share of people who trust their national government": "29.5952816"
+	},
+	{
+		"Entity": "Lebanon",
+		"Code": "LBN",
+		"Year": "2018",
+		"Share of people who trust their national government": "30.62251417"
+	},
+	{
+		"Entity": "Liberia",
+		"Code": "LBR",
+		"Year": "2018",
+		"Share of people who trust their national government": "68.71309598"
+	},
+	{
+		"Entity": "Libya",
+		"Code": "LBY",
+		"Year": "2018",
+		"Share of people who trust their national government": "37.76555148"
+	},
+	{
+		"Entity": "Lithuania",
+		"Code": "LTU",
+		"Year": "2018",
+		"Share of people who trust their national government": "40.29961181"
+	},
+	{
+		"Entity": "Luxembourg",
+		"Code": "LUX",
+		"Year": "2018",
+		"Share of people who trust their national government": "80.01320748"
+	},
+	{
+		"Entity": "Madagascar",
+		"Code": "MDG",
+		"Year": "2018",
+		"Share of people who trust their national government": "33.57194173"
+	},
+	{
+		"Entity": "Malawi",
+		"Code": "MWI",
+		"Year": "2018",
+		"Share of people who trust their national government": "58.1345415"
+	},
+	{
+		"Entity": "Malaysia",
+		"Code": "MYS",
+		"Year": "2018",
+		"Share of people who trust their national government": "75.1715793"
+	},
+	{
+		"Entity": "Mali",
+		"Code": "MLI",
+		"Year": "2018",
+		"Share of people who trust their national government": "48.78180181"
+	},
+	{
+		"Entity": "Malta",
+		"Code": "MLT",
+		"Year": "2018",
+		"Share of people who trust their national government": "71.51763465"
+	},
+	{
+		"Entity": "Mauritania",
+		"Code": "MRT",
+		"Year": "2018",
+		"Share of people who trust their national government": "30.7528839"
+	},
+	{
+		"Entity": "Mauritius",
+		"Code": "MUS",
+		"Year": "2018",
+		"Share of people who trust their national government": "51.61487569"
+	},
+	{
+		"Entity": "Mexico",
+		"Code": "MEX",
+		"Year": "2018",
+		"Share of people who trust their national government": "37.08061673"
+	},
+	{
+		"Entity": "Moldova",
+		"Code": "MDA",
+		"Year": "2018",
+		"Share of people who trust their national government": "26.46578073"
+	},
+	{
+		"Entity": "Mongolia",
+		"Code": "MNG",
+		"Year": "2018",
+		"Share of people who trust their national government": "48.7756212"
+	},
+	{
+		"Entity": "Montenegro",
+		"Code": "MNE",
+		"Year": "2018",
+		"Share of people who trust their national government": "43.14891107"
+	},
+	{
+		"Entity": "Morocco",
+		"Code": "MAR",
+		"Year": "2018",
+		"Share of people who trust their national government": "35.86514548"
+	},
+	{
+		"Entity": "Mozambique",
+		"Code": "MOZ",
+		"Year": "2018",
+		"Share of people who trust their national government": "72.45270828"
+	},
+	{
+		"Entity": "Myanmar",
+		"Code": "MMR",
+		"Year": "2018",
+		"Share of people who trust their national government": "88.30477116"
+	},
+	{
+		"Entity": "Namibia",
+		"Code": "NAM",
+		"Year": "2018",
+		"Share of people who trust their national government": "58.01564363"
+	},
+	{
+		"Entity": "Nepal",
+		"Code": "NPL",
+		"Year": "2018",
+		"Share of people who trust their national government": "71.98113305"
+	},
+	{
+		"Entity": "Netherlands",
+		"Code": "NLD",
+		"Year": "2018",
+		"Share of people who trust their national government": "57.11289268"
+	},
+	{
+		"Entity": "New Zealand",
+		"Code": "NZL",
+		"Year": "2018",
+		"Share of people who trust their national government": "75.06291233"
+	},
+	{
+		"Entity": "Nicaragua",
+		"Code": "NIC",
+		"Year": "2018",
+		"Share of people who trust their national government": "39.03023926"
+	},
+	{
+		"Entity": "Niger",
+		"Code": "NER",
+		"Year": "2018",
+		"Share of people who trust their national government": "67.54100784"
+	},
+	{
+		"Entity": "Nigeria",
+		"Code": "NGA",
+		"Year": "2018",
+		"Share of people who trust their national government": "45.24078251"
+	},
+	{
+		"Entity": "North Macedonia",
+		"Code": "MKD",
+		"Year": "2018",
+		"Share of people who trust their national government": "39.31121464"
+	},
+	{
+		"Entity": "Northern Cyprus",
+		"Code": "OWID_CYN",
+		"Year": "2018",
+		"Share of people who trust their national government": "48.80483432"
+	},
+	{
+		"Entity": "Norway",
+		"Code": "NOR",
+		"Year": "2018",
+		"Share of people who trust their national government": "89.08573629"
+	},
+	{
+		"Entity": "Pakistan",
+		"Code": "PAK",
+		"Year": "2018",
+		"Share of people who trust their national government": "57.68036352"
+	},
+	{
+		"Entity": "Palestine",
+		"Code": "PSE",
+		"Year": "2018",
+		"Share of people who trust their national government": "50.57273003"
+	},
+	{
+		"Entity": "Panama",
+		"Code": "PAN",
+		"Year": "2018",
+		"Share of people who trust their national government": "30.22555119"
+	},
+	{
+		"Entity": "Paraguay",
+		"Code": "PRY",
+		"Year": "2018",
+		"Share of people who trust their national government": "49.85533886"
+	},
+	{
+		"Entity": "Peru",
+		"Code": "PER",
+		"Year": "2018",
+		"Share of people who trust their national government": "33.74644658"
+	},
+	{
+		"Entity": "Philippines",
+		"Code": "PHL",
+		"Year": "2018",
+		"Share of people who trust their national government": "72.54271245"
+	},
+	{
+		"Entity": "Poland",
+		"Code": "POL",
+		"Year": "2018",
+		"Share of people who trust their national government": "55.94255452"
+	},
+	{
+		"Entity": "Portugal",
+		"Code": "PRT",
+		"Year": "2018",
+		"Share of people who trust their national government": "48.70432302"
+	},
+	{
+		"Entity": "Romania",
+		"Code": "ROU",
+		"Year": "2018",
+		"Share of people who trust their national government": "22.58985207"
+	},
+	{
+		"Entity": "Russia",
+		"Code": "RUS",
+		"Year": "2018",
+		"Share of people who trust their national government": "53.1311915"
+	},
+	{
+		"Entity": "Rwanda",
+		"Code": "RWA",
+		"Year": "2018",
+		"Share of people who trust their national government": "95.89997462"
+	},
+	{
+		"Entity": "Senegal",
+		"Code": "SEN",
+		"Year": "2018",
+		"Share of people who trust their national government": "54.95457211"
+	},
+	{
+		"Entity": "Serbia",
+		"Code": "SRB",
+		"Year": "2018",
+		"Share of people who trust their national government": "51.43361989"
+	},
+	{
+		"Entity": "Sierra Leone",
+		"Code": "SLE",
+		"Year": "2018",
+		"Share of people who trust their national government": "63.84384659"
+	},
+	{
+		"Entity": "Singapore",
+		"Code": "SGP",
+		"Year": "2018",
+		"Share of people who trust their national government": "73.57871558"
+	},
+	{
+		"Entity": "Slovakia",
+		"Code": "SVK",
+		"Year": "2018",
+		"Share of people who trust their national government": "48.96845244"
+	},
+	{
+		"Entity": "Slovenia",
+		"Code": "SVN",
+		"Year": "2018",
+		"Share of people who trust their national government": "30.35193868"
+	},
+	{
+		"Entity": "South Africa",
+		"Code": "ZAF",
+		"Year": "2018",
+		"Share of people who trust their national government": "42.21310176"
+	},
+	{
+		"Entity": "South Korea",
+		"Code": "KOR",
+		"Year": "2018",
+		"Share of people who trust their national government": "62.70989972"
+	},
+	{
+		"Entity": "Spain",
+		"Code": "ESP",
+		"Year": "2018",
+		"Share of people who trust their national government": "32.31604684"
+	},
+	{
+		"Entity": "Sri Lanka",
+		"Code": "LKA",
+		"Year": "2018",
+		"Share of people who trust their national government": "60.8498355"
+	},
+	{
+		"Entity": "Sweden",
+		"Code": "SWE",
+		"Year": "2018",
+		"Share of people who trust their national government": "65.63389544"
+	},
+	{
+		"Entity": "Switzerland",
+		"Code": "CHE",
+		"Year": "2018",
+		"Share of people who trust their national government": "81.46982065"
+	},
+	{
+		"Entity": "Taiwan",
+		"Code": "TWN",
+		"Year": "2018",
+		"Share of people who trust their national government": "34.92992873"
+	},
+	{
+		"Entity": "Tanzania",
+		"Code": "TZA",
+		"Year": "2018",
+		"Share of people who trust their national government": "87.61743955"
+	},
+	{
+		"Entity": "Thailand",
+		"Code": "THA",
+		"Year": "2018",
+		"Share of people who trust their national government": "81.60090625"
+	},
+	{
+		"Entity": "Togo",
+		"Code": "TGO",
+		"Year": "2018",
+		"Share of people who trust their national government": "17.61994646"
+	},
+	{
+		"Entity": "Tunisia",
+		"Code": "TUN",
+		"Year": "2018",
+		"Share of people who trust their national government": "42.41596867"
+	},
+	{
+		"Entity": "Turkey",
+		"Code": "TUR",
+		"Year": "2018",
+		"Share of people who trust their national government": "56.5824679"
+	},
+	{
+		"Entity": "Uganda",
+		"Code": "UGA",
+		"Year": "2018",
+		"Share of people who trust their national government": "55.48746856"
+	},
+	{
+		"Entity": "Ukraine",
+		"Code": "UKR",
+		"Year": "2018",
+		"Share of people who trust their national government": "10.94897182"
+	},
+	{
+		"Entity": "United Kingdom",
+		"Code": "GBR",
+		"Year": "2018",
+		"Share of people who trust their national government": "51.02283254"
+	},
+	{
+		"Entity": "United States",
+		"Code": "USA",
+		"Year": "2018",
+		"Share of people who trust their national government": "47.42665101"
+	},
+	{
+		"Entity": "Uruguay",
+		"Code": "URY",
+		"Year": "2018",
+		"Share of people who trust their national government": "44.51229883"
+	},
+	{
+		"Entity": "Uzbekistan",
+		"Code": "UZB",
+		"Year": "2018",
+		"Share of people who trust their national government": "99.21937623"
+	},
+	{
+		"Entity": "Venezuela",
+		"Code": "VEN",
+		"Year": "2018",
+		"Share of people who trust their national government": "35.70427041"
+	},
+	{
+		"Entity": "Yemen",
+		"Code": "YEM",
+		"Year": "2018",
+		"Share of people who trust their national government": "35.10736215"
+	},
+	{
+		"Entity": "Zambia",
+		"Code": "ZMB",
+		"Year": "2018",
+		"Share of people who trust their national government": "56.70300313"
+	},
+	{
+		"Entity": "Zimbabwe",
+		"Code": "ZWE",
+		"Year": "2018",
+		"Share of people who trust their national government": "52.91058264"
+	}
+]
