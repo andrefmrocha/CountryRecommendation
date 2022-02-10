@@ -9,7 +9,8 @@ export interface AnnualFoodExpenditurePerPerson {
     Entity: string,
     Code: string,
     Year: number,
-    "Population (historical estimates)": number
+    "Population (historical estimates)": number,
+    "Food expenditure (USDA (2017))": number,
 }
 
 export interface DisposableHouseholdIncome {
@@ -57,7 +58,7 @@ export interface AnnualFoodExpenditurePerPersonVsGDPPerCapita {
     "Population (historical estimates)": number,
 }
 
-export interface HealthExpenditurePerPerson {
+export interface AnnualHealthExpenditurePerPerson {
     Entity: string,
     Code: string,
     Year: number,
@@ -113,7 +114,7 @@ export interface DailyPerCapitaCaloriesSupply {
     "Daily caloric supply (FAO (2017) & Various historical sources)": number
 }
 
-export interface DailyPerCapitaAnimaProteinSupplyVsPlantProteinSupply {
+export interface DailyPerCapitaAnimalProteinSupplyVsPlantProteinSupply {
     Entity: string,
     Code: string,
     Year: number,
