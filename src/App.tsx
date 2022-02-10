@@ -1,6 +1,6 @@
 import React, {useEffect} from 'react';
-import logo from './logo.svg';
-import './App.css';
+import './App.scss';
+import './sass/common.scss';
 import openJson from "./data/openJSON";
 import {
     DeathRatesFromAmbientPollution,
@@ -9,7 +9,9 @@ import {
     PM25AirPollutionRaw
 } from "./data/datasets/models";
 import {executePCA, treatEnvironmentData} from "./data/pca";
-
+import Map from "./components/Map"
+import Selection from "./components/Selection"
+import Graphs from "./components/Graphs"
 
 async function test() {
     const pm25DataRaw = await openJson<PM25AirPollutionRaw>("PM25-air-pollution.json")
@@ -28,21 +30,10 @@ function App() {
     })
 
     return (
-        <div className="App">
-            <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo"/>
-                <p>
-                    Edit <code>src/App.tsx</code> and save to reload.
-                </p>
-                <a
-                    className="App-link"
-                    href="https://reactjs.org"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Learn React
-                </a>
-            </header>
+        <div className="main-panel">
+            <Map />
+            <Selection />
+            <Graphs />
         </div>
     );
 }
