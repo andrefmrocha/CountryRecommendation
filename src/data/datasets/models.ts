@@ -44,7 +44,7 @@ export function getAdolescentBirthRateDataTreated(raw: AdolescentBirthRateRaw[])
             Entity: item.Entity,
             Code: item.Code,
             Year: item.Year,
-            "2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled": item["Indicator 3"].filter(item => !item)[0]["2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled"]
+            "2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled": item["Indicator 3"].filter(item => item)[0]["2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled"]
         } as AdolescentBirthRate
     });
 }
@@ -186,7 +186,7 @@ export function getDirectEconomicLossAttributedToDisastersDataTreated(raw: Direc
             Entity: item.Entity,
             Code: item.Code,
             Year: item.Year,
-            "2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS": item["1"].filter(item => !item)[0]["2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS"]
+            "2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS": item["1"].filter(item => item)[0]["2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS"]
         } as DirectEconomicLossAttributedToDisasters
     });
 }
@@ -544,7 +544,7 @@ export function getProportionOfWomenInSeniorAndMiddlePositionsDataTreated(raw: P
             Entity: item.Entity,
             Code: item.Code,
             Year: item.Year,
-            "2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN": item["5"].filter(item => !item)[0]["2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN"]
+            "2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN": item["5"].filter(item => item)[0]["2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN"]
         } as ProportionOfWomenInSeniorAndMiddlePositions
     });
 }

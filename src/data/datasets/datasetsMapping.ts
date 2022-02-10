@@ -1,3 +1,11 @@
+import {
+    getAdolescentBirthRateDataTreated, getDirectEconomicLossAttributedToDisastersDataTreated,
+    getPm25DataTreated,
+    getProportionOfWomenInSeniorAndMiddlePositionsDataTreated,
+    getShareOfPopulationWithCompletedTertiaryEducationDataTreated,
+    getStartingYearlyTeacherSalariesInPublicPrimaryEducationDataTreated, getUniversalHealthCoverageIndexDataTreated
+} from "./models";
+
 export const datasetsMapping = {
     "https://ourworldindata.org/grapher/pm25-air-pollution": "PM25-air-pollution.json",
     "https://ourworldindata.org/grapher/death-rates-from-ambient-particulate-air-pollution": "death-rates-from-ambient-particulate-air-pollution.json",
@@ -98,7 +106,8 @@ export const datasetsMappingByTheme = {
         {
             name: "Exposure to air pollution with fine particulate matter",
             dataset: "PM25-air-pollution.json",
-            fields: ["PM2"]
+            fields: ["PM2"],
+            treatData: getPm25DataTreated
         },
         {
             name: "Death Rates from Ambient Air Pollution",
@@ -135,7 +144,8 @@ export const datasetsMappingByTheme = {
         {
             name: "Direct Economic Loss Attributed to Disasters",
             dataset: "direct-economic-loss-attributed-to-disasters.json",
-            fields: ["2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS"]
+            fields: ["2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS"],
+            treatData: getDirectEconomicLossAttributedToDisastersDataTreated
         },
         {
             name: "Significant Volcanic Eruptions",
@@ -231,7 +241,8 @@ export const datasetsMappingByTheme = {
         {
             name: "Starting Yearly Teacher Salaries In Public Primary Education",
             dataset: "starting-yearly-teacher-salaries-in-public-primary-education.json",
-            fields: ["Annual statutory teacher salaries in public institutions in USD"]
+            fields: ["Annual statutory teacher salaries in public institutions in USD"],
+            treatData: getStartingYearlyTeacherSalariesInPublicPrimaryEducationDataTreated
         },
         {
             name: "Economic Inequality",
@@ -273,7 +284,8 @@ export const datasetsMappingByTheme = {
         {
             name: "Share of Population With Completed Tertiary Education",
             dataset: "share-of-the-population-with-completed-tertiary-education.json",
-            fields: ["Barro-Lee: Percentage of population age 15+ with tertiary schooling"]
+            fields: ["Barro-Lee: Percentage of population age 15+ with tertiary schooling"],
+            treatData: getShareOfPopulationWithCompletedTertiaryEducationDataTreated
         },
         {
             name: "Number of Teachers across Education Levels",
@@ -310,7 +322,7 @@ export const datasetsMappingByTheme = {
         {
             name: "Political Regime Type and Humans Rights Score",
             dataset: "political-regime-type-vs-human-rights-score.json",
-            fields: ["Regimes of the world -- the RoW measure", "Human Rights Score (Schnakenberg & Fariss, 2014; Fariss, 2019)"]
+            fields: ["Regimes of the world -- the RoW measure"]
         },
         {
             name: "Political Regimes - 2016",
@@ -387,7 +399,8 @@ export const datasetsMappingByTheme = {
         {
             name: "Proportion of Women in Senior and Middle Management Positions",
             dataset: "proportion-of-women-in-senior-and-middle-management-positions.json",
-            fields: ["2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN"]
+            fields: ["2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN"],
+            treatData: getProportionOfWomenInSeniorAndMiddlePositionsDataTreated
         },
         {
             name: "Firms with Female Top Managers",
@@ -407,12 +420,12 @@ export const datasetsMappingByTheme = {
         {
             name: "Gender Wage Gap",
             dataset: "gender-wage-gap-oecd.json",
-            fields: []
+            fields: ["Gender wage gap (OECD 2017)"]
         },
         {
             name: "Law Mandated Equal Pay",
             dataset: "law-mandate-equal-pay.json",
-            fields: ["Gender wage gap (OECD 2017)"]
+            fields: ["Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)"]
         },
         {
             name: "Gender Parity Index Primary Education",
@@ -455,9 +468,10 @@ export const datasetsMappingByTheme = {
             fields: ["Maternal mortality ratio (modeled estimate, per 100,000 live births)"]
         },
         {
-            name: "Adolescent Fertility",
+            name: "Adolescent Birth Rate",
             dataset: "adolescent-fertility-ihme.json",
-            fields: ["2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled"]
+            fields: ["2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled"],
+            treatData: getAdolescentBirthRateDataTreated
         },
         {
             name: "Proportion of Women in Ministerial Positions",
@@ -540,7 +554,8 @@ export const datasetsMappingByTheme = {
         {
             name: "Universal Health Coverage Index",
             dataset: "universal-health-coverage-index.json",
-            fields: ["1 - Universal health coverage (UHC) service coverage index - SH_ACS_UNHC"]
+            fields: ["1 - Universal health coverage (UHC) service coverage index - SH_ACS_UNHC"],
+            treatData: getUniversalHealthCoverageIndexDataTreated
         },
         {
             name: "Level Of Healthcare Spending",
@@ -580,4 +595,11 @@ export const datasetsMappingByTheme = {
             fields: ["Religiosity", "SHI", "legality of sam-sex sexual-activity", "marriage/ civil unions", "serving in the military", "antidiscrimination laws",]
         }
     ],
+}
+
+export interface ThemeMappingItem{
+    name: string,
+    dataset: string,
+    fields: string[],
+    treatData?: (raw: any) => any
 }
