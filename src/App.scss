@@ -38,11 +38,10 @@ div[class*="-panel"] {
   flex-direction: column;
   justify-content: space-between;
 
-  
   .category-selection {
     height: 65px;
     
-    label:not([class="container"]) {
+    label:not([class="checkbox-container"]) {
       display: block;
       width: 100%;
       margin-bottom: 15px;
@@ -51,7 +50,7 @@ div[class*="-panel"] {
     select {
       width: 395px;
       height: 30px;
-
+      margin-right: 15px;
       padding: 0 10px;
 
       font-size: 16px;
@@ -90,12 +89,34 @@ div[class*="-panel"] {
       border-radius: 50px;
       bottom: 23px;
       pointer-events: none;
+
+      &[data-disabled=true] {
+        background: $disabledDarkGrey;
+      }
     }
 
     input[type=range] {
       -webkit-appearance: none;
       margin: 0;
       width: 360px;
+
+      &:disabled {
+        background-color: $disabledLightGrey;
+
+        &::-webkit-slider-runnable-track {
+          cursor: default;
+          background: $disabledLightGrey;
+          overflow: hidden;
+        }
+        
+        &::-webkit-slider-thumb {
+          background: $disabledDarkGrey;
+          cursor: default;
+          -webkit-appearance: none;
+    
+          box-shadow: -355px 0 0 360px $disabledDarkGrey;
+        }
+      }
 
       &:focus {
         outline: none;
@@ -218,6 +239,15 @@ div[class*="-panel"] {
 
       vertical-align: middle;
 
+      &:disabled {
+        color: $disabledDarkGrey;
+
+        &::-webkit-outer-spin-button,
+        &::-webkit-inner-spin-button {
+          opacity: 0;
+        }
+      }
+
       &::-webkit-outer-spin-button,
       &::-webkit-inner-spin-button {
         margin: 0;
@@ -228,16 +258,121 @@ div[class*="-panel"] {
           outline: none;
       }
     }
-
   }
 }
 
 .parameter-panel {
   width: 470px;
   height: 424px;
+  padding: 20px 15px;
 
   top: 206px;  
   left: 950px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  gap: 15px;
+
+  label:not([class="checkbox-container"]) {
+    display: block;
+    width: 100%;
+    margin: 0;
+    padding: 0 0 2px 0;
+
+    font-size: 20px;
+    font-weight: 400;
+
+    border: none;
+    border-bottom: solid 1px $textColor;
+  }
+
+  section.parameters-selection {
+    min-width: 400px;
+    max-width: 400px;
+    min-height: 280px;
+    max-height: 280px;
+    margin: 0;
+    padding-right: 20px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+
+    overflow-y: auto;
+
+    .parameter {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: nowrap;
+      align-items: center;
+
+      p {
+        overflow-x: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+
+        text-align: left;
+        margin: 0 20px;
+      }
+
+      .info-icon {
+        min-width: 20px;
+        max-width: 20px;
+        min-height: 20px;
+        max-height: 20px;
+        padding-top: 1px;
+        box-sizing: border-box;
+
+        justify-self: end;
+        margin-left: auto;
+
+        color: $secondaryTextColor;
+        background-color: $secondaryBackgroundColor;
+        border-radius: 50px;
+
+        font-size: 14px;
+        font-weight: 600;
+        text-align: center;
+
+        cursor: default;
+      }
+    }
+  }
+
+  button {
+    width: 150px;
+    height: 40px;
+    margin: 0;
+    padding-top: 4px;
+
+    color: $secondaryTextColor;
+    background-color: $secondaryBackgroundColor;
+    border: none;
+    border-radius: $elementBorderRadius;
+
+    font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;   
+
+    cursor: pointer;
+    transition: all 0.3s ease-in;
+
+    &:hover {
+      color: $textColor;
+      background-color: $mainColor;
+
+      transition: all 0.3s ease-in;
+    }
+
+    &:disabled {
+      cursor: default;
+      pointer-events: none;
+      
+      color: $disabledDarkGrey;
+    }
+  }
 }
 
 .parallel-panel {

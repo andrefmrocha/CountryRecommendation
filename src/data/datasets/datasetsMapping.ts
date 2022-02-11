@@ -597,7 +597,7 @@ export const datasetsMappingByTheme = {
     ],
 }
 
-export interface ThemeMappingItem{
+export interface ThemeMappingItem {
     name: string,
     dataset: string,
     fields: string[],

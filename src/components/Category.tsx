@@ -1,57 +1,50 @@
-import React, { useState } from 'react'
+import React from 'react'
+import { datasetsMappingByTheme } from '../data/datasets/datasetsMapping'
+import Checkbox from './common/Checkbox'
 
-type Category = {
-  name: string,
-  value: string,
+type props = {
+  importanceFactor: number,
+  selectedCategory: string | undefined,
+  includeCategory: boolean,
+  setImportanceFactor: React.Dispatch<React.SetStateAction<number>>,
+  setSelectedCategory: React.Dispatch<React.SetStateAction<string | undefined>>,
+  setIncludeCategory: React.Dispatch<React.SetStateAction<boolean>>,
 }
 
-const categories: Array<Category> = [
-  {
-    name: "Climate",
-    value: "climate"
-  },
-  {
-    name: "Politics",
-    value: "politics"
-  },
-  {
-    name: "Education",
-    value: "education"
-  },
-  {
-    name: "Culture",
-    value: "culture"
-  }
-]
-
-function Category() {
-  const [importanceFator, setImportanceFactor] = useState<number>(0)
-
+function Category({ importanceFactor, selectedCategory, includeCategory, setImportanceFactor, setSelectedCategory, setIncludeCategory }: props) {
   function changeImportanceFactor(e: React.ChangeEvent<HTMLInputElement>) {
     setImportanceFactor(Math.min(1.0, Math.max(0.0, parseFloat(e.currentTarget.value))))
   }
 
   function getOptions() {
-    return categories.map(({name, value}) => <option value={value}>{name}</option>)
+    const categories = Object.keys(datasetsMappingByTheme)
+
+    if(!selectedCategory) {
+      setSelectedCategory(categories[0])
+    }
+
+    return categories.map((category) => <option value={category}>{category}</option>)
   }
 
   return (
     <div className='category-panel'>
       <div className='category-selection'>
         <label htmlFor="category">Category</label>
-        <select name="category" id="category">
+        <select name="category" id="category" value={selectedCategory} onChange={(e) => {
+          console.log(e.currentTarget.value)
+          setSelectedCategory(e.currentTarget.value)
+          setIncludeCategory(false)
+          setImportanceFactor(0)
+        }}>
           {getOptions()}
         </select>
-        <label className="container">
-          <input type="checkbox" name="category" />
-          <span className="checkmark" />
-        </label>
+        <Checkbox checked={includeCategory} onClick={() => setIncludeCategory(!includeCategory)} type="large"/>
       </div>
       <div className='importance-factor-selection'>
         <label htmlFor="importance-factor">Importance Factor</label>
-        <input type="range" id="importance-factor" name="importance-factor" min="0" max="1" value={importanceFator} step="0.01" onChange={changeImportanceFactor}/>
-        <span className="thumb" style={{ left: `${importanceFator * 360 + 10}px`}}></span>
-        <input type="number" name="importance-factor" min="0" max="1" value={importanceFator} step="0.01" onChange={changeImportanceFactor}/>
+        <input type="range" id="importance-factor" name="importance-factor" min="0" max="1" value={importanceFactor} step="0.01" disabled={!includeCategory} onChange={changeImportanceFactor}/>
+        <span className="thumb" data-disabled={!includeCategory} style={{ left: `${importanceFactor * 360 + 10}px`}}></span>
+        <input type="number" name="importance-factor" min="0" max="1" value={importanceFactor} step="0.01" disabled={!includeCategory} onChange={changeImportanceFactor}/>
       </div>
     </div>
   )

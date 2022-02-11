@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React, { useEffect } from 'react';
 import './App.scss';
 import './sass/common.scss';
 import openJson from "./data/openJSON";
@@ -8,7 +8,6 @@ import {
     PM25AirPollution,
     PM25AirPollutionRaw
 } from "./data/datasets/models";
-import {executePCA, treatEnvironmentData} from "./data/pca";
 import Map from "./components/Map"
 import Selection from "./components/Selection"
 import Graphs from "./components/Graphs"

@@ -1,69 +1,107 @@
 @import "./variables.scss"; 
 
 /* Customize the label (the container) */
- .container {
+.checkbox-container {
     position: relative;
     cursor: pointer;
-    margin-left: 15px;
+
+    &[data-size=small] {
+        min-width: 22px;
+        min-height: 22px;
+    }
+
+    &[data-size=large] {
+        min-width: 30px;
+        min-height: 30px;
+    }
 
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-  }
+
+    /* On mouse-over, add a grey background color */
+    &:hover input ~ .checkmark {
+        background-color: $secondaryBackgroundColor;
+    }
+
+    /* Hide the browser's default checkbox */
+    input {
+        position: absolute;
+        opacity: 0;
+        cursor: pointer;
+        height: 0;
+        width: 0;
+
+        &:disabled ~ .checkmark {
+            cursor: default;
+            background-color: $disabledLightGrey !important;
+        }
+
+        &:checked ~ .checkmark {
+            background-color: $mainColor;
+        }
+
+        /* Show the checkmark when checked */
+        &:checked ~ .checkmark:after {
+            display: block;
+        }
+    }
+
+    /* Create a custom checkbox */
+    .checkmark {
+        position: absolute;
+        top: 0;
+        left: 0;
+        background-color: $secondaryBackgroundColor;
+        border-radius: $elementBorderRadius;
+        border: none;
+
+        &[data-size=small] {
+            width: 22px;
+            height: 22px;
+        }
+    
+        &[data-size=large] {
+            width: 30px;
+            height: 30px;
+        }
+        
+        /* Create the checkmark/indicator (hidden when not checked) */
+        &:after {
+            content: "";
+            position: absolute;
+            display: none;
+        }
+        
+        /* Style the checkmark/indicator */
+        &:after {
+            left: 50%;
+            top: 50%;
+            width: 20%;
+            height: 40%;
+            border: solid $secondaryTextColor;
+            border-width: 0 2px 2px 0;
+            -webkit-transform: translate(-50%, -60%) rotate(45deg);
+            -ms-transform: translate(-50%, -60%) rotate(45deg);
+            transform: translate(-50%, -60%) rotate(45deg);
+        } 
+    }
+}
   
-  /* Hide the browser's default checkbox */
-  .container input {
-    position: absolute;
-    opacity: 0;
-    cursor: pointer;
-    height: 0;
-    width: 0;
-  }
+.__react_component_tooltip {
+    text-align: left;
+    color: $textColor !important;
+    opacity: 1 !important;
+    font-weight: 400 !important;
+    font-size: 15px !important;
   
-  /* Create a custom checkbox */
-  .checkmark {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 30px;
-    height: 30px;
-    background-color: $secondaryBackgroundColor;
-    border-radius: $elementBorderRadius;
-    border: none;
-  }
-  
-  /* On mouse-over, add a grey background color */
-  .container:hover input ~ .checkmark {
-    background-color: $secondaryBackgroundColor;
-  }
-  
-  /* When the checkbox is checked, add a blue background */
-  .container input:checked ~ .checkmark {
-    background-color: $mainColor;
-  }
-  
-  /* Create the checkmark/indicator (hidden when not checked) */
-  .checkmark:after {
-    content: "";
-    position: absolute;
-    display: none;
-  }
-  
-  /* Show the checkmark when checked */
-  .container input:checked ~ .checkmark:after {
-    display: block;
-  }
-  
-  /* Style the checkmark/indicator */
-  .container .checkmark:after {
-    left: 15px;
-    top: 13px;
-    width: 6px;
-    height: 12px;
-    border: solid $secondaryTextColor;
-    border-width: 0 3px 3px 0;
-    -webkit-transform: translate(-50%, -50%) rotate(45deg);
-    -ms-transform: translate(-50%, -50%) rotate(45deg);
-    transform: translate(-50%, -50%) rotate(45deg);
-  } 
+    a {
+        color: $mainColor;
+        text-decoration: none;
+    
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
