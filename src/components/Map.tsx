@@ -1,33 +1,20 @@
 import React, { useState } from "react"
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet"
 import countries from "../data/countries.geo.json"
-import Legend from "./functions/Legend"
 import "leaflet/dist/leaflet.css"
+import CountriesLegend from "./functions/CountriesLegend"
+import PercentileLegend from "./functions/PercentileLegend"
+import {isEmptyObj} from './functions/helpers';
 
 type props = {
-	countriesValues: Map<string, number> | {}
+	countriesValues: Map<string, number> | {},
+	countriesTopScore: Array<Object> | [],
+	percentiles: Array<number> | []
 }
 
-function Map({ countriesValues }: props) {
+function Map({ countriesValues, countriesTopScore, percentiles }: props) {
 	const [map, setMap] = useState(null)
-	const percentiles = [1, 10, 50, 90]
 
-	// @TODO Remove this when percentiles are added
-	const getColorDemo = (value: number) => {
-		if (value > 0.6) {
-			return "#08519C"
-		} else if (value > 0.4) {
-			return "#3182BD"
-		} else if (value > 0.2) {
-			return "#6BAED6"
-		} else if (value) {
-			return "#BDD7E7"
-		} else {
-			// Map name not found
-			// Do we want to do anything with it?
-			return "#FFFFFF"
-		}
-	}
 
 	const getColor = (value: number) => {
 		if (value == 1) {
@@ -48,21 +35,13 @@ function Map({ countriesValues }: props) {
 	const style = (feature: any) => {
 		return {
 			// TODO changes to real get color funciton
-			fillColor: getColorDemo(getValue(feature.properties["iso_n3"])),
+			fillColor: getColor(getValue(feature.properties["iso_n3"])),
 			weight: 2,
 			opacity: 1,
 			color: null,
 			dashArray: "3",
 			fillOpacity: 0.8,
 		}
-	}
-
-	const isEmptyObj = (obj: Object) => {
-		return (
-			obj && // 👈 null and undefined check
-			Object.keys(obj).length === 0 &&
-			Object.getPrototypeOf(obj) === Object.prototype
-		)
 	}
 
 	const getValue = (country: string) => {
@@ -100,7 +79,12 @@ function Map({ countriesValues }: props) {
 					data={countries}
 					style={countriesValues && !isEmptyObj(countriesValues) ? style : {}}
 				></GeoJSON>
-				<Legend map={map} getColor={getColor} grades={percentiles}></Legend>
+				<PercentileLegend map={map} getColor={getColor} grades={percentiles} />
+				{
+					countriesTopScore && countriesTopScore.length > 0 ?
+						<CountriesLegend map={map} countries={countriesTopScore} />
+						: null
+				}
 			</MapContainer>
 		</div>
 	)
