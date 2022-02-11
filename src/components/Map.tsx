@@ -34,7 +34,6 @@ function Map({ countriesValues, countriesTopScore, percentiles }: props) {
 
 	const style = (feature: any) => {
 		return {
-			// TODO changes to real get color funciton
 			fillColor: getColor(getValue(feature.properties["iso_n3"])),
 			weight: 2,
 			opacity: 1,
