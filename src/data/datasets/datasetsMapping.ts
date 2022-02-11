@@ -101,59 +101,69 @@ export const datasetsMapping = {
     "https://digitalcommons.unf.edu/datasets/1/": "lgbt.json"
 }
 
-export const datasetsMappingByTheme = {
+export const datasetsMappingByTheme: ThemeMapping = {
     "Air Pollution": [
         {
             name: "Exposure to air pollution with fine particulate matter",
+            isUsed: true,
             dataset: "PM25-air-pollution.json",
             fields: ["PM2"],
             treatData: getPm25DataTreated
         },
         {
             name: "Death Rates from Ambient Air Pollution",
+            isUsed: true,
             dataset: "death-rates-from-ambient-particulate-air-pollution.json",
             fields: ["Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate)"]
         },
         {
             name: "Death Rates from Total Air Pollution",
+            isUsed: true,
             dataset: "death-rates-total-air-pollution.json",
             fields: ["Deaths - Cause: All causes - Risk: Air pollution - Sex: Both - Age: Age-standardized (Rate)"]
         },
         {
             name: "Death Rates from Outdoor Air Pollution",
+            isUsed: true,
             dataset: "outdoor-pollution-death-rate.json",
             fields: ["Deaths - Cause: All causes - Risk: Outdoor air pollution - OWID - Sex: Both - Age: Age-standardized (Rate)"]
         },
         {
             name: "Death Rates from Air Pollution",
+            isUsed: true,
             dataset: "share-deaths-air-pollution.json",
             fields: ["Deaths - Cause: All causes - Risk: Air pollution - Sex: Both - Age: Age-standardized (Percent)"]
         },
         {
             name: "Share of Deaths from Outdoor Air Pollution",
+            isUsed: true,
             dataset: "share-deaths-outdoor-pollution.json",
             fields: ["Deaths - Cause: All causes - Risk: Outdoor air pollution - OWID - Sex: Both - Age: Age-standardized (Percent)"]
         },
     ],
-    "Natural Distaster": [
+    "Natural Disaster": [
         {
             name: "Number of Significant Earthquakes",
+            isUsed: true,
             dataset: "significant-earthquakes.json",
             fields: ["Significant earthquake events (NGDC-NASA)"]
         },
         {
             name: "Direct Economic Loss Attributed to Disasters",
+            isUsed: true,
             dataset: "direct-economic-loss-attributed-to-disasters.json",
             fields: ["2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS"],
             treatData: getDirectEconomicLossAttributedToDisastersDataTreated
         },
         {
             name: "Significant Volcanic Eruptions",
+            isUsed: true,
             dataset: "significant-volcanic-eruptions.json",
             fields: ["Number of significant volcanic eruptions (NGDC-WDS)"]
         },
         {
             name: "Internally Displaced Persons From Disasters",
+            isUsed: true,
             dataset: "internally-displaced-persons-from-disasters.json",
             fields: ["Internally displaced persons, new displacement associated with disasters (number of cases)"]
         },
@@ -161,21 +171,25 @@ export const datasetsMappingByTheme = {
     "Climate Change": [
         {
             name: "Share Electricity From Renewables",
+            isUsed: true,
             dataset: "share-electricity-renewables.json",
             fields: ["Renewables (% electricity)"]
         },
         {
             name: "Fossil Fuel Production",
+            isUsed: true,
             dataset: "fossil-fuel-production.json",
             fields: ["Coal Production - TWh", "Oil Production - TWh", "Gas Production - TWh"]
         },
         {
             name: "Fossil Fuel Primary Energy",
+            isUsed: true,
             dataset: "fossil-fuel-primary-energy.json",
             fields: ["Fossil Fuels (TWh)"]
         },
         {
             name: "Share Electricity From Fossil Fuels",
+            isUsed: true,
             dataset: "share-electricity-fossil-fuels.json",
             fields: ["Fossil fuels (% electricity)"]
         },
@@ -183,56 +197,67 @@ export const datasetsMappingByTheme = {
     "Food": [
         {
             name: "LANCET Diet Comparison",
+            isUsed: true,
             dataset: "eat-lancet-diet-comparison.json",
             fields: ["cereals", "roots_tubers", "vegetables", "fruits", "milk_equivalents", "poultry", "eggs", "seafood", "legumes", "nuts", "oils", "sugar"]
         },
         {
             name: "Annual Food Expenditure",
+            isUsed: true,
             dataset: "annual-food-expenditure-per-person-vs-gdp-per-capita.json",
             fields: ["Food expenditure (USDA (2017))"]
         },
         {
             name: "Cost Healthy Diet",
+            isUsed: true,
             dataset: "cost-healthy-diet.json",
             fields: ["Cost of healthy diet (2017 USD per day)"]
         },
         {
             name: "Share Of Consumer Expenditure Spent on Food",
+            isUsed: true,
             dataset: "share-of-consumer-expenditure-spent-on-food.json",
             fields: ["Share of consumer expenditure on food (USDA (2017))"]
         },
         {
             name: "Daily Protein Supply Of Animal Origin vs Plant Origin",
+            isUsed: true,
             dataset: "daily-protein-supply-of-animal-origin-vs-plant-origin.json",
             fields: ["Daily protein supply of plant origin (FAO (2017))", "Daily protein supply of animal origin (FAO (2017))"]
         },
         {
             name: "Antibiotic Use In Livestock",
+            isUsed: true,
             dataset: "antibiotic-use-in-livestock.json",
             fields: ["Antibiotic use in livestock"]
         },
         {
             name: "Daily Meat Consumption",
+            isUsed: true,
             dataset: "daily-meat-consumption-per-person.json",
             fields: ["Food Balance Sheets: Meat - Food supply quantity (kg/capita/yr) (FAO (2017))"]
         },
         {
             name: "Daily Fat Supply",
+            isUsed: true,
             dataset: "daily-per-capita-fat-supply.json",
             fields: ["Fat supply quantity (g/capita/day) (FAO, 2020)"]
         },
         {
             name: "Daily Calories Supply",
+            isUsed: true,
             dataset: "daily-per-capita-supply-of-calories.json",
             fields: ["Daily caloric supply (FAO (2017) & Various historical sources)"]
         },
         {
             name: "Daily Protein Supply",
+            isUsed: true,
             dataset: "daily-per-capita-protein-supply.json",
             fields: ["Protein supply quantity (g/capita/day) (FAO, 2020)"]
         },
         {
             name: "Daily Sugar Supply",
+            isUsed: true,
             dataset: "per-capita-sugar-food-supply-vs-gdp-per-capita.json",
             fields: ["Food Balance Sheets: Sugar (Raw Equivalent) - Food supply (kcal/capita/day) (FAO (2017))"]
         },
@@ -240,32 +265,38 @@ export const datasetsMappingByTheme = {
     "Income": [
         {
             name: "Starting Yearly Teacher Salaries In Public Primary Education",
+            isUsed: true,
             dataset: "starting-yearly-teacher-salaries-in-public-primary-education.json",
             fields: ["Annual statutory teacher salaries in public institutions in USD"],
             treatData: getStartingYearlyTeacherSalariesInPublicPrimaryEducationDataTreated
         },
         {
             name: "Economic Inequality",
+            isUsed: true,
             dataset: "gdp-per-capita-vs-economic-inequality.json",
             fields: ["Gini index (World Bank estimate)"]
         },
         {
             name: "Share of Top 1% in Pre-tax national income",
+            isUsed: true,
             dataset: "share-of-top-1-in-pre-tax-national-income.json",
             fields: ["Share of Top 1% in Pre-tax national income"]
         },
         {
             name: "Disposable Household Income",
+            isUsed: true,
             dataset: "1st-d.json",
             fields: ["1st (Incomes across the Distribution Database (2016))"]
         },
         {
             name: "Median Income",
+            isUsed: true,
             dataset: "median-income-EEG.json",
             fields: ["5th (Incomes across the Distribution Database (2016))"]
         },
         {
             name: "Maximum Marginal Tax Rates on Individual Income",
+            isUsed: true,
             dataset: "maximum-marginal-tax-rates-on-individual-income.json",
             fields: ["Top marginal income tax rate (Reynolds (2008))"]
         },
@@ -273,47 +304,56 @@ export const datasetsMappingByTheme = {
     "Education": [
         {
             name: "OECD Pisa Test Scores",
+            isUsed: true,
             dataset: "oecd-pisa-test-scores-for-selected-countries-2000-2012.json",
             fields: ["OECD PISA education score (PISA (2015))"]
         },
         {
             name: "Gross Enrollment Ratio in Secondary Education",
+            isUsed: true,
             dataset: "gross-enrollment-ratio-in-secondary-education.json",
             fields: ["Gross enrolment ratio, secondary, both sexes (%)"]
         },
         {
             name: "Share of Population With Completed Tertiary Education",
+            isUsed: true,
             dataset: "share-of-the-population-with-completed-tertiary-education.json",
             fields: ["Barro-Lee: Percentage of population age 15+ with tertiary schooling"],
             treatData: getShareOfPopulationWithCompletedTertiaryEducationDataTreated
         },
         {
             name: "Number of Teachers across Education Levels",
+            isUsed: true,
             dataset: "number-of-teachers-across-education-levels.json",
             fields: ["Teachers in pre-primary education, both sexes (number)", "Teachers in primary education, both sexes (number)", "Teachers in lower secondary education, both sexes (number)", "Teachers in upper secondary education, both sexes (number)", "Teachers in tertiary education programmes, both sexes (number)",]
         },
         {
             name: "Completion Rate of Lower Secondary Education",
+            isUsed: true,
             dataset: "completion-rate-of-lower-secondary-education.json",
             fields: ["Lower secondary completion rate, both sexes (%)"]
         },
         {
             name: "Duration of Compulsory Education",
+            isUsed: true,
             dataset: "duration-of-compulsory-education.json",
             fields: ["Duration of compulsory education (years)"]
         },
         {
             name: "Total Government Expenditure on Education",
+            isUsed: true,
             dataset: "total-government-expenditure-on-education-gdp.json",
             fields: ["Government expenditure on education, total (% of GDP)"]
         },
         {
             name: "National Average Learning Outcomes",
+            isUsed: true,
             dataset: "national-average-learning-outcomes-vs-government-expenditure-per-primary-student.json",
             fields: ["Average harmonised learning outcome score in 2005-2015 (Altinok, Angrist, and Patrinos, 2018)"]
         },
         {
             name: "Share of Youth not in Education, Employment or Training",
+            isUsed: true,
             dataset: "youth-not-in-education-employment-training.json",
             fields: ["Share of youth not in education, employment or training, total (% of youth population)"]
         },
@@ -321,61 +361,73 @@ export const datasetsMappingByTheme = {
     "Democracy": [
         {
             name: "Political Regime Type and Humans Rights Score",
+            isUsed: true,
             dataset: "political-regime-type-vs-human-rights-score.json",
             fields: ["Regimes of the world -- the RoW measure"]
         },
         {
             name: "Political Regimes - 2016",
+            isUsed: true,
             dataset: "political-regime-updated2016.json",
             fields: ["Political Regime (OWID based on Polity IV and Wimmer & Min)"]
         },
         {
             name: "Political Regimes",
+            isUsed: true,
             dataset: "political-regimes.json",
             fields: ["Political regime"]
         },
         {
             name: "Share of People Paying Bribes and Corruption Perception",
+            isUsed: true,
             dataset: "share-of-people-paying-bribes-vs-corruption-perception.json",
             fields: ["Corruption Perception Index - Transparency International (2018)", "Bribery Rate (%)"]
         },
         {
             name: "Human Rights Scores",
+            isUsed: true,
             dataset: "human-rights-scores.json",
             fields: ["Human Rights Score (Schnakenberg & Fariss, 2014; Fariss, 2019)"]
         },
         {
             name: "Human Rights Violations",
+            isUsed: true,
             dataset: "human-rights-violations.json",
             fields: ["Fund for Peace (Fragile States Index (Human Rights Dimension))"]
         },
         {
             name: "Freedom of Press",
+            isUsed: true,
             dataset: "world-map-of-the-freedom-of-the-press-status.json",
             fields: ["Freedom of the Press Status"]
         },
         {
             name: "Refugee Population",
+            isUsed: true,
             dataset: "refugee-population-by-country-or-territory-of-asylum.json",
             fields: ["Refugee population by country or territory of asylum"]
         },
         {
             name: "Share of People who Trust the Government",
+            isUsed: true,
             dataset: "share-who-trust-government.json",
             fields: ["Share of people who trust their national government"]
         },
         {
             name: "Political Participation",
+            isUsed: true,
             dataset: "political-participation.json",
             fields: ["Political Participation (Vanhanen (2015))"]
         },
         {
             name: "State Fragility",
+            isUsed: true,
             dataset: "gdp-per-capita-vs-state-fragility.json",
             fields: ["Fragile States Index - ffp_fsi"]
         },
         {
             name: "World Press Freedom",
+            isUsed: true,
             dataset: "world-press-freedom.json",
             fields: ["Press Freedom Score"]
         },
@@ -383,98 +435,117 @@ export const datasetsMappingByTheme = {
     "Gender Rights": [
         {
             name: "Share of Young Women With No Education",
+            isUsed: true,
             dataset: "share-of-women-between-15-and-19-years-old-with-no-education.json",
             fields: ["Barro-Lee: Percentage of female population age 15-19 with no education"]
         },
         {
             name: "Total net Enrollment Rate in Primary Education",
+            isUsed: true,
             dataset: "total-net-enrollment-rate-in-primary-education-by-sex.json",
             fields: ["Total net enrolment rate, primary, female (%)"]
         },
         {
             name: "Gender Inequality Index",
+            isUsed: true,
             dataset: "gender-inequality-index-from-the-human-development-report.json",
             fields: ["Gender Inequality Index (Human Development Report (2015))"]
         },
         {
             name: "Proportion of Women in Senior and Middle Management Positions",
+            isUsed: true,
             dataset: "proportion-of-women-in-senior-and-middle-management-positions.json",
             fields: ["2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN"],
             treatData: getProportionOfWomenInSeniorAndMiddlePositionsDataTreated
         },
         {
             name: "Firms with Female Top Managers",
+            isUsed: true,
             dataset: "firms-with-female-top-manager-of-firms-bars.json",
             fields: ["Firms with female top manager (% of firms)"]
         },
         {
             name: "Womens Economic Rights",
+            isUsed: true,
             dataset: "womens-economic-rights.json",
             fields: ["Women's Economic Rights - ciri_wecon"]
         },
         {
             name: "Womens Economic Opportunity",
+            isUsed: true,
             dataset: "womens-economic-opportunity-2012-index.json",
             fields: ["WEO Index overall score (Economist Intelligence Unit (2012))"]
         },
         {
             name: "Gender Wage Gap",
+            isUsed: true,
             dataset: "gender-wage-gap-oecd.json",
             fields: ["Gender wage gap (OECD 2017)"]
         },
         {
             name: "Law Mandated Equal Pay",
+            isUsed: true,
             dataset: "law-mandate-equal-pay.json",
             fields: ["Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)"]
         },
         {
             name: "Gender Parity Index Primary Education",
+            isUsed: true,
             dataset: "gpi-primary-education.json",
             fields: ["Gross enrolment ratio, primary, gender parity index (GPI)"]
         },
         {
             name: "Gender Parity Index Secondary Education",
+            isUsed: true,
             dataset: "gross-enrolment-gpi-secondary.json",
             fields: ["Gross enrolment ratio, secondary, both sexes (%)"]
         },
         {
             name: "Gender Parity Index Tertiary Education",
+            isUsed: true,
             dataset: "gpi-tertiary-education.json",
             fields: ["Gross enrolment ratio, tertiary, gender parity index (GPI)"]
         },
         {
             name: "Share Female Employment in Agriculture",
+            isUsed: true,
             dataset: "share-of-male-vs-female-employment-in-agri.json",
             fields: ["Employment in agriculture, female (% of female employment) (modeled ILO estimate)"]
         },
         {
             name: "Share Female Employment in Industry",
+            isUsed: true,
             dataset: "share-of-male-vs-female-employment-in-industry.json",
             fields: ["Employment in industry, female (% of female employment) (modeled ILO estimate)"]
         },
         {
             name: "Share Female Employment in Services",
+            isUsed: true,
             dataset: "share-of-male-vs-female-employment-in-services.json",
             fields: ["Employment in services, female (% of female employment) (modeled ILO estimate)"]
         },
         {
             name: "Unemployment Rate Women",
+            isUsed: true,
             dataset: "unemployment-rate-women.json",
             fields: ["Unemployment rate, women -- ILO modelled estimates, May 2017 (%)"]
         },
         {
             name: "Maternal Mortality",
+            isUsed: true,
             dataset: "maternal-mortality-slope-chart.json",
             fields: ["Maternal mortality ratio (modeled estimate, per 100,000 live births)"]
         },
         {
             name: "Adolescent Birth Rate",
+            isUsed: true,
             dataset: "adolescent-fertility-ihme.json",
             fields: ["2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled"],
             treatData: getAdolescentBirthRateDataTreated
         },
         {
             name: "Proportion of Women in Ministerial Positions",
+            isUsed: true,
             dataset: "proportion-of-women-in-ministerial-positions.json",
             fields: ["Proportion of women in ministerial level positions (%)"]
         },
@@ -482,6 +553,7 @@ export const datasetsMappingByTheme = {
     "Language": [
         {
             name: "Share Of English Speaking Population",
+            isUsed: true,
             dataset: "wikipedia_eng_lng_pop.json",
             fields: ["Total English speakers (%)"]
         }
@@ -489,36 +561,43 @@ export const datasetsMappingByTheme = {
     "Safety": [
         {
             name: "Homicide Rate",
+            isUsed: true,
             dataset: "homicide-rate-ihme-vs-world-bank.json",
             fields: ["Deaths - Interpersonal violence - Sex: Both - Age: All Ages (Rate)", "Intentional homicides (per 100,000 people)"]
         },
         {
             name: "Suicide Rate",
+            isUsed: true,
             dataset: "suicide-vs-homicide-rate.json",
             fields: ["Deaths - Self-harm - Sex: Both - Age: Age-standardized (Rate)"]
         },
         {
             name: "Deaths by Age Group",
+            isUsed: true,
             dataset: "deaths-by-age-group-stacked.json",
             fields: ["Deaths - All causes - Sex: Both - Age: Under 5 (Number)", "Deaths - All causes - Sex: Both - Age: 5-14 years (Number)", "Deaths - All causes - Sex: Both - Age: 15-49 years (Number)", "Deaths - All causes - Sex: Both - Age: 50-69 years (Number)", "Deaths - All causes - Sex: Both - Age: 70+ years (Number)"]
         },
         {
             name: "Number Of Nuclear Warheads In Inventory of Nuclear Powers",
+            isUsed: true,
             dataset: "number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers.json",
             fields: ["Nuclear weapons inventory by country (FAS Nuclear Notebook)"]
         },
         {
             name: "Deaths From Conflict And Terrorism",
+            isUsed: true,
             dataset: "deaths-from-conflict-and-terrorism.json",
             fields: ["Deaths - Conflict and terrorism - Sex: Both - Age: All Ages (Number)"]
         },
         {
             name: "Terrorist Incidents",
+            isUsed: true,
             dataset: "terrorist-incidents.json",
             fields: ["Number of terrorist incidents (GDT, 2018)"]
         },
         {
             name: "Share Of Children who Report Being Bullied",
+            isUsed: true,
             dataset: "share-of-children-ages-13-15-who-report-being-bullied.json",
             fields: ["Children (13-15) who reported being bullied"]
         },
@@ -526,16 +605,19 @@ export const datasetsMappingByTheme = {
     "Happiness": [
         {
             name: "Happiness Cantril Ladder",
+            isUsed: true,
             dataset: "happiness-cantril-ladder.json",
             fields: ["Life satisfaction in Cantril Ladder (World Happiness Report 2021)"]
         },
         {
             name: "Depression Rate",
+            isUsed: true,
             dataset: "depression-ihme-vs-who.json",
             fields: ["Prevalence - Depressive disorders - Sex: Both - Age: Age-standardized (Percent)", "Indicator:Estimated population-based prevalence of depression"]
         },
         {
             name: "Suicide Rate",
+            isUsed: true,
             dataset: "suicide-rates-vs-prevalence-of-depression.json",
             fields: ["Deaths - Self-harm - Sex: Both - Age: Age-standardized (Rate)"]
         },
@@ -543,47 +625,56 @@ export const datasetsMappingByTheme = {
     "Health": [
         {
             name: "Hospital Beds",
+            isUsed: true,
             dataset: "hospital-beds-per-1000-people.json",
             fields: ["Hospital beds (per 1,000 people)"]
         },
         {
             name: "Healthcare Access and Quality",
+            isUsed: true,
             dataset: "healthcare-access-and-quality-index.json",
             fields: ["HAQ Index (IHME (2017))"]
         },
         {
             name: "Universal Health Coverage Index",
+            isUsed: true,
             dataset: "universal-health-coverage-index.json",
             fields: ["1 - Universal health coverage (UHC) service coverage index - SH_ACS_UNHC"],
             treatData: getUniversalHealthCoverageIndexDataTreated
         },
         {
             name: "Level Of Healthcare Spending",
+            isUsed: true,
             dataset: "HAQ-by-level-of-healthcare-spending-endpoints.json",
             fields: ["Current health expenditure per capita, PPP (current international $)"]
         },
         {
             name: "Annual Healthcare Expenditure",
+            isUsed: true,
             dataset: "annual-healthcare-expenditure-per-capita.json",
             fields: ["Health expenditure per capita, PPP (constant 2011 international $)"]
         },
         {
             name: "Share of Out of Pocket Expenditure on Healthcare",
+            isUsed: true,
             dataset: "share-of-out-of-pocket-expenditure-on-healthcare.json",
             fields: ["Out-of-pocket health expenditure (% of total expenditure on health)"]
         },
         {
             name: "Share of Population at Risk of Catastrophic Expenditure on Healthcare",
+            isUsed: true,
             dataset: "share-of-the-population-at-risk-of-catastrophic-expenditure-when-surgical-care-is-required.json",
             fields: ["Risk of catastrophic expenditure for surgical care (% of people at risk)"]
         },
         {
             name: "Health Protection Coverage",
+            isUsed: true,
             dataset: "health-protection-coverage.json",
             fields: ["Share of population covered by health insurance (ILO (2014))"]
         },
         {
             name: "Private Health Expenditure",
+            isUsed: true,
             dataset: "private-health-expenditure-per-person.json",
             fields: ["Domestic private health expenditure per capita, PPP (current international $)"]
         },
@@ -591,6 +682,7 @@ export const datasetsMappingByTheme = {
     "LGBTQI+ Rights": [
         {
             name: "LGBTQI+ Rights",
+            isUsed: true,
             dataset: "lgbt.json",
             fields: ["Religiosity", "SHI", "legality of sam-sex sexual-activity", "marriage/ civil unions", "serving in the military", "antidiscrimination laws",]
         }
@@ -601,5 +693,22 @@ export interface ThemeMappingItem {
     name: string,
     dataset: string,
     fields: string[],
+    isUsed: boolean,
     treatData?: (raw: any) => any
+}
+
+export interface ThemeMapping {
+    "Air Pollution": ThemeMappingItem[]
+    "Natural Disaster": ThemeMappingItem[]
+    "Climate Change": ThemeMappingItem[]
+    "Food": ThemeMappingItem[]
+    "Income": ThemeMappingItem[]
+    "Education": ThemeMappingItem[]
+    "Democracy": ThemeMappingItem[]
+    "Gender Rights": ThemeMappingItem[]
+    "Language": ThemeMappingItem[]
+    "Safety": ThemeMappingItem[]
+    "Happiness": ThemeMappingItem[]
+    "Health": ThemeMappingItem[]
+    "LGBTQI+ Rights": ThemeMappingItem[]
 }

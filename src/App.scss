@@ -23,6 +23,13 @@ div[class*="-panel"] {
 
   top: 20px;
   left: 20px;
+
+  .map {
+    width: 100%;
+    height: 100%;
+
+    border-radius: $panelBorderRadius;
+  }
 }
 
 .category-panel {
@@ -369,7 +376,7 @@ div[class*="-panel"] {
     &:disabled {
       cursor: default;
       pointer-events: none;
-      
+
       color: $disabledDarkGrey;
     }
   }

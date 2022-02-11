@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import './App.scss';
 import './sass/common.scss';
 import openJson from "./data/openJSON";
@@ -25,28 +25,31 @@ import {
     getNaturalDisastersPCAMatrix,
     getSafetyPCAMatrix
 } from "./data/pcaMatrices";
+import {datasetsMappingByTheme} from "./data/datasets/datasetsMapping";
 
 
 function App() {
+    const [countriesValues, setCountriesValues] = useState<Map<string, number> | {}>({});
+
     useEffect(() => {
-        getAirPollutionPCAMatrix()
-        getNaturalDisastersPCAMatrix()
-        getClimateChangePCAMatrix()
-        getFoodPCAMatrix()
-        getIncomePCAMatrix()
-        getEducationPCAMatrix()
-        getDemocracyPCAMatrix()
-        getGenderRightsPCAMatrix()
-        getLanguagePCAMatrix()
-        getSafetyPCAMatrix()
-        getHappinessPCAMatrix()
-        getHealthPCAMatrix()
-        getLGBTQIRightsPCAMatrix()
-    })
+        getAirPollutionPCAMatrix(datasetsMappingByTheme)
+        getNaturalDisastersPCAMatrix(datasetsMappingByTheme)
+        getClimateChangePCAMatrix(datasetsMappingByTheme)
+        getFoodPCAMatrix(datasetsMappingByTheme)
+        getIncomePCAMatrix(datasetsMappingByTheme)
+        getEducationPCAMatrix(datasetsMappingByTheme)
+        getDemocracyPCAMatrix(datasetsMappingByTheme)
+        getGenderRightsPCAMatrix(datasetsMappingByTheme)
+        getLanguagePCAMatrix(datasetsMappingByTheme)
+        getSafetyPCAMatrix(datasetsMappingByTheme).then(matrix => setCountriesValues(matrix))
+        getHappinessPCAMatrix(datasetsMappingByTheme)
+        getHealthPCAMatrix(datasetsMappingByTheme)
+        getLGBTQIRightsPCAMatrix(datasetsMappingByTheme)
+    },[])
 
     return (
         <div className="main-panel">
-            <Map />
+            <Map countriesValues ={ countriesValues ? countriesValues : {} }/>
             <Selection />
             <Graphs />
         </div>
