@@ -1,14 +1,14 @@
-import React from 'react'
-import ParallelCoords from './ParallelCoords'
-import Histogram from './Histogram'
+import React from "react";
+import ParallelCoords from "./ParallelCoords";
+import Histogram from "./Histogram";
 
 function Graphs() {
   return (
     <>
-        <ParallelCoords />
-        <Histogram />
+      <ParallelCoords />
+      <Histogram />
     </>
-  )
+  );
 }
 
-export default Graphs
+export default Graphs;

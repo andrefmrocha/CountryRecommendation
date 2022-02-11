@@ -1,53 +1,101 @@
-import React from 'react'
-import { datasetsMappingByTheme, Categories } from '../data/datasets/datasetsMapping'
-import Checkbox from './common/Checkbox'
+import React from "react";
+import {
+  datasetsMappingByTheme,
+  Categories,
+} from "../data/datasets/datasetsMapping";
+import Checkbox from "./common/Checkbox";
 
 type props = {
-  importanceFactor: number,
-  selectedCategory: Categories | undefined,
-  includeCategory: boolean,
-  setImportanceFactor: React.Dispatch<React.SetStateAction<number>>,
-  setSelectedCategory: React.Dispatch<React.SetStateAction<Categories | undefined>>,
-  setIncludeCategory: React.Dispatch<React.SetStateAction<boolean>>,
-}
+  importanceFactor: number;
+  selectedCategory: Categories | undefined;
+  includeCategory: boolean;
+  setImportanceFactor: React.Dispatch<React.SetStateAction<number>>;
+  setSelectedCategory: React.Dispatch<
+    React.SetStateAction<Categories | undefined>
+  >;
+  setIncludeCategory: React.Dispatch<React.SetStateAction<boolean>>;
+};
 
-function Category({ importanceFactor, selectedCategory, includeCategory, setImportanceFactor, setSelectedCategory, setIncludeCategory }: props) {
+function Category({
+  importanceFactor,
+  selectedCategory,
+  includeCategory,
+  setImportanceFactor,
+  setSelectedCategory,
+  setIncludeCategory,
+}: props) {
   function changeImportanceFactor(e: React.ChangeEvent<HTMLInputElement>) {
-    setImportanceFactor(Math.min(1.0, Math.max(0.0, parseFloat(e.currentTarget.value))))
+    setImportanceFactor(
+      Math.min(1.0, Math.max(0.0, parseFloat(e.currentTarget.value)))
+    );
   }
 
   function getOptions() {
-    const categories = Object.keys(datasetsMappingByTheme) as Array<Categories>
+    const categories = Object.keys(datasetsMappingByTheme) as Array<Categories>;
 
-    if(!selectedCategory) {
-      setSelectedCategory(categories[0])
+    if (!selectedCategory) {
+      setSelectedCategory(categories[0]);
     }
 
-    return categories.map((category) => <option value={category}>{category}</option>)
+    return categories.map((category) => (
+      <option value={category}>{category}</option>
+    ));
   }
 
   return (
-    <div className='category-panel'>
-      <div className='category-selection'>
+    <div className="category-panel">
+      <div className="category-selection">
         <label htmlFor="category">Category</label>
-        <select name="category" id="category" value={selectedCategory} onChange={(e) => {
-          console.log(e.currentTarget.value)
-          setSelectedCategory(e.currentTarget.value as Categories)
-          setIncludeCategory(false)
-          setImportanceFactor(0)
-        }}>
+        <select
+          name="category"
+          id="category"
+          value={selectedCategory}
+          onChange={(e) => {
+            console.log(e.currentTarget.value);
+            setSelectedCategory(e.currentTarget.value as Categories);
+            setIncludeCategory(false);
+            setImportanceFactor(0);
+          }}
+        >
           {getOptions()}
         </select>
-        <Checkbox checked={includeCategory} onClick={() => setIncludeCategory(!includeCategory)} type="large"/>
+        <Checkbox
+          checked={includeCategory}
+          onClick={() => setIncludeCategory(!includeCategory)}
+          type="large"
+        />
       </div>
-      <div className='importance-factor-selection'>
+      <div className="importance-factor-selection">
         <label htmlFor="importance-factor">Importance Factor</label>
-        <input type="range" id="importance-factor" name="importance-factor" min="0" max="1" value={importanceFactor} step="0.01" disabled={!includeCategory} onChange={changeImportanceFactor}/>
-        <span className="thumb" data-disabled={!includeCategory} style={{ left: `${importanceFactor * 360 + 10}px`}}></span>
-        <input type="number" name="importance-factor" min="0" max="1" value={importanceFactor} step="0.01" disabled={!includeCategory} onChange={changeImportanceFactor}/>
+        <input
+          type="range"
+          id="importance-factor"
+          name="importance-factor"
+          min="0"
+          max="1"
+          value={importanceFactor}
+          step="0.01"
+          disabled={!includeCategory}
+          onChange={changeImportanceFactor}
+        />
+        <span
+          className="thumb"
+          data-disabled={!includeCategory}
+          style={{ left: `${importanceFactor * 360 + 10}px` }}
+        ></span>
+        <input
+          type="number"
+          name="importance-factor"
+          min="0"
+          max="1"
+          value={importanceFactor}
+          step="0.01"
+          disabled={!includeCategory}
+          onChange={changeImportanceFactor}
+        />
       </div>
     </div>
-  )
+  );
 }
 
-export default Category
+export default Category;
