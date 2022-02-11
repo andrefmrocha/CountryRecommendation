@@ -7,7 +7,7 @@ interface DataToReduce {
     fields: string[]
 }
 
-function normalizePCAData(reducedData: Map<String, number>) {
+function normalizePCAData(reducedData: Map<string, number>) {
     const values = Array.from(reducedData.values());
     let maxValue: number = Number.MIN_VALUE
 
@@ -22,7 +22,7 @@ function normalizePCAData(reducedData: Map<String, number>) {
         item / maxValue
     )
 
-    const normalizedData: Map<String, number> = new Map<String, number>()
+    const normalizedData: Map<string, number> = new Map<string, number>()
     Array.from(reducedData.keys()).forEach((key, index) => {
         normalizedData.set(key, normalizedValue[index])
     })
@@ -44,7 +44,7 @@ async function treatThemeMapping(themeMappingItems: ThemeMappingItem[]): Promise
     return Promise.all(promises)
 }
 
-export async function getReducedData<T>(originalField: T, themeMappingItems: ThemeMappingItem[], fieldToGroupBy: string,) {
+export async function getReducedData<T>(originalField: T, themeMappingItems: ThemeMappingItem[], fieldToGroupBy: string,): Promise<Map<string, number[]>> {
     const dataToReduce = await treatThemeMapping(themeMappingItems)
     return reduceData(
         dataToReduce,
@@ -53,8 +53,8 @@ export async function getReducedData<T>(originalField: T, themeMappingItems: The
     )
 }
 
-function reduceData<T>(dataToReduce: DataToReduce[], fieldToGroupBy: string, originalField: T): Map<String, number[]> {
-    const data: Map<String, T> = new Map<String, T>()
+function reduceData<T>(dataToReduce: DataToReduce[], fieldToGroupBy: string, originalField: T): Map<string, number[]> {
+    const data: Map<string, T> = new Map<string, T>()
     dataToReduce.forEach(dataToReduceItem =>
         dataToReduceItem.data.forEach(dataItem => {
             let obj = data.get(dataItem[fieldToGroupBy])
@@ -75,21 +75,21 @@ function reduceData<T>(dataToReduce: DataToReduce[], fieldToGroupBy: string, ori
             })
         }))
 
-    const reducedData: Map<String, number[]> = new Map()
+    const reducedData: Map<string, number[]> = new Map()
     Array.from(data.entries()).forEach(([key, value]) => {
         reducedData.set(key, Object.values(value))
     })
     return reducedData
 }
 
-export function executePCA(reducedData: Map<String, number[]>): Map<String, number> {
+export function executePCA(reducedData: Map<string, number[]>): Map<string, number> {
     if (reducedData.size === 0) {
         return new Map()
     } else {
         const pca = new PCA(Array.from(reducedData.values()))
         const variance = pca.getExplainedVariance()
 
-        const pcaMatrix = new Map<String, number>()
+        const pcaMatrix = new Map<string, number>()
 
         Array.from(reducedData.entries()).forEach(([key, value]) => {
             const pcaValue = value.map((item, index) => item * variance[index])

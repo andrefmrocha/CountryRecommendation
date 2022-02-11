@@ -17,7 +17,6 @@ import {
 } from "./data/pcaMatrices";
 import {datasetsMappingByTheme} from "./data/datasets/datasetsMapping";
 
-
 function App() {
     useEffect(() => {
         getAirPollutionPCAMatrix(datasetsMappingByTheme)
