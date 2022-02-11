@@ -15,23 +15,24 @@ import {
     getNaturalDisastersPCAMatrix,
     getSafetyPCAMatrix
 } from "./data/pcaMatrices";
+import {datasetsMappingByTheme} from "./data/datasets/datasetsMapping";
 
 
 function App() {
     useEffect(() => {
-        getAirPollutionPCAMatrix()
-        getNaturalDisastersPCAMatrix()
-        getClimateChangePCAMatrix()
-        getFoodPCAMatrix()
-        getIncomePCAMatrix()
-        getEducationPCAMatrix()
-        getDemocracyPCAMatrix()
-        getGenderRightsPCAMatrix()
-        getLanguagePCAMatrix()
-        getSafetyPCAMatrix()
-        getHappinessPCAMatrix()
-        getHealthPCAMatrix()
-        getLGBTQIRightsPCAMatrix()
+        getAirPollutionPCAMatrix(datasetsMappingByTheme)
+        getNaturalDisastersPCAMatrix(datasetsMappingByTheme)
+        getClimateChangePCAMatrix(datasetsMappingByTheme)
+        getFoodPCAMatrix(datasetsMappingByTheme)
+        getIncomePCAMatrix(datasetsMappingByTheme)
+        getEducationPCAMatrix(datasetsMappingByTheme)
+        getDemocracyPCAMatrix(datasetsMappingByTheme)
+        getGenderRightsPCAMatrix(datasetsMappingByTheme)
+        getLanguagePCAMatrix(datasetsMappingByTheme)
+        getSafetyPCAMatrix(datasetsMappingByTheme)
+        getHappinessPCAMatrix(datasetsMappingByTheme)
+        getHealthPCAMatrix(datasetsMappingByTheme)
+        getLGBTQIRightsPCAMatrix(datasetsMappingByTheme)
     })
 
     return (

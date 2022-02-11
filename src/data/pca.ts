@@ -31,19 +31,20 @@ function normalizePCAData(reducedData: Map<String, number>) {
 }
 
 async function treatThemeMapping(themeMappingItems: ThemeMappingItem[]): Promise<DataToReduce[]> {
-    const promises = themeMappingItems.map(async (item) => {
-        const data = await openJson(item.dataset)
+    const promises = themeMappingItems.filter(item => item.isUsed)
+        .map(async (item) => {
+            const data = await openJson(item.dataset)
 
-        return {
-            data: item.treatData ? item.treatData(data) : data,
-            fields: item.fields
-        } as DataToReduce
-    })
+            return {
+                data: item.treatData ? item.treatData(data) : data,
+                fields: item.fields
+            } as DataToReduce
+        })
 
     return Promise.all(promises)
 }
 
-export async function getReducedData<T>(originalField: T, themeMappingItems: ThemeMappingItem[], fieldToGroupBy: string, ) {
+export async function getReducedData<T>(originalField: T, themeMappingItems: ThemeMappingItem[], fieldToGroupBy: string,) {
     const dataToReduce = await treatThemeMapping(themeMappingItems)
     return reduceData(
         dataToReduce,
@@ -65,7 +66,7 @@ function reduceData<T>(dataToReduce: DataToReduce[], fieldToGroupBy: string, ori
             dataToReduceItem.fields.forEach(field => {
                 try {
                     const number = parseFloat(dataItem[field])
-                    if (!isNaN(number)){
+                    if (!isNaN(number)) {
                         // @ts-ignore
                         obj[field] = number
                     }
@@ -82,15 +83,19 @@ function reduceData<T>(dataToReduce: DataToReduce[], fieldToGroupBy: string, ori
 }
 
 export function executePCA(reducedData: Map<String, number[]>): Map<String, number> {
-    const pca = new PCA(Array.from(reducedData.values()))
-    const variance = pca.getExplainedVariance()
+    if (reducedData.size === 0) {
+        return new Map()
+    } else {
+        const pca = new PCA(Array.from(reducedData.values()))
+        const variance = pca.getExplainedVariance()
 
-    const pcaMatrix = new Map<String, number>()
+        const pcaMatrix = new Map<String, number>()
 
-    Array.from(reducedData.entries()).forEach(([key, value]) => {
-        const pcaValue = value.map((item, index) => item * variance[index])
-            .reduce((acc, item) => acc + item)
-        pcaMatrix.set(key, pcaValue)
-    })
-    return normalizePCAData(pcaMatrix)
+        Array.from(reducedData.entries()).forEach(([key, value]) => {
+            const pcaValue = value.map((item, index) => item * variance[index])
+                .reduce((acc, item) => acc + item)
+            pcaMatrix.set(key, pcaValue)
+        })
+        return normalizePCAData(pcaMatrix)
+    }
 }
