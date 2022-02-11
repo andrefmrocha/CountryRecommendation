@@ -77,7 +77,7 @@ function Map({ countriesValues }: props) {
 	return (
 		<div className="map-panel">
 			<MapContainer
-				center={[0, 0]}
+				center={[0, 20]}
 				zoom={2}
 				minZoom={2}
 				className="map"
