@@ -31,26 +31,10 @@ import {datasetsMappingByTheme} from "./data/datasets/datasetsMapping";
 function App() {
     const [countriesValues, setCountriesValues] = useState<Map<string, number> | {}>({});
 
-    useEffect(() => {
-        getAirPollutionPCAMatrix(datasetsMappingByTheme)
-        getNaturalDisastersPCAMatrix(datasetsMappingByTheme)
-        getClimateChangePCAMatrix(datasetsMappingByTheme)
-        getFoodPCAMatrix(datasetsMappingByTheme)
-        getIncomePCAMatrix(datasetsMappingByTheme)
-        getEducationPCAMatrix(datasetsMappingByTheme)
-        getDemocracyPCAMatrix(datasetsMappingByTheme)
-        getGenderRightsPCAMatrix(datasetsMappingByTheme)
-        getLanguagePCAMatrix(datasetsMappingByTheme)
-        getSafetyPCAMatrix(datasetsMappingByTheme).then(matrix => setCountriesValues(matrix))
-        getHappinessPCAMatrix(datasetsMappingByTheme)
-        getHealthPCAMatrix(datasetsMappingByTheme)
-        getLGBTQIRightsPCAMatrix(datasetsMappingByTheme)
-    },[])
-
     return (
         <div className="main-panel">
             <Map countriesValues ={ countriesValues ? countriesValues : {} }/>
-            <Selection />
+            <Selection setCountriesValues={setCountriesValues}/>
             <Graphs />
         </div>
     );

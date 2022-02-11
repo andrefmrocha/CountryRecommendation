@@ -1,40 +1,40 @@
 import React, { useState, useEffect } from 'react'
-import { datasetsMappingByTheme, ThemeMappingItem } from '../data/datasets/datasetsMapping'
+import { datasetsMappingByTheme, ThemeMapping, ThemeMappingItem, Categories } from '../data/datasets/datasetsMapping'
 import Checkbox from './common/Checkbox'
 import InfoIcon from './common/InfoIcon'
 
 type props = {
-  selectedCategory: string | undefined,
+  selectedCategory: Categories | undefined,
   includeCategory: boolean,
+  calculate: (datasetMappingByTheme: ThemeMappingItem[]) => void
 }
 
-function Parameter({ selectedCategory, includeCategory }: props) {
+function Parameter({ selectedCategory, includeCategory, calculate }: props) {
   const [parameters, setParameters] = useState<Array<ThemeMappingItem>>()
-  const [parameterSelection, setParameterSelection] = useState<Array<boolean>>()
 
   useEffect(() => {
-    // @ts-ignore
-    const params: Array<ThemeMappingItem> = datasetsMappingByTheme[selectedCategory]
-    const paramSelection = Array(params?.length).fill(false)
+    if(!selectedCategory)
+      return
 
-    // @ts-ignore
+    const params: Array<ThemeMappingItem> = datasetsMappingByTheme[selectedCategory]
+
     setParameters(params)
-    setParameterSelection(paramSelection)
   }, [selectedCategory])
 
-  function getParameters() {
-    if(!parameterSelection)
-      return <></>
-    
+  function onClick() {
+    if(parameters)
+      calculate(parameters)
+  }
 
+  function getParameters() {
     return parameters?.map((parameter, index) => <div className='parameter'>
       <Checkbox 
-        checked={parameterSelection[index]} 
+        checked={parameter.isUsed} 
         disabled={!includeCategory}
         onClick={() => {
-          let newParameterSelection = [...parameterSelection]
-          newParameterSelection[index] = !newParameterSelection[index]
-          setParameterSelection(newParameterSelection)
+          setParameters([...parameters.map(param => {
+            return {...param, isUsed: param.name !== parameter.name ? param.isUsed : !param.isUsed} 
+          })])
         }} 
         type="small"/>
       <p>{parameter.name}</p>
@@ -48,7 +48,7 @@ function Parameter({ selectedCategory, includeCategory }: props) {
       <section className='parameters-selection'>
         {getParameters()}
       </section>
-      <button disabled={!includeCategory} onClick={() => console.log("YAY")}>Calculate</button>
+      <button disabled={!includeCategory} onClick={onClick}>Calculate</button>
     </div>
   )
 }

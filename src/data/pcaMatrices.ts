@@ -13,7 +13,46 @@ import {
     originalNaturalDisasterPCA,
     originalSafetyPCA
 } from "./pcaModels";
-import {ThemeMapping} from "./datasets/datasetsMapping";
+import { ThemeMapping, ThemeMappingItem, Categories } from "./datasets/datasetsMapping";
+
+function getOriginalPCAMatrix(category: Categories) {
+    switch(category) {
+        case "Air Pollution":
+            return originalAirPollutionPCA
+        case "Climate Change":
+            return originalClimateChangePCA
+        case "Democracy":
+            return originalDemocracyPCA
+        case "Education":
+            return originalEducationPCA
+        case "Food":
+            return originalFoodPCA
+        case "Gender Rights":
+            return originalGenderRightsPCA
+        case "Happiness":
+            return originalHappinessPCA
+        case "Health":
+            return originalHealthPCA
+        case "Income":
+            return originalIncomePCA
+        case "Language":
+            return originalLanguagePCA 
+        case "LGBTQI+ Rights":
+            return originalLGBTQIRightsPCA
+        case "Natural Disasters":
+            return originalNaturalDisasterPCA
+        case "Safety":
+            return originalSafetyPCA    
+    }
+}
+
+export async function getPCAMatrix(category: Categories, datasetMappingByTheme: ThemeMappingItem[]) {
+    console.log(datasetMappingByTheme)
+    const reducedData = await getReducedData(getOriginalPCAMatrix(category), datasetMappingByTheme, "Entity")
+    const pcaMatrix = executePCA(reducedData)
+    console.log(pcaMatrix)
+    return pcaMatrix
+}
 
 export async function getAirPollutionPCAMatrix(datasetsMappingByTheme: ThemeMapping) {
     const reducedData = await getReducedData(originalAirPollutionPCA, datasetsMappingByTheme["Air Pollution"], "Entity")
@@ -23,7 +62,7 @@ export async function getAirPollutionPCAMatrix(datasetsMappingByTheme: ThemeMapp
 }
 
 export async function getNaturalDisastersPCAMatrix(datasetsMappingByTheme: ThemeMapping) {
-    const reducedData = await getReducedData(originalNaturalDisasterPCA, datasetsMappingByTheme["Natural Disaster"], "Entity")
+    const reducedData = await getReducedData(originalNaturalDisasterPCA, datasetsMappingByTheme["Natural Disasters"], "Entity")
     const pcaMatrix = executePCA(reducedData)
     console.log(pcaMatrix)
     return pcaMatrix

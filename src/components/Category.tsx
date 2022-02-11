@@ -1,13 +1,13 @@
 import React from 'react'
-import { datasetsMappingByTheme } from '../data/datasets/datasetsMapping'
+import { datasetsMappingByTheme, Categories } from '../data/datasets/datasetsMapping'
 import Checkbox from './common/Checkbox'
 
 type props = {
   importanceFactor: number,
-  selectedCategory: string | undefined,
+  selectedCategory: Categories | undefined,
   includeCategory: boolean,
   setImportanceFactor: React.Dispatch<React.SetStateAction<number>>,
-  setSelectedCategory: React.Dispatch<React.SetStateAction<string | undefined>>,
+  setSelectedCategory: React.Dispatch<React.SetStateAction<Categories | undefined>>,
   setIncludeCategory: React.Dispatch<React.SetStateAction<boolean>>,
 }
 
@@ -17,7 +17,7 @@ function Category({ importanceFactor, selectedCategory, includeCategory, setImpo
   }
 
   function getOptions() {
-    const categories = Object.keys(datasetsMappingByTheme)
+    const categories = Object.keys(datasetsMappingByTheme) as Array<Categories>
 
     if(!selectedCategory) {
       setSelectedCategory(categories[0])
@@ -32,7 +32,7 @@ function Category({ importanceFactor, selectedCategory, includeCategory, setImpo
         <label htmlFor="category">Category</label>
         <select name="category" id="category" value={selectedCategory} onChange={(e) => {
           console.log(e.currentTarget.value)
-          setSelectedCategory(e.currentTarget.value)
+          setSelectedCategory(e.currentTarget.value as Categories)
           setIncludeCategory(false)
           setImportanceFactor(0)
         }}>
