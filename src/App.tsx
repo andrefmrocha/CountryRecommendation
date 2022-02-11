@@ -17,10 +17,16 @@ import {
 } from "./data/pcaMatrices";
 import {datasetsMappingByTheme} from "./data/datasets/datasetsMapping";
 import MapView from './mapView/MapView';
+import getPercentiles from './data/getPercentiles';
+import getTopCountries from './data/getTopCountries';
 
+const percentiles = [1,10,50,100];
 
 function App() {
     const [countriesValues, setCountriesValues] = useState({});
+    const [countriesPercentiles, setCountriesPercentiles] = useState({})
+    const [countriesTopScore, setCountriesTopScore] = useState({})
+
 
     useEffect(() => {
         getAirPollutionPCAMatrix(datasetsMappingByTheme)
@@ -30,7 +36,12 @@ function App() {
         getIncomePCAMatrix(datasetsMappingByTheme)
         getEducationPCAMatrix(datasetsMappingByTheme)
         getDemocracyPCAMatrix(datasetsMappingByTheme)
-        getGenderRightsPCAMatrix(datasetsMappingByTheme)
+        getGenderRightsPCAMatrix(datasetsMappingByTheme).then(matrix => {
+            setCountriesValues(matrix);
+            const countriesPercentiles = getPercentiles(matrix, percentiles);
+            setCountriesPercentiles(countriesPercentiles);
+            setCountriesTopScore(getTopCountries(countriesPercentiles, matrix,5));
+        })
         getLanguagePCAMatrix(datasetsMappingByTheme)
         getSafetyPCAMatrix(datasetsMappingByTheme).then(matrix => setCountriesValues(matrix))
         getHappinessPCAMatrix(datasetsMappingByTheme)
@@ -40,7 +51,7 @@ function App() {
 
     return (
         <div className="App">
-            <MapView countriesValues ={countriesValues? countriesValues : []}/>
+            <MapView countriesValues ={countriesPercentiles ? countriesPercentiles: []} countriesTopScore={countriesTopScore} percentiles={percentiles}/>
         </div>
     );
 }

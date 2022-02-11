@@ -24,3 +24,7 @@ export function getCountryISOCode(country: string) {
     const name = getName(country);
     return countries.alpha3ToNumeric(countries.getAlpha3Code(name, "en"))
 }
+
+export function getCountryNameFromISOCode(country: string) {
+    return countries.getName(country, "en");
+}
