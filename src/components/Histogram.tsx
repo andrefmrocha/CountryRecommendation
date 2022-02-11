@@ -1,7 +1,7 @@
-import React from "react";
+import React from "react"
 
 function Histogram() {
-  return <div className="histogram-panel">Histogram</div>;
+	return <div className="histogram-panel">Histogram</div>
 }
 
-export default Histogram;
+export default Histogram
