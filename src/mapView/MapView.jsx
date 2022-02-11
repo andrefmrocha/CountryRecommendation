@@ -3,12 +3,15 @@ import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet'
 import countries from '../data/countries.geo.json'
 import './MapView.css';
 import 'leaflet/dist/leaflet.css';
+import Legend from './Legend'
 
 function MapView(countriesValues) {
     const [map, setMap] = useState(null);
 
-    // @TODO change values when we have percentiles
-    const getColor = (value) => {
+    const percentiles = [1,10,50,90];
+
+    // @TODO Remove this when percentiles are added
+    const getColorDemo = (value) => {
         if (value > 0.6) {
             return "#08519C";
         }
@@ -23,15 +26,35 @@ function MapView(countriesValues) {
         }
         else {
             // Map name not found
-            // Do we want to do anything with it
+            // Do we want to do anything with it?
             return "#FFFFFF";
         }
+    }
 
+    const getColor = (value) => {
+        if (value == 1) {
+            return "#08519C";
+        }
+        else if (value == 10) {
+            return "#3182BD";
+        }
+        else if (value == 50) {
+            return "#6BAED6";
+        }
+        else if (value) {
+            return "#BDD7E7";
+        }
+        else {
+            // Map name not found
+            // Do we want to do anything with it?
+            return "#FFFFFF";
+        }
     }
 
     const style = (feature) => {
         return {
-            fillColor: getColor(getValue(feature.properties["iso_n3"])),
+            // TODO changes to real get color funciton
+            fillColor: getColorDemo(getValue(feature.properties["iso_n3"])),
             weight: 2,
             opacity: 1,
             color: null,
@@ -66,6 +89,7 @@ function MapView(countriesValues) {
                 noWrap={true}
             />
             <GeoJSON data={countries} style={countriesValues && !isEmptyObj(countriesValues.countriesValues)? style: {}}></GeoJSON>
+            <Legend map={map} getColor={getColor} grades={percentiles}></Legend>
         </MapContainer>
     )
 }
