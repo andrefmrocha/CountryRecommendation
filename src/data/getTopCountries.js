@@ -2,7 +2,6 @@ import { getCountryNameFromISOCode } from "./countryConversion";
 
 export default function getTopCountries(countriesPercentiles, countriesValues, topListLength){
     const sortedCountries = Array.from(countriesPercentiles, ([country, value]) => ({ country, value }));
-    console.log(sortedCountries);
     const topCountries = []
     for(let i=0; i<topListLength; i++) {
         const country = getCountryNameFromISOCode(sortedCountries[i].country);

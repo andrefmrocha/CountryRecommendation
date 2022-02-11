@@ -47,7 +47,6 @@ function App() {
 
     useEffect(() => {
         if(countriesValues && !isEmptyObj(countriesValues)){
-            console.log(countriesValues)
             const countriesPercentiles = getPercentiles(countriesValues, percentiles);
             setCountriesPercentiles(countriesPercentiles);
             setCountriesTopScore(getTopCountries(countriesPercentiles, countriesValues, 5));

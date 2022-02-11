@@ -15,7 +15,6 @@ type props = {
 function Map({ countriesValues, countriesTopScore, percentiles }: props) {
 	const [map, setMap] = useState(null)
 
-
 	const getColor = (value: number) => {
 		if (value == 1) {
 			return "#08519C"
