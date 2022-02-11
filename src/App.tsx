@@ -12,21 +12,37 @@ import {executePCA, treatEnvironmentData} from "./data/pca";
 import Map from "./components/Map"
 import Selection from "./components/Selection"
 import Graphs from "./components/Graphs"
+import {
+    getAirPollutionPCAMatrix,
+    getClimateChangePCAMatrix,
+    getDemocracyPCAMatrix,
+    getEducationPCAMatrix,
+    getFoodPCAMatrix,
+    getGenderRightsPCAMatrix,
+    getHappinessPCAMatrix,
+    getHealthPCAMatrix,
+    getIncomePCAMatrix,
+    getLanguagePCAMatrix, getLGBTQIRightsPCAMatrix,
+    getNaturalDisastersPCAMatrix,
+    getSafetyPCAMatrix
+} from "./data/pcaMatrices";
 
-async function test() {
-    const pm25DataRaw = await openJson<PM25AirPollutionRaw>("PM25-air-pollution.json")
-    const deathRatesFromAmbientPollutionData = await openJson<DeathRatesFromAmbientPollution>("death-rates-from-ambient-particulate-air-pollution.json")
-    if (pm25DataRaw && deathRatesFromAmbientPollutionData) {
-        const pm25Data: PM25AirPollution[] = getPm25DataTreated(pm25DataRaw)
-        const reducedData = treatEnvironmentData(pm25Data, deathRatesFromAmbientPollutionData)
-        const pcaMatrix = executePCA(reducedData)
-        console.log(pcaMatrix)
-    }
-}
 
 function App() {
     useEffect(() => {
-        test()
+        getAirPollutionPCAMatrix()
+        getNaturalDisastersPCAMatrix()
+        getClimateChangePCAMatrix()
+        getFoodPCAMatrix()
+        getIncomePCAMatrix()
+        getEducationPCAMatrix()
+        getDemocracyPCAMatrix()
+        getGenderRightsPCAMatrix()
+        getLanguagePCAMatrix()
+        getSafetyPCAMatrix()
+        getHappinessPCAMatrix()
+        getHealthPCAMatrix()
+        getLGBTQIRightsPCAMatrix()
     })
 
     return (

@@ -1,13 +1,9 @@
-import {DeathRatesFromAmbientPollution, PM25AirPollution} from "./datasets/models";
 import {PCA} from "ml-pca"
+import {ThemeMappingItem} from "./datasets/datasetsMapping";
+import openJson from "./openJSON";
 
-export interface EnvironmentPCA {
-    "Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate)": number,
-    PM2: number
-}
-
-interface DataToReduce<T> {
-    data: T[],
+interface DataToReduce {
+    data: any[],
     fields: string[]
 }
 
@@ -34,33 +30,29 @@ function normalizePCAData(reducedData: Map<String, number>) {
     return normalizedData
 }
 
-export function treatData<T>(originalField: T, dataToReduce: DataToReduce<any>[]) {
+async function treatThemeMapping(themeMappingItems: ThemeMappingItem[]): Promise<DataToReduce[]> {
+    const promises = themeMappingItems.map(async (item) => {
+        const data = await openJson(item.dataset)
+
+        return {
+            data: item.treatData ? item.treatData(data) : data,
+            fields: item.fields
+        } as DataToReduce
+    })
+
+    return Promise.all(promises)
+}
+
+export async function getReducedData<T>(originalField: T, themeMappingItems: ThemeMappingItem[], fieldToGroupBy: string, ) {
+    const dataToReduce = await treatThemeMapping(themeMappingItems)
     return reduceData(
         dataToReduce,
-        "Entity",
+        fieldToGroupBy,
         originalField
     )
 }
 
-export function treatEnvironmentData(pm25AirPollution: PM25AirPollution[], deathRatesFromAmbientPollution: DeathRatesFromAmbientPollution[]): Map<String, number[]> {
-    const pm25Reduction: DataToReduce<PM25AirPollution> = {
-        data: pm25AirPollution,
-        fields: ["PM2"]
-    }
-
-    const deathRatesFromAmbientPollutionReduction: DataToReduce<DeathRatesFromAmbientPollution> = {
-        data: deathRatesFromAmbientPollution,
-        fields: ["Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate)"]
-    }
-
-    const environmentPCA: EnvironmentPCA = {
-        "Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate)": 0,
-        "PM2": 0
-    } as EnvironmentPCA
-    return treatData(environmentPCA, [pm25Reduction, deathRatesFromAmbientPollutionReduction]);
-}
-
-function reduceData<T>(dataToReduce: DataToReduce<any>[], fieldToGroupBy: string, originalField: T): Map<String, number[]> {
+function reduceData<T>(dataToReduce: DataToReduce[], fieldToGroupBy: string, originalField: T): Map<String, number[]> {
     const data: Map<String, T> = new Map<String, T>()
     dataToReduce.forEach(dataToReduceItem =>
         dataToReduceItem.data.forEach(dataItem => {
@@ -71,13 +63,14 @@ function reduceData<T>(dataToReduce: DataToReduce<any>[], fieldToGroupBy: string
             }
 
             dataToReduceItem.fields.forEach(field => {
-                let number = 0
                 try {
-                    number = parseFloat(dataItem[field])
+                    const number = parseFloat(dataItem[field])
+                    if (!isNaN(number)){
+                        // @ts-ignore
+                        obj[field] = number
+                    }
                 } catch (e) {
                 }
-                // @ts-ignore
-                obj[field] = number
             })
         }))
 
