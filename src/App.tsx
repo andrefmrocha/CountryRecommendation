@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React, {useEffect, useState} from 'react';
 import logo from './logo.svg';
 import './App.css';
 import {
@@ -16,8 +16,12 @@ import {
     getSafetyPCAMatrix
 } from "./data/pcaMatrices";
 import {datasetsMappingByTheme} from "./data/datasets/datasetsMapping";
+import MapView from './mapView/MapView';
+
 
 function App() {
+    const [countriesValues, setCountriesValues] = useState({});
+
     useEffect(() => {
         getAirPollutionPCAMatrix(datasetsMappingByTheme)
         getNaturalDisastersPCAMatrix(datasetsMappingByTheme)
@@ -28,28 +32,15 @@ function App() {
         getDemocracyPCAMatrix(datasetsMappingByTheme)
         getGenderRightsPCAMatrix(datasetsMappingByTheme)
         getLanguagePCAMatrix(datasetsMappingByTheme)
-        getSafetyPCAMatrix(datasetsMappingByTheme)
+        getSafetyPCAMatrix(datasetsMappingByTheme).then(matrix => setCountriesValues(matrix))
         getHappinessPCAMatrix(datasetsMappingByTheme)
         getHealthPCAMatrix(datasetsMappingByTheme)
         getLGBTQIRightsPCAMatrix(datasetsMappingByTheme)
-    })
+    },[])
 
     return (
         <div className="App">
-            <header className="App-header">
-                <img src={logo} className="App-logo" alt="logo"/>
-                <p>
-                    Edit <code>src/App.tsx</code> and save to reload.
-                </p>
-                <a
-                    className="App-link"
-                    href="https://reactjs.org"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                >
-                    Learn React
-                </a>
-            </header>
+            <MapView countriesValues ={countriesValues? countriesValues : []}/>
         </div>
     );
 }

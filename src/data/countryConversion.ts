@@ -13,6 +13,8 @@ function getName(country: string) {
             return "Moldova, Republic of"
         case 'Timor':
             return "Timor-Leste"
+        case 'Democratic Republic of Congo':
+            return 'Democratic Republic of the Congo'
         default:
             return country;
     }

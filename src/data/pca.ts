@@ -1,6 +1,7 @@
 import {PCA} from "ml-pca"
 import {ThemeMappingItem} from "./datasets/datasetsMapping";
 import openJson from "./openJSON";
+import {getCountryISOCode} from './countryConversion';
 
 interface DataToReduce {
     data: any[],
@@ -94,7 +95,7 @@ export function executePCA(reducedData: Map<string, number[]>): Map<string, numb
         Array.from(reducedData.entries()).forEach(([key, value]) => {
             const pcaValue = value.map((item, index) => item * variance[index])
                 .reduce((acc, item) => acc + item)
-            pcaMatrix.set(key, pcaValue)
+            pcaMatrix.set(getCountryISOCode(key), pcaValue)
         })
         return normalizePCAData(pcaMatrix)
     }
