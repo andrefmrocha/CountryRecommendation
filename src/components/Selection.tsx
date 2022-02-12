@@ -6,7 +6,7 @@ import { getPCAMatrix } from "../data/pcaMatrices"
 
 type props = {
 	setCountriesValues: React.Dispatch<
-		React.SetStateAction<{} | Map<string, number>>
+		React.SetStateAction<undefined | Map<string, number>>
 	>
 }
 
@@ -87,7 +87,7 @@ function Selection({ setCountriesValues }: props) {
 				break
 		}
 
-		setCountriesValues({})
+		setCountriesValues(undefined)
 	}
 
 	return (

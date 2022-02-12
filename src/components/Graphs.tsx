@@ -2,10 +2,14 @@ import React from "react"
 import ParallelCoords from "./ParallelCoords"
 import Histogram from "./Histogram"
 
-function Graphs() {
+type props = {
+	countriesValues: Map<string, number> | undefined
+}
+
+function Graphs({ countriesValues }: props) {
 	return (
 		<>
-			<ParallelCoords />
+			<ParallelCoords countriesValues={countriesValues} />
 			<Histogram />
 		</>
 	)
