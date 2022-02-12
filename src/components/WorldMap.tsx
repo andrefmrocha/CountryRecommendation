@@ -1,38 +1,25 @@
 import React, { useState } from "react"
+import { Map as LeafletMap } from "leaflet"
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet"
 import countries from "../data/countries.geo.json"
-import Legend from "./functions/Legend"
 import "leaflet/dist/leaflet.css"
 import {
 	Percentile,
 	CountryCode,
 	CountryScore,
 } from "../data/datasets/datasetsMapping"
+import { isEmptyObj } from "./functions/helpers"
+import PercentileLegend from "./functions/PercentileLegend"
+import CountriesLegend from "./functions/CountriesLegend"
 
 type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
+	topScoreCountries: Array<CountryScore>
 }
 
-function WorldMap({ countriesScores }: props) {
-	const [map, setMap] = useState(null)
+function WorldMap({ countriesScores, topScoreCountries }: props) {
+	const [map, setMap] = useState<LeafletMap>()
 	const percentiles = ["1%", "10%", "50%", "100%"]
-
-	// @TODO Remove this when percentiles are added
-	const getColorDemo = (value: number) => {
-		if (value > 0.6) {
-			return "#08519C"
-		} else if (value > 0.4) {
-			return "#3182BD"
-		} else if (value > 0.2) {
-			return "#6BAED6"
-		} else if (value) {
-			return "#BDD7E7"
-		} else {
-			// Map name not found
-			// Do we want to do anything with it?
-			return "#FFFFFF"
-		}
-	}
 
 	const getColor = (percentile: Percentile | undefined) => {
 		switch (percentile) {
@@ -54,32 +41,27 @@ function WorldMap({ countriesScores }: props) {
 			fillColor: getColor(getValue(feature.properties["iso_n3"])),
 			weight: 2,
 			opacity: 1,
-			color: null,
+			color: undefined,
 			dashArray: "3",
 			fillOpacity: 0.8,
 		}
 	}
 
-	const isEmptyObj = (obj: Object) => {
-		return (
-			obj && // 👈 null and undefined check
-			Object.keys(obj).length === 0 &&
-			Object.getPrototypeOf(obj) === Object.prototype
-		)
-	}
-
-	const getValue = (country: CountryCode) => {
+	const getValue = (country: string) => {
 		if (countriesScores && !isEmptyObj(countriesScores)) {
+			// @ts-ignore
 			return countriesScores.get(country)?.percentile
 		}
 
 		return undefined
 	}
 
+	console.log(topScoreCountries)
+
 	return (
 		<div className="map-panel">
 			<MapContainer
-				center={[0, 0]}
+				center={[0, 20]}
 				zoom={2}
 				minZoom={2}
 				className="map"
@@ -92,7 +74,6 @@ function WorldMap({ countriesScores }: props) {
 				]}
 			>
 				<TileLayer
-					// @ts-ignore
 					attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 					noWrap={true}
@@ -102,7 +83,10 @@ function WorldMap({ countriesScores }: props) {
 					data={countries}
 					style={countriesScores && !isEmptyObj(countriesScores) ? style : {}}
 				></GeoJSON>
-				<Legend map={map} getColor={getColor} grades={percentiles}></Legend>
+				<PercentileLegend map={map} getColor={getColor} grades={percentiles} />
+				{topScoreCountries.length > 0 && map && (
+					<CountriesLegend map={map} topScoreCountries={topScoreCountries} />
+				)}
 			</MapContainer>
 		</div>
 	)

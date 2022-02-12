@@ -32,6 +32,9 @@ function App() {
 	>([])
 	const [countriesScores, setCountriesScores] =
 		useState<Map<CountryCode, CountryScore>>()
+	const [topScoreCountries, setTopScoreCountries] = useState<
+		Array<CountryScore> | []
+	>([])
 
 	function updateCountryScores(state: CategoryFilterState[]) {
 		let newCountriesScores: Map<CountryCode, CountryScore> = new Map<
@@ -40,13 +43,14 @@ function App() {
 		>()
 		let countryArray: Array<any> = []
 
-		let sumFactors = state.reduce(
-			(sum, { category, importanceFactor, matrix }) => sum + importanceFactor,
-			0
-		)
+		let sumFactors =
+			state.reduce(
+				(sum, { category, importanceFactor, matrix }) => sum + importanceFactor,
+				0
+			) || 1
 
 		countryCodes.forEach((code) => {
-			let overallScore = 0
+			let overallScore = 0.0
 			let scores: Map<Category, number> = new Map<Category, number>()
 
 			state.forEach(({ category, importanceFactor, matrix }) => {
@@ -62,10 +66,11 @@ function App() {
 			})
 		})
 
-		countryArray.sort((a, b) => a.overallScore - b.overallScore)
+		countryArray.sort((a, b) => b.overallScore - a.overallScore)
 
 		countryArray.forEach(({ code, scores, overallScore }, index) =>
 			newCountriesScores.set(code, {
+				code: code,
 				overallScore: overallScore,
 				scores: scores,
 				percentile: getPercentile(index, countryArray.length),
@@ -73,7 +78,20 @@ function App() {
 			})
 		)
 
+		let newTopScoreCountries = countryArray
+			.slice(0, 5)
+			.map(({ code, scores, overallScore }, index) => {
+				return {
+					code: code,
+					overallScore: overallScore,
+					scores: scores,
+					percentile: getPercentile(index, countryArray.length),
+					isIncluded: countriesScores?.get(code)?.isIncluded || false,
+				} as CountryScore
+			})
+
 		setCountriesScores(newCountriesScores)
+		setTopScoreCountries(newTopScoreCountries)
 	}
 
 	function changeFilterState(
@@ -107,7 +125,10 @@ function App() {
 
 	return (
 		<div className="main-panel">
-			<WorldMap countriesScores={countriesScores} />
+			<WorldMap
+				countriesScores={countriesScores}
+				topScoreCountries={topScoreCountries}
+			/>
 			<Selection
 				categoriesFilterState={categoriesFilterState}
 				changeFilterState={changeFilterState}

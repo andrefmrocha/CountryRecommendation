@@ -950,6 +950,7 @@ export type CategoryFilterState = {
 export type Percentile = "1%" | "10%" | "50%" | "100%"
 
 export type CountryScore = {
+	code: CountryCode
 	overallScore: number
 	scores: Map<Category, number>
 	percentile: Percentile
