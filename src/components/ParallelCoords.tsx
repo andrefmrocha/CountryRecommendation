@@ -1,76 +1,69 @@
 import React from "react"
 import * as d3 from "d3"
 import { useD3 } from "./hooks/useD3"
+import {
+	CategoryFilterState,
+	CountryCode,
+	CountryScore,
+	Percentile,
+} from "../data/datasets/datasetsMapping"
 
 type props = {
-	countriesValues: Map<string, number> | undefined
+	categoriesFilterState: Array<CategoryFilterState>
+	countriesScores: Map<CountryCode, CountryScore> | undefined
 }
 
-function ParallelCoords({ countriesValues }: props) {
+function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 	const ref = useD3(
 		(container) => {
-			if (!countriesValues) return
+			if (!countriesScores || categoriesFilterState.length === 0) return
 
-			var margin = { top: 30, right: 30, bottom: 30, left: 30 },
+			var margin = { top: 30, right: 20, bottom: 20, left: 40 },
 				width = 800 - margin.left - margin.right,
 				height = 354 - margin.top - margin.bottom,
 				innerHeight = height - 2
 
 			var devicePixelRatio = window.devicePixelRatio || 1
 
-			var color = "#0EAD69"
+			var normalColor = d3
+				.scaleOrdinal()
+				.domain(["1%", "10%", "50%", "100%"])
+				.range(["#08519C", "#3182BD", "#6BAED6", "#BDD7E7"])
+
+			let color = (percentile: Percentile, isIncluded: boolean) => {
+				if (isIncluded) return normalColor(percentile)
+				else return "#cecece"
+			}
 
 			var types = {
 				Number: {
 					key: "Number",
 					coerce: function (d: number) {
-						return +d
+						return Math.max(d, 0) * 100
 					},
 					extent: d3.extent,
 					within: function (d: number, extent: Array<number>, dim: any) {
-						return extent[0] <= dim.scale(d) && dim.scale(d) <= extent[1]
+						const value = dim.type.coerce(d)
+						return (
+							extent[0] <= dim.scale(value) && dim.scale(value) <= extent[1]
+						)
 					},
 					defaultScale: d3.scaleLinear().range([innerHeight, 0]),
 				},
 			}
 
-			var dimensions = [
-				{
-					key: "category_1",
-					description: "Category",
-					type: types["Number"],
-					domain: [0, 100],
-					scale: d3.scaleLinear().range([innerHeight, 0]),
-				},
-				{
-					key: "category_2",
-					description: "Category",
-					type: types["Number"],
-					domain: [0, 100],
-					scale: d3.scaleLinear().range([innerHeight, 0]),
-				},
-				{
-					key: "category_3",
-					description: "Category",
-					type: types["Number"],
-					domain: [0, 100],
-					scale: d3.scaleLinear().range([innerHeight, 0]),
-				},
-				{
-					key: "category_4",
-					description: "Category",
-					type: types["Number"],
-					domain: [0, 100],
-					scale: d3.scaleLinear().range([innerHeight, 0]),
-				},
-				{
-					key: "category_5",
-					description: "Category",
-					type: types["Number"],
-					domain: [0, 100],
-					scale: d3.scaleLinear().range([innerHeight, 0]),
-				},
-			]
+			var dimensions = categoriesFilterState.map(
+				({ category, importanceFactor, matrix }) => {
+					return {
+						key: category,
+						description: category,
+						type: types["Number"],
+						domain: [0, 100],
+						scale: d3.scaleLinear().range([innerHeight, 0]),
+						brush: d3.brush(),
+					}
+				}
+			)
 
 			var xscale = d3
 				.scalePoint<number>()
@@ -81,12 +74,8 @@ function ParallelCoords({ countriesValues }: props) {
 				d3.scaleLinear().domain([0, 100]).range([height, 0])
 			)
 
-			container
-				.select("body")
-				.append("div")
-				.attr("class", "parcoords")
-				.style("width", width + margin.left + margin.right + "px")
-				.style("height", height + margin.top + margin.bottom + "px")
+			container.select("svg").remove()
+			container.select("canvas").remove()
 
 			let svg = container
 				.append("svg")
@@ -113,8 +102,6 @@ function ParallelCoords({ countriesValues }: props) {
 			ctx.lineWidth = 1.5
 			ctx.scale(devicePixelRatio, devicePixelRatio)
 
-			var output = d3.select("body").append("pre")
-
 			var axes = svg
 				.selectAll(".axis")
 				.data(dimensions)
@@ -127,22 +114,12 @@ function ParallelCoords({ countriesValues }: props) {
 					return "translate(" + xscale(i) + ")"
 				})
 
-			countriesValues.forEach((value, key) => {
-				dimensions.forEach(function (p) {
-					// Temporary logic
-					countriesValues.set(key, p.type.coerce(value))
-				})
-			})
-
 			// type/dimension default setting happens here
 			dimensions.forEach(function (dim) {
 				dim.scale.domain(dim.domain)
 			})
 
-			ctx.clearRect(0, 0, width, height)
-			ctx.globalAlpha =
-				d3.min([1.15 / Math.pow(countriesValues.size, 0.3), 1]) || 1
-			render(countriesValues)
+			render(ctx, countriesScores)
 
 			axes
 				.append("g")
@@ -163,7 +140,6 @@ function ParallelCoords({ countriesValues }: props) {
 				.attr("class", "brush")
 				.each(function (d) {
 					d3.select(this).call(
-						// @ts-ignore
 						(d.brush = d3
 							.brushY()
 							.extent([
@@ -179,30 +155,41 @@ function ParallelCoords({ countriesValues }: props) {
 				.attr("x", -8)
 				.attr("width", 16)
 
-			d3.selectAll(".axis.pl_discmethod .tick text").style("fill", color)
+			d3.selectAll(".axis.pl_discmethod .tick text").style("fill", "#EFF3FF")
 
-			function render(data: any) {
-				data.forEach((d: any) => {
-					draw(d)
+			function render(
+				ctx: CanvasRenderingContext2D,
+				data: Map<CountryCode, CountryScore>
+			) {
+				ctx.clearRect(0, 0, width, height)
+				ctx.globalAlpha =
+					d3.min([1.15 / Math.pow(categoriesFilterState.length, 0.3), 1]) || 1
+
+				// Draw the highlighted lines last
+				data.forEach((score) => {
+					if (!score.isIncluded) draw(score)
+				})
+				data.forEach((score) => {
+					if (score.isIncluded) draw(score)
 				})
 			}
 
-			function project(d: any) {
-				console.log(d)
+			function project(data: CountryScore) {
 				return dimensions.map(function (p, i) {
-					// check if data element has property and contains a value
-					// if (!(p.key in d) || d[p.key] === null) return null
+					const score = data.scores.get(p.key)
 
-					return [xscale(i), p.scale(d * 100.0)]
+					if (!score) return [xscale(i), 0]
+
+					return [xscale(i), p.scale(p.type.coerce(score))]
 				})
 			}
 
-			function draw(d: any) {
+			function draw(data: CountryScore) {
 				if (!ctx) return
 
-				ctx.strokeStyle = color
+				ctx.strokeStyle = color(data.percentile, data.isIncluded) as string
 				ctx.beginPath()
-				var coords = project(d)
+				var coords = project(data)
 
 				coords.forEach(function (p, i) {
 					if (!ctx) return
@@ -237,51 +224,55 @@ function ParallelCoords({ countriesValues }: props) {
 				ctx.stroke()
 			}
 
-			function brushstart(this: SVGGElement, event: any, _: any) {
+			function brushstart(event: any) {
+				// @ts-ignore
 				event.sourceEvent.stopPropagation()
 			}
 
 			// Handles a brush event, toggling the display of foreground lines.
-			function brush(this: SVGGElement, event: any, data: any) {
-				event.render.invalidate()
-
-				if (!ctx) return
+			function brush() {
+				if (!ctx || !countriesScores) return
 
 				var actives: Array<any> = []
 				svg
 					.selectAll(".axis .brush")
 					// @ts-ignore
 					.filter(function (d) {
-						return d3.brushSelection(this as SVGGElement)
+						// @ts-ignore
+						return d3.brushSelection(this)
 					})
 					.each(function (d) {
 						actives.push({
 							dimension: d,
-							extent: d3.brushSelection(this as SVGGElement),
+							// @ts-ignore
+							extent: d3.brushSelection(this),
 						})
 					})
 
-				var selected = data.filter(function (d: any) {
-					if (
-						actives.every(function (active: any) {
-							var dim = active.dimension
-							// test if point is within extents for each active brush
-							return dim.type.within(d[dim.key], active.extent, dim)
-						})
-					) {
-						return true
-					}
+				countriesScores?.forEach(function (
+					countryScore: CountryScore,
+					key: CountryCode
+				) {
+					let isIncluded = actives.every(function (active) {
+						var dim = active.dimension
+						// test if point is within extents for each active brush
+						return dim.type.within(
+							countryScore.scores.get(dim.key),
+							active.extent,
+							dim
+						)
+					})
+
+					countriesScores.set(key, {
+						...countryScore,
+						isIncluded: isIncluded,
+					})
 				})
 
-				ctx.clearRect(0, 0, width, height)
-				ctx.globalAlpha =
-					d3.min([0.85 / Math.pow(selected.length, 0.3), 1]) || 1
-				render(selected)
-
-				output.text(d3.tsvFormat(selected.slice(0, 24)))
+				render(ctx, countriesScores)
 			}
 		},
-		[countriesValues]
+		[categoriesFilterState, countriesScores]
 	)
 
 	return <div className="parallel-panel" ref={ref}></div>

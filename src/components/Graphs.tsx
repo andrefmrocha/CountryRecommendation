@@ -1,15 +1,24 @@
 import React from "react"
 import ParallelCoords from "./ParallelCoords"
 import Histogram from "./Histogram"
+import {
+	CategoryFilterState,
+	CountryCode,
+	CountryScore,
+} from "../data/datasets/datasetsMapping"
 
 type props = {
-	countriesValues: Map<string, number> | undefined
+	categoriesFilterState: Array<CategoryFilterState>
+	countriesScores: Map<CountryCode, CountryScore> | undefined
 }
 
-function Graphs({ countriesValues }: props) {
+function Graphs({ categoriesFilterState, countriesScores }: props) {
 	return (
 		<>
-			<ParallelCoords countriesValues={countriesValues} />
+			<ParallelCoords
+				categoriesFilterState={categoriesFilterState}
+				countriesScores={countriesScores}
+			/>
 			<Histogram />
 		</>
 	)

@@ -433,8 +433,8 @@ div[class*="-panel"] {
 	.axis.active line,
 	.axis.active path {
 		fill: none;
-		stroke: $mainColor;
-		stroke-width: 1px;
+		stroke: $textColor;
+		stroke-width: 2px;
 	}
 
 	.axis:hover .title {

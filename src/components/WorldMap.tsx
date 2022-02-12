@@ -3,14 +3,19 @@ import { MapContainer, TileLayer, GeoJSON } from "react-leaflet"
 import countries from "../data/countries.geo.json"
 import Legend from "./functions/Legend"
 import "leaflet/dist/leaflet.css"
+import {
+	Percentile,
+	CountryCode,
+	CountryScore,
+} from "../data/datasets/datasetsMapping"
 
 type props = {
-	countriesValues: Map<string, number> | {}
+	countriesScores: Map<CountryCode, CountryScore> | undefined
 }
 
-function Map({ countriesValues }: props) {
+function WorldMap({ countriesScores }: props) {
 	const [map, setMap] = useState(null)
-	const percentiles = [1, 10, 50, 90]
+	const percentiles = ["1%", "10%", "50%", "100%"]
 
 	// @TODO Remove this when percentiles are added
 	const getColorDemo = (value: number) => {
@@ -29,26 +34,24 @@ function Map({ countriesValues }: props) {
 		}
 	}
 
-	const getColor = (value: number) => {
-		if (value == 1) {
-			return "#08519C"
-		} else if (value == 10) {
-			return "#3182BD"
-		} else if (value == 50) {
-			return "#6BAED6"
-		} else if (value) {
-			return "#BDD7E7"
-		} else {
-			// Map name not found
-			// Do we want to do anything with it?
-			return "#FFFFFF"
+	const getColor = (percentile: Percentile | undefined) => {
+		switch (percentile) {
+			case "1%":
+				return "#08519C"
+			case "10%":
+				return "#3182BD"
+			case "50%":
+				return "#6BAED6"
+			case "100%":
+				return "#BDD7E7"
+			default:
+				return "#EFF3FF"
 		}
 	}
 
 	const style = (feature: any) => {
 		return {
-			// TODO changes to real get color funciton
-			fillColor: getColorDemo(getValue(feature.properties["iso_n3"])),
+			fillColor: getColor(getValue(feature.properties["iso_n3"])),
 			weight: 2,
 			opacity: 1,
 			color: null,
@@ -65,13 +68,12 @@ function Map({ countriesValues }: props) {
 		)
 	}
 
-	const getValue = (country: string) => {
-		if (countriesValues && !isEmptyObj(countriesValues)) {
-			// @ts-ignore
-			return countriesValues.get(country)
+	const getValue = (country: CountryCode) => {
+		if (countriesScores && !isEmptyObj(countriesScores)) {
+			return countriesScores.get(country)?.percentile
 		}
 
-		return null
+		return undefined
 	}
 
 	return (
@@ -98,7 +100,7 @@ function Map({ countriesValues }: props) {
 				<GeoJSON
 					// @ts-ignore
 					data={countries}
-					style={countriesValues && !isEmptyObj(countriesValues) ? style : {}}
+					style={countriesScores && !isEmptyObj(countriesScores) ? style : {}}
 				></GeoJSON>
 				<Legend map={map} getColor={getColor} grades={percentiles}></Legend>
 			</MapContainer>
@@ -106,4 +108,4 @@ function Map({ countriesValues }: props) {
 	)
 }
 
-export default Map
+export default WorldMap

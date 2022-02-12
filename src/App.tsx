@@ -1,18 +1,121 @@
-import React, { useState } from "react"
+import React, { useEffect, useState } from "react"
 import "./App.scss"
 import "./sass/common.scss"
-import Map from "./components/Map"
+import WorldMap from "./components/WorldMap"
 import Selection from "./components/Selection"
 import Graphs from "./components/Graphs"
+import {
+	CategoryFilterState,
+	Category,
+	CountryCode,
+	CountryScore,
+	countryCodes,
+} from "./data/datasets/datasetsMapping"
+
+function getPercentile(position: number, total: number) {
+	const relativePosition = position / total
+
+	if (relativePosition < 0.01) {
+		return "1%"
+	} else if (relativePosition < 0.1) {
+		return "10%"
+	} else if (relativePosition < 0.5) {
+		return "50%"
+	} else {
+		return "100%"
+	}
+}
 
 function App() {
-	const [countriesValues, setCountriesValues] = useState<Map<string, number>>()
+	const [categoriesFilterState, setCategoriesFilterState] = useState<
+		Array<CategoryFilterState>
+	>([])
+	const [countriesScores, setCountriesScores] =
+		useState<Map<CountryCode, CountryScore>>()
+
+	function updateCountryScores(state: CategoryFilterState[]) {
+		let newCountriesScores: Map<CountryCode, CountryScore> = new Map<
+			CountryCode,
+			CountryScore
+		>()
+		let countryArray: Array<any> = []
+
+		let sumFactors = state.reduce(
+			(sum, { category, importanceFactor, matrix }) => sum + importanceFactor,
+			0
+		)
+
+		countryCodes.forEach((code) => {
+			let overallScore = 0
+			let scores: Map<Category, number> = new Map<Category, number>()
+
+			state.forEach(({ category, importanceFactor, matrix }) => {
+				scores.set(category, matrix.get(code) || 0)
+				overallScore +=
+					(matrix.get(code) || 0) * (importanceFactor / sumFactors)
+			})
+
+			countryArray.push({
+				code: code,
+				scores: scores,
+				overallScore: overallScore,
+			})
+		})
+
+		countryArray.sort((a, b) => a.overallScore - b.overallScore)
+
+		countryArray.forEach(({ code, scores, overallScore }, index) =>
+			newCountriesScores.set(code, {
+				overallScore: overallScore,
+				scores: scores,
+				percentile: getPercentile(index, countryArray.length),
+				isIncluded: countriesScores?.get(code)?.isIncluded || false,
+			})
+		)
+
+		setCountriesScores(newCountriesScores)
+	}
+
+	function changeFilterState(
+		selectedCategory: Category,
+		importanceFactor: number,
+		matrix: Map<string, number> | null
+	) {
+		if (!matrix) return
+
+		const categoryFilterState = {
+			category: selectedCategory,
+			importanceFactor: importanceFactor,
+			matrix: matrix,
+		}
+
+		let newCategoriesFilterState = [...categoriesFilterState]
+
+		let filterIndex = newCategoriesFilterState.findIndex(
+			(filter) => filter.category === selectedCategory
+		)
+
+		if (filterIndex < 0) {
+			newCategoriesFilterState.push(categoryFilterState)
+		} else {
+			newCategoriesFilterState[filterIndex] = categoryFilterState
+		}
+
+		updateCountryScores(newCategoriesFilterState)
+		setCategoriesFilterState(newCategoriesFilterState)
+	}
 
 	return (
 		<div className="main-panel">
-			<Map countriesValues={countriesValues ? countriesValues : {}} />
-			<Selection setCountriesValues={setCountriesValues} />
-			<Graphs countriesValues={countriesValues} />
+			<WorldMap countriesScores={countriesScores} />
+			<Selection
+				categoriesFilterState={categoriesFilterState}
+				changeFilterState={changeFilterState}
+			/>
+			<Graphs
+				categoriesFilterState={categoriesFilterState}
+				countriesScores={countriesScores}
+			/>
 		</div>
 	)
 }

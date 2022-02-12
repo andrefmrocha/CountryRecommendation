@@ -1,20 +1,26 @@
 import React, { useState, useEffect } from "react"
 import {
 	datasetsMappingByTheme,
-	ThemeMapping,
 	ThemeMappingItem,
-	Categories,
+	Category,
+	CategoryFilterState,
 } from "../data/datasets/datasetsMapping"
 import Checkbox from "./common/Checkbox"
 import InfoIcon from "./common/InfoIcon"
 
 type props = {
-	selectedCategory: Categories | undefined
+	selectedCategory: Category | undefined
 	includeCategory: boolean
+	categoriesFilterState: Array<CategoryFilterState>
 	calculate: (datasetMappingByTheme: ThemeMappingItem[]) => void
 }
 
-function Parameter({ selectedCategory, includeCategory, calculate }: props) {
+function ParameterSelection({
+	selectedCategory,
+	categoriesFilterState,
+	includeCategory,
+	calculate,
+}: props) {
 	const [parameters, setParameters] = useState<Array<ThemeMappingItem>>()
 
 	useEffect(() => {
@@ -72,4 +78,4 @@ function Parameter({ selectedCategory, includeCategory, calculate }: props) {
 	)
 }
 
-export default Parameter
+export default ParameterSelection
