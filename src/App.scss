@@ -396,4 +396,28 @@ div[class*="-panel"] {
 
   top: 650px;
   left: 840px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  .histogram-bar {
+    fill: $textColor;
+    cursor: pointer;
+
+    &.selected {
+      fill: $mainColor;
+    }
+  }
+
+  .y-label {
+    fill: $textColor;
+    transform: translate(4px, -8px);
+
+  }
+
+  .category-text {
+    fill: $textColor;
+    transform: translate(35%,0);
+  }
 }

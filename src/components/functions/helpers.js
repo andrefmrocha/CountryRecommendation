@@ -6,3 +6,6 @@ export const isEmptyObj = (obj) => {
     )
 }
 
+export const getNumbersFromMap = (countriesValues) => {
+    return Array.from(countriesValues, ([country, value]) => value*100);
+}

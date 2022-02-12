@@ -58,7 +58,7 @@ function App() {
         <div className="main-panel">
             <Map countriesValues={countriesPercentiles ? countriesPercentiles : []} countriesTopScore={countriesTopScore} percentiles={percentiles} />
             <Selection setCountriesValues={setCountriesValues} />
-            <Graphs />
+            <Graphs countriesValues={countriesValues}/>
         </div>
     )
 }
