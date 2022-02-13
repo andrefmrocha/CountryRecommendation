@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react"
+import React, { useState } from "react"
 import "./App.scss"
 import "./sass/common.scss"
 import WorldMap from "./components/WorldMap"

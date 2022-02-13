@@ -51,6 +51,17 @@ function getOriginalPCAMatrix(category: Category) {
 	}
 }
 
+function getFieldToGroupBy(category: Category) {
+	switch (category){
+		case "Language":
+			return "Country"
+		case "LGBTQI+ Rights":
+			return "country"
+		default:
+			return "Entity";
+	}
+}
+
 export async function getPCAMatrix(
 	category: Category,
 	datasetMappingByTheme: ThemeMappingItem[]
@@ -59,7 +70,7 @@ export async function getPCAMatrix(
 	const reducedData = await getReducedData(
 		getOriginalPCAMatrix(category),
 		datasetMappingByTheme,
-		"Entity"
+		getFieldToGroupBy(category)
 	)
 	const pcaMatrix = executePCA(reducedData)
 	console.log(pcaMatrix)

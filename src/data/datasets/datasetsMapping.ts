@@ -196,718 +196,1182 @@ export const datasetsMapping = {
 export const datasetsMappingByTheme: ThemeMapping = {
 	"Air Pollution": [
 		{
-			name: "Exposure to air pollution with fine particulate matter",
-			isUsed: false,
-			dataset: "PM25-air-pollution.json",
-			fields: ["PM2"],
-			treatData: getPm25DataTreated,
+			"name": "Exposure to air pollution with fine particulate matter",
+			"isUsed": false,
+			"dataset": "PM25-air-pollution.json",
+			"fields": [
+				{
+					"field": "PM2",
+					"isDecreasing": true
+				}
+			],
+			treatData: getPm25DataTreated
 		},
 		{
-			name: "Death Rates from Ambient Air Pollution",
-			isUsed: false,
-			dataset: "death-rates-from-ambient-particulate-air-pollution.json",
-			fields: [
-				"Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate)",
-			],
+			"name": "Death Rates from Ambient Air Pollution",
+			"isUsed": false,
+			"dataset": "death-rates-from-ambient-particulate-air-pollution.json",
+			"fields": [
+				{
+					"field": "Deaths - Cause: All causes - Risk: Ambient particulate matter pollution - Sex: Both - Age: Age-standardized (Rate)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Death Rates from Total Air Pollution",
-			isUsed: false,
-			dataset: "death-rates-total-air-pollution.json",
-			fields: [
-				"Deaths - Cause: All causes - Risk: Air pollution - Sex: Both - Age: Age-standardized (Rate)",
-			],
+			"name": "Death Rates from Total Air Pollution",
+			"isUsed": false,
+			"dataset": "death-rates-total-air-pollution.json",
+			"fields": [
+				{
+					"field": "Deaths - Cause: All causes - Risk: Air pollution - Sex: Both - Age: Age-standardized (Rate)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Death Rates from Outdoor Air Pollution",
-			isUsed: false,
-			dataset: "outdoor-pollution-death-rate.json",
-			fields: [
-				"Deaths - Cause: All causes - Risk: Outdoor air pollution - OWID - Sex: Both - Age: Age-standardized (Rate)",
-			],
+			"name": "Death Rates from Outdoor Air Pollution",
+			"isUsed": false,
+			"dataset": "outdoor-pollution-death-rate.json",
+			"fields": [
+				{
+					"field": "Deaths - Cause: All causes - Risk: Outdoor air pollution - OWID - Sex: Both - Age: Age-standardized (Rate)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Death Rates from Air Pollution",
-			isUsed: false,
-			dataset: "share-deaths-air-pollution.json",
-			fields: [
-				"Deaths - Cause: All causes - Risk: Air pollution - Sex: Both - Age: Age-standardized (Percent)",
-			],
+			"name": "Death Rates from Air Pollution",
+			"isUsed": false,
+			"dataset": "share-deaths-air-pollution.json",
+			"fields": [
+				{
+					"field": "Deaths - Cause: All causes - Risk: Air pollution - Sex: Both - Age: Age-standardized (Percent)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Share of Deaths from Outdoor Air Pollution",
-			isUsed: false,
-			dataset: "share-deaths-outdoor-pollution.json",
-			fields: [
-				"Deaths - Cause: All causes - Risk: Outdoor air pollution - OWID - Sex: Both - Age: Age-standardized (Percent)",
-			],
-		},
+			"name": "Share of Deaths from Outdoor Air Pollution",
+			"isUsed": false,
+			"dataset": "share-deaths-outdoor-pollution.json",
+			"fields": [
+				{
+					"field": "Deaths - Cause: All causes - Risk: Outdoor air pollution - OWID - Sex: Both - Age: Age-standardized (Percent)",
+					"isDecreasing": true
+				}
+			]
+		}
 	],
 	"Natural Disasters": [
 		{
-			name: "Number of Significant Earthquakes",
-			isUsed: false,
-			dataset: "significant-earthquakes.json",
-			fields: ["Significant earthquake events (NGDC-NASA)"],
+			"name": "Number of Significant Earthquakes",
+			"isUsed": false,
+			"dataset": "significant-earthquakes.json",
+			"fields": [
+				{
+					"field": "Significant earthquake events (NGDC-NASA)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Direct Economic Loss Attributed to Disasters",
-			isUsed: false,
-			dataset: "direct-economic-loss-attributed-to-disasters.json",
-			fields: [
-				"2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS",
+			"name": "Direct Economic Loss Attributed to Disasters",
+			"isUsed": false,
+			"dataset": "direct-economic-loss-attributed-to-disasters.json",
+			"fields": [
+				{
+					"field": "2 - Direct economic loss attributed to disasters (millions of current United States dollars) - VC_DSR_GDPLS",
+					"isDecreasing": true
+				}
 			],
-			treatData: getDirectEconomicLossAttributedToDisastersDataTreated,
+			treatData: getDirectEconomicLossAttributedToDisastersDataTreated
 		},
 		{
-			name: "Significant Volcanic Eruptions",
-			isUsed: false,
-			dataset: "significant-volcanic-eruptions.json",
-			fields: ["Number of significant volcanic eruptions (NGDC-WDS)"],
+			"name": "Significant Volcanic Eruptions",
+			"isUsed": false,
+			"dataset": "significant-volcanic-eruptions.json",
+			"fields": [
+				{
+					"field": "Number of significant volcanic eruptions (NGDC-WDS)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Internally Displaced Persons From Disasters",
-			isUsed: false,
-			dataset: "internally-displaced-persons-from-disasters.json",
-			fields: [
-				"Internally displaced persons, new displacement associated with disasters (number of cases)",
-			],
-		},
+			"name": "Internally Displaced Persons From Disasters",
+			"isUsed": false,
+			"dataset": "internally-displaced-persons-from-disasters.json",
+			"fields": [
+				{
+					"field": "Internally displaced persons, new displacement associated with disasters (number of cases)",
+					"isDecreasing": true
+				}
+			]
+		}
 	],
 	"Climate Change": [
 		{
-			name: "Share Electricity From Renewables",
-			isUsed: false,
-			dataset: "share-electricity-renewables.json",
-			fields: ["Renewables (% electricity)"],
+			"name": "Share Electricity From Renewables",
+			"isUsed": false,
+			"dataset": "share-electricity-renewables.json",
+			"fields": [
+				{
+					"field": "Renewables (% electricity)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Fossil Fuel Production",
-			isUsed: false,
-			dataset: "fossil-fuel-production.json",
-			fields: [
-				"Coal Production - TWh",
-				"Oil Production - TWh",
-				"Gas Production - TWh",
-			],
+			"name": "Fossil Fuel Production",
+			"isUsed": false,
+			"dataset": "fossil-fuel-production.json",
+			"fields": [
+				{
+					"field": "Coal Production - TWh",
+					"isDecreasing": true
+				},
+				{
+					"field": "Oil Production - TWh",
+					"isDecreasing": true
+				},
+				{
+					"field": "Gas Production - TWh",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Fossil Fuel Primary Energy",
-			isUsed: false,
-			dataset: "fossil-fuel-primary-energy.json",
-			fields: ["Fossil Fuels (TWh)"],
+			"name": "Fossil Fuel Primary Energy",
+			"isUsed": false,
+			"dataset": "fossil-fuel-primary-energy.json",
+			"fields": [
+				{
+					"field": "Fossil Fuels (TWh)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Share Electricity From Fossil Fuels",
-			isUsed: false,
-			dataset: "share-electricity-fossil-fuels.json",
-			fields: ["Fossil fuels (% electricity)"],
-		},
+			"name": "Share Electricity From Fossil Fuels",
+			"isUsed": false,
+			"dataset": "share-electricity-fossil-fuels.json",
+			"fields": [
+				{
+					"field": "Fossil fuels (% electricity)",
+					"isDecreasing": true
+				}
+			]
+		}
 	],
-	Food: [
+	"Food": [
 		{
-			name: "LANCET Diet Comparison",
-			isUsed: false,
-			dataset: "eat-lancet-diet-comparison.json",
-			fields: [
-				"cereals",
-				"roots_tubers",
-				"vegetables",
-				"fruits",
-				"milk_equivalents",
-				"poultry",
-				"eggs",
-				"seafood",
-				"legumes",
-				"nuts",
-				"oils",
-				"sugar",
-			],
+			"name": "LANCET Diet Comparison",
+			"isUsed": false,
+			"dataset": "eat-lancet-diet-comparison.json",
+			"fields": [
+				{
+					"field": "cereals",
+					"isDecreasing": false
+				},
+				{
+					"field": "roots_tubers",
+					"isDecreasing": false
+				},
+				{
+					"field": "vegetables",
+					"isDecreasing": false
+				},
+				{
+					"field": "fruits",
+					"isDecreasing": false
+				},
+				{
+					"field": "milk_equivalents",
+					"isDecreasing": false
+				},
+				{
+					"field": "poultry",
+					"isDecreasing": false
+				},
+				{
+					"field": "eggs",
+					"isDecreasing": false
+				},
+				{
+					"field": "seafood",
+					"isDecreasing": false
+				},
+				{
+					"field": "legumes",
+					"isDecreasing": false
+				},
+				{
+					"field": "nuts",
+					"isDecreasing": false
+				},
+				{
+					"field": "oils",
+					"isDecreasing": true
+				},
+				{
+					"field": "sugar",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Annual Food Expenditure",
-			isUsed: false,
-			dataset: "annual-food-expenditure-per-person-vs-gdp-per-capita.json",
-			fields: ["Food expenditure (USDA (2017))"],
+			"name": "Annual Food Expenditure",
+			"isUsed": false,
+			"dataset": "annual-food-expenditure-per-person-vs-gdp-per-capita.json",
+			"fields": [
+				{
+					"field": "Food expenditure (USDA (2017))",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Cost Healthy Diet",
-			isUsed: false,
-			dataset: "cost-healthy-diet.json",
-			fields: ["Cost of healthy diet (2017 USD per day)"],
+			"name": "Cost Healthy Diet",
+			"isUsed": false,
+			"dataset": "cost-healthy-diet.json",
+			"fields": [
+				{
+					"field": "Cost of healthy diet (2017 USD per day)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Share Of Consumer Expenditure Spent on Food",
-			isUsed: false,
-			dataset: "share-of-consumer-expenditure-spent-on-food.json",
-			fields: ["Share of consumer expenditure on food (USDA (2017))"],
+			"name": "Share Of Consumer Expenditure Spent on Food",
+			"isUsed": false,
+			"dataset": "share-of-consumer-expenditure-spent-on-food.json",
+			"fields": [
+				{
+					"field": "Share of consumer expenditure on food (USDA (2017))",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Daily Protein Supply Of Animal Origin vs Plant Origin",
-			isUsed: false,
-			dataset: "daily-protein-supply-of-animal-origin-vs-plant-origin.json",
-			fields: [
-				"Daily protein supply of plant origin (FAO (2017))",
-				"Daily protein supply of animal origin (FAO (2017))",
-			],
+			"name": "Daily Protein Supply Of Animal Origin vs Plant Origin",
+			"isUsed": false,
+			"dataset": "daily-protein-supply-of-animal-origin-vs-plant-origin.json",
+			"fields": [
+				{
+					"field": "Daily protein supply of plant origin (FAO (2017))",
+					"isDecreasing": false
+				},
+				{
+					"field": "Daily protein supply of animal origin (FAO (2017))",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Antibiotic Use In Livestock",
-			isUsed: false,
-			dataset: "antibiotic-use-in-livestock.json",
-			fields: ["Antibiotic use in livestock"],
+			"name": "Antibiotic Use In Livestock",
+			"isUsed": false,
+			"dataset": "antibiotic-use-in-livestock.json",
+			"fields": [
+				{
+					"field": "Antibiotic use in livestock",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Daily Meat Consumption",
-			isUsed: false,
-			dataset: "daily-meat-consumption-per-person.json",
-			fields: [
-				"Food Balance Sheets: Meat - Food supply quantity (kg/capita/yr) (FAO (2017))",
-			],
+			"name": "Daily Meat Consumption",
+			"isUsed": false,
+			"dataset": "daily-meat-consumption-per-person.json",
+			"fields": [
+				{
+					"field": "Food Balance Sheets: Meat - Food supply quantity (kg/capita/yr) (FAO (2017))",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Daily Fat Supply",
-			isUsed: false,
-			dataset: "daily-per-capita-fat-supply.json",
-			fields: ["Fat supply quantity (g/capita/day) (FAO, 2020)"],
+			"name": "Daily Fat Supply",
+			"isUsed": false,
+			"dataset": "daily-per-capita-fat-supply.json",
+			"fields": [
+				{
+					"field": "Fat supply quantity (g/capita/day) (FAO, 2020)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Daily Calories Supply",
-			isUsed: false,
-			dataset: "daily-per-capita-supply-of-calories.json",
-			fields: [
-				"Daily caloric supply (FAO (2017) & Various historical sources)",
-			],
+			"name": "Daily Calories Supply",
+			"isUsed": false,
+			"dataset": "daily-per-capita-supply-of-calories.json",
+			"fields": [
+				{
+					"field": "Daily caloric supply (FAO (2017) & Various historical sources)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Daily Protein Supply",
-			isUsed: false,
-			dataset: "daily-per-capita-protein-supply.json",
-			fields: ["Protein supply quantity (g/capita/day) (FAO, 2020)"],
+			"name": "Daily Protein Supply",
+			"isUsed": false,
+			"dataset": "daily-per-capita-protein-supply.json",
+			"fields": [
+				{
+					"field": "Protein supply quantity (g/capita/day) (FAO, 2020)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Daily Sugar Supply",
-			isUsed: false,
-			dataset: "per-capita-sugar-food-supply-vs-gdp-per-capita.json",
-			fields: [
-				"Food Balance Sheets: Sugar (Raw Equivalent) - Food supply (kcal/capita/day) (FAO (2017))",
-			],
-		},
+			"name": "Daily Sugar Supply",
+			"isUsed": false,
+			"dataset": "per-capita-sugar-food-supply-vs-gdp-per-capita.json",
+			"fields": [
+				{
+					"field": "Food Balance Sheets: Sugar (Raw Equivalent) - Food supply (kcal/capita/day) (FAO (2017))",
+					"isDecreasing": true
+				}
+			]
+		}
 	],
-	Income: [
+	"Income": [
 		{
-			name: "Starting Yearly Teacher Salaries In Public Primary Education",
-			isUsed: false,
-			dataset:
-				"starting-yearly-teacher-salaries-in-public-primary-education.json",
-			fields: [
-				"Annual statutory teacher salaries in public institutions in USD",
+			"name": "Starting Yearly Teacher Salaries In Public Primary Education",
+			"isUsed": false,
+			"dataset": "starting-yearly-teacher-salaries-in-public-primary-education.json",
+			"fields": [
+				{
+					"field": "Annual statutory teacher salaries in public institutions in USD",
+					"isDecreasing": false
+				}
 			],
-			treatData:
-				getStartingYearlyTeacherSalariesInPublicPrimaryEducationDataTreated,
+			treatData: getStartingYearlyTeacherSalariesInPublicPrimaryEducationDataTreated
 		},
 		{
-			name: "Economic Inequality",
-			isUsed: false,
-			dataset: "gdp-per-capita-vs-economic-inequality.json",
-			fields: ["Gini index (World Bank estimate)"],
+			"name": "Economic Inequality",
+			"isUsed": false,
+			"dataset": "gdp-per-capita-vs-economic-inequality.json",
+			"fields": [
+				{
+					"field": "Gini index (World Bank estimate)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Share of Top 1% in Pre-tax national income",
-			isUsed: false,
-			dataset: "share-of-top-1-in-pre-tax-national-income.json",
-			fields: ["Share of Top 1% in Pre-tax national income"],
+			"name": "Share of Top 1% in Pre-tax national income",
+			"isUsed": false,
+			"dataset": "share-of-top-1-in-pre-tax-national-income.json",
+			"fields": [
+				{
+					"field": "Share of Top 1% in Pre-tax national income",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Disposable Household Income",
-			isUsed: false,
-			dataset: "1st-d.json",
-			fields: ["1st (Incomes across the Distribution Database (2016))"],
+			"name": "Disposable Household Income",
+			"isUsed": false,
+			"dataset": "1st-d.json",
+			"fields": [
+				{
+					"field": "1st (Incomes across the Distribution Database (2016))",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Median Income",
-			isUsed: false,
-			dataset: "median-income-EEG.json",
-			fields: ["5th (Incomes across the Distribution Database (2016))"],
+			"name": "Median Income",
+			"isUsed": false,
+			"dataset": "median-income-EEG.json",
+			"fields": [
+				{
+					"field": "5th (Incomes across the Distribution Database (2016))",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Maximum Marginal Tax Rates on Individual Income",
-			isUsed: false,
-			dataset: "maximum-marginal-tax-rates-on-individual-income.json",
-			fields: ["Top marginal income tax rate (Reynolds (2008))"],
-		},
+			"name": "Maximum Marginal Tax Rates on Individual Income",
+			"isUsed": false,
+			"dataset": "maximum-marginal-tax-rates-on-individual-income.json",
+			"fields": [
+				{
+					"field": "Top marginal income tax rate (Reynolds (2008))",
+					"isDecreasing": false
+				}
+			]
+		}
 	],
-	Education: [
+	"Education": [
 		{
-			name: "OECD Pisa Test Scores",
-			isUsed: false,
-			dataset: "oecd-pisa-test-scores-for-selected-countries-2000-2012.json",
-			fields: ["OECD PISA education score (PISA (2015))"],
+			"name": "OECD Pisa Test Scores",
+			"isUsed": false,
+			"dataset": "oecd-pisa-test-scores-for-selected-countries-2000-2012.json",
+			"fields": [
+				{
+					"field": "OECD PISA education score (PISA (2015))",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Gross Enrollment Ratio in Secondary Education",
-			isUsed: false,
-			dataset: "gross-enrollment-ratio-in-secondary-education.json",
-			fields: ["Gross enrolment ratio, secondary, both sexes (%)"],
+			"name": "Gross Enrollment Ratio in Secondary Education",
+			"isUsed": false,
+			"dataset": "gross-enrollment-ratio-in-secondary-education.json",
+			"fields": [
+				{
+					"field": "Gross enrolment ratio, secondary, both sexes (%)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Share of Population With Completed Tertiary Education",
-			isUsed: false,
-			dataset: "share-of-the-population-with-completed-tertiary-education.json",
-			fields: [
-				"Barro-Lee: Percentage of population age 15+ with tertiary schooling",
+			"name": "Share of Population With Completed Tertiary Education",
+			"isUsed": false,
+			"dataset": "share-of-the-population-with-completed-tertiary-education.json",
+			"fields": [
+				{
+					"field": "Barro-Lee: Percentage of population age 15+ with tertiary schooling",
+					"isDecreasing": false
+				}
 			],
-			treatData: getShareOfPopulationWithCompletedTertiaryEducationDataTreated,
+			treatData: getShareOfPopulationWithCompletedTertiaryEducationDataTreated
 		},
 		{
-			name: "Number of Teachers across Education Levels",
-			isUsed: false,
-			dataset: "number-of-teachers-across-education-levels.json",
-			fields: [
-				"Teachers in pre-primary education, both sexes (number)",
-				"Teachers in primary education, both sexes (number)",
-				"Teachers in lower secondary education, both sexes (number)",
-				"Teachers in upper secondary education, both sexes (number)",
-				"Teachers in tertiary education programmes, both sexes (number)",
-			],
+			"name": "Number of Teachers across Education Levels",
+			"isUsed": false,
+			"dataset": "number-of-teachers-across-education-levels.json",
+			"fields": [
+				{
+					"field": "Teachers in pre-primary education, both sexes (number)",
+					"isDecreasing": false
+				},
+				{
+					"field": "Teachers in primary education, both sexes (number)",
+					"isDecreasing": false
+				},
+				{
+					"field": "Teachers in lower secondary education, both sexes (number)",
+					"isDecreasing": false
+				},
+				{
+					"field": "Teachers in upper secondary education, both sexes (number)",
+					"isDecreasing": false
+				},
+				{
+					"field": "Teachers in tertiary education programmes, both sexes (number)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Completion Rate of Lower Secondary Education",
-			isUsed: false,
-			dataset: "completion-rate-of-lower-secondary-education.json",
-			fields: ["Lower secondary completion rate, both sexes (%)"],
+			"name": "Completion Rate of Lower Secondary Education",
+			"isUsed": false,
+			"dataset": "completion-rate-of-lower-secondary-education.json",
+			"fields": [
+				{
+					"field": "Lower secondary completion rate, both sexes (%)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Duration of Compulsory Education",
-			isUsed: false,
-			dataset: "duration-of-compulsory-education.json",
-			fields: ["Duration of compulsory education (years)"],
+			"name": "Duration of Compulsory Education",
+			"isUsed": false,
+			"dataset": "duration-of-compulsory-education.json",
+			"fields": [
+				{
+					"field": "Duration of compulsory education (years)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Total Government Expenditure on Education",
-			isUsed: false,
-			dataset: "total-government-expenditure-on-education-gdp.json",
-			fields: ["Government expenditure on education, total (% of GDP)"],
+			"name": "Total Government Expenditure on Education",
+			"isUsed": false,
+			"dataset": "total-government-expenditure-on-education-gdp.json",
+			"fields": [
+				{
+					"field": "Government expenditure on education, total (% of GDP)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "National Average Learning Outcomes",
-			isUsed: false,
-			dataset:
-				"national-average-learning-outcomes-vs-government-expenditure-per-primary-student.json",
-			fields: [
-				"Average harmonised learning outcome score in 2005-2015 (Altinok, Angrist, and Patrinos, 2018)",
-			],
+			"name": "National Average Learning Outcomes",
+			"isUsed": false,
+			"dataset": "national-average-learning-outcomes-vs-government-expenditure-per-primary-student.json",
+			"fields": [
+				{
+					"field": "Average harmonised learning outcome score in 2005-2015 (Altinok, Angrist, and Patrinos, 2018)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Share of Youth not in Education, Employment or Training",
-			isUsed: false,
-			dataset: "youth-not-in-education-employment-training.json",
-			fields: [
-				"Share of youth not in education, employment or training, total (% of youth population)",
-			],
-		},
+			"name": "Share of Youth not in Education, Employment or Training",
+			"isUsed": false,
+			"dataset": "youth-not-in-education-employment-training.json",
+			"fields": [
+				{
+					"field": "Share of youth not in education, employment or training, total (% of youth population)",
+					"isDecreasing": false
+				}
+			]
+		}
 	],
-	Democracy: [
+	"Democracy": [
 		{
-			name: "Political Regime Type and Humans Rights Score",
-			isUsed: false,
-			dataset: "political-regime-type-vs-human-rights-score.json",
-			fields: ["Regimes of the world -- the RoW measure"],
+			"name": "Political Regime Type and Humans Rights Score",
+			"isUsed": false,
+			"dataset": "political-regime-type-vs-human-rights-score.json",
+			"fields": [
+				{
+					"field": "Regimes of the world -- the RoW measure",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Political Regimes - 2016",
-			isUsed: false,
-			dataset: "political-regime-updated2016.json",
-			fields: ["Political Regime (OWID based on Polity IV and Wimmer & Min)"],
+			"name": "Political Regimes - 2016",
+			"isUsed": false,
+			"dataset": "political-regime-updated2016.json",
+			"fields": [
+				{
+					"field": "Political Regime (OWID based on Polity IV and Wimmer & Min)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Political Regimes",
-			isUsed: false,
-			dataset: "political-regimes.json",
-			fields: ["Political regime"],
+			"name": "Political Regimes",
+			"isUsed": false,
+			"dataset": "political-regimes.json",
+			"fields": [
+				{
+					"field": "Political regime",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Share of People Paying Bribes and Corruption Perception",
-			isUsed: false,
-			dataset: "share-of-people-paying-bribes-vs-corruption-perception.json",
-			fields: [
-				"Corruption Perception Index - Transparency International (2018)",
-				"Bribery Rate (%)",
-			],
+			"name": "Share of People Paying Bribes and Corruption Perception",
+			"isUsed": false,
+			"dataset": "share-of-people-paying-bribes-vs-corruption-perception.json",
+			"fields": [
+				{
+					"field": "Corruption Perception Index - Transparency International (2018)",
+					"isDecreasing": false
+				},
+				{
+					"field": "Bribery Rate (%)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Human Rights Scores",
-			isUsed: false,
-			dataset: "human-rights-scores.json",
-			fields: [
-				"Human Rights Score (Schnakenberg & Fariss, 2014; Fariss, 2019)",
-			],
+			"name": "Human Rights Scores",
+			"isUsed": false,
+			"dataset": "human-rights-scores.json",
+			"fields": [
+				{
+					"field": "Human Rights Score (Schnakenberg & Fariss, 2014; Fariss, 2019)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Human Rights Violations",
-			isUsed: false,
-			dataset: "human-rights-violations.json",
-			fields: [
-				"Fund for Peace (Fragile States Index (Human Rights Dimension))",
-			],
+			"name": "Human Rights Violations",
+			"isUsed": false,
+			"dataset": "human-rights-violations.json",
+			"fields": [
+				{
+					"field": "Fund for Peace (Fragile States Index (Human Rights Dimension))",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Freedom of Press",
-			isUsed: false,
-			dataset: "world-map-of-the-freedom-of-the-press-status.json",
-			fields: ["Freedom of the Press Status"],
+			"name": "Freedom of Press",
+			"isUsed": false,
+			"dataset": "world-map-of-the-freedom-of-the-press-status.json",
+			"fields": [
+				{
+					"field": "Freedom of the Press Status",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Refugee Population",
-			isUsed: false,
-			dataset: "refugee-population-by-country-or-territory-of-asylum.json",
-			fields: ["Refugee population by country or territory of asylum"],
+			"name": "Refugee Population",
+			"isUsed": false,
+			"dataset": "refugee-population-by-country-or-territory-of-asylum.json",
+			"fields": [
+				{
+					"field": "Refugee population by country or territory of asylum",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Share of People who Trust the Government",
-			isUsed: false,
-			dataset: "share-who-trust-government.json",
-			fields: ["Share of people who trust their national government"],
+			"name": "Share of People who Trust the Government",
+			"isUsed": false,
+			"dataset": "share-who-trust-government.json",
+			"fields": [
+				{
+					"field": "Share of people who trust their national government",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Political Participation",
-			isUsed: false,
-			dataset: "political-participation.json",
-			fields: ["Political Participation (Vanhanen (2015))"],
+			"name": "Political Participation",
+			"isUsed": false,
+			"dataset": "political-participation.json",
+			"fields": [
+				{
+					"field": "Political Participation (Vanhanen (2015))",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "State Fragility",
-			isUsed: false,
-			dataset: "gdp-per-capita-vs-state-fragility.json",
-			fields: ["Fragile States Index - ffp_fsi"],
+			"name": "State Fragility",
+			"isUsed": false,
+			"dataset": "gdp-per-capita-vs-state-fragility.json",
+			"fields": [
+				{
+					"field": "Fragile States Index - ffp_fsi",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "World Press Freedom",
-			isUsed: false,
-			dataset: "world-press-freedom.json",
-			fields: ["Press Freedom Score"],
-		},
+			"name": "World Press Freedom",
+			"isUsed": false,
+			"dataset": "world-press-freedom.json",
+			"fields": [
+				{
+					"field": "Press Freedom Score",
+					"isDecreasing": false
+				}
+			]
+		}
 	],
 	"Gender Rights": [
 		{
-			name: "Share of Young Women With No Education",
-			isUsed: false,
-			dataset:
-				"share-of-women-between-15-and-19-years-old-with-no-education.json",
-			fields: [
-				"Barro-Lee: Percentage of female population age 15-19 with no education",
+			"name": "Share of Young Women With No Education",
+			"isUsed": false,
+			"dataset": "share-of-women-between-15-and-19-years-old-with-no-education.json",
+			"fields": [
+				{
+					"field": "Barro-Lee: Percentage of female population age 15-19 with no education",
+					"isDecreasing": true
+				}
+			]
+		},
+		{
+			"name": "Total net Enrollment Rate in Primary Education",
+			"isUsed": false,
+			"dataset": "total-net-enrollment-rate-in-primary-education-by-sex.json",
+			"fields": [
+				{
+					"field": "Total net enrolment rate, primary, female (%)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Gender Inequality Index",
+			"isUsed": false,
+			"dataset": "gender-inequality-index-from-the-human-development-report.json",
+			"fields": [
+				{
+					"field": "Gender Inequality Index (Human Development Report (2015))",
+					"isDecreasing": true
+				}
+			]
+		},
+		{
+			"name": "Proportion of Women in Senior and Middle Management Positions",
+			"isUsed": false,
+			"dataset": "proportion-of-women-in-senior-and-middle-management-positions.json",
+			"fields": [
+				{
+					"field": "2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN",
+					"isDecreasing": false
+				}
 			],
+			treatData: getProportionOfWomenInSeniorAndMiddlePositionsDataTreated
 		},
 		{
-			name: "Total net Enrollment Rate in Primary Education",
-			isUsed: false,
-			dataset: "total-net-enrollment-rate-in-primary-education-by-sex.json",
-			fields: ["Total net enrolment rate, primary, female (%)"],
+			"name": "Firms with Female Top Managers",
+			"isUsed": false,
+			"dataset": "firms-with-female-top-manager-of-firms-bars.json",
+			"fields": [
+				{
+					"field": "Firms with female top manager (% of firms)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Gender Inequality Index",
-			isUsed: false,
-			dataset: "gender-inequality-index-from-the-human-development-report.json",
-			fields: ["Gender Inequality Index (Human Development Report (2015))"],
+			"name": "Womens Economic Rights",
+			"isUsed": false,
+			"dataset": "womens-economic-rights.json",
+			"fields": [
+				{
+					"field": "Women's Economic Rights - ciri_wecon",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Proportion of Women in Senior and Middle Management Positions",
-			isUsed: false,
-			dataset:
-				"proportion-of-women-in-senior-and-middle-management-positions.json",
-			fields: [
-				"2 - Proportion of women in senior and middle management positions (%) - IC_GEN_MGTN",
+			"name": "Womens Economic Opportunity",
+			"isUsed": false,
+			"dataset": "womens-economic-opportunity-2012-index.json",
+			"fields": [
+				{
+					"field": "WEO Index overall score (Economist Intelligence Unit (2012))",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Gender Wage Gap",
+			"isUsed": false,
+			"dataset": "gender-wage-gap-oecd.json",
+			"fields": [
+				{
+					"field": "Gender wage gap (OECD 2017)",
+					"isDecreasing": true
+				}
+			]
+		},
+		{
+			"name": "Law Mandated Equal Pay",
+			"isUsed": false,
+			"dataset": "law-mandate-equal-pay.json",
+			"fields": [
+				{
+					"field": "Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Gender Parity Index Primary Education",
+			"isUsed": false,
+			"dataset": "gpi-primary-education.json",
+			"fields": [
+				{
+					"field": "Gross enrolment ratio, primary, gender parity index (GPI)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Gender Parity Index Secondary Education",
+			"isUsed": false,
+			"dataset": "gross-enrolment-gpi-secondary.json",
+			"fields": [
+				{
+					"field": "Gross enrolment ratio, secondary, both sexes (%)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Gender Parity Index Tertiary Education",
+			"isUsed": false,
+			"dataset": "gpi-tertiary-education.json",
+			"fields": [
+				{
+					"field": "Gross enrolment ratio, tertiary, gender parity index (GPI)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Share Female Employment in Agriculture",
+			"isUsed": false,
+			"dataset": "share-of-male-vs-female-employment-in-agri.json",
+			"fields": [
+				{
+					"field": "Employment in agriculture, female (% of female employment) (modeled ILO estimate)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Share Female Employment in Industry",
+			"isUsed": false,
+			"dataset": "share-of-male-vs-female-employment-in-industry.json",
+			"fields": [
+				{
+					"field": "Employment in industry, female (% of female employment) (modeled ILO estimate)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Share Female Employment in Services",
+			"isUsed": false,
+			"dataset": "share-of-male-vs-female-employment-in-services.json",
+			"fields": [
+				{
+					"field": "Employment in services, female (% of female employment) (modeled ILO estimate)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Unemployment Rate Women",
+			"isUsed": false,
+			"dataset": "unemployment-rate-women.json",
+			"fields": [
+				{
+					"field": "Unemployment rate, women -- ILO modelled estimates, May 2017 (%)",
+					"isDecreasing": false
+				}
+			]
+		},
+		{
+			"name": "Maternal Mortality",
+			"isUsed": false,
+			"dataset": "maternal-mortality-slope-chart.json",
+			"fields": [
+				{
+					"field": "Maternal mortality ratio (modeled estimate, per 100,000 live births)",
+					"isDecreasing": true
+				}
+			]
+		},
+		{
+			"name": "Adolescent Birth Rate",
+			"isUsed": false,
+			"dataset": "adolescent-fertility-ihme.json",
+			"fields": [
+				{
+					"field": "2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled",
+					"isDecreasing": true
+				}
 			],
-			treatData: getProportionOfWomenInSeniorAndMiddlePositionsDataTreated,
+			treatData: getAdolescentBirthRateDataTreated
 		},
 		{
-			name: "Firms with Female Top Managers",
-			isUsed: false,
-			dataset: "firms-with-female-top-manager-of-firms-bars.json",
-			fields: ["Firms with female top manager (% of firms)"],
-		},
-		{
-			name: "Womens Economic Rights",
-			isUsed: false,
-			dataset: "womens-economic-rights.json",
-			fields: ["Women's Economic Rights - ciri_wecon"],
-		},
-		{
-			name: "Womens Economic Opportunity",
-			isUsed: false,
-			dataset: "womens-economic-opportunity-2012-index.json",
-			fields: ["WEO Index overall score (Economist Intelligence Unit (2012))"],
-		},
-		{
-			name: "Gender Wage Gap",
-			isUsed: false,
-			dataset: "gender-wage-gap-oecd.json",
-			fields: ["Gender wage gap (OECD 2017)"],
-		},
-		{
-			name: "Law Mandated Equal Pay",
-			isUsed: false,
-			dataset: "law-mandate-equal-pay.json",
-			fields: [
-				"Law mandates equal remuneration for females and males for work of equal value (1=yes; 0=no)",
-			],
-		},
-		{
-			name: "Gender Parity Index Primary Education",
-			isUsed: false,
-			dataset: "gpi-primary-education.json",
-			fields: ["Gross enrolment ratio, primary, gender parity index (GPI)"],
-		},
-		{
-			name: "Gender Parity Index Secondary Education",
-			isUsed: false,
-			dataset: "gross-enrolment-gpi-secondary.json",
-			fields: ["Gross enrolment ratio, secondary, both sexes (%)"],
-		},
-		{
-			name: "Gender Parity Index Tertiary Education",
-			isUsed: false,
-			dataset: "gpi-tertiary-education.json",
-			fields: ["Gross enrolment ratio, tertiary, gender parity index (GPI)"],
-		},
-		{
-			name: "Share Female Employment in Agriculture",
-			isUsed: false,
-			dataset: "share-of-male-vs-female-employment-in-agri.json",
-			fields: [
-				"Employment in agriculture, female (% of female employment) (modeled ILO estimate)",
-			],
-		},
-		{
-			name: "Share Female Employment in Industry",
-			isUsed: false,
-			dataset: "share-of-male-vs-female-employment-in-industry.json",
-			fields: [
-				"Employment in industry, female (% of female employment) (modeled ILO estimate)",
-			],
-		},
-		{
-			name: "Share Female Employment in Services",
-			isUsed: false,
-			dataset: "share-of-male-vs-female-employment-in-services.json",
-			fields: [
-				"Employment in services, female (% of female employment) (modeled ILO estimate)",
-			],
-		},
-		{
-			name: "Unemployment Rate Women",
-			isUsed: false,
-			dataset: "unemployment-rate-women.json",
-			fields: [
-				"Unemployment rate, women -- ILO modelled estimates, May 2017 (%)",
-			],
-		},
-		{
-			name: "Maternal Mortality",
-			isUsed: false,
-			dataset: "maternal-mortality-slope-chart.json",
-			fields: [
-				"Maternal mortality ratio (modeled estimate, per 100,000 live births)",
-			],
-		},
-		{
-			name: "Adolescent Birth Rate",
-			isUsed: false,
-			dataset: "adolescent-fertility-ihme.json",
-			fields: [
-				"2: Number of livebirths per 1,000 women aged 10-14 years and women aged 15-19 years - Past - Unscaled",
-			],
-			treatData: getAdolescentBirthRateDataTreated,
-		},
-		{
-			name: "Proportion of Women in Ministerial Positions",
-			isUsed: false,
-			dataset: "proportion-of-women-in-ministerial-positions.json",
-			fields: ["Proportion of women in ministerial level positions (%)"],
-		},
+			"name": "Proportion of Women in Ministerial Positions",
+			"isUsed": false,
+			"dataset": "proportion-of-women-in-ministerial-positions.json",
+			"fields": [
+				{
+					"field": "Proportion of women in ministerial level positions (%)",
+					"isDecreasing": false
+				}
+			]
+		}
 	],
-	Language: [
+	"Language": [
 		{
-			name: "Share Of English Speaking Population",
-			isUsed: false,
-			dataset: "wikipedia_eng_lng_pop.json",
-			fields: ["Total English speakers (%)"],
-		},
+			"name": "Share Of English Speaking Population",
+			"isUsed": false,
+			"dataset": "wikipedia_eng_lng_pop.json",
+			"fields": [
+				{
+					"field": "Total English speakers (%)",
+					"isDecreasing": false
+				}
+			]
+		}
 	],
-	Safety: [
+	"Safety": [
 		{
-			name: "Homicide Rate",
-			isUsed: false,
-			dataset: "homicide-rate-ihme-vs-world-bank.json",
-			fields: [
-				"Deaths - Interpersonal violence - Sex: Both - Age: All Ages (Rate)",
-				"Intentional homicides (per 100,000 people)",
-			],
+			"name": "Homicide Rate",
+			"isUsed": false,
+			"dataset": "homicide-rate-ihme-vs-world-bank.json",
+			"fields": [
+				{
+					"field": "Deaths - Interpersonal violence - Sex: Both - Age: All Ages (Rate)",
+					"isDecreasing": true
+				},
+				{
+					"field": "Intentional homicides (per 100,000 people)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Suicide Rate",
-			isUsed: false,
-			dataset: "suicide-vs-homicide-rate.json",
-			fields: ["Deaths - Self-harm - Sex: Both - Age: Age-standardized (Rate)"],
+			"name": "Suicide Rate",
+			"isUsed": false,
+			"dataset": "suicide-vs-homicide-rate.json",
+			"fields": [
+				{
+					"field": "Deaths - Self-harm - Sex: Both - Age: Age-standardized (Rate)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Deaths by Age Group",
-			isUsed: false,
-			dataset: "deaths-by-age-group-stacked.json",
-			fields: [
-				"Deaths - All causes - Sex: Both - Age: Under 5 (Number)",
-				"Deaths - All causes - Sex: Both - Age: 5-14 years (Number)",
-				"Deaths - All causes - Sex: Both - Age: 15-49 years (Number)",
-				"Deaths - All causes - Sex: Both - Age: 50-69 years (Number)",
-				"Deaths - All causes - Sex: Both - Age: 70+ years (Number)",
-			],
+			"name": "Deaths by Age Group",
+			"isUsed": false,
+			"dataset": "deaths-by-age-group-stacked.json",
+			"fields": [
+				{
+					"field": "Deaths - All causes - Sex: Both - Age: Under 5 (Number)",
+					"isDecreasing": true
+				},
+				{
+					"field": "Deaths - All causes - Sex: Both - Age: 5-14 years (Number)",
+					"isDecreasing": true
+				},
+				{
+					"field": "Deaths - All causes - Sex: Both - Age: 15-49 years (Number)",
+					"isDecreasing": true
+				},
+				{
+					"field": "Deaths - All causes - Sex: Both - Age: 50-69 years (Number)",
+					"isDecreasing": true
+				},
+				{
+					"field": "Deaths - All causes - Sex: Both - Age: 70+ years (Number)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Number Of Nuclear Warheads In Inventory of Nuclear Powers",
-			isUsed: false,
-			dataset:
-				"number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers.json",
-			fields: ["Nuclear weapons inventory by country (FAS Nuclear Notebook)"],
+			"name": "Number Of Nuclear Warheads In Inventory of Nuclear Powers",
+			"isUsed": false,
+			"dataset": "number-of-nuclear-warheads-in-the-inventory-of-the-nuclear-powers.json",
+			"fields": [
+				{
+					"field": "Nuclear weapons inventory by country (FAS Nuclear Notebook)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Deaths From Conflict And Terrorism",
-			isUsed: false,
-			dataset: "deaths-from-conflict-and-terrorism.json",
-			fields: [
-				"Deaths - Conflict and terrorism - Sex: Both - Age: All Ages (Number)",
-			],
+			"name": "Deaths From Conflict And Terrorism",
+			"isUsed": false,
+			"dataset": "deaths-from-conflict-and-terrorism.json",
+			"fields": [
+				{
+					"field": "Deaths - Conflict and terrorism - Sex: Both - Age: All Ages (Number)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Terrorist Incidents",
-			isUsed: false,
-			dataset: "terrorist-incidents.json",
-			fields: ["Number of terrorist incidents (GDT, 2018)"],
+			"name": "Terrorist Incidents",
+			"isUsed": false,
+			"dataset": "terrorist-incidents.json",
+			"fields": [
+				{
+					"field": "Number of terrorist incidents (GDT, 2018)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Share Of Children who Report Being Bullied",
-			isUsed: false,
-			dataset: "share-of-children-ages-13-15-who-report-being-bullied.json",
-			fields: ["Children (13-15) who reported being bullied"],
-		},
+			"name": "Share Of Children who Report Being Bullied",
+			"isUsed": false,
+			"dataset": "share-of-children-ages-13-15-who-report-being-bullied.json",
+			"fields": [
+				{
+					"field": "Children (13-15) who reported being bullied",
+					"isDecreasing": true
+				}
+			]
+		}
 	],
-	Happiness: [
+	"Happiness": [
 		{
-			name: "Happiness Cantril Ladder",
-			isUsed: false,
-			dataset: "happiness-cantril-ladder.json",
-			fields: [
-				"Life satisfaction in Cantril Ladder (World Happiness Report 2021)",
-			],
+			"name": "Happiness Cantril Ladder",
+			"isUsed": false,
+			"dataset": "happiness-cantril-ladder.json",
+			"fields": [
+				{
+					"field": "Life satisfaction in Cantril Ladder (World Happiness Report 2021)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Depression Rate",
-			isUsed: false,
-			dataset: "depression-ihme-vs-who.json",
-			fields: [
-				"Prevalence - Depressive disorders - Sex: Both - Age: Age-standardized (Percent)",
-				"Indicator:Estimated population-based prevalence of depression",
-			],
+			"name": "Depression Rate",
+			"isUsed": false,
+			"dataset": "depression-ihme-vs-who.json",
+			"fields": [
+				{
+					"field": "Prevalence - Depressive disorders - Sex: Both - Age: Age-standardized (Percent)",
+					"isDecreasing": false
+				},
+				{
+					"field": "Indicator:Estimated population-based prevalence of depression",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Suicide Rate",
-			isUsed: false,
-			dataset: "suicide-rates-vs-prevalence-of-depression.json",
-			fields: ["Deaths - Self-harm - Sex: Both - Age: Age-standardized (Rate)"],
-		},
+			"name": "Suicide Rate",
+			"isUsed": false,
+			"dataset": "suicide-rates-vs-prevalence-of-depression.json",
+			"fields": [
+				{
+					"field": "Deaths - Self-harm - Sex: Both - Age: Age-standardized (Rate)",
+					"isDecreasing": true
+				}
+			]
+		}
 	],
-	Health: [
+	"Health": [
 		{
-			name: "Hospital Beds",
-			isUsed: false,
-			dataset: "hospital-beds-per-1000-people.json",
-			fields: ["Hospital beds (per 1,000 people)"],
+			"name": "Hospital Beds",
+			"isUsed": false,
+			"dataset": "hospital-beds-per-1000-people.json",
+			"fields": [
+				{
+					"field": "Hospital beds (per 1,000 people)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Healthcare Access and Quality",
-			isUsed: false,
-			dataset: "healthcare-access-and-quality-index.json",
-			fields: ["HAQ Index (IHME (2017))"],
+			"name": "Healthcare Access and Quality",
+			"isUsed": false,
+			"dataset": "healthcare-access-and-quality-index.json",
+			"fields": [
+				{
+					"field": "HAQ Index (IHME (2017))",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Universal Health Coverage Index",
-			isUsed: false,
-			dataset: "universal-health-coverage-index.json",
-			fields: [
-				"1 - Universal health coverage (UHC) service coverage index - SH_ACS_UNHC",
+			"name": "Universal Health Coverage Index",
+			"isUsed": false,
+			"dataset": "universal-health-coverage-index.json",
+			"fields": [
+				{
+					"field": "1 - Universal health coverage (UHC) service coverage index - SH_ACS_UNHC",
+					"isDecreasing": false
+				}
 			],
-			treatData: getUniversalHealthCoverageIndexDataTreated,
+			treatData: getUniversalHealthCoverageIndexDataTreated
 		},
 		{
-			name: "Level Of Healthcare Spending",
-			isUsed: false,
-			dataset: "HAQ-by-level-of-healthcare-spending-endpoints.json",
-			fields: [
-				"Current health expenditure per capita, PPP (current international $)",
-			],
+			"name": "Level Of Healthcare Spending",
+			"isUsed": false,
+			"dataset": "HAQ-by-level-of-healthcare-spending-endpoints.json",
+			"fields": [
+				{
+					"field": "Current health expenditure per capita, PPP (current international $)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Annual Healthcare Expenditure",
-			isUsed: false,
-			dataset: "annual-healthcare-expenditure-per-capita.json",
-			fields: [
-				"Health expenditure per capita, PPP (constant 2011 international $)",
-			],
+			"name": "Annual Healthcare Expenditure",
+			"isUsed": false,
+			"dataset": "annual-healthcare-expenditure-per-capita.json",
+			"fields": [
+				{
+					"field": "Health expenditure per capita, PPP (constant 2011 international $)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Share of Out of Pocket Expenditure on Healthcare",
-			isUsed: false,
-			dataset: "share-of-out-of-pocket-expenditure-on-healthcare.json",
-			fields: [
-				"Out-of-pocket health expenditure (% of total expenditure on health)",
-			],
+			"name": "Share of Out of Pocket Expenditure on Healthcare",
+			"isUsed": false,
+			"dataset": "share-of-out-of-pocket-expenditure-on-healthcare.json",
+			"fields": [
+				{
+					"field": "Out-of-pocket health expenditure (% of total expenditure on health)",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Share of Population at Risk of Catastrophic Expenditure on Healthcare",
-			isUsed: false,
-			dataset:
-				"share-of-the-population-at-risk-of-catastrophic-expenditure-when-surgical-care-is-required.json",
-			fields: [
-				"Risk of catastrophic expenditure for surgical care (% of people at risk)",
-			],
+			"name": "Share of Population at Risk of Catastrophic Expenditure on Healthcare",
+			"isUsed": false,
+			"dataset": "share-of-the-population-at-risk-of-catastrophic-expenditure-when-surgical-care-is-required.json",
+			"fields": [
+				{
+					"field": "Risk of catastrophic expenditure for surgical care (% of people at risk)",
+					"isDecreasing": true
+				}
+			]
 		},
 		{
-			name: "Health Protection Coverage",
-			isUsed: false,
-			dataset: "health-protection-coverage.json",
-			fields: ["Share of population covered by health insurance (ILO (2014))"],
+			"name": "Health Protection Coverage",
+			"isUsed": false,
+			"dataset": "health-protection-coverage.json",
+			"fields": [
+				{
+					"field": "Share of population covered by health insurance (ILO (2014))",
+					"isDecreasing": false
+				}
+			]
 		},
 		{
-			name: "Private Health Expenditure",
-			isUsed: false,
-			dataset: "private-health-expenditure-per-person.json",
-			fields: [
-				"Domestic private health expenditure per capita, PPP (current international $)",
-			],
-		},
+			"name": "Private Health Expenditure",
+			"isUsed": false,
+			"dataset": "private-health-expenditure-per-person.json",
+			"fields": [
+				{
+					"field": "Domestic private health expenditure per capita, PPP (current international $)",
+					"isDecreasing": true
+				}
+			]
+		}
 	],
 	"LGBTQI+ Rights": [
 		{
-			name: "LGBTQI+ Rights",
-			isUsed: false,
-			dataset: "lgbt.json",
-			fields: [
-				"Religiosity",
-				"SHI",
-				"legality of sam-sex sexual-activity",
-				"marriage/ civil unions",
-				"serving in the military",
-				"antidiscrimination laws",
-			],
-		},
-	],
+			"name": "LGBTQI+ Rights",
+			"isUsed": false,
+			"dataset": "lgbt.json",
+			"fields": [
+				{
+					"field": "Religiosity",
+					"isDecreasing": true
+				},
+				{
+					"field": "SHI",
+					"isDecreasing": false
+				},
+				{
+					"field": "legality of sam-sex sexual-activity",
+					"isDecreasing": false
+				},
+				{
+					"field": "marriage/ civil unions",
+					"isDecreasing": false
+				},
+				{
+					"field": "serving in the military",
+					"isDecreasing": false
+				},
+				{
+					"field": "antidiscrimination laws",
+					"isDecreasing": false
+				}
+			]
+		}
+	]
 }
 
 export interface ThemeMappingItem {
 	name: string
 	dataset: string
-	fields: string[]
+	fields: ThemeMappingItemField[]
 	isUsed: boolean
 	treatData?: (raw: any) => any
+}
+
+export interface ThemeMappingItemField{
+	field: string,
+	isDecreasing: boolean
 }
 
 export interface ThemeMapping {

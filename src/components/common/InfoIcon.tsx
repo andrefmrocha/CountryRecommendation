@@ -1,10 +1,11 @@
 import React from "react"
 import ReactTooltip from "react-tooltip"
+import {ThemeMappingItemField} from "../../data/datasets/datasetsMapping";
 
 type props = {
 	parameter: string
 	dataset: string
-	fields: Array<string>
+	fields: Array<ThemeMappingItemField>
 }
 
 function InfoIcon({ parameter, dataset, fields }: props) {
@@ -12,7 +13,7 @@ function InfoIcon({ parameter, dataset, fields }: props) {
 		return `
     <strong>Name:</strong> ${parameter}<br><br>
     <div><strong>Includes the following fields:</strong> <ul>${fields.map(
-			(field) => `<li>${field}</li>`
+			(field) => `<li>${field.field}</li>`
 		)}</ul></div>
     `
 	}
