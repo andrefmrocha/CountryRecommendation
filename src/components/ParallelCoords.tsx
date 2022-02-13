@@ -31,8 +31,9 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 				.range(["#08519C", "#3182BD", "#6BAED6", "#BDD7E7"])
 
 			let color = (percentile: Percentile, isIncluded: boolean) => {
-				if (isIncluded) return normalColor(percentile)
-				else return "#cecece"
+				// if (isIncluded) return normalColor(percentile)
+				// else return "#cecece"
+				return isIncluded ? "#0ead69" : "#cecece"
 			}
 
 			var types = {
@@ -59,7 +60,7 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 						description: category,
 						type: types["Number"],
 						domain: [0, 100],
-						scale: d3.scaleLinear().range([innerHeight, 0]),
+						scale: d3.scaleLinear().domain([0, 100]).range([innerHeight, 0]),
 						brush: d3.brush(),
 					}
 				}
@@ -70,9 +71,7 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 				.domain(d3.range(dimensions.length))
 				.range([0, width])
 
-			var yAxis = d3.axisLeft(
-				d3.scaleLinear().domain([0, 100]).range([height, 0])
-			)
+			var yAxis = d3.axisLeft(d3.scaleLinear().range([innerHeight, 0]))
 
 			container.select("svg").remove()
 			container.select("canvas").remove()
@@ -144,7 +143,7 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 							.brushY()
 							.extent([
 								[-10, 0],
-								[10, height],
+								[10, innerHeight],
 							])
 							.on("start", brushstart)
 							.on("brush", brush)
@@ -174,11 +173,13 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 				})
 			}
 
-			function project(data: CountryScore) {
+			function project(
+				data: CountryScore
+			): Array<[number | undefined, number] | null> {
 				return dimensions.map(function (p, i) {
 					const score = data.scores.get(p.key)
 
-					if (!score) return [xscale(i), 0]
+					if (score === undefined) return null
 
 					return [xscale(i), p.scale(p.type.coerce(score))]
 				})
@@ -201,25 +202,25 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 						if (i > 0) {
 							var prev = coords[i - 1]
 							if (prev !== null) {
-								ctx.moveTo(prev[0] || 0, prev[1] || 1)
-								ctx.lineTo((prev[0] || 0) + 6, prev[1] || 1)
+								ctx.moveTo(prev[0] || 0, prev[1])
+								ctx.lineTo((prev[0] || 0) + 6, prev[1])
 							}
 						}
 						if (i < coords.length - 1) {
 							var next = coords[i + 1]
 							if (next !== null) {
-								ctx.moveTo((next[0] || 0) - 6, next[1] || 1)
+								ctx.moveTo((next[0] || 0) - 6, next[1])
 							}
 						}
 						return
 					}
 
 					if (i == 0) {
-						ctx.moveTo(p[0] || 0, p[1] || 1)
+						ctx.moveTo(p[0] || 0, p[1])
 						return
 					}
 
-					ctx.lineTo(p[0] || 0, p[1] || 1)
+					ctx.lineTo(p[0] || 0, p[1])
 				})
 				ctx.stroke()
 			}
