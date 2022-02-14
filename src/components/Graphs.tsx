@@ -11,32 +11,81 @@ import {
 
 type props = {
 	categoriesFilterState: Array<CategoryFilterState>
-	countriesScores: Map<CountryCode, CountryScore> | undefined
+	countriesScores: Map<CountryCode, CountryScore> | undefined,
+	setFilterRange: (
+		category: Category,
+		range: Array<Array<number>> | [],
+	) => void
 }
 
-function Graphs({ categoriesFilterState, countriesScores }: props) {
+function Graphs({ categoriesFilterState, countriesScores, setFilterRange }: props) {
 	const [selectedCategory, setSelectedCategory] = useState<Category>(
 		categoriesFilterState[0]?.category
 	)
-	const [selectedRanges, setSelectedRanges] = useState<Number[]>([])
 
-	// TEMP functionn before multiple categories and ranges are added
-	const removeSelectedRange = (range: Number) => {
-		setSelectedRanges((selectedRanges) =>
-			selectedRanges.filter((element) => element !== range)
+	const getCategoryRange = (categoriesFilterState: Array<CategoryFilterState>, category: Category) => {
+		const filterIndex = categoriesFilterState.findIndex(
+			(filter) => filter.category === category
 		)
+		return categoriesFilterState[filterIndex]?.range ? categoriesFilterState[filterIndex]?.range : []
 	}
 
-	// TEMP functionn before multiple categories and ranges are added
-	const addSelectedRange = (range: Number) => {
-		if (selectedRanges.indexOf(range) === -1) {
-			const newList = selectedRanges.slice()
-			newList.push(range)
-			setSelectedRanges(newList)
+	const addFilterRange = (category: Category, newRange: Array<number>) => {
+		const filterIndex = categoriesFilterState.findIndex(
+			(filter) => filter.category === category
+		)
+		const newRanges = [...categoriesFilterState[filterIndex]?.range]
+	
+		let isInList = false;
+		for (let i = 0; i < newRanges.length; i++) {
+			const currentRange = newRanges[i]
+			if (currentRange[0] == newRange[0] && currentRange[1] == newRange[1]) {
+				isInList = true;
+			}
+		}
+
+		if (!isInList) {
+			newRanges.push(newRange);
+			newRanges.sort((a, b) => a[0] - b[0]);
+			setFilterRange(category, newRanges);
+		}
+
+	}
+
+	const removeFilterRange = (category: Category, rangeToBeRemoved: Array<number>) => {
+		const filterIndex = categoriesFilterState.findIndex(
+			(filter) => filter.category === category
+		)
+		const newRanges = [...categoriesFilterState[filterIndex]?.range];
+
+		for (let i = 0; i < newRanges.length; i++) {
+			const currentRange = newRanges[i]
+			if (currentRange[0] == rangeToBeRemoved[0] && currentRange[1] == rangeToBeRemoved[1]) {
+				newRanges.splice(i,1);
+				setFilterRange(category, newRanges);
+				return;
+			}
+		}
+
+		// We have to split a range.
+		// This happens if an interval is set with PC and then removed by the histogram
+		for (let i = 0; i < newRanges.length; i++) {
+			const oldRange = newRanges[i];
+
+			// This is the interval containing the one to be removed
+			if (rangeToBeRemoved[0] >= oldRange[0] && rangeToBeRemoved[1] <= oldRange[1]) {
+				const firstRange = [oldRange[0], rangeToBeRemoved[0]];
+				const secondRange = [rangeToBeRemoved[1], oldRange[1]]
+
+				// Remove the old range
+				newRanges.splice(i,1)
+				newRanges.push(firstRange)
+				newRanges.push(secondRange)
+				setFilterRange(category, newRanges.sort((a, b) => a[0] - b[0]))
+
+			}
 		}
 	}
-
-	console.log(categoriesFilterState)
 
 	return (
 		<>
@@ -48,9 +97,9 @@ function Graphs({ categoriesFilterState, countriesScores }: props) {
 			<Histogram
 				countriesScores={countriesScores}
 				category={selectedCategory}
-				selected={selectedRanges}
-				removeSelectedRange={removeSelectedRange}
-				addSelectedRange={addSelectedRange}
+				ranges={getCategoryRange(categoriesFilterState, selectedCategory)}
+				addFilterRange={addFilterRange}
+				removeFilterRange={removeFilterRange}
 			/>
 		</>
 	)

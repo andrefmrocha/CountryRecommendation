@@ -95,7 +95,6 @@ function CountriesLegend({ map, topScoreCountries }: props) {
 
 	const updateLegend = () => {
 		const wrapper = document.getElementById("leaflet-control-countries-top-scores");
-		console.log(wrapper);
 		const countryNames = wrapper?.getElementsByClassName("country-name");
 		const countryScores = wrapper?.getElementsByClassName("country-score");
 

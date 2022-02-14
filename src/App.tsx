@@ -5,153 +5,207 @@ import WorldMap from "./components/WorldMap"
 import Selection from "./components/Selection"
 import Graphs from "./components/Graphs"
 import {
-	CategoryFilterState,
-	Category,
-	CountryCode,
-	CountryScore,
-	countryCodes,
+    CategoryFilterState,
+    Category,
+    CountryCode,
+    CountryScore,
+    countryCodes,
 } from "./data/datasets/datasetsMapping"
 
 function getPercentile(position: number, total: number) {
-	const relativePosition = position / total
+    const relativePosition = position / total
 
-	if (relativePosition < 0.01) {
-		return "1%"
-	} else if (relativePosition < 0.1) {
-		return "10%"
-	} else if (relativePosition < 0.5) {
-		return "50%"
-	} else {
-		return "100%"
-	}
+    if (relativePosition < 0.01) {
+        return "1%"
+    } else if (relativePosition < 0.1) {
+        return "10%"
+    } else if (relativePosition < 0.5) {
+        return "50%"
+    } else {
+        return "100%"
+    }
 }
 
 function App() {
-	const [categoriesFilterState, setCategoriesFilterState] = useState<
-		Array<CategoryFilterState>
-	>([])
-	const [countriesScores, setCountriesScores] =
-		useState<Map<CountryCode, CountryScore>>()
-	const [topScoreCountries, setTopScoreCountries] = useState<
-		Array<CountryScore> | []
-	>([])
+    const [categoriesFilterState, setCategoriesFilterState] = useState<
+        Array<CategoryFilterState>
+    >([])
+    const [countriesScores, setCountriesScores] =
+        useState<Map<CountryCode, CountryScore>>()
+    const [topScoreCountries, setTopScoreCountries] = useState<
+        Array<CountryScore> | []
+    >([])
+    const [isAnyRangesSelected, setIsAnyRangesSelected] = useState<Boolean>(false)
 
-	function updateCountryScores(state: CategoryFilterState[]) {
-		let newCountriesScores: Map<CountryCode, CountryScore> = new Map<
-			CountryCode,
-			CountryScore
-		>()
-		let countryArray: Array<any> = []
+    function updateCountryScores(state: CategoryFilterState[]) {
+        let newCountriesScores: Map<CountryCode, CountryScore> = new Map<
+            CountryCode,
+            CountryScore
+        >()
+        let countryArray: Array<any> = []
 
-		let sumFactors =
-			state.reduce(
-				(sum, { category, importanceFactor, matrix }) => sum + importanceFactor,
-				0
-			) || 1
+        let sumFactors =
+            state.reduce(
+                (sum, { category, importanceFactor, matrix }) => sum + importanceFactor,
+                0
+            ) || 1
 
-		countryCodes.forEach((code) => {
-			let overallScore = 0.0
-			let scores: Map<Category, number> = new Map<Category, number>()
+        countryCodes.forEach((code) => {
+            let overallScore = 0.0
+            let scores: Map<Category, number> = new Map<Category, number>()
 
-			state.forEach(({ category, importanceFactor, matrix }) => {
-				scores.set(category, matrix?.get(code) || 0)
-				overallScore +=
-					(matrix?.get(code) || 0) * (importanceFactor / sumFactors)
-			})
+            state.forEach(({ category, importanceFactor, matrix }) => {
+                scores.set(category, matrix?.get(code) || 0)
+                overallScore +=
+                    (matrix?.get(code) || 0) * (importanceFactor / sumFactors)
+            })
 
-			countryArray.push({
-				code: code,
-				scores: scores,
-				overallScore: overallScore,
-			})
-		})
+            countryArray.push({
+                code: code,
+                scores: scores,
+                overallScore: overallScore,
+            })
+        })
 
-		countryArray.sort((a, b) => b.overallScore - a.overallScore)
+        countryArray.sort((a, b) => b.overallScore - a.overallScore)
 
-		countryArray.forEach(({ code, scores, overallScore }, index) =>
-			newCountriesScores.set(code, {
-				code: code,
-				overallScore: overallScore,
-				scores: scores,
-				percentile: getPercentile(index, countryArray.length),
-				isIncluded: countriesScores?.get(code)?.isIncluded || false,
-			})
-		)
+        countryArray.forEach(({ code, scores, overallScore }, index) =>
+            newCountriesScores.set(code, {
+                code: code,
+                overallScore: overallScore,
+                scores: scores,
+                percentile: getPercentile(index, countryArray.length),
+                isIncluded: countriesScores?.get(code)?.isIncluded || false,
+            })
+        )
 
-		let newTopScoreCountries = countryArray
-			.slice(0, 5)
-			.map(({ code, scores, overallScore }, index) => {
-				return {
-					code: code,
-					overallScore: overallScore,
-					scores: scores,
-					percentile: getPercentile(index, countryArray.length),
-					isIncluded: countriesScores?.get(code)?.isIncluded || false,
-				} as CountryScore
-			})
+        let newTopScoreCountries = countryArray
+            .slice(0, 5)
+            .map(({ code, scores, overallScore }, index) => {
+                return {
+                    code: code,
+                    overallScore: overallScore,
+                    scores: scores,
+                    percentile: getPercentile(index, countryArray.length),
+                    isIncluded: countriesScores?.get(code)?.isIncluded || false,
+                } as CountryScore
+            })
 
-		setCountriesScores(newCountriesScores)
-		setTopScoreCountries(newTopScoreCountries)
-	}
+        setCountriesScores(newCountriesScores)
+        setTopScoreCountries(newTopScoreCountries)
+    }
 
-	function removeFilterState(selectedCategory: Category) {
-		let newCategoriesFilterState = categoriesFilterState.filter(
-			(filter) => filter.category !== selectedCategory
-		)
+    function removeFilterState(selectedCategory: Category) {
+        let newCategoriesFilterState = categoriesFilterState.filter(
+            (filter) => filter.category !== selectedCategory
+        )
 
-		updateCountryScores(newCategoriesFilterState)
-		setCategoriesFilterState(newCategoriesFilterState)
-	}
+        updateCountryScores(newCategoriesFilterState)
+        setCategoriesFilterState(newCategoriesFilterState)
 
-	function addFilterState(
-		selectedCategory: Category,
-		importanceFactor: number,
-		matrix: Map<string, number> | null
-	) {
-		if (!matrix) return
+        const isRanges = newCategoriesFilterState.filter(filter => filter.range && filter.range.length > 0).length > 0;
+        setIsAnyRangesSelected(isRanges)
+    }
 
-		const categoryFilterState = {
-			category: selectedCategory,
-			importanceFactor: importanceFactor,
-			matrix: matrix,
-		}
+    function addFilterState(
+        selectedCategory: Category,
+        importanceFactor: number,
+        matrix: Map<string, number> | null,
+    ) {
+        if (!matrix) return
 
-		let newCategoriesFilterState = [...categoriesFilterState]
+        const categoryFilterState = {
+            category: selectedCategory,
+            importanceFactor: importanceFactor,
+            matrix: matrix,
+            range: []
+        }
 
-		let filterIndex = newCategoriesFilterState.findIndex(
-			(filter) => filter.category === selectedCategory
-		)
+        let newCategoriesFilterState = [...categoriesFilterState]
 
-		if (filterIndex < 0) {
-			newCategoriesFilterState.push(categoryFilterState)
-		} else {
-			newCategoriesFilterState[filterIndex] = categoryFilterState
-		}
+        let filterIndex = newCategoriesFilterState.findIndex(
+            (filter) => filter.category === selectedCategory
+        )
 
-		updateCountryScores(newCategoriesFilterState)
-		setCategoriesFilterState(newCategoriesFilterState)
-	}
+        if (filterIndex < 0) {
+            newCategoriesFilterState.push(categoryFilterState)
+        } else {
+            newCategoriesFilterState[filterIndex] = categoryFilterState
+        }
 
-	console.log(categoriesFilterState)
+        updateCountryScores(newCategoriesFilterState)
+        setCategoriesFilterState(newCategoriesFilterState)
+    }
 
-	return (
-		<div className="main-panel">
-			<WorldMap
-				countriesScores={countriesScores}
-				topScoreCountries={topScoreCountries}
-			/>
-			<Selection
-				categoriesFilterState={categoriesFilterState}
-				addFilterState={addFilterState}
-				removeFilterState={removeFilterState}
-				setCategoriesFilterState={setCategoriesFilterState}
-			/>
-			<Graphs
-				categoriesFilterState={categoriesFilterState}
-				countriesScores={countriesScores}
-			/>
-		</div>
-	)
+    function setFilterRange(
+        selectedCategory: Category,
+        range: Array<Array<number>>
+    ) {
+        let newCategoriesFilterState = [...categoriesFilterState]
+
+        let filterIndex = newCategoriesFilterState.findIndex(
+            (filter) => filter.category === selectedCategory
+        )
+
+        newCategoriesFilterState[filterIndex].range = range;
+
+        const isRanges = newCategoriesFilterState.filter(filter => filter.range && filter.range.length > 0).length > 0;
+
+        if (countriesScores) {
+            const newCountriesScores = new Map(countriesScores)
+
+            newCountriesScores.forEach(countryElement => {
+                const entries = Array.from(countryElement.scores)
+                countryElement.isIncluded = true
+
+                for(let i=0; i<entries.length; i++ ){
+                    let filterIndex = newCategoriesFilterState.findIndex(
+                        (filter) => filter.category === entries[i][0]
+                    )
+                    const currentRanges = newCategoriesFilterState[filterIndex].range
+                    const countryScore = entries[i][1]
+                    let isInRange = false;
+                    currentRanges?.forEach(range => {
+                        if(countryScore*100 >= range[0] && countryScore*100 <= range[1]){
+                            isInRange = true;
+                        }
+                    })
+                    if(!isInRange) {
+                        countryElement.isIncluded = false;
+                        break;
+                    }
+                }
+            })
+            setCountriesScores(newCountriesScores);
+        }
+
+        setCategoriesFilterState(newCategoriesFilterState);
+        setIsAnyRangesSelected(isRanges)
+    }
+
+
+
+
+    return (
+        <div className="main-panel">
+            <WorldMap
+                countriesScores={countriesScores}
+                topScoreCountries={topScoreCountries}
+                isAnyRangesSelected={isAnyRangesSelected}
+            />
+            <Selection
+                categoriesFilterState={categoriesFilterState}
+                addFilterState={addFilterState}
+                removeFilterState={removeFilterState}
+                setCategoriesFilterState={setCategoriesFilterState}
+            />
+            <Graphs
+                categoriesFilterState={categoriesFilterState}
+                countriesScores={countriesScores}
+                setFilterRange={setFilterRange}
+            />
+        </div>
+    )
 }
 
 export default App

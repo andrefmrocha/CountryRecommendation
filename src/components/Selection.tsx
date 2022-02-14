@@ -27,7 +27,7 @@ function Selection({
 	addFilterState,
 	removeFilterState,
 }: props) {
-	const [importanceFactor, setImportanceFactor] = useState<number>(0)
+	const [importanceFactor, setImportanceFactor] = useState<number>(1)
 	const [selectedCategory, setSelectedCategory] = useState<Category>()
 	const [includeCategory, setIncludeCategory] = useState<boolean>(false)
 	const [categoryState, setCategoryState] = useState<CategoryFilterState>()
@@ -59,6 +59,7 @@ function Selection({
 			category: selectedCategory,
 			importanceFactor: importanceFactor,
 			matrix: newCategoriesFilterState[filterIndex]?.matrix,
+			range: newCategoriesFilterState[filterIndex]?.range
 		}
 
 		if (filterIndex < 0) {

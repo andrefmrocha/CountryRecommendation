@@ -15,10 +15,11 @@ import CountriesLegend from "./functions/CountriesLegend"
 
 type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
-	topScoreCountries: Array<CountryScore>
+	topScoreCountries: Array<CountryScore>,
+	isAnyRangesSelected: Boolean
 }
 
-function WorldMap({ countriesScores, topScoreCountries }: props) {
+function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected }: props) {
 	const [map, setMap] = useState<LeafletMap>()
 	const percentiles = ["1%", "10%", "50%", "100%"]
 
@@ -44,8 +45,17 @@ function WorldMap({ countriesScores, topScoreCountries }: props) {
 			opacity: 1,
 			color: undefined,
 			dashArray: "3",
-			fillOpacity: 0.8,
+			fillOpacity: getOpacity(feature.properties["iso_n3"]),
 		}
+	}
+
+	const getOpacity = (country: string) => {
+		if (countriesScores && !isEmptyObj(countriesScores)) {
+			// @ts-ignore
+			return countriesScores.get(country)?.isIncluded || !isAnyRangesSelected  ? 0.8 : 0.4;
+		}
+
+		return undefined;
 	}
 
 	const getValue = (country: string) => {
@@ -72,9 +82,9 @@ function WorldMap({ countriesScores, topScoreCountries }: props) {
 					[80, 180],
 				]}
 			>
-				
+
 				<TileLayer
-				// @ts-ignore
+					// @ts-ignore
 					attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 					noWrap={true}

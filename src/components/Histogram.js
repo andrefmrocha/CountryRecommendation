@@ -5,15 +5,28 @@ import { countryCodes } from "../data/datasets/datasetsMapping"
 function Histogram({
 	countriesScores,
 	category,
-	selected,
-	removeSelectedRange,
-	addSelectedRange,
+	ranges,
+	addFilterRange,
+	removeFilterRange
 }) {
 	const ref = useRef()
 	const margin = { top: 30, right: 30, bottom: 20, left: 30 }
 	const width = 540 - margin.left - margin.right
 	const height = 330 - margin.top - margin.bottom
 	const groups = [0, 20, 40, 60, 80]
+
+	const isSelected = (interval) => {
+		if (!ranges || ranges && ranges.length === 0) {
+			return false;
+		}
+		for (let i = 0; i < ranges.length; i++) {
+			const range = ranges[i];
+			if (interval[0] >= range[0] && interval[1] <= range[1]) {
+				return true;
+			}
+		}
+		return false;
+	}
 
 	useEffect(() => {
 		const svg = d3
@@ -30,12 +43,9 @@ function Histogram({
 				countryCodes,
 				(code) => countriesScores.get(code)?.scores.get(category) || 0
 			)
-
-			console.log(data.filter((v) => v < 20))
-
 			draw(data)
 		}
-	}, [countriesScores, category, selected])
+	}, [countriesScores, category, ranges])
 
 	const draw = (data) => {
 		const svg = d3.select(ref.current).select("g")
@@ -101,9 +111,9 @@ function Histogram({
 			.enter()
 			.append("rect")
 			.attr("class", function (d) {
-				return selected.indexOf(d.x0) === -1
-					? "histogram-bar"
-					: "histogram-bar selected"
+				return isSelected([d.x0, d.x1 !== 100 ? d.x1 - 1 : d.x1])
+					? "histogram-bar selected"
+					: "histogram-bar"
 			})
 			.attr("x", function (d) {
 				return x(d.x0)
@@ -116,9 +126,9 @@ function Histogram({
 				return height - yScale(d.length)
 			})
 			.on("click", function (e, d) {
-				selected.indexOf(d.x0) === -1
-					? addSelectedRange(d.x0)
-					: removeSelectedRange(d.x0)
+				return isSelected([d.x0, d.x1 - 1])
+					? removeFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 1 : d.x1])
+					: addFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 1 : d.x1])
 			})
 	}
 
