@@ -1,26 +1,30 @@
 import {PCA} from "ml-pca"
-import {ThemeMappingItem} from "./datasets/datasetsMapping";
+import {ThemeMappingItem, ThemeMappingItemField} from "./datasets/datasetsMapping";
 import openJson from "./openJSON";
 import {getCountryISOCode} from './countryConversion';
 
 interface DataToReduce {
     data: any[],
-    fields: string[]
+    fields: ThemeMappingItemField[]
 }
 
 function normalizePCAData(reducedData: Map<string, number>) {
     const values = Array.from(reducedData.values());
     let maxValue: number = Number.MIN_VALUE
+    let minValue: number = Number.MAX_VALUE
 
     values.forEach((item) => {
             if (item > maxValue) {
                 maxValue = item
             }
+            if (item < minValue) {
+                minValue = item
+            }
         }
     )
 
     const normalizedValue = values.map((item) =>
-        item / maxValue
+        Math.abs(item - minValue) / Math.abs(maxValue - minValue)
     )
 
     const normalizedData: Map<string, number> = new Map<string, number>()
@@ -64,12 +68,12 @@ function reduceData<T>(dataToReduce: DataToReduce[], fieldToGroupBy: string, ori
                 data.set(dataItem[fieldToGroupBy], obj)
             }
 
-            dataToReduceItem.fields.forEach(field => {
+            dataToReduceItem.fields.forEach(fieldItem => {
                 try {
-                    const number = parseFloat(dataItem[field])
+                    const number = parseFloat(dataItem[fieldItem.field])
                     if (!isNaN(number)) {
                         // @ts-ignore
-                        obj[field] = number
+                        obj[fieldItem.field] = (fieldItem.isDecreasing ? (number * (-1)) : number)
                     }
                 } catch (e) {
                 }
