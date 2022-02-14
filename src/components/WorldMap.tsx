@@ -24,15 +24,15 @@ function WorldMap({ countriesScores, topScoreCountries }: props) {
 	const getColor = (percentile: Percentile | undefined) => {
 		switch (percentile) {
 			case "1%":
-				return "#08519C"
+				return "#c2e699"
 			case "10%":
-				return "#3182BD"
+				return "#78c679"
 			case "50%":
-				return "#6BAED6"
+				return "#31a354"
 			case "100%":
-				return "#BDD7E7"
+				return "#006837"
 			default:
-				return "#EFF3FF"
+				return "#cecece"
 		}
 	}
 
@@ -55,8 +55,6 @@ function WorldMap({ countriesScores, topScoreCountries }: props) {
 
 		return undefined
 	}
-
-	console.log(topScoreCountries)
 
 	return (
 		<div className="map-panel">

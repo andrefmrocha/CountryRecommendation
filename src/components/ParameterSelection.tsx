@@ -12,14 +12,16 @@ type props = {
 	selectedCategory: Category | undefined
 	includeCategory: boolean
 	categoriesFilterState: Array<CategoryFilterState>
-	calculate: (datasetMappingByTheme: ThemeMappingItem[]) => void
+	addCategory: (datasetMappingByTheme: ThemeMappingItem[]) => void
+	removeCategory: () => void
 }
 
 function ParameterSelection({
 	selectedCategory,
 	categoriesFilterState,
 	includeCategory,
-	calculate,
+	addCategory,
+	removeCategory,
 }: props) {
 	const [parameters, setParameters] = useState<Array<ThemeMappingItem>>()
 
@@ -33,7 +35,13 @@ function ParameterSelection({
 	}, [selectedCategory])
 
 	function onClick() {
-		if (parameters) calculate(parameters)
+		if (
+			parameters &&
+			parameters.some((parameter) => parameter.isUsed) &&
+			includeCategory
+		)
+			addCategory(parameters)
+		else if (!includeCategory) removeCategory()
 	}
 
 	function getParameters() {
@@ -67,13 +75,19 @@ function ParameterSelection({
 		))
 	}
 
+	function getButton() {
+		return (
+			<button onClick={onClick}>
+				{includeCategory ? "Calculate" : "Remove"}
+			</button>
+		)
+	}
+
 	return (
 		<div className="parameter-panel">
 			<label htmlFor="parameters">{selectedCategory} Parameters</label>
 			<section className="parameters-selection">{getParameters()}</section>
-			<button disabled={!includeCategory} onClick={onClick}>
-				Calculate
-			</button>
+			{getButton()}
 		</div>
 	)
 }

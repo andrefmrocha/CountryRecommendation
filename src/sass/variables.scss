@@ -7,19 +7,21 @@ $secondaryTextColor: #252525;
 $disabledLightGrey: #cecece;
 $disabledDarkGrey: #757575;
 
-$blueLight: #eff3ff;
-$blueMediumLight: #bdd7e7;
-$blueMedium: #6baed6;
-$blueMediumDark: #3182bd;
-$blueDark: #08519c;
+$greenLight: #ffffcc;
+$greenMediumLight: #c2e699;
+$greenMedium: #78c679;
+$greenMediumDark: #31a354;
+$greenDark: #006837;
 
-$categoryColor1: #377eb8;
-$categoryColor1: #4daf4a;
-$categoryColor1: #984ea3;
-$categoryColor1: #a65628;
-$categoryColor1: #e41a1c;
-$categoryColor1: #ff7f00;
-$categoryColor1: #ffff33;
+$categoryColors: (
+	#377eb8,
+	#4daf4a,
+	#984ea3,
+	#a65628,
+	#e41a1c,
+	#ff7f00,
+	#ffff33
+);
 
 $panelBoxShadow: -5px 5px 10px rgba(19, 19, 19, 0.2),
 	5px -5px 10px rgba(19, 19, 19, 0.2), -5px -5px 10px rgba(56, 56, 56, 0.9),

@@ -1,15 +1,16 @@
 import { useEffect, useRef } from "react"
 import * as d3 from "d3"
+import { countryCodes } from "../data/datasets/datasetsMapping"
 
 function Histogram({
-	data,
+	countriesScores,
 	category,
 	selected,
 	removeSelectedRange,
 	addSelectedRange,
 }) {
 	const ref = useRef()
-	const margin = { top: 15, right: 30, bottom: 20, left: 30 }
+	const margin = { top: 30, right: 30, bottom: 20, left: 30 }
 	const width = 540 - margin.left - margin.right
 	const height = 330 - margin.top - margin.bottom
 	const groups = [0, 20, 40, 60, 80]
@@ -24,10 +25,17 @@ function Histogram({
 	}, [])
 
 	useEffect(() => {
-		if (data && data.length > 0) {
+		if (countriesScores) {
+			const data = Array.from(
+				countryCodes,
+				(code) => countriesScores.get(code)?.scores.get(category) || 0
+			)
+
+			console.log(data.filter((v) => v < 20))
+
 			draw(data)
 		}
-	}, [data, selected])
+	}, [countriesScores, category, selected])
 
 	const draw = (data) => {
 		const svg = d3.select(ref.current).select("g")
@@ -93,7 +101,6 @@ function Histogram({
 			.enter()
 			.append("rect")
 			.attr("class", function (d) {
-				console.log(selected)
 				return selected.indexOf(d.x0) === -1
 					? "histogram-bar"
 					: "histogram-bar selected"
@@ -109,7 +116,6 @@ function Histogram({
 				return height - yScale(d.length)
 			})
 			.on("click", function (e, d) {
-				console.log(selected)
 				selected.indexOf(d.x0) === -1
 					? addSelectedRange(d.x0)
 					: removeSelectedRange(d.x0)

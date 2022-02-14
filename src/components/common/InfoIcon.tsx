@@ -11,9 +11,10 @@ function InfoIcon({ parameter, dataset, fields }: props) {
 	function getInformation() {
 		return `
     <strong>Name:</strong> ${parameter}<br><br>
-    <div><strong>Includes the following fields:</strong> <ul>${fields.map(
-			(field) => `<li>${field}</li>`
-		)}</ul></div>
+    <div><strong>Includes the following fields:</strong> <ul>${fields
+			.map((field) => `<li>${field.trim()}</li>`)
+			.toString()
+			.replaceAll(",", "")}</ul></div>
     `
 	}
 

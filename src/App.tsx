@@ -54,9 +54,9 @@ function App() {
 			let scores: Map<Category, number> = new Map<Category, number>()
 
 			state.forEach(({ category, importanceFactor, matrix }) => {
-				scores.set(category, matrix.get(code) || 0)
+				scores.set(category, matrix?.get(code) || 0)
 				overallScore +=
-					(matrix.get(code) || 0) * (importanceFactor / sumFactors)
+					(matrix?.get(code) || 0) * (importanceFactor / sumFactors)
 			})
 
 			countryArray.push({
@@ -94,7 +94,16 @@ function App() {
 		setTopScoreCountries(newTopScoreCountries)
 	}
 
-	function changeFilterState(
+	function removeFilterState(selectedCategory: Category) {
+		let newCategoriesFilterState = categoriesFilterState.filter(
+			(filter) => filter.category !== selectedCategory
+		)
+
+		updateCountryScores(newCategoriesFilterState)
+		setCategoriesFilterState(newCategoriesFilterState)
+	}
+
+	function addFilterState(
 		selectedCategory: Category,
 		importanceFactor: number,
 		matrix: Map<string, number> | null
@@ -123,6 +132,8 @@ function App() {
 		setCategoriesFilterState(newCategoriesFilterState)
 	}
 
+	console.log(categoriesFilterState)
+
 	return (
 		<div className="main-panel">
 			<WorldMap
@@ -131,7 +142,9 @@ function App() {
 			/>
 			<Selection
 				categoriesFilterState={categoriesFilterState}
-				changeFilterState={changeFilterState}
+				addFilterState={addFilterState}
+				removeFilterState={removeFilterState}
+				setCategoriesFilterState={setCategoriesFilterState}
 			/>
 			<Graphs
 				categoriesFilterState={categoriesFilterState}

@@ -1,4 +1,4 @@
-import React from "react"
+import React, { useState } from "react"
 import * as d3 from "d3"
 import { useD3 } from "./hooks/useD3"
 import {
@@ -6,21 +6,30 @@ import {
 	CountryCode,
 	CountryScore,
 	Percentile,
+	Category,
 } from "../data/datasets/datasetsMapping"
+import FactorDistribution from "./FactorDistribution"
 
 type props = {
 	categoriesFilterState: Array<CategoryFilterState>
 	countriesScores: Map<CountryCode, CountryScore> | undefined
+	setSelectedCategory: React.Dispatch<React.SetStateAction<Category>>
 }
 
-function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
+function ParallelCoords({
+	categoriesFilterState,
+	countriesScores,
+	setSelectedCategory,
+}: props) {
+	const [selectionExists, setSelectionExists] = useState<boolean>(false)
+
 	const ref = useD3(
 		(container) => {
 			if (!countriesScores || categoriesFilterState.length === 0) return
 
-			var margin = { top: 30, right: 20, bottom: 20, left: 40 },
+			var margin = { top: 30, right: 40, bottom: 50, left: 45 },
 				width = 800 - margin.left - margin.right,
-				height = 354 - margin.top - margin.bottom,
+				height = 349 - margin.top - margin.bottom,
 				innerHeight = height - 2
 
 			var devicePixelRatio = window.devicePixelRatio || 1
@@ -28,12 +37,19 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 			var normalColor = d3
 				.scaleOrdinal()
 				.domain(["1%", "10%", "50%", "100%"])
-				.range(["#08519C", "#3182BD", "#6BAED6", "#BDD7E7"])
+				.range(["#c2e699AA", "#78c679AA", "#31a354AA", "#006837AA"])
+
+			var disabledColor = d3
+				.scaleOrdinal()
+				.domain(["1%", "10%", "50%", "100%"])
+				.range(["#c2e69912", "#78c67912", "#31a35412", "#00683712"])
 
 			let color = (percentile: Percentile, isIncluded: boolean) => {
-				// if (isIncluded) return normalColor(percentile)
-				// else return "#cecece"
-				return isIncluded ? "#0ead69" : "#cecece"
+				if (selectionExists && isIncluded) return "#0ead69"
+				else
+					return selectionExists
+						? disabledColor(percentile)
+						: normalColor(percentile)
 			}
 
 			var types = {
@@ -53,8 +69,9 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 				},
 			}
 
-			var dimensions = categoriesFilterState.map(
-				({ category, importanceFactor, matrix }) => {
+			var dimensions = categoriesFilterState
+				.filter(({ category, importanceFactor, matrix }) => matrix)
+				.map(({ category, importanceFactor, matrix }) => {
 					return {
 						key: category,
 						description: category,
@@ -63,8 +80,7 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 						scale: d3.scaleLinear().domain([0, 100]).range([innerHeight, 0]),
 						brush: d3.brush(),
 					}
-				}
-			)
+				})
 
 			var xscale = d3
 				.scalePoint<number>()
@@ -127,10 +143,19 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 					d3.select(this).call(renderAxis)
 				})
 				.append("text")
+				.attr("class", "category-icon")
+				.text("⬤")
+				.append("text")
+
+			axes
+				.insert("text", ".category-icon + *")
 				.attr("class", "title")
 				.attr("text-anchor", "start")
 				.text(function (d) {
 					return "description" in d ? d.description : d.key
+				})
+				.on("click", (d, i) => {
+					setSelectedCategory(i.key)
 				})
 
 			// Add and store a brush for each axis.
@@ -270,13 +295,23 @@ function ParallelCoords({ categoriesFilterState, countriesScores }: props) {
 					})
 				})
 
-				render(ctx, countriesScores)
+				setSelectionExists(actives.length !== 0)
+
+				if (actives.length !== 0) {
+					render(ctx, countriesScores)
+				}
 			}
 		},
-		[categoriesFilterState, countriesScores]
+		[categoriesFilterState, countriesScores, selectionExists]
 	)
 
-	return <div className="parallel-panel" ref={ref}></div>
+	return (
+		<div className="parallel-panel" ref={ref}>
+			{categoriesFilterState && (
+				<FactorDistribution categoriesFilterState={categoriesFilterState} />
+			)}
+		</div>
+	)
 }
 
 export default ParallelCoords

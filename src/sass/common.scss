@@ -1,107 +1,112 @@
-@import "./variables.scss"; 
+@import "./variables.scss";
 
 /* Customize the label (the container) */
 .checkbox-container {
-    position: relative;
-    cursor: pointer;
+	position: relative;
+	cursor: pointer;
 
-    &[data-size=small] {
-        min-width: 22px;
-        min-height: 22px;
-    }
+	&[data-size="small"] {
+		min-width: 22px;
+		min-height: 22px;
+	}
 
-    &[data-size=large] {
-        min-width: 30px;
-        min-height: 30px;
-    }
+	&[data-size="large"] {
+		min-width: 30px;
+		min-height: 30px;
+	}
 
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
 
-    /* On mouse-over, add a grey background color */
-    &:hover input ~ .checkmark {
-        background-color: $secondaryBackgroundColor;
-    }
+	/* On mouse-over, add a grey background color */
+	&:hover input ~ .checkmark {
+		background-color: $secondaryBackgroundColor;
+	}
 
-    /* Hide the browser's default checkbox */
-    input {
-        position: absolute;
-        opacity: 0;
-        cursor: pointer;
-        height: 0;
-        width: 0;
+	/* Hide the browser's default checkbox */
+	input {
+		position: absolute;
+		opacity: 0;
+		cursor: pointer;
+		height: 0;
+		width: 0;
 
-        &:disabled ~ .checkmark {
-            cursor: default;
-            background-color: $disabledLightGrey !important;
-        }
+		&:disabled ~ .checkmark {
+			cursor: default;
+			background-color: $disabledLightGrey !important;
+		}
 
-        &:checked ~ .checkmark {
-            background-color: $mainColor;
-        }
+		&:checked ~ .checkmark {
+			background-color: $mainColor;
+		}
 
-        /* Show the checkmark when checked */
-        &:checked ~ .checkmark:after {
-            display: block;
-        }
-    }
+		/* Show the checkmark when checked */
+		&:checked ~ .checkmark:after {
+			display: block;
+		}
+	}
 
-    /* Create a custom checkbox */
-    .checkmark {
-        position: absolute;
-        top: 0;
-        left: 0;
-        background-color: $secondaryBackgroundColor;
-        border-radius: $elementBorderRadius;
-        border: none;
+	/* Create a custom checkbox */
+	.checkmark {
+		position: absolute;
+		top: 0;
+		left: 0;
+		background-color: $secondaryBackgroundColor;
+		border-radius: $elementBorderRadius;
+		border: none;
 
-        &[data-size=small] {
-            width: 22px;
-            height: 22px;
-        }
-    
-        &[data-size=large] {
-            width: 30px;
-            height: 30px;
-        }
-        
-        /* Create the checkmark/indicator (hidden when not checked) */
-        &:after {
-            content: "";
-            position: absolute;
-            display: none;
-        }
-        
-        /* Style the checkmark/indicator */
-        &:after {
-            left: 50%;
-            top: 50%;
-            width: 20%;
-            height: 40%;
-            border: solid $secondaryTextColor;
-            border-width: 0 2px 2px 0;
-            -webkit-transform: translate(-50%, -60%) rotate(45deg);
-            -ms-transform: translate(-50%, -60%) rotate(45deg);
-            transform: translate(-50%, -60%) rotate(45deg);
-        } 
-    }
+		&[data-size="small"] {
+			width: 22px;
+			height: 22px;
+		}
+
+		&[data-size="large"] {
+			width: 30px;
+			height: 30px;
+		}
+
+		/* Create the checkmark/indicator (hidden when not checked) */
+		&:after {
+			content: "";
+			position: absolute;
+			display: none;
+		}
+
+		/* Style the checkmark/indicator */
+		&:after {
+			left: 50%;
+			top: 50%;
+			width: 20%;
+			height: 40%;
+			border: solid $secondaryTextColor;
+			border-width: 0 2px 2px 0;
+			-webkit-transform: translate(-50%, -60%) rotate(45deg);
+			-ms-transform: translate(-50%, -60%) rotate(45deg);
+			transform: translate(-50%, -60%) rotate(45deg);
+		}
+	}
 }
-  
+
 .__react_component_tooltip {
-    text-align: left;
-    color: $textColor !important;
-    opacity: 1 !important;
-    font-weight: 400 !important;
-    font-size: 15px !important;
-  
-    a {
-        color: $mainColor;
-        text-decoration: none;
-    
-        &:hover {
-            text-decoration: underline;
-        }
-    }
+	text-align: left;
+	color: $textColor !important;
+	opacity: 1 !important;
+	font-weight: 400 !important;
+	font-size: 15px !important;
+
+	li {
+		margin-bottom: 10px;
+		text-transform: capitalize;
+	}
+
+	a {
+		color: $mainColor;
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
+	}
 }

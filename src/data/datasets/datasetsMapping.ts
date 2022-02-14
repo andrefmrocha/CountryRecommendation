@@ -944,7 +944,7 @@ export type Category =
 export type CategoryFilterState = {
 	category: Category
 	importanceFactor: number
-	matrix: Map<string, number>
+	matrix: Map<string, number> | undefined
 }
 
 export type Percentile = "1%" | "10%" | "50%" | "100%"

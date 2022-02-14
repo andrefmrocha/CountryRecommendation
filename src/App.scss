@@ -1,3 +1,4 @@
+@use "sass:list";
 @import "./sass/variables.scss";
 
 .main-panel {
@@ -400,10 +401,21 @@ div[class*="-panel"] {
 		pointer-events: none;
 	}
 
+	.axis {
+		@for $i from 1 through 7 {
+			&:nth-child(#{$i}) .category-icon {
+				transform: translate(-22px, -11px);
+				fill: list.nth($categoryColors, $i);
+			}
+		}
+	}
+
 	.axis .title {
 		font-size: 10px;
 		transform: translate(-20px, -10px);
 		fill: $textColor;
+
+		cursor: pointer;
 	}
 
 	.axis line,
@@ -459,6 +471,84 @@ div[class*="-panel"] {
 		stroke: $textColor;
 		stroke-width: 1px;
 	}
+
+	.importance-factor-distribution {
+		position: absolute;
+		top: 314px;
+		left: 15px;
+		width: 770px;
+		height: 25px;
+		display: flex;
+		z-index: 10;
+		flex-direction: column;
+		gap: 5px;
+
+		label {
+			font-size: 10px;
+			font-weight: 400;
+		}
+
+		.distribution-bar {
+			width: 100%;
+			min-height: 8px;
+
+			background-color: $textColor;
+			border-radius: $panelBorderRadius;
+
+			display: flex;
+			flex-wrap: nowrap;
+			align-items: center;
+
+			.category-segment {
+				pointer-events: all;
+				height: 100%;
+				transition: width 0.5s ease;
+
+				cursor: help;
+
+				&:first-child {
+					border-top-left-radius: $panelBorderRadius;
+					border-bottom-left-radius: $panelBorderRadius;
+				}
+
+				&:last-child {
+					border-top-right-radius: $panelBorderRadius;
+					border-bottom-right-radius: $panelBorderRadius;
+				}
+
+				&[style*="width: 100%;"] {
+					border-radius: $panelBorderRadius;
+				}
+
+				@for $i from 1 through 7 {
+					&:nth-child(#{$i}) {
+						background-color: list.nth($categoryColors, $i);
+					}
+				}
+
+				span {
+					display: none;
+					font-size: 12px;
+					font-weight: 400;
+					z-index: 999;
+					position: relative;
+					width: fit-content;
+					left: 50%;
+					padding: 5px 8px 5px 8px;
+					border-radius: $elementBorderRadius;
+					transform: translate(-50%, -30px);
+					color: $secondaryTextColor;
+					background-color: $secondaryBackgroundColor;
+				}
+
+				&:hover {
+					span {
+						display: block;
+					}
+				}
+			}
+		}
+	}
 }
 
 .histogram-panel {
@@ -488,6 +578,6 @@ div[class*="-panel"] {
 
 	.category-text {
 		fill: $textColor;
-		transform: translate(35%, 0);
+		transform: translate(35%, -10px);
 	}
 }

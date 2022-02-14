@@ -6,8 +6,8 @@ import {
 	CountryCode,
 	CountryScore,
 	countryCodes,
+	Category,
 } from "../data/datasets/datasetsMapping"
-import { isEmptyObj } from "./functions/helpers"
 
 type props = {
 	categoriesFilterState: Array<CategoryFilterState>
@@ -15,21 +15,10 @@ type props = {
 }
 
 function Graphs({ categoriesFilterState, countriesScores }: props) {
-	const [selectedCategory, setSelectedCategory] =
-		useState<String>("Air pollution")
+	const [selectedCategory, setSelectedCategory] = useState<Category>(
+		categoriesFilterState[0]?.category
+	)
 	const [selectedRanges, setSelectedRanges] = useState<Number[]>([])
-	const [histogramData, setHistogramData] = useState<Number[]>([])
-
-	useEffect(() => {
-		if (countriesScores && !isEmptyObj(countriesScores)) {
-			setHistogramData(
-				Array.from(
-					countryCodes,
-					(code) => countriesScores.get(code)?.overallScore || 0
-				)
-			)
-		}
-	}, [countriesScores])
 
 	// TEMP functionn before multiple categories and ranges are added
 	const removeSelectedRange = (range: Number) => {
@@ -47,14 +36,17 @@ function Graphs({ categoriesFilterState, countriesScores }: props) {
 		}
 	}
 
+	console.log(categoriesFilterState)
+
 	return (
 		<>
 			<ParallelCoords
 				categoriesFilterState={categoriesFilterState}
 				countriesScores={countriesScores}
+				setSelectedCategory={setSelectedCategory}
 			/>
 			<Histogram
-				data={histogramData}
+				countriesScores={countriesScores}
 				category={selectedCategory}
 				selected={selectedRanges}
 				removeSelectedRange={removeSelectedRange}
