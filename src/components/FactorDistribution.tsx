@@ -22,15 +22,20 @@ function FactorDistribution({ categoriesFilterState }: props) {
 			) || 1
 
 		setCategorySegments(
-			categoriesFilterState.map(({ category, importanceFactor, matrix }) => {
-				const percentage = (importanceFactor / factorSum) * 100
+			categoriesFilterState
+				.filter((state) => state.importanceFactor > 0)
+				.map(({ category, importanceFactor, matrix }) => {
+					const percentage = (importanceFactor / factorSum) * 100
 
-				return (
-					<div className="category-segment" style={{ width: `${percentage}%` }}>
-						<span>{`${category}: ${percentage.toPrecision(4)}%`}</span>
-					</div>
-				)
-			})
+					return (
+						<div
+							className="category-segment"
+							style={{ width: `${percentage}%` }}
+						>
+							<span>{`${category}: ${percentage.toPrecision(4)}%`}</span>
+						</div>
+					)
+				})
 		)
 	}, [categoriesFilterState])
 

@@ -516,10 +516,6 @@ div[class*="-panel"] {
 					border-bottom-right-radius: $panelBorderRadius;
 				}
 
-				&[style*="width: 100%;"] {
-					border-radius: $panelBorderRadius;
-				}
-
 				@for $i from 1 through 7 {
 					&:nth-child(#{$i}) {
 						background-color: list.nth($categoryColors, $i);

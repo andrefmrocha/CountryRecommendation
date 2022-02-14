@@ -42,9 +42,13 @@ function ParallelCoords({
 			var disabledColor = d3
 				.scaleOrdinal()
 				.domain(["1%", "10%", "50%", "100%"])
-				.range(["#c2e69912", "#78c67912", "#31a35412", "#00683712"])
+				.range(["#c2e69911", "#78c67910", "#31a35409", "#00683708"])
 
-			let color = (percentile: Percentile, isIncluded: boolean) => {
+			let color = (
+				percentile: Percentile,
+				isIncluded: boolean,
+				selectionExists: boolean
+			) => {
 				if (selectionExists && isIncluded) return "#0ead69"
 				else
 					return selectionExists
@@ -134,7 +138,7 @@ function ParallelCoords({
 				dim.scale.domain(dim.domain)
 			})
 
-			render(ctx, countriesScores)
+			render(ctx, countriesScores, selectionExists)
 
 			axes
 				.append("g")
@@ -183,7 +187,8 @@ function ParallelCoords({
 
 			function render(
 				ctx: CanvasRenderingContext2D,
-				data: Map<CountryCode, CountryScore>
+				data: Map<CountryCode, CountryScore>,
+				selectionExists: boolean
 			) {
 				ctx.clearRect(0, 0, width, height)
 				ctx.globalAlpha =
@@ -191,10 +196,10 @@ function ParallelCoords({
 
 				// Draw the highlighted lines last
 				data.forEach((score) => {
-					if (!score.isIncluded) draw(score)
+					if (!score.isIncluded) draw(score, selectionExists)
 				})
 				data.forEach((score) => {
-					if (score.isIncluded) draw(score)
+					if (score.isIncluded) draw(score, selectionExists)
 				})
 			}
 
@@ -210,10 +215,14 @@ function ParallelCoords({
 				})
 			}
 
-			function draw(data: CountryScore) {
+			function draw(data: CountryScore, selectionExists: boolean) {
 				if (!ctx) return
 
-				ctx.strokeStyle = color(data.percentile, data.isIncluded) as string
+				ctx.strokeStyle = color(
+					data.percentile,
+					data.isIncluded,
+					selectionExists
+				) as string
 				ctx.beginPath()
 				var coords = project(data)
 
@@ -297,12 +306,10 @@ function ParallelCoords({
 
 				setSelectionExists(actives.length !== 0)
 
-				if (actives.length !== 0) {
-					render(ctx, countriesScores)
-				}
+				render(ctx, countriesScores, actives.length !== 0)
 			}
 		},
-		[categoriesFilterState, countriesScores, selectionExists]
+		[categoriesFilterState, countriesScores]
 	)
 
 	return (
