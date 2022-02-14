@@ -1,3 +1,4 @@
+// @ts-ignore
 import L, { Map as LeafletMap } from "leaflet"
 import { useEffect } from "react"
 import { getCountryNameFromISOCode } from "../../data/countryConversion"

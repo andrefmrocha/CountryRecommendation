@@ -1,4 +1,5 @@
 import React, { useState } from "react"
+// @ts-ignore
 import { Map as LeafletMap } from "leaflet"
 import { MapContainer, TileLayer, GeoJSON } from "react-leaflet"
 import countries from "../data/countries.geo.json"
@@ -71,7 +72,9 @@ function WorldMap({ countriesScores, topScoreCountries }: props) {
 					[80, 180],
 				]}
 			>
+				
 				<TileLayer
+				// @ts-ignore
 					attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 					url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
 					noWrap={true}

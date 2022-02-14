@@ -30,6 +30,14 @@ div[class*="-panel"] {
 		height: 100%;
 
 		border-radius: $panelBorderRadius;
+
+    .leaflet-control-container {
+      z-index: 400;
+
+      .leaflet-bottom {
+        z-index: 400;
+      }
+    }
 	}
 }
 
