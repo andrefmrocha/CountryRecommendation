@@ -35,7 +35,9 @@ function App() {
     const [topScoreCountries, setTopScoreCountries] = useState<
         Array<CountryScore> | []
     >([])
-    const [isAnyRangesSelected, setIsAnyRangesSelected] = useState<Boolean>(false)
+    const [isAnyRangesSelected, setIsAnyRangesSelected] = useState<boolean>(false)
+	const [pcSelectionExists, setPcSelectionExists] = useState<boolean>(false)
+
 
     function updateCountryScores(state: CategoryFilterState[]) {
         let newCountriesScores: Map<CountryCode, CountryScore> = new Map<
@@ -165,14 +167,16 @@ function App() {
                     const currentRanges = newCategoriesFilterState[filterIndex].range
                     const countryScore = entries[i][1]
                     let isInRange = false;
-                    currentRanges?.forEach(range => {
-                        if(countryScore*100 >= range[0] && countryScore*100 <= range[1]){
-                            isInRange = true;
+                    if(currentRanges && currentRanges.length >0) {
+                        currentRanges.forEach(range => {
+                            if(countryScore*100 >= range[0] && countryScore*100 <= range[1]){
+                                isInRange = true;
+                            }
+                        })
+                        if(!isInRange) {
+                            countryElement.isIncluded = false;
+                            break;
                         }
-                    })
-                    if(!isInRange) {
-                        countryElement.isIncluded = false;
-                        break;
                     }
                 }
             })
@@ -192,6 +196,7 @@ function App() {
                 countriesScores={countriesScores}
                 topScoreCountries={topScoreCountries}
                 isAnyRangesSelected={isAnyRangesSelected}
+                pcSelectionExists={pcSelectionExists}
             />
             <Selection
                 categoriesFilterState={categoriesFilterState}
@@ -203,6 +208,9 @@ function App() {
                 categoriesFilterState={categoriesFilterState}
                 countriesScores={countriesScores}
                 setFilterRange={setFilterRange}
+                isAnyRangesSelected={isAnyRangesSelected}
+                pcSelectionExists={pcSelectionExists}
+                setPcSelectionExists={setPcSelectionExists}
             />
         </div>
     )

@@ -13,15 +13,20 @@ import FactorDistribution from "./FactorDistribution"
 type props = {
 	categoriesFilterState: Array<CategoryFilterState>
 	countriesScores: Map<CountryCode, CountryScore> | undefined
-	setSelectedCategory: React.Dispatch<React.SetStateAction<Category>>
+	setSelectedCategory: React.Dispatch<React.SetStateAction<Category>>,
+	histogramRangeExist: boolean,
+	selectionExists: boolean,
+	setSelectionExists: (arg0: boolean) => void
 }
 
 function ParallelCoords({
 	categoriesFilterState,
 	countriesScores,
 	setSelectedCategory,
+	histogramRangeExist,
+	setSelectionExists,
+	selectionExists
 }: props) {
-	const [selectionExists, setSelectionExists] = useState<boolean>(false)
 
 	const ref = useD3(
 		(container) => {
@@ -47,11 +52,12 @@ function ParallelCoords({
 			let color = (
 				percentile: Percentile,
 				isIncluded: boolean,
-				selectionExists: boolean
+				selectionExists: boolean,
+				histogramRangeExist: boolean
 			) => {
-				if (selectionExists && isIncluded) return "#0ead69"
+				if ((selectionExists || histogramRangeExist) && isIncluded) return "#0ead69"
 				else
-					return selectionExists
+					return selectionExists || histogramRangeExist
 						? disabledColor(percentile)
 						: normalColor(percentile)
 			}
@@ -138,7 +144,7 @@ function ParallelCoords({
 				dim.scale.domain(dim.domain)
 			})
 
-			render(ctx, countriesScores, selectionExists)
+			render(ctx, countriesScores, selectionExists, histogramRangeExist)
 
 			axes
 				.append("g")
@@ -188,7 +194,8 @@ function ParallelCoords({
 			function render(
 				ctx: CanvasRenderingContext2D,
 				data: Map<CountryCode, CountryScore>,
-				selectionExists: boolean
+				selectionExists: boolean,
+				histogramRangeExist: boolean
 			) {
 				ctx.clearRect(0, 0, width, height)
 				ctx.globalAlpha =
@@ -196,10 +203,10 @@ function ParallelCoords({
 
 				// Draw the highlighted lines last
 				data.forEach((score) => {
-					if (!score.isIncluded) draw(score, selectionExists)
+					if (!score.isIncluded) draw(score, selectionExists, histogramRangeExist)
 				})
 				data.forEach((score) => {
-					if (score.isIncluded) draw(score, selectionExists)
+					if (score.isIncluded) draw(score, selectionExists, histogramRangeExist)
 				})
 			}
 
@@ -215,13 +222,14 @@ function ParallelCoords({
 				})
 			}
 
-			function draw(data: CountryScore, selectionExists: boolean) {
+			function draw(data: CountryScore, selectionExists: boolean,histogramRangeExist: boolean) {
 				if (!ctx) return
 
 				ctx.strokeStyle = color(
 					data.percentile,
 					data.isIncluded,
-					selectionExists
+					selectionExists,
+					histogramRangeExist
 				) as string
 				ctx.beginPath()
 				var coords = project(data)
@@ -306,7 +314,7 @@ function ParallelCoords({
 
 				setSelectionExists(actives.length !== 0)
 
-				render(ctx, countriesScores, actives.length !== 0)
+				render(ctx, countriesScores, actives.length !== 0, histogramRangeExist)
 			}
 		},
 		[categoriesFilterState, countriesScores]

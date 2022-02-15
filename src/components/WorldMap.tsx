@@ -16,10 +16,11 @@ import CountriesLegend from "./functions/CountriesLegend"
 type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
 	topScoreCountries: Array<CountryScore>,
-	isAnyRangesSelected: Boolean
+	isAnyRangesSelected: boolean,
+	pcSelectionExists: boolean
 }
 
-function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected }: props) {
+function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected, pcSelectionExists }: props) {
 	const [map, setMap] = useState<LeafletMap>()
 	const percentiles = ["1%", "10%", "50%", "100%"]
 
@@ -52,7 +53,7 @@ function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected }: p
 	const getOpacity = (country: string) => {
 		if (countriesScores && !isEmptyObj(countriesScores)) {
 			// @ts-ignore
-			return countriesScores.get(country)?.isIncluded || !isAnyRangesSelected  ? 0.8 : 0.4;
+			return countriesScores.get(country)?.isIncluded || (!isAnyRangesSelected && !pcSelectionExists)  ? 0.8 : 0.4;
 		}
 
 		return undefined;

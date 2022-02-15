@@ -15,10 +15,14 @@ type props = {
 	setFilterRange: (
 		category: Category,
 		range: Array<Array<number>> | [],
-	) => void
+	) => void,
+	isAnyRangesSelected: boolean,
+	pcSelectionExists: boolean,
+	setPcSelectionExists: (arg0: boolean) => void,
 }
 
-function Graphs({ categoriesFilterState, countriesScores, setFilterRange }: props) {
+
+function Graphs({ categoriesFilterState, countriesScores, setFilterRange, isAnyRangesSelected, pcSelectionExists, setPcSelectionExists }: props) {
 	const [selectedCategory, setSelectedCategory] = useState<Category>(
 		categoriesFilterState[0]?.category
 	)
@@ -93,6 +97,9 @@ function Graphs({ categoriesFilterState, countriesScores, setFilterRange }: prop
 				categoriesFilterState={categoriesFilterState}
 				countriesScores={countriesScores}
 				setSelectedCategory={setSelectedCategory}
+				histogramRangeExist= {isAnyRangesSelected}
+				selectionExists={pcSelectionExists}
+				setSelectionExists={setPcSelectionExists}
 			/>
 			<Histogram
 				countriesScores={countriesScores}
