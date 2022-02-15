@@ -18,10 +18,12 @@ import { getCountryNameFromISOCode } from "../data/countryConversion"
 
 type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
-	topScoreCountries: Array<CountryScore>
+	topScoreCountries: Array<CountryScore>,
+	isAnyRangesSelected: boolean,
+	pcSelectionExists: boolean
 }
 
-function WorldMap({ countriesScores, topScoreCountries }: props) {
+function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected, pcSelectionExists }: props) {
 	const [map, setMap] = useState<LeafletMap>()
 	const [hoveredCountry, setHoveredCountry] = useState<CountryCode | undefined>(undefined)
 	const geoJson = useRef()
@@ -50,8 +52,17 @@ function WorldMap({ countriesScores, topScoreCountries }: props) {
 			opacity: 1,
 			color: undefined,
 			dashArray: "3",
-			fillOpacity: 0.8,
+			fillOpacity: getOpacity(feature.properties["iso_n3"]),
 		}
+	}
+
+	const getOpacity = (country: string) => {
+		if (countriesScores && !isEmptyObj(countriesScores)) {
+			// @ts-ignore
+			return countriesScores.get(country)?.isIncluded || (!isAnyRangesSelected && !pcSelectionExists)  ? 0.8 : 0.4;
+		}
+
+		return undefined;
 	}
 
 	const getValue = (country: string) => {

@@ -5,15 +5,46 @@ import { countryCodes } from "../data/datasets/datasetsMapping"
 function Histogram({
 	countriesScores,
 	category,
-	selected,
-	removeSelectedRange,
-	addSelectedRange,
+	ranges,
+	addFilterRange,
+	removeFilterRange
 }) {
 	const ref = useRef()
 	const margin = { top: 30, right: 30, bottom: 20, left: 30 }
 	const width = 540 - margin.left - margin.right
 	const height = 330 - margin.top - margin.bottom
 	const groups = [0, 20, 40, 60, 80]
+
+	const isAllIncluded = (data) => {
+		return data.filter(element => !element.isIncluded).length === 0
+	}
+
+	const isSelected = (interval) => {
+		if (!ranges || ranges && ranges.length === 0) {
+			return false;
+		}
+		for (let i = 0; i < ranges.length; i++) {
+			const range = ranges[i];
+			if (interval[0] >= range[0] && interval[1] <= range[1]) {
+				return true;
+			}
+		}
+		return false;
+	}
+
+	const getIncludedPercentage = (bin) => {
+		let count = 0;
+		let includedCount = 0;
+		for (let i = 0; i < bin.length; i++) {
+			if (bin[i] && bin[i].isIncluded !== undefined) {
+				count += 1;
+				if (bin[i].isIncluded) {
+					includedCount += 1;
+				}
+			}
+		}
+		return includedCount / count;
+	}
 
 	useEffect(() => {
 		const svg = d3
@@ -28,11 +59,11 @@ function Histogram({
 		if (countriesScores) {
 			const data = Array.from(
 				countryCodes,
-				(code) => countriesScores.get(code)?.scores.get(category) || 0
+				(code) => ({ score: countriesScores.get(code)?.scores.get(category) || 0, isIncluded: countriesScores.get(code)?.isIncluded || false })
 			)
 			draw(data)
 		}
-	}, [countriesScores, category, selected])
+	}, [countriesScores, category, ranges])
 
 	const draw = (data) => {
 		const svg = d3.select(ref.current).select("g")
@@ -67,7 +98,7 @@ function Histogram({
 		let histogram = d3
 			.bin()
 			.value(function (d) {
-				return d * 100.0
+				return d.score * 100.0
 			})
 			.domain(xScale.domain())
 			.thresholds(5)
@@ -92,15 +123,15 @@ function Histogram({
 			.attr("text-anchor", "end")
 			.text("Count")
 
-		svg
+		const notSelected = svg.append('g')
+
+		notSelected
 			.selectAll("rect")
 			.data(bins)
 			.enter()
 			.append("rect")
 			.attr("class", function (d) {
-				return selected.indexOf(d.x0) === -1
-					? "histogram-bar"
-					: "histogram-bar selected"
+				return "histogram-bar"
 			})
 			.attr("x", function (d) {
 				return x(d.x0)
@@ -113,10 +144,38 @@ function Histogram({
 				return height - yScale(d.length)
 			})
 			.on("click", function (e, d) {
-				selected.indexOf(d.x0) === -1
-					? addSelectedRange(d.x0)
-					: removeSelectedRange(d.x0)
+				return isSelected([d.x0, d.x1 - 0.0000000000000001])
+					? removeFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
+					: addFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
 			})
+
+		const selected = svg.append('g')
+
+		selected
+			.selectAll("rect")
+			.data(bins)
+			.enter()
+			.append("rect")
+			.attr("class", function (d) {
+				return "histogram-bar selected"
+			})
+			.attr("x", function (d) {
+				return x(d.x0)
+			})
+			.attr("y", function (d) {
+				return yScale(d.length) + ((height - yScale(d.length)) ) - (height - yScale(d.length)) * getIncludedPercentage(d)
+			})
+			.attr("width", x.bandwidth())
+			.attr("height", function (d) {
+				return !isAllIncluded(data) ? (height - yScale(d.length)) * getIncludedPercentage(d) : 0
+			})
+			.on("click", function (e, d) {
+				return isSelected([d.x0, d.x1 - 0.0000000000000001])
+					? removeFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
+					: addFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
+			})
+
+
 	}
 
 	return (

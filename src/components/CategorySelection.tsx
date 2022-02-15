@@ -55,7 +55,7 @@ function CategorySelection({
 						console.log(e.currentTarget.value)
 						setSelectedCategory(e.currentTarget.value as Category)
 						setIncludeCategory(false)
-						setImportanceFactor(0)
+						setImportanceFactor(1)
 					}}
 				>
 					{getOptions()}

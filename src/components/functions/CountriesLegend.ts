@@ -47,8 +47,12 @@ function CountriesLegend({ map, topScoreCountries, visible }: props) {
 		legend.onAdd = () => {
 			let wrapper = L.DomUtil.create("div", "info legend")
 			wrapper.id = "leaflet-control-countries-top-scores"
+<<<<<<< HEAD
 			
 			wrapper.style.transition = "opacity 0.2s"
+=======
+
+>>>>>>> feature/map
 			wrapper.style.background = "#252525"
 			wrapper.style.color = "#F7F7F7"
 			wrapper.style.padding = "1.1em 1.5em"
@@ -103,6 +107,7 @@ function CountriesLegend({ map, topScoreCountries, visible }: props) {
 				row.appendChild(score)
 
 				wrapper.appendChild(row)
+<<<<<<< HEAD
 			}
 			return wrapper
 		}
@@ -160,6 +165,34 @@ function CountriesLegend({ map, topScoreCountries, visible }: props) {
 				}
 			}
 		}
+=======
+			}
+			return wrapper
+		}
+
+		legend.addTo(map)
+	}
+
+	const updateLegend = () => {
+		const wrapper = document.getElementById("leaflet-control-countries-top-scores");
+		const countryNames = wrapper?.getElementsByClassName("country-name");
+		const countryScores = wrapper?.getElementsByClassName("country-score");
+
+		if (countryNames && countryNames.length === 5) {
+			for (let i = 0; i < countryNames.length; i++) {
+				countryNames[i].innerHTML = getCountryNameFromISOCode(
+					topScoreCountries[i].code
+				)
+			}
+		}
+		if (countryScores && countryScores.length === 5) {
+			for (let i = 0; i < countryScores.length; i++) {
+				countryScores[i].innerHTML = String(
+					Math.round(topScoreCountries[i].overallScore * 100.0)
+				)
+			}
+		}
+>>>>>>> feature/map
 	}
 	return null
 }
