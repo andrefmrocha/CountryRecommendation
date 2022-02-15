@@ -36,8 +36,6 @@ function Graphs({ categoriesFilterState, countriesScores }: props) {
 		}
 	}
 
-	console.log(categoriesFilterState)
-
 	return (
 		<>
 			<ParallelCoords

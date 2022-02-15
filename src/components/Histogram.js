@@ -30,9 +30,6 @@ function Histogram({
 				countryCodes,
 				(code) => countriesScores.get(code)?.scores.get(category) || 0
 			)
-
-			console.log(data.filter((v) => v < 20))
-
 			draw(data)
 		}
 	}, [countriesScores, category, selected])
