@@ -13,7 +13,7 @@ import {
 import { isEmptyObj } from "./functions/helpers"
 import PercentileLegend from "./functions/PercentileLegend"
 import CountriesLegend from "./functions/CountriesLegend"
-import CountryInfoLedgend from "./functions/CountryInfoLegend"
+import CountryInfoLegend from "./functions/CountryInfoLegend"
 import { getCountryNameFromISOCode } from "../data/countryConversion"
 
 type props = {
@@ -62,7 +62,7 @@ function WorldMap({
 	}
 
 	const getOpacity = (country: CountryCode) => {
-		if (countriesScores && !isEmptyObj(countriesScores)) {
+		if (selectedCountries && !isEmptyObj(selectedCountries)) {
 			// @ts-ignore
 			return selectedCountries.length === 0 ||
 				selectedCountries.includes(country)
@@ -152,7 +152,7 @@ function WorldMap({
 					/>
 				)}
 				{map && (
-					<CountryInfoLedgend
+					<CountryInfoLegend
 						map={map}
 						countryScores={getCountryScores(hoveredCountry)}
 						countryName={

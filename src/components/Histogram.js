@@ -158,11 +158,11 @@ function Histogram({ countriesScores, category, range, changeFilterRange }) {
 				return height - yScale(d.length)
 			})
 			.on("click", function (e, d) {
-				return isSelected([d.x0, d.x1 - 0.0000000000000001])
+				return isSelected([d.x0, d.x1 - 1e-15])
 					? changeFilterRange(category, [])
 					: changeFilterRange(category, [
 							d.x0,
-							d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1,
+							d.x1 !== 100 ? d.x1 - 1e-15 : d.x1,
 					  ])
 			})
 

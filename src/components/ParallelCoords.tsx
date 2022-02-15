@@ -16,19 +16,16 @@ type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
 	setSelectedCategory: React.Dispatch<React.SetStateAction<Category>>
 	parallelCoordsRanges: FilterRange[]
-	histogramRangeExist: boolean
-	changeFilterRange: (
-		category: Category,
-		newRange: [number, number] | []
-	) => void
+	rangeExists: boolean
+	changeFilterRanges: (newRanges: Array<FilterRange>) => void
 }
 
 function ParallelCoords({
 	categoriesFilterState,
 	countriesScores,
 	setSelectedCategory,
-	histogramRangeExist,
-	changeFilterRange,
+	rangeExists,
+	changeFilterRanges,
 	parallelCoordsRanges,
 }: props) {
 	const [selectionExists, setSelectionExists] = useState<boolean>(
@@ -59,13 +56,12 @@ function ParallelCoords({
 			let color = (
 				percentile: Percentile,
 				isIncluded: boolean,
-				selectionExists: boolean,
-				histogramRangeExist: boolean
+				selectionExists: boolean
 			) => {
-				if ((selectionExists || histogramRangeExist) && isIncluded)
+				if ((selectionExists || rangeExists) && isIncluded)
 					return normalColor(percentile)
 				else
-					return selectionExists || histogramRangeExist
+					return selectionExists || rangeExists
 						? disabledColor(percentile)
 						: normalColor(percentile)
 			}
@@ -154,7 +150,7 @@ function ParallelCoords({
 				dim.scale.domain(dim.domain)
 			})
 
-			render(ctx, countriesScores, selectionExists, histogramRangeExist)
+			render(ctx, countriesScores, selectionExists)
 
 			axes
 				.append("g")
@@ -204,8 +200,7 @@ function ParallelCoords({
 			function render(
 				ctx: CanvasRenderingContext2D,
 				data: Map<CountryCode, CountryScore>,
-				selectionExists: boolean,
-				histogramRangeExist: boolean
+				selectionExists: boolean
 			) {
 				ctx.clearRect(0, 0, width, height)
 				ctx.globalAlpha =
@@ -213,12 +208,10 @@ function ParallelCoords({
 
 				// Draw the highlighted lines last
 				data.forEach((score) => {
-					if (!score.isIncluded)
-						draw(score, selectionExists, histogramRangeExist)
+					if (!score.isIncluded) draw(score, selectionExists)
 				})
 				data.forEach((score) => {
-					if (score.isIncluded)
-						draw(score, selectionExists, histogramRangeExist)
+					if (score.isIncluded) draw(score, selectionExists)
 				})
 			}
 
@@ -234,18 +227,13 @@ function ParallelCoords({
 				})
 			}
 
-			function draw(
-				data: CountryScore,
-				selectionExists: boolean,
-				histogramRangeExist: boolean
-			) {
+			function draw(data: CountryScore, selectionExists: boolean) {
 				if (!ctx) return
 
 				ctx.strokeStyle = color(
 					data.percentile,
 					data.isIncluded,
-					selectionExists,
-					histogramRangeExist
+					selectionExists
 				) as string
 				ctx.beginPath()
 				var coords = project(data)
@@ -311,7 +299,7 @@ function ParallelCoords({
 						})
 					})
 
-				categoriesFilterState.forEach(
+				const ranges = categoriesFilterState.map(
 					({ category, importanceFactor, matrix }) => {
 						const active = actives.find(
 							(active) => active.dimension.key === category
@@ -322,9 +310,11 @@ function ParallelCoords({
 								: []
 						)?.reverse() as [number, number]
 
-						changeFilterRange(category, activeRange)
+						return { category, range: activeRange }
 					}
 				)
+
+				changeFilterRanges(ranges)
 
 				countriesScores?.forEach(function (
 					countryScore: CountryScore,
@@ -349,7 +339,7 @@ function ParallelCoords({
 
 				setSelectionExists(actives.length !== 0)
 
-				render(ctx, countriesScores, actives.length !== 0, histogramRangeExist)
+				render(ctx, countriesScores, actives.length !== 0)
 			}
 
 			svg.selectAll(".axis .brush").each(function (d) {

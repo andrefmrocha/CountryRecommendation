@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 import "./App.scss"
 import "./sass/common.scss"
 import WorldMap from "./components/WorldMap"
@@ -38,6 +38,41 @@ function App() {
 	const [selectedCountries, setSelectedCountries] = useState<
 		Array<CountryCode>
 	>([])
+
+	useEffect(() => {
+		let countryArray: Array<any> = []
+
+		countriesScores?.forEach(
+			({ code, overallScore, scores, percentile, isIncluded }) => {
+				countryArray.push({
+					code: code,
+					scores: scores,
+					overallScore: overallScore,
+				})
+			}
+		)
+
+		countryArray.sort((a, b) => b.overallScore - a.overallScore)
+
+		let newTopScoreCountries = countryArray
+			.filter(
+				({ code, scores, overallScore }) =>
+					selectedCountries.length === 0 ||
+					selectedCountries.some((selectedCode) => code === selectedCode)
+			)
+			.slice(0, 5)
+			.map(({ code, scores, overallScore }, index) => {
+				return {
+					code: code,
+					overallScore: overallScore,
+					scores: scores,
+					percentile: getPercentile(index, countryArray.length),
+					isIncluded: countriesScores?.get(code)?.isIncluded || false,
+				} as CountryScore
+			})
+
+		setTopScoreCountries(newTopScoreCountries)
+	}, [selectedCountries])
 
 	function updateCountryScores(state: CategoryFilterState[]) {
 		let newCountriesScores: Map<CountryCode, CountryScore> = new Map<
@@ -82,6 +117,11 @@ function App() {
 		)
 
 		let newTopScoreCountries = countryArray
+			.filter(
+				({ code, scores, overallScore }) =>
+					selectedCountries.length === 0 ||
+					selectedCountries.some((selectedCode) => code === selectedCode)
+			)
 			.slice(0, 5)
 			.map(({ code, scores, overallScore }, index) => {
 				return {

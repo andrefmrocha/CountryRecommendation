@@ -122,16 +122,18 @@ function CountriesLegend({ map, topScoreCountries, visible }: props) {
 
 		if (countryNames && countryNames.length === 5) {
 			for (let i = 0; i < countryNames.length; i++) {
-				countryNames[i].innerHTML = getCountryNameFromISOCode(
-					topScoreCountries[i].code
-				)
+				countryNames[i].innerHTML =
+					i < topScoreCountries.length
+						? getCountryNameFromISOCode(topScoreCountries[i].code)
+						: ""
 			}
 		}
 		if (countryScores && countryScores.length === 5) {
 			for (let i = 0; i < countryScores.length; i++) {
-				countryScores[i].innerHTML = String(
-					Math.round(topScoreCountries[i].overallScore * 100.0)
-				)
+				countryScores[i].innerHTML =
+					i < topScoreCountries.length
+						? String(Math.round(topScoreCountries[i].overallScore * 100.0))
+						: ""
 			}
 		} else {
 			for (let i = 0; i < topScoreCountries.length; i++) {

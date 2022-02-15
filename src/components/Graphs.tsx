@@ -35,24 +35,42 @@ function Graphs({
 		useState<Array<FilterRange>>()
 
 	useEffect(() => {
+		const newRanges =
+			combineRanges(histogramRanges, parallelCoordsRanges)?.filter(
+				({ category, range }) =>
+					categoriesFilterState.some(
+						({ category: stateCategory, importanceFactor, matrix }) =>
+							stateCategory === category
+					)
+			) || []
+
+		setHistogramRanges(newRanges)
+		setParallelCoordsRanges(newRanges)
+	}, [categoriesFilterState])
+
+	const filterExists = () => {
+		let filterExists = false
+
+		histogramRanges?.forEach(({ category, range }) => {
+			if (range.length > 0) filterExists = true
+		})
+
+		if (!filterExists)
+			parallelCoordsRanges?.forEach(({ category, range }) => {
+				if (range.length > 0) filterExists = true
+			})
+
+		return filterExists
+	}
+
+	const updateSelectedCountries = (range: FilterRange[] | undefined) => {
 		let selectedCountries: Array<CountryCode> = []
 
 		countryCodes.forEach((code) => {
 			const country = countriesScores?.get(code)
 			let notIncluded = false
 
-			histogramRanges?.forEach(({ category, range }) => {
-				const score = (country?.scores.get(category) || 0) * 100
-
-				if (
-					range.length > 0 &&
-					range[0] !== undefined &&
-					range[1] !== undefined
-				)
-					notIncluded = notIncluded || score < range[0] || score > range[1]
-			})
-
-			parallelCoordsRanges?.forEach(({ category, range }) => {
+			range?.forEach(({ category, range }) => {
 				const score = (country?.scores.get(category) || 0) * 100
 
 				if (
@@ -66,21 +84,26 @@ function Graphs({
 			if (!notIncluded) selectedCountries.push(code)
 		})
 
+		console.log(selectedCountries)
+
 		setSelectedCountries(selectedCountries)
-	}, [histogramRanges, parallelCoordsRanges])
+	}
 
-	useEffect(() => {
-		const newRanges =
-			histogramRanges?.filter(({ category, range }) =>
-				categoriesFilterState.some(
-					({ category: stateCategory, importanceFactor, matrix }) =>
-						stateCategory === category
-				)
-			) || []
+	const combineRanges = (
+		primary: FilterRange[] | undefined,
+		secondary: FilterRange[] | undefined
+	) => {
+		if (!primary) return secondary
 
-		setHistogramRanges(newRanges)
-		setParallelCoordsRanges(newRanges)
-	}, [categoriesFilterState])
+		let combination = [...primary]
+
+		secondary?.forEach(({ category, range }) => {
+			if (!combination.some((c) => c.category === category))
+				combination.push({ category, range })
+		})
+
+		return combination
+	}
 
 	const getCategoryRange = (
 		filterRanges: Array<FilterRange>,
@@ -95,27 +118,36 @@ function Graphs({
 			: []
 	}
 
-	const changeFilterRange = (
+	useEffect(() => {
+		console.log(histogramRanges)
+	}, [histogramRanges])
+	useEffect(() => {
+		console.log(parallelCoordsRanges)
+	}, [parallelCoordsRanges])
+
+	const changeFilterRangeFromHist = (
 		category: Category,
-		newRange: [number, number] | [],
-		ranges: FilterRange[] | undefined,
-		stateFunc: React.Dispatch<React.SetStateAction<FilterRange[] | undefined>>
+		newRange: [number, number] | []
 	) => {
+		let ranges = combineRanges(histogramRanges, parallelCoordsRanges)
+
 		const newFilterRange = {
 			category: category,
 			range: newRange,
 		}
 
 		if (!ranges) {
-			if (newRange !== []) stateFunc([newFilterRange])
+			if (newRange !== []) setParallelCoordsRanges([newFilterRange])
 
 			return
 		}
 
 		let newRanges = [...ranges]
 
-		if (newRange === []) {
-			stateFunc(newRanges.filter((range) => range.category !== category))
+		if (newRange.length === 0) {
+			setParallelCoordsRanges(
+				newRanges.filter((range) => range.category !== category)
+			)
 
 			return
 		}
@@ -127,27 +159,17 @@ function Graphs({
 		if (filterIndex < 0) newRanges.push(newFilterRange)
 		else newRanges[filterIndex] = newFilterRange
 
-		stateFunc(newRanges)
+		setParallelCoordsRanges(newRanges)
+		updateSelectedCountries(newRanges)
 	}
 
-	const changeFilterRangeFromHist = (
-		category: Category,
-		newRange: [number, number] | []
-	) => {
-		changeFilterRange(
-			category,
-			newRange,
-			parallelCoordsRanges,
-			setParallelCoordsRanges
+	const changeFilterRangesFromPC = (newRanges: Array<FilterRange>) => {
+		let ranges = combineRanges(newRanges, histogramRanges)?.filter(
+			({ category, range }) => range.length > 0
 		)
-		changeFilterRange(category, newRange, histogramRanges, setHistogramRanges)
-	}
 
-	const changeFilterRangeFromPC = (
-		category: Category,
-		newRange: [number, number] | []
-	) => {
-		changeFilterRange(category, newRange, histogramRanges, setHistogramRanges)
+		setHistogramRanges(ranges)
+		updateSelectedCountries(ranges)
 	}
 
 	return (
@@ -158,8 +180,8 @@ function Graphs({
 					countriesScores={countriesScores}
 					parallelCoordsRanges={parallelCoordsRanges}
 					setSelectedCategory={setSelectedCategory}
-					histogramRangeExist={!!histogramRanges && histogramRanges.length > 0}
-					changeFilterRange={changeFilterRangeFromPC}
+					rangeExists={filterExists()}
+					changeFilterRanges={changeFilterRangesFromPC}
 				/>
 			)}
 			{histogramRanges && (
