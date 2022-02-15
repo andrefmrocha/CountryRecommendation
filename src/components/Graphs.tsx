@@ -6,108 +6,170 @@ import {
 	CountryCode,
 	CountryScore,
 	countryCodes,
+	FilterRange,
 	Category,
 } from "../data/datasets/datasetsMapping"
 
 type props = {
 	categoriesFilterState: Array<CategoryFilterState>
-	countriesScores: Map<CountryCode, CountryScore> | undefined,
-	setFilterRange: (
-		category: Category,
-		range: Array<Array<number>> | [],
-	) => void,
-	isAnyRangesSelected: boolean,
-	pcSelectionExists: boolean,
-	setPcSelectionExists: (arg0: boolean) => void,
+	countriesScores: Map<CountryCode, CountryScore> | undefined
+	setCategoriesFilterState: React.Dispatch<
+		React.SetStateAction<CategoryFilterState[]>
+	>
+	setSelectedCountries: React.Dispatch<
+		React.SetStateAction<Array<CountryCode> | []>
+	>
 }
 
-
-function Graphs({ categoriesFilterState, countriesScores, setFilterRange, isAnyRangesSelected, pcSelectionExists, setPcSelectionExists }: props) {
+function Graphs({
+	categoriesFilterState,
+	countriesScores,
+	setCategoriesFilterState,
+	setSelectedCountries,
+}: props) {
 	const [selectedCategory, setSelectedCategory] = useState<Category>(
 		categoriesFilterState[0]?.category
 	)
+	const [histogramRanges, setHistogramRanges] = useState<Array<FilterRange>>()
+	const [parallelCoordsRanges, setParallelCoordsRanges] =
+		useState<Array<FilterRange>>()
 
-	const getCategoryRange = (categoriesFilterState: Array<CategoryFilterState>, category: Category) => {
-		const filterIndex = categoriesFilterState.findIndex(
+	useEffect(() => {
+		let selectedCountries: Array<CountryCode> = []
+
+		countryCodes.forEach((code) => {
+			const country = countriesScores?.get(code)
+			let notIncluded = false
+
+			histogramRanges?.forEach(({ category, range }) => {
+				const score = (country?.scores.get(category) || 0) * 100
+
+				if (
+					range.length > 0 &&
+					range[0] !== undefined &&
+					range[1] !== undefined
+				)
+					notIncluded = notIncluded || score < range[0] || score > range[1]
+			})
+
+			parallelCoordsRanges?.forEach(({ category, range }) => {
+				const score = (country?.scores.get(category) || 0) * 100
+
+				if (
+					range.length > 0 &&
+					range[0] !== undefined &&
+					range[1] !== undefined
+				)
+					notIncluded = notIncluded || score < range[0] || score > range[1]
+			})
+
+			if (!notIncluded) selectedCountries.push(code)
+		})
+
+		setSelectedCountries(selectedCountries)
+	}, [histogramRanges, parallelCoordsRanges])
+
+	useEffect(() => {
+		const newRanges =
+			histogramRanges?.filter(({ category, range }) =>
+				categoriesFilterState.some(
+					({ category: stateCategory, importanceFactor, matrix }) =>
+						stateCategory === category
+				)
+			) || []
+
+		setHistogramRanges(newRanges)
+		setParallelCoordsRanges(newRanges)
+	}, [categoriesFilterState])
+
+	const getCategoryRange = (
+		filterRanges: Array<FilterRange>,
+		category: Category
+	) => {
+		const filterIndex = filterRanges.findIndex(
 			(filter) => filter.category === category
 		)
-		return categoriesFilterState[filterIndex]?.range ? categoriesFilterState[filterIndex]?.range : []
+
+		return filterRanges[filterIndex]?.range
+			? filterRanges[filterIndex]?.range
+			: []
 	}
 
-	const addFilterRange = (category: Category, newRange: Array<number>) => {
-		const filterIndex = categoriesFilterState.findIndex(
-			(filter) => filter.category === category
+	const changeFilterRange = (
+		category: Category,
+		newRange: [number, number] | [],
+		ranges: FilterRange[] | undefined,
+		stateFunc: React.Dispatch<React.SetStateAction<FilterRange[] | undefined>>
+	) => {
+		const newFilterRange = {
+			category: category,
+			range: newRange,
+		}
+
+		if (!ranges) {
+			if (newRange !== []) stateFunc([newFilterRange])
+
+			return
+		}
+
+		let newRanges = [...ranges]
+
+		if (newRange === []) {
+			stateFunc(newRanges.filter((range) => range.category !== category))
+
+			return
+		}
+
+		const filterIndex = ranges?.findIndex(
+			(range) => range.category === category
 		)
-		const newRanges = [...categoriesFilterState[filterIndex]?.range]
-	
-		let isInList = false;
-		for (let i = 0; i < newRanges.length; i++) {
-			const currentRange = newRanges[i]
-			if (currentRange[0] == newRange[0] && currentRange[1] == newRange[1]) {
-				isInList = true;
-			}
-		}
 
-		if (!isInList) {
-			newRanges.push(newRange);
-			newRanges.sort((a, b) => a[0] - b[0]);
-			setFilterRange(category, newRanges);
-		}
+		if (filterIndex < 0) newRanges.push(newFilterRange)
+		else newRanges[filterIndex] = newFilterRange
 
+		stateFunc(newRanges)
 	}
 
-	const removeFilterRange = (category: Category, rangeToBeRemoved: Array<number>) => {
-		const filterIndex = categoriesFilterState.findIndex(
-			(filter) => filter.category === category
+	const changeFilterRangeFromHist = (
+		category: Category,
+		newRange: [number, number] | []
+	) => {
+		changeFilterRange(
+			category,
+			newRange,
+			parallelCoordsRanges,
+			setParallelCoordsRanges
 		)
-		const newRanges = [...categoriesFilterState[filterIndex]?.range];
+		changeFilterRange(category, newRange, histogramRanges, setHistogramRanges)
+	}
 
-		for (let i = 0; i < newRanges.length; i++) {
-			const currentRange = newRanges[i]
-			if (currentRange[0] == rangeToBeRemoved[0] && currentRange[1] == rangeToBeRemoved[1]) {
-				newRanges.splice(i,1);
-				setFilterRange(category, newRanges);
-				return;
-			}
-		}
-
-		// We have to split a range.
-		// This happens if an interval is set with PC and then removed by the histogram
-		for (let i = 0; i < newRanges.length; i++) {
-			const oldRange = newRanges[i];
-
-			// This is the interval containing the one to be removed
-			if (rangeToBeRemoved[0] >= oldRange[0] && rangeToBeRemoved[1] <= oldRange[1]) {
-				const firstRange = [oldRange[0], rangeToBeRemoved[0]];
-				const secondRange = [rangeToBeRemoved[1], oldRange[1]]
-
-				// Remove the old range
-				newRanges.splice(i,1)
-				newRanges.push(firstRange)
-				newRanges.push(secondRange)
-				setFilterRange(category, newRanges.sort((a, b) => a[0] - b[0]))
-
-			}
-		}
+	const changeFilterRangeFromPC = (
+		category: Category,
+		newRange: [number, number] | []
+	) => {
+		changeFilterRange(category, newRange, histogramRanges, setHistogramRanges)
 	}
 
 	return (
 		<>
-			<ParallelCoords
-				categoriesFilterState={categoriesFilterState}
-				countriesScores={countriesScores}
-				setSelectedCategory={setSelectedCategory}
-				histogramRangeExist= {isAnyRangesSelected}
-				selectionExists={pcSelectionExists}
-				setSelectionExists={setPcSelectionExists}
-			/>
-			<Histogram
-				countriesScores={countriesScores}
-				category={selectedCategory}
-				ranges={getCategoryRange(categoriesFilterState, selectedCategory)}
-				addFilterRange={addFilterRange}
-				removeFilterRange={removeFilterRange}
-			/>
+			{parallelCoordsRanges && (
+				<ParallelCoords
+					categoriesFilterState={categoriesFilterState}
+					countriesScores={countriesScores}
+					parallelCoordsRanges={parallelCoordsRanges}
+					setSelectedCategory={setSelectedCategory}
+					histogramRangeExist={!!histogramRanges && histogramRanges.length > 0}
+					changeFilterRange={changeFilterRangeFromPC}
+				/>
+			)}
+			{histogramRanges && (
+				<Histogram
+					countriesScores={countriesScores}
+					category={selectedCategory}
+					range={getCategoryRange(histogramRanges, selectedCategory)}
+					changeFilterRange={changeFilterRangeFromHist}
+				/>
+			)}
 		</>
 	)
 }

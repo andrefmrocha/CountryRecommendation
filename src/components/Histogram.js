@@ -2,13 +2,7 @@ import { useEffect, useRef } from "react"
 import * as d3 from "d3"
 import { countryCodes } from "../data/datasets/datasetsMapping"
 
-function Histogram({
-	countriesScores,
-	category,
-	ranges,
-	addFilterRange,
-	removeFilterRange
-}) {
+function Histogram({ countriesScores, category, range, changeFilterRange }) {
 	const ref = useRef()
 	const margin = { top: 30, right: 30, bottom: 20, left: 30 }
 	const width = 540 - margin.left - margin.right
@@ -16,34 +10,43 @@ function Histogram({
 	const groups = [0, 20, 40, 60, 80]
 
 	const isAllIncluded = (data) => {
-		return data.filter(element => !element.isIncluded).length === 0
+		return data.filter((element) => !element.isIncluded).length === 0
+	}
+
+	const isIncluded = (score) => {
+		if (!score || range?.length === 0) return false
+
+		if (score >= range[0] && score <= range[1]) {
+			return true
+		}
+
+		return false
 	}
 
 	const isSelected = (interval) => {
-		if (!ranges || ranges && ranges.length === 0) {
-			return false;
+		if (range?.length === 0) {
+			return false
 		}
-		for (let i = 0; i < ranges.length; i++) {
-			const range = ranges[i];
-			if (interval[0] >= range[0] && interval[1] <= range[1]) {
-				return true;
-			}
+
+		if (interval[0] >= range[0] && interval[1] <= range[1]) {
+			return true
 		}
-		return false;
+
+		return false
 	}
 
 	const getIncludedPercentage = (bin) => {
-		let count = 0;
-		let includedCount = 0;
+		let count = 0
+		let includedCount = 0
 		for (let i = 0; i < bin.length; i++) {
 			if (bin[i] && bin[i].isIncluded !== undefined) {
-				count += 1;
+				count += 1
 				if (bin[i].isIncluded) {
-					includedCount += 1;
+					includedCount += 1
 				}
 			}
 		}
-		return includedCount / count;
+		return includedCount / count
 	}
 
 	useEffect(() => {
@@ -57,13 +60,24 @@ function Histogram({
 
 	useEffect(() => {
 		if (countriesScores) {
-			const data = Array.from(
-				countryCodes,
-				(code) => ({ score: countriesScores.get(code)?.scores.get(category) || 0, isIncluded: countriesScores.get(code)?.isIncluded || false })
-			)
+			const data = Array.from(countryCodes, (code) => ({
+				score: countriesScores.get(code)?.scores.get(category) || 0,
+				isIncluded: countriesScores.get(code)?.isIncluded,
+			}))
 			draw(data)
 		}
-	}, [countriesScores, category, ranges])
+	}, [countriesScores, category, range])
+
+	useEffect(() => {
+		countriesScores?.forEach(function (countryScore, key) {
+			countriesScores.set(key, {
+				...countryScore,
+				isIncluded:
+					countriesScores.get(key)?.isIncluded ||
+					isIncluded(countriesScores.get(key)?.scores.get(category)),
+			})
+		})
+	}, [category, range])
 
 	const draw = (data) => {
 		const svg = d3.select(ref.current).select("g")
@@ -123,7 +137,7 @@ function Histogram({
 			.attr("text-anchor", "end")
 			.text("Count")
 
-		const notSelected = svg.append('g')
+		const notSelected = svg.append("g")
 
 		notSelected
 			.selectAll("rect")
@@ -145,11 +159,14 @@ function Histogram({
 			})
 			.on("click", function (e, d) {
 				return isSelected([d.x0, d.x1 - 0.0000000000000001])
-					? removeFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
-					: addFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
+					? changeFilterRange(category, [])
+					: changeFilterRange(category, [
+							d.x0,
+							d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1,
+					  ])
 			})
 
-		const selected = svg.append('g')
+		const selected = svg.append("g")
 
 		selected
 			.selectAll("rect")
@@ -163,19 +180,26 @@ function Histogram({
 				return x(d.x0)
 			})
 			.attr("y", function (d) {
-				return yScale(d.length) + ((height - yScale(d.length)) ) - (height - yScale(d.length)) * getIncludedPercentage(d)
+				return (
+					yScale(d.length) +
+					(height - yScale(d.length)) -
+					(height - yScale(d.length)) * getIncludedPercentage(d)
+				)
 			})
 			.attr("width", x.bandwidth())
 			.attr("height", function (d) {
-				return !isAllIncluded(data) ? (height - yScale(d.length)) * getIncludedPercentage(d) : 0
+				return !isAllIncluded(data)
+					? (height - yScale(d.length)) * getIncludedPercentage(d)
+					: 0
 			})
 			.on("click", function (e, d) {
-				return isSelected([d.x0, d.x1 - 0.0000000000000001])
-					? removeFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
-					: addFilterRange(category, [d.x0, d.x1 !== 100 ? d.x1 - 0.0000000000000001 : d.x1])
+				return isSelected([d.x0, d.x1 - 1e-15])
+					? changeFilterRange(category, [])
+					: changeFilterRange(category, [
+							d.x0,
+							d.x1 !== 100 ? d.x1 - 1e-15 : d.x1,
+					  ])
 			})
-
-
 	}
 
 	return (

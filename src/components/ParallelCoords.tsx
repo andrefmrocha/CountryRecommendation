@@ -7,16 +7,20 @@ import {
 	CountryScore,
 	Percentile,
 	Category,
+	FilterRange,
 } from "../data/datasets/datasetsMapping"
 import FactorDistribution from "./FactorDistribution"
 
 type props = {
 	categoriesFilterState: Array<CategoryFilterState>
 	countriesScores: Map<CountryCode, CountryScore> | undefined
-	setSelectedCategory: React.Dispatch<React.SetStateAction<Category>>,
-	histogramRangeExist: boolean,
-	selectionExists: boolean,
-	setSelectionExists: (arg0: boolean) => void
+	setSelectedCategory: React.Dispatch<React.SetStateAction<Category>>
+	parallelCoordsRanges: FilterRange[]
+	histogramRangeExist: boolean
+	changeFilterRange: (
+		category: Category,
+		newRange: [number, number] | []
+	) => void
 }
 
 function ParallelCoords({
@@ -24,9 +28,12 @@ function ParallelCoords({
 	countriesScores,
 	setSelectedCategory,
 	histogramRangeExist,
-	setSelectionExists,
-	selectionExists
+	changeFilterRange,
+	parallelCoordsRanges,
 }: props) {
+	const [selectionExists, setSelectionExists] = useState<boolean>(
+		parallelCoordsRanges.length > 0
+	)
 
 	const ref = useD3(
 		(container) => {
@@ -55,7 +62,8 @@ function ParallelCoords({
 				selectionExists: boolean,
 				histogramRangeExist: boolean
 			) => {
-				if ((selectionExists || histogramRangeExist) && isIncluded) return "#0ead69"
+				if ((selectionExists || histogramRangeExist) && isIncluded)
+					return normalColor(percentile)
 				else
 					return selectionExists || histogramRangeExist
 						? disabledColor(percentile)
@@ -97,7 +105,9 @@ function ParallelCoords({
 				.domain(d3.range(dimensions.length))
 				.range([0, width])
 
-			var yAxis = d3.axisLeft(d3.scaleLinear().range([innerHeight, 0]))
+			let yscale = d3.scaleLinear().range([innerHeight, 0])
+
+			var yAxis = d3.axisLeft(yscale)
 
 			container.select("svg").remove()
 			container.select("canvas").remove()
@@ -203,10 +213,12 @@ function ParallelCoords({
 
 				// Draw the highlighted lines last
 				data.forEach((score) => {
-					if (!score.isIncluded) draw(score, selectionExists, histogramRangeExist)
+					if (!score.isIncluded)
+						draw(score, selectionExists, histogramRangeExist)
 				})
 				data.forEach((score) => {
-					if (score.isIncluded) draw(score, selectionExists, histogramRangeExist)
+					if (score.isIncluded)
+						draw(score, selectionExists, histogramRangeExist)
 				})
 			}
 
@@ -222,7 +234,11 @@ function ParallelCoords({
 				})
 			}
 
-			function draw(data: CountryScore, selectionExists: boolean,histogramRangeExist: boolean) {
+			function draw(
+				data: CountryScore,
+				selectionExists: boolean,
+				histogramRangeExist: boolean
+			) {
 				if (!ctx) return
 
 				ctx.strokeStyle = color(
@@ -269,14 +285,17 @@ function ParallelCoords({
 
 			function brushstart(event: any) {
 				// @ts-ignore
-				event.sourceEvent.stopPropagation()
+				event?.sourceEvent?.stopPropagation()
 			}
 
 			// Handles a brush event, toggling the display of foreground lines.
 			function brush() {
 				if (!ctx || !countriesScores) return
 
-				var actives: Array<any> = []
+				var actives: Array<{
+					dimension: any
+					extent: d3.BrushSelection | null
+				}> = []
 				svg
 					.selectAll(".axis .brush")
 					// @ts-ignore
@@ -292,12 +311,28 @@ function ParallelCoords({
 						})
 					})
 
+				categoriesFilterState.forEach(
+					({ category, importanceFactor, matrix }) => {
+						const active = actives.find(
+							(active) => active.dimension.key === category
+						)
+						const activeRange = (
+							active
+								? active.extent?.map((v) => active?.dimension.scale.invert(v))
+								: []
+						)?.reverse() as [number, number]
+
+						changeFilterRange(category, activeRange)
+					}
+				)
+
 				countriesScores?.forEach(function (
 					countryScore: CountryScore,
 					key: CountryCode
 				) {
 					let isIncluded = actives.every(function (active) {
 						var dim = active.dimension
+
 						// test if point is within extents for each active brush
 						return dim.type.within(
 							countryScore.scores.get(dim.key),
@@ -316,8 +351,27 @@ function ParallelCoords({
 
 				render(ctx, countriesScores, actives.length !== 0, histogramRangeExist)
 			}
+
+			svg.selectAll(".axis .brush").each(function (d) {
+				let ranges = parallelCoordsRanges.find(
+					// @ts-ignore
+					(state) => d.key === state.category
+				)?.range
+
+				if (ranges && ranges.length > 0) {
+					// @ts-ignore
+					let projectedRange = ranges.map((v) => d.scale(v))
+
+					d3.select(this)
+						// @ts-ignore
+						.call(d.brush.move, [projectedRange[1], projectedRange[0]])
+						.selectAll("rect")
+						.attr("x", -8)
+						.attr("width", 16)
+				}
+			})
 		},
-		[categoriesFilterState, countriesScores]
+		[categoriesFilterState, countriesScores, parallelCoordsRanges]
 	)
 
 	return (

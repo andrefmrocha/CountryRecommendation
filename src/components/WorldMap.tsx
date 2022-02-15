@@ -18,14 +18,19 @@ import { getCountryNameFromISOCode } from "../data/countryConversion"
 
 type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
-	topScoreCountries: Array<CountryScore>,
-	isAnyRangesSelected: boolean,
-	pcSelectionExists: boolean
+	topScoreCountries: Array<CountryScore>
+	selectedCountries: Array<CountryCode>
 }
 
-function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected, pcSelectionExists }: props) {
+function WorldMap({
+	countriesScores,
+	topScoreCountries,
+	selectedCountries,
+}: props) {
 	const [map, setMap] = useState<LeafletMap>()
-	const [hoveredCountry, setHoveredCountry] = useState<CountryCode | undefined>(undefined)
+	const [hoveredCountry, setHoveredCountry] = useState<CountryCode | undefined>(
+		undefined
+	)
 	const geoJson = useRef()
 
 	const percentiles = ["1%", "10%", "50%", "100%"]
@@ -56,13 +61,16 @@ function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected, pcS
 		}
 	}
 
-	const getOpacity = (country: string) => {
+	const getOpacity = (country: CountryCode) => {
 		if (countriesScores && !isEmptyObj(countriesScores)) {
 			// @ts-ignore
-			return countriesScores.get(country)?.isIncluded || (!isAnyRangesSelected && !pcSelectionExists)  ? 0.8 : 0.4;
+			return selectedCountries.length === 0 ||
+				selectedCountries.includes(country)
+				? 1.0
+				: 0.4
 		}
 
-		return undefined;
+		return undefined
 	}
 
 	const getValue = (country: string) => {
@@ -75,37 +83,36 @@ function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected, pcS
 	}
 
 	function highlightFeature(e: Event) {
-		var layer = e.target;
+		var layer = e.target
 		// @ts-ignore
-		setHoveredCountry(layer?.feature?.properties?.iso_n3);
+		setHoveredCountry(layer?.feature?.properties?.iso_n3)
 
 		// @ts-ignore
-		layer?.setStyle({});
+		layer?.setStyle({})
 	}
 
 	function resetHighlight(e: Event) {
-		var layer = e.target;
+		var layer = e.target
 
 		setHoveredCountry(undefined)
 		// @ts-ignore
-		layer?.setStyle({});
+		layer?.setStyle({})
 	}
 
 	function onEachFeature(feature: any, layer: any) {
 		layer.on({
 			mouseover: highlightFeature,
 			mouseout: resetHighlight,
-		});
+		})
 	}
 
 	function getCountryScores(country: CountryCode | undefined) {
 		if (country && countriesScores && countriesScores.get(country)) {
 			// @ts-ignore
-			return countriesScores.get(country).scores;
+			return countriesScores.get(country).scores
 		}
-		return [];
+		return []
 	}
-
 
 	return (
 		<div className="map-panel">
@@ -122,7 +129,6 @@ function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected, pcS
 					[80, 180],
 				]}
 			>
-
 				<TileLayer
 					// @ts-ignore
 					attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -138,12 +144,25 @@ function WorldMap({ countriesScores, topScoreCountries, isAnyRangesSelected, pcS
 					ref={geoJson}
 				></GeoJSON>
 				<PercentileLegend map={map} getColor={getColor} grades={percentiles} />
-				{map && <CountriesLegend map={map} topScoreCountries={topScoreCountries} visible={topScoreCountries.length > 0 && !hoveredCountry} />
-				}
-				{map &&
-					<CountryInfoLedgend map={map} countryScores={getCountryScores(hoveredCountry)} countryName={hoveredCountry ? getCountryNameFromISOCode(hoveredCountry) : ''} visible={
-						!isEmptyObj(countriesScores) && hoveredCountry !== undefined} />
-				}
+				{map && (
+					<CountriesLegend
+						map={map}
+						topScoreCountries={topScoreCountries}
+						visible={topScoreCountries.length > 0 && !hoveredCountry}
+					/>
+				)}
+				{map && (
+					<CountryInfoLedgend
+						map={map}
+						countryScores={getCountryScores(hoveredCountry)}
+						countryName={
+							hoveredCountry ? getCountryNameFromISOCode(hoveredCountry) : ""
+						}
+						visible={
+							!isEmptyObj(countriesScores) && hoveredCountry !== undefined
+						}
+					/>
+				)}
 			</MapContainer>
 		</div>
 	)

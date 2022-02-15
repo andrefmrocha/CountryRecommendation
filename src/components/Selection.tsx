@@ -5,6 +5,7 @@ import {
 	Category,
 	ThemeMappingItem,
 	CategoryFilterState,
+	CountryCode,
 } from "../data/datasets/datasetsMapping"
 import { getPCAMatrix } from "../data/pcaMatrices"
 
@@ -59,7 +60,6 @@ function Selection({
 			category: selectedCategory,
 			importanceFactor: importanceFactor,
 			matrix: newCategoriesFilterState[filterIndex]?.matrix,
-			range: newCategoriesFilterState[filterIndex]?.range
 		}
 
 		if (filterIndex < 0) {

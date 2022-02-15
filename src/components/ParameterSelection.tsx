@@ -41,7 +41,13 @@ function ParameterSelection({
 			includeCategory
 		)
 			addCategory(parameters)
-		else if (!includeCategory) removeCategory()
+		else if (
+			!includeCategory &&
+			!!categoriesFilterState.find(
+				(state) => state.category === selectedCategory
+			)
+		)
+			removeCategory()
 	}
 
 	function getParameters() {
@@ -77,7 +83,18 @@ function ParameterSelection({
 
 	function getButton() {
 		return (
-			<button onClick={onClick}>
+			<button
+				onClick={onClick}
+				disabled={
+					(!includeCategory &&
+						!!categoriesFilterState.find(
+							(state) => state.category === selectedCategory
+						)) ||
+					(includeCategory &&
+						parameters &&
+						!parameters.some((parameter) => parameter.isUsed))
+				}
+			>
 				{includeCategory ? "Calculate" : "Remove"}
 			</button>
 		)
