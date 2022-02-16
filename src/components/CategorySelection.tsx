@@ -54,7 +54,6 @@ function CategorySelection({
 					id="category"
 					value={selectedCategory}
 					onChange={(e) => {
-						console.log(e.currentTarget.value)
 						setSelectedCategory(e.currentTarget.value as Category)
 						setIncludeCategory(false)
 						setImportanceFactor(1)

@@ -13,8 +13,6 @@ function FactorDistribution({ categoriesFilterState }: props) {
 	useEffect(() => {
 		if (categoriesFilterState.length === 0) setCategorySegments([])
 
-		// console.log(categoriesFilterState)
-
 		let factorSum =
 			categoriesFilterState.reduce(
 				(sum, { category, importanceFactor, matrix }) => sum + importanceFactor,

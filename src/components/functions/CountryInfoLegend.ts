@@ -1,8 +1,7 @@
 // @ts-ignore
 import L, { Map as LeafletMap } from "leaflet"
 import { useEffect } from "react"
-import { getCountryNameFromISOCode } from "../../data/countryConversion"
-import { Category, CountryScore } from "../../data/datasets/datasetsMapping"
+import { Category } from "../../data/datasets/datasetsMapping"
 import { isEmptyObj } from "./helpers"
 
 type props = {
@@ -72,11 +71,10 @@ function CountryInfoLegend({
 			let title = document.createElement("div")
 			title.innerHTML = countryName ? countryName : ""
 			title.id = "title-country-info"
-            title.style.textAlign = "center"
-            title.style.marginBottom = "1em"
+			title.style.textAlign = "center"
+			title.style.marginBottom = "1em"
 
-            wrapper.append(title);
-
+			wrapper.append(title)
 
 			let header = document.createElement("div")
 			header.style.display = "flex"
@@ -135,8 +133,6 @@ function CountryInfoLegend({
 
 	const updateLegend = () => {
 		const wrapper = document.getElementById("leaflet-control-country-score")
-		const countryNames = wrapper?.getElementsByClassName("country-name")
-		const countryScores = wrapper?.getElementsByClassName("country-score")
 		const title = document.getElementById("title-country-info")
 
 		let categoriesContainer = document.getElementById("categories-container")
@@ -154,9 +150,9 @@ function CountryInfoLegend({
 			}
 		}
 
-        if(title) {
-            title.innerHTML = countryName ? countryName : ""
-        }
+		if (title) {
+			title.innerHTML = countryName ? countryName : ""
+		}
 		// loop through our density intervals and generate a label with a colored square for each interval
 		for (let i = 0; i < entries.length; i++) {
 			let row = document.createElement("div")

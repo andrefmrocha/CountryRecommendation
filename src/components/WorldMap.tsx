@@ -8,7 +8,6 @@ import {
 	Percentile,
 	CountryCode,
 	CountryScore,
-	countryCodes,
 } from "../data/datasets/datasetsMapping"
 import { isEmptyObj } from "./functions/helpers"
 import PercentileLegend from "./functions/PercentileLegend"
@@ -41,15 +40,15 @@ function WorldMap({
 	const getColor = (percentile: Percentile | undefined) => {
 		switch (percentile) {
 			case "1%":
-				return "#c2e699"
-			case "10%":
-				return "#78c679"
-			case "50%":
-				return "#31a354"
-			case "100%":
 				return "#006837"
+			case "10%":
+				return "#31a354"
+			case "50%":
+				return "#78c679"
+			case "100%":
+				return "#c2e699"
 			default:
-				return "#cecece"
+				return "#ffffff"
 		}
 	}
 
@@ -70,7 +69,7 @@ function WorldMap({
 			return selectedCountries.length === 0 ||
 				selectedCountries.includes(country)
 				? 1.0
-				: 0.4
+				: 0.2
 		}
 
 		return undefined

@@ -44,13 +44,13 @@ function Graphs({
 
 		setHistogramRanges(newRanges)
 		setParallelCoordsRanges(newRanges)
-	}, [categoriesFilterState])
+	}, [categoriesFilterState, hoveredCountry])
 
 	useEffect(() => {
-		if(categoriesFilterState && !selectedCategory) {
+		if (categoriesFilterState && !selectedCategory) {
 			setSelectedCategory(categoriesFilterState[0]?.category)
 		}
-	},[categoriesFilterState])
+	}, [categoriesFilterState])
 
 	const updateSelectedCountries = (range: FilterRange[] | undefined) => {
 		let selectedCountries: Array<CountryCode> = []
@@ -90,19 +90,6 @@ function Graphs({
 		})
 
 		return combination
-	}
-
-	const getCategoryRange = (
-		filterRanges: Array<FilterRange>,
-		category: Category
-	) => {
-		const filterIndex = filterRanges.findIndex(
-			(filter) => filter.category === category
-		)
-
-		return filterRanges[filterIndex]?.range
-			? filterRanges[filterIndex]?.range
-			: []
 	}
 
 	const changeFilterRangeFromHist = (
@@ -158,7 +145,7 @@ function Graphs({
 				<Histogram
 					countriesScores={countriesScores}
 					category={selectedCategory}
-					range={getCategoryRange(histogramRanges, selectedCategory)}
+					histogramRanges={histogramRanges}
 					changeFilterRange={changeFilterRangeFromHist}
 				/>
 			)}

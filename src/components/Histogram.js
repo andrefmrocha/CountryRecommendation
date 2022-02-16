@@ -1,13 +1,29 @@
-import { useEffect, useRef } from "react"
+import { useEffect, useRef, useState } from "react"
 import * as d3 from "d3"
 import { countryCodes } from "../data/datasets/datasetsMapping"
 
-function Histogram({ countriesScores, category, range, changeFilterRange }) {
+function Histogram({
+	countriesScores,
+	category,
+	histogramRanges,
+	changeFilterRange,
+}) {
+	const [range, setRange] = useState([])
 	const ref = useRef()
 	const margin = { top: 30, right: 30, bottom: 20, left: 30 }
 	const width = 540 - margin.left - margin.right
 	const height = 330 - margin.top - margin.bottom
 	const groups = [0, 20, 40, 60, 80]
+
+	const getCategoryRange = (filterRanges, category) => {
+		const filterIndex = filterRanges.findIndex(
+			(filter) => filter.category === category
+		)
+
+		return filterRanges[filterIndex]?.range
+			? filterRanges[filterIndex]?.range
+			: []
+	}
 
 	const isAllIncluded = (data) => {
 		return (
@@ -16,12 +32,17 @@ function Histogram({ countriesScores, category, range, changeFilterRange }) {
 		)
 	}
 
-	const isIncluded = (score) => {
-		if (range?.length === 0 || (score >= range[0] && score < range[1])) {
-			return true
-		}
+	const isIncluded = (scores) => {
+		let notIncluded = false
 
-		return false
+		histogramRanges?.forEach(({ category, range }) => {
+			const score = (scores.get(category) || 0) * 100
+
+			if (range.length > 0 && range[0] !== undefined && range[1] !== undefined)
+				notIncluded = notIncluded || score < range[0] || score > range[1]
+		})
+
+		return !notIncluded
 	}
 
 	const isSelected = (interval) => {
@@ -64,12 +85,14 @@ function Histogram({ countriesScores, category, range, changeFilterRange }) {
 	}, [])
 
 	useEffect(() => {
+		setRange(getCategoryRange(histogramRanges, category))
+	}, [histogramRanges, category])
+
+	useEffect(() => {
 		if (countriesScores) {
 			const data = Array.from(countryCodes, (code) => ({
 				score: countriesScores.get(code)?.scores.get(category) || 0,
-				isIncluded: isIncluded(
-					countriesScores.get(code)?.scores.get(category) * 100
-				),
+				isIncluded: isIncluded(countriesScores.get(code)?.scores),
 			}))
 
 			draw(data)
@@ -176,11 +199,9 @@ function Histogram({ countriesScores, category, range, changeFilterRange }) {
 			.attr("y", function (d) {
 				return isAllIncluded(data)
 					? yScale(d.length)
-					: (
-						yScale(d.length) +
-						(height - yScale(d.length)) -
-						(height - yScale(d.length)) * getIncludedPercentage(d) || 0
-					)
+					: yScale(d.length) +
+							(height - yScale(d.length)) -
+							(height - yScale(d.length)) * getIncludedPercentage(d) || 0
 			})
 			.attr("width", x.bandwidth())
 			.attr("height", function (d) {

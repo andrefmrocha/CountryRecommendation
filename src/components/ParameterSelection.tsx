@@ -35,8 +35,6 @@ function ParameterSelection({
 			(state) => state.category === selectedCategory
 		)?.parameters
 
-		console.log(categoriesFilterState)
-
 		setParameters(
 			params.map((param) => {
 				return {

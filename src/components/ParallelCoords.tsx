@@ -46,12 +46,12 @@ function ParallelCoords({
 			var normalColor = d3
 				.scaleOrdinal()
 				.domain(["1%", "10%", "50%", "100%"])
-				.range(["#c2e699BB", "#78c679BB", "#31a354BB", "#006837BB"])
+				.range(["#006837BB", "#31a354BB", "#78c679BB", "#c2e699BB"])
 
 			var disabledColor = d3
 				.scaleOrdinal()
 				.domain(["1%", "10%", "50%", "100%"])
-				.range(["#c2e69911", "#78c67910", "#31a35409", "#00683708"])
+				.range(["#00683708", "#31a35409", "#78c67910", "#c2e69911"])
 
 			let color = (
 				percentile: Percentile,
@@ -268,7 +268,7 @@ function ParallelCoords({
 						return
 					}
 
-					if (i == 0) {
+					if (i === 0) {
 						ctx.moveTo(p[0] || 0, p[1])
 						return
 					}

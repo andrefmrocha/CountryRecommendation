@@ -82,8 +82,6 @@ function Selection({
 			.filter((mapping) => mapping.isUsed)
 			.map(({ name, dataset, fields, isUsed, treatData }) => name)
 
-		console.log(parameters)
-
 		switch (selectedCategory) {
 			case "Air Pollution":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
