@@ -1,4 +1,4 @@
-import React, { useState } from "react"
+import React, { useState, useEffect } from "react"
 import * as d3 from "d3"
 import { useD3 } from "./hooks/useD3"
 import {
@@ -16,20 +16,20 @@ type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
 	setSelectedCategory: React.Dispatch<React.SetStateAction<Category>>
 	parallelCoordsRanges: FilterRange[]
-	rangeExists: boolean
 	changeFilterRanges: (newRanges: Array<FilterRange>) => void
+	hoveredCountry: CountryCode | undefined
 }
 
 function ParallelCoords({
 	categoriesFilterState,
 	countriesScores,
 	setSelectedCategory,
-	rangeExists,
 	changeFilterRanges,
 	parallelCoordsRanges,
+	hoveredCountry,
 }: props) {
 	const [selectionExists, setSelectionExists] = useState<boolean>(
-		parallelCoordsRanges.length > 0
+		parallelCoordsRanges.some(({ category, range }) => range.length > 0)
 	)
 
 	const ref = useD3(
@@ -46,7 +46,7 @@ function ParallelCoords({
 			var normalColor = d3
 				.scaleOrdinal()
 				.domain(["1%", "10%", "50%", "100%"])
-				.range(["#c2e699AA", "#78c679AA", "#31a354AA", "#006837AA"])
+				.range(["#c2e699BB", "#78c679BB", "#31a354BB", "#006837BB"])
 
 			var disabledColor = d3
 				.scaleOrdinal()
@@ -56,12 +56,13 @@ function ParallelCoords({
 			let color = (
 				percentile: Percentile,
 				isIncluded: boolean,
-				selectionExists: boolean
+				selectionExists: boolean,
+				isHovered: boolean
 			) => {
-				if ((selectionExists || rangeExists) && isIncluded)
-					return normalColor(percentile)
+				if (isHovered) return "#c51b7d"
+				else if (selectionExists && isIncluded) return normalColor(percentile)
 				else
-					return selectionExists || rangeExists
+					return selectionExists
 						? disabledColor(percentile)
 						: normalColor(percentile)
 			}
@@ -213,6 +214,11 @@ function ParallelCoords({
 				data.forEach((score) => {
 					if (score.isIncluded) draw(score, selectionExists)
 				})
+
+				if (hoveredCountry && data.has(hoveredCountry)) {
+					// @ts-ignore
+					draw(data.get(hoveredCountry), selectionExists)
+				}
 			}
 
 			function project(
@@ -233,7 +239,8 @@ function ParallelCoords({
 				ctx.strokeStyle = color(
 					data.percentile,
 					data.isIncluded,
-					selectionExists
+					selectionExists,
+					data.code === hoveredCountry
 				) as string
 				ctx.beginPath()
 				var coords = project(data)
@@ -337,8 +344,6 @@ function ParallelCoords({
 					})
 				})
 
-				setSelectionExists(actives.length !== 0)
-
 				render(ctx, countriesScores, actives.length !== 0)
 			}
 
@@ -361,8 +366,20 @@ function ParallelCoords({
 				}
 			})
 		},
-		[categoriesFilterState, countriesScores, parallelCoordsRanges]
+		[
+			categoriesFilterState,
+			countriesScores,
+			parallelCoordsRanges,
+			selectionExists,
+			hoveredCountry,
+		]
 	)
+
+	useEffect(() => {
+		setSelectionExists(
+			parallelCoordsRanges.some(({ category, range }) => range.length > 0)
+		)
+	}, [parallelCoordsRanges])
 
 	return (
 		<div className="parallel-panel" ref={ref}>

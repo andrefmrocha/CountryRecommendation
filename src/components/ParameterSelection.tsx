@@ -52,7 +52,7 @@ function ParameterSelection({
 
 	function getParameters() {
 		return parameters?.map((parameter, index) => (
-			<div className="parameter">
+			<div className="parameter" key={index}>
 				<Checkbox
 					checked={parameter.isUsed}
 					disabled={!includeCategory}

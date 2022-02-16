@@ -20,17 +20,20 @@ type props = {
 	countriesScores: Map<CountryCode, CountryScore> | undefined
 	topScoreCountries: Array<CountryScore>
 	selectedCountries: Array<CountryCode>
+	hoveredCountry: CountryCode | undefined
+	setHoveredCountry: React.Dispatch<
+		React.SetStateAction<CountryCode | undefined>
+	>
 }
 
 function WorldMap({
 	countriesScores,
 	topScoreCountries,
 	selectedCountries,
+	hoveredCountry,
+	setHoveredCountry,
 }: props) {
 	const [map, setMap] = useState<LeafletMap>()
-	const [hoveredCountry, setHoveredCountry] = useState<CountryCode | undefined>(
-		undefined
-	)
 	const geoJson = useRef()
 
 	const percentiles = ["1%", "10%", "50%", "100%"]

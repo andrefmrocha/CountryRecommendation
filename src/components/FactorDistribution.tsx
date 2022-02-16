@@ -31,6 +31,7 @@ function FactorDistribution({ categoriesFilterState }: props) {
 						<div
 							className="category-segment"
 							style={{ width: `${percentage}%` }}
+							key={category}
 						>
 							<span>{`${category}: ${percentage.toPrecision(4)}%`}</span>
 						</div>

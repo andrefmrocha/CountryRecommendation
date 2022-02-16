@@ -38,6 +38,9 @@ function App() {
 	const [selectedCountries, setSelectedCountries] = useState<
 		Array<CountryCode>
 	>([])
+	const [hoveredCountry, setHoveredCountry] = useState<
+		CountryCode | undefined
+	>()
 
 	useEffect(() => {
 		let countryArray: Array<any> = []
@@ -182,6 +185,8 @@ function App() {
 				countriesScores={countriesScores}
 				topScoreCountries={topScoreCountries}
 				selectedCountries={selectedCountries}
+				hoveredCountry={hoveredCountry}
+				setHoveredCountry={setHoveredCountry}
 			/>
 			<Selection
 				categoriesFilterState={categoriesFilterState}
@@ -192,8 +197,8 @@ function App() {
 			<Graphs
 				categoriesFilterState={categoriesFilterState}
 				countriesScores={countriesScores}
-				setCategoriesFilterState={setCategoriesFilterState}
 				setSelectedCountries={setSelectedCountries}
+				hoveredCountry={hoveredCountry}
 			/>
 		</div>
 	)

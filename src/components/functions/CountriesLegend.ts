@@ -19,7 +19,6 @@ function CountriesLegend({ map, topScoreCountries, visible }: props) {
 
 	useEffect(() => {
 		if (topScoreCountries && topScoreCountries.length > 0) {
-			console.log(topScoreCountries)
 			updateLegend()
 		}
 	}, [topScoreCountries])

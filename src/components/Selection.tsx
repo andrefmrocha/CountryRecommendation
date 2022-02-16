@@ -68,6 +68,10 @@ function Selection({
 			newCategoriesFilterState[filterIndex] = categoryFilterState
 		}
 
+		newCategoriesFilterState.sort(
+			(a, b) => b.importanceFactor - a.importanceFactor
+		)
+
 		setCategoriesFilterState(newCategoriesFilterState)
 	}, [selectedCategory, importanceFactor])
 
