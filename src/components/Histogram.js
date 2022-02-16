@@ -174,17 +174,19 @@ function Histogram({ countriesScores, category, range, changeFilterRange }) {
 				return x(d.x0)
 			})
 			.attr("y", function (d) {
-				return (
-					yScale(d.length) +
+				return isAllIncluded(data)
+					? yScale(d.length)
+					: (
+						yScale(d.length) +
 						(height - yScale(d.length)) -
 						(height - yScale(d.length)) * getIncludedPercentage(d) || 0
-				)
+					)
 			})
 			.attr("width", x.bandwidth())
 			.attr("height", function (d) {
-				return !isAllIncluded(data)
-					? (height - yScale(d.length)) * getIncludedPercentage(d) || 0
-					: height - yScale(d.length)
+				return isAllIncluded(data)
+					? height - yScale(d.length)
+					: (height - yScale(d.length)) * getIncludedPercentage(d) || 0
 			})
 			.on("click", function (e, d) {
 				return isSelected([d.x0, d.x1])
