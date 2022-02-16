@@ -46,6 +46,12 @@ function Graphs({
 		setParallelCoordsRanges(newRanges)
 	}, [categoriesFilterState])
 
+	useEffect(() => {
+		if(categoriesFilterState && !selectedCategory) {
+			setSelectedCategory(categoriesFilterState[0]?.category)
+		}
+	},[categoriesFilterState])
+
 	const updateSelectedCountries = (range: FilterRange[] | undefined) => {
 		let selectedCountries: Array<CountryCode> = []
 
