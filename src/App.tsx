@@ -152,6 +152,7 @@ function App() {
 	function addFilterState(
 		selectedCategory: Category,
 		importanceFactor: number,
+		parameters: Array<string>,
 		matrix: Map<string, number> | null
 	) {
 		if (!matrix) return
@@ -160,7 +161,7 @@ function App() {
 			category: selectedCategory,
 			importanceFactor: importanceFactor,
 			matrix: matrix,
-			range: [],
+			parameters: parameters,
 		}
 
 		let newCategoriesFilterState = [...categoriesFilterState]

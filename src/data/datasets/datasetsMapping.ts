@@ -1456,6 +1456,7 @@ export type CategoryFilterState = {
 	category: Category
 	importanceFactor: number
 	matrix: Map<string, number> | undefined
+	parameters: Array<string>
 }
 
 export type FilterRange = {

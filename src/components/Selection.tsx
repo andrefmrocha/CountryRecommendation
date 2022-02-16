@@ -17,6 +17,7 @@ type props = {
 	addFilterState: (
 		selectedCategory: Category,
 		importanceFactor: number,
+		parameters: Array<string>,
 		matrix: Map<string, number> | null
 	) => void
 	removeFilterState: (selectedCategory: Category) => void
@@ -59,6 +60,7 @@ function Selection({
 		const categoryFilterState = {
 			category: selectedCategory,
 			importanceFactor: importanceFactor,
+			parameters: newCategoriesFilterState[filterIndex]?.parameters,
 			matrix: newCategoriesFilterState[filterIndex]?.matrix,
 		}
 
@@ -76,70 +78,76 @@ function Selection({
 	}, [selectedCategory, importanceFactor])
 
 	function addCategory(datasetMappingByTheme: ThemeMappingItem[]) {
+		const parameters = datasetMappingByTheme
+			.filter((mapping) => mapping.isUsed)
+			.map(({ name, dataset, fields, isUsed, treatData }) => name)
+
+		console.log(parameters)
+
 		switch (selectedCategory) {
 			case "Air Pollution":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Natural Disasters":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Climate Change":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Food":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Income":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Education":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Democracy":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Gender Rights":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Language":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Safety":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Happiness":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "Health":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 			case "LGBTQI+ Rights":
 				getPCAMatrix(selectedCategory, datasetMappingByTheme).then((matrix) =>
-					addFilterState(selectedCategory, importanceFactor, matrix)
+					addFilterState(selectedCategory, importanceFactor, parameters, matrix)
 				)
 				break
 		}

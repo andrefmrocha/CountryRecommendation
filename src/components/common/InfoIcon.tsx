@@ -1,6 +1,9 @@
 import React from "react"
 import ReactTooltip from "react-tooltip"
-import { ThemeMappingItemField } from "../../data/datasets/datasetsMapping"
+import {
+	ThemeMappingItemField,
+	datasetsMapping,
+} from "../../data/datasets/datasetsMapping"
 
 type props = {
 	parameter: string

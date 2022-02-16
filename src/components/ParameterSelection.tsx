@@ -31,8 +31,23 @@ function ParameterSelection({
 		const params: Array<ThemeMappingItem> =
 			datasetsMappingByTheme[selectedCategory]
 
-		setParameters(params)
-	}, [selectedCategory])
+		const previousParams = categoriesFilterState.find(
+			(state) => state.category === selectedCategory
+		)?.parameters
+
+		console.log(categoriesFilterState)
+
+		setParameters(
+			params.map((param) => {
+				return {
+					...param,
+					isUsed: !!previousParams?.some(
+						(prevParam: string) => prevParam === param.name
+					),
+				}
+			})
+		)
+	}, [selectedCategory, categoriesFilterState])
 
 	function onClick() {
 		if (
