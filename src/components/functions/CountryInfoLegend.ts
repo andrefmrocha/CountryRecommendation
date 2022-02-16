@@ -67,11 +67,16 @@ function CountryInfoLegend({
 			wrapper.style.color = "#F7F7F7"
 			wrapper.style.padding = "1.1em 1.5em"
 			wrapper.style.borderRadius = "5px"
-			wrapper.style.minWidth = "10.5em"
+			wrapper.style.width = "10.5em"
 
 			let title = document.createElement("div")
 			title.innerHTML = countryName ? countryName : ""
 			title.id = "title-country-info"
+            title.style.textAlign = "center"
+            title.style.marginBottom = "1em"
+
+            wrapper.append(title);
+
 
 			let header = document.createElement("div")
 			header.style.display = "flex"
@@ -148,6 +153,10 @@ function CountryInfoLegend({
 				categoriesContainer.append(wrapper)
 			}
 		}
+
+        if(title) {
+            title.innerHTML = countryName ? countryName : ""
+        }
 		// loop through our density intervals and generate a label with a colored square for each interval
 		for (let i = 0; i < entries.length; i++) {
 			let row = document.createElement("div")

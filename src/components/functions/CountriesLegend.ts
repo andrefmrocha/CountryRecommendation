@@ -55,7 +55,7 @@ function CountriesLegend({ map, topScoreCountries, visible }: props) {
 			wrapper.style.color = "#F7F7F7"
 			wrapper.style.padding = "1.1em 1.5em"
 			wrapper.style.borderRadius = "5px"
-			wrapper.style.minWidth = "10.5em"
+			wrapper.style.width = "10.5em"
 
 			let header = document.createElement("div")
 			header.style.display = "flex"
