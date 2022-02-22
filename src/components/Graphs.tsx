@@ -47,7 +47,10 @@ function Graphs({
 	}, [categoriesFilterState, hoveredCountry])
 
 	useEffect(() => {
-		if (categoriesFilterState && !selectedCategory) {
+		if (
+			categoriesFilterState &&
+			!categoriesFilterState.some((v) => v.category === selectedCategory)
+		) {
 			setSelectedCategory(categoriesFilterState[0]?.category)
 		}
 	}, [categoriesFilterState])

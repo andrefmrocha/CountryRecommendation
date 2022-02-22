@@ -95,20 +95,25 @@ function ParameterSelection({
 	}
 
 	function getButton() {
-		return (
+		return includeCategory ? (
 			<button
 				onClick={onClick}
 				disabled={
-					(!includeCategory &&
-						!!categoriesFilterState.find(
-							(state) => state.category === selectedCategory
-						)) ||
-					(includeCategory &&
-						parameters &&
-						!parameters.some((parameter) => parameter.isUsed))
+					parameters && !parameters.some((parameter) => parameter.isUsed)
 				}
 			>
-				{includeCategory ? "Calculate" : "Remove"}
+				Calculate
+			</button>
+		) : (
+			<button
+				onClick={onClick}
+				disabled={
+					!categoriesFilterState.some(
+						(state) => state.category === selectedCategory
+					)
+				}
+			>
+				Remove
 			</button>
 		)
 	}
